@@ -3,6 +3,6 @@
   "authors": [
     { "name": "Peter Hall", "orcid": "0000-0001-6015-7841" },
     { "name": "Elizabeth Lemmon", "orcid": "0000-0002-3564-6106" },
-    { "name": "Azadeh Abravan", "orcid": "0000-0003-4839-6705" }
+    { "name": "Azadeh Abravan", "orcid": "0000-0003-4839-6705", "since_year": 2026 }
   ]
 }
