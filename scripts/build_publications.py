@@ -14,8 +14,10 @@ Environment variables (set as GitHub Actions secrets / env):
   OPENALEX_MAILTO      your email, for the OpenAlex polite pool
 """
 
+import difflib
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
@@ -31,12 +33,16 @@ ZOTERO_BASE = "https://api.zotero.org"
 OPENALEX_BASE = "https://api.openalex.org"
 USER_AGENT = "eci-publications-builder/1.0 (mailto:%s)" % (OPENALEX_MAILTO or "unknown")
 
+# Title-match fallback tuning (used only for items with no DOI in Zotero).
+TITLE_MATCH_THRESHOLD = 0.92   # min normalised-title similarity to accept
+TITLE_YEAR_TOLERANCE = 1       # allowed year gap when the Zotero item has a year
+
 
 def get_json(url, headers=None):
     req = urllib.request.Request(url, headers=headers or {})
     req.add_header("User-Agent", USER_AGENT)
     with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.loads(resp.read().decode("utf-8")), dict(resp.headers)
+        return json.loads(resp.read().decode("utf-8")), resp.headers
 
 
 def fetch_zotero_collection_items():
@@ -53,7 +59,7 @@ def fetch_zotero_collection_items():
         url = (
             f"{ZOTERO_BASE}/groups/{ZOTERO_GROUP_ID}"
             f"/collections/{ZOTERO_COLLECTION_ID}/items/top"
-            f"?format=json&limit={limit}&start={start}&itemType=-attachment||note"
+            f"?format=json&limit={limit}&start={start}"
         )
         batch, resp_headers = get_json(url, headers)
         if library_version is None:
@@ -138,9 +144,78 @@ def enrich_from_openalex(dois):
     return out
 
 
+def normalise_title(s):
+    s = (s or "").lower()
+    s = re.sub(r"[^a-z0-9]+", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def openalex_doi_by_title(title, year):
+    """Return (doi, score) only when one OpenAlex result confidently matches.
+
+    Confident means: best normalised-title similarity >= threshold, the year
+    agrees within tolerance (when known), and no second result with a different
+    DOI also clears the threshold (avoids the preprint/published ambiguity).
+    """
+    if not title:
+        return None, None
+    mailto = ("&mailto=" + urllib.parse.quote(OPENALEX_MAILTO)) if OPENALEX_MAILTO else ""
+    q = urllib.parse.quote(title)
+    url = (f"{OPENALEX_BASE}/works?filter=title.search:{q}"
+           f"&select=doi,display_name,publication_year&per-page=5{mailto}")
+    try:
+        data, _ = get_json(url)
+    except Exception:
+        return None, None
+
+    target = normalise_title(title)
+    scored = []
+    for w in data.get("results", []):
+        doi = normalise_doi(w.get("doi"))
+        if not doi:
+            continue
+        score = difflib.SequenceMatcher(None, target, normalise_title(w.get("display_name"))).ratio()
+        scored.append((score, doi, w.get("publication_year")))
+    if not scored:
+        return None, None
+
+    scored.sort(reverse=True)
+    best_score, best_doi, best_year = scored[0]
+    if best_score < TITLE_MATCH_THRESHOLD:
+        return None, None
+    if year and best_year and abs(int(year) - int(best_year)) > TITLE_YEAR_TOLERANCE:
+        return None, None
+    for s, d, _ in scored[1:]:
+        if s >= TITLE_MATCH_THRESHOLD and d != best_doi:
+            return None, None  # ambiguous
+    return best_doi, round(best_score, 3)
+
+
+def backfill_missing_dois(records):
+    """For records with no DOI, try a confident OpenAlex title match. Mutates in place."""
+    backfilled = 0
+    for r in records:
+        if r["doi"]:
+            r["doi_source"] = "zotero"
+            continue
+        doi, score = openalex_doi_by_title(r["title"], r["year"])
+        time.sleep(0.2)
+        if doi:
+            r["doi"] = doi
+            r["doi_source"] = "openalex-title-match"
+            r["title_match_score"] = score
+            backfilled += 1
+        else:
+            r["doi_source"] = None
+    return backfilled
+
+
 def build():
     items, library_version = fetch_zotero_collection_items()
     records = [extract_from_zotero(i) for i in items]
+    records = [r for r in records if r["item_type"] not in ("note", "attachment")]
+
+    backfilled = backfill_missing_dois(records)
 
     dois = [r["doi"] for r in records if r["doi"]]
     enrichment = enrich_from_openalex(dois) if dois else {}
@@ -169,6 +244,7 @@ def build():
             "zotero_library_version": library_version,
         },
         "count": len(records),
+        "doi_backfilled": backfilled,
         "publications": records,
     }
     return payload
@@ -179,5 +255,7 @@ if __name__ == "__main__":
     payload = build()
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
-    print(f"Wrote {out_path}: {payload['count']} publications "
+    enriched = sum(1 for p in payload["publications"] if p.get("enriched"))
+    print(f"Wrote {out_path}: {payload['count']} publications, "
+          f"{enriched} enriched, {payload['doi_backfilled']} DOIs backfilled by title "
           f"(library version {payload['source']['zotero_library_version']})")
