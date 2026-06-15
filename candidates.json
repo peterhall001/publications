@@ -1,13 +1,96 @@
 {
-  "generated_at": "2026-06-15T22:18:42+00:00",
+  "generated_at": "2026-06-15T22:27:28+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
     "Elizabeth Lemmon": 2015,
-    "Azadeh Abravan": 2015
+    "Azadeh Abravan": 2026
   },
-  "count": 250,
+  "count": 183,
   "candidates": [
+    {
+      "doi": "10.1016/j.radonc.2026.111408",
+      "title": "Environmental determinants of cancer outcomes: a scoping review",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "cited_by_count": 1,
+      "authors": [
+        "Azadeh Abravan",
+        "Isabella Fornacon-Wood",
+        "Richard Kingston",
+        "David Topping",
+        "Gareth Price"
+      ],
+      "matched_authors": [
+        "Azadeh Abravan"
+      ]
+    },
+    {
+      "doi": "10.1038/s41416-026-03412-2",
+      "title": "Modelled impact of a multi-cancer early detection screening programme on cancer treatment in England",
+      "year": 2026,
+      "venue": "British Journal of Cancer",
+      "cited_by_count": 0,
+      "authors": [
+        "Libby Ellis",
+        "Charlotte Eversfield",
+        "Ewan Gray",
+        "Peter Hall",
+        "Sara Hiom",
+        "David A. Jones",
+        "Lennard YW Lee",
+        "Sean McPhail",
+        "Katie Spencer",
+        "Christopher Halloran"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ]
+    },
+    {
+      "doi": "10.2196/preprints.100505",
+      "title": "Cost-Effectiveness of Electronic Patient-Reported Outcome Measure Interventions in Cancer: A Systematic Review and Parameter Extraction for Economic Modelling (Preprint)",
+      "year": 2026,
+      "venue": "",
+      "cited_by_count": 0,
+      "authors": [
+        "Marek Atter",
+        "Alistair Bullen",
+        "Kathrin Cresswell",
+        "Peter S Hall"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ]
+    },
+    {
+      "doi": "10.5167/uzh-433879",
+      "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy",
+      "year": 2026,
+      "venue": "Universität Zürich, ZORA",
+      "cited_by_count": 0,
+      "authors": [
+        "Antonio Angrisani",
+        "Youlia Kirova",
+        "Azadeh Abravan",
+        "Carlotta Becherini",
+        "Sergi Benavente",
+        "Luís Castelo-Branco",
+        "Anthony J Chalmers",
+        "Sebastian M. Christ",
+        "Eric Deutsch",
+        "Andrea Riccardo Filippi",
+        "Lizza E L Hendriks",
+        "Zita Zolcsók",
+        "Tim Illidge",
+        "Andreas Rimner",
+        "Fernanda Herrera",
+        "Dirk De Ruysscher"
+      ],
+      "matched_authors": [
+        "Azadeh Abravan"
+      ]
+    },
     {
       "doi": "10.1016/s0140-6736(24)02715-6",
       "title": "Annual versus less frequent mammographic surveillance in people with breast cancer aged 50 years and older in the UK (Mammo-50): a multicentre, randomised, phase 3, non-inferiority trial",
@@ -361,19 +444,6 @@
       ]
     },
     {
-      "doi": "10.1017/mag.2025.38",
-      "title": "If I could tell you another thing",
-      "year": 2025,
-      "venue": "The Mathematical Gazette",
-      "cited_by_count": 0,
-      "authors": [
-        "Peter Hall"
-      ],
-      "matched_authors": [
-        "Peter Hall"
-      ]
-    },
-    {
       "doi": "10.1158/1538-7445.am2025-5965",
       "title": "Abstract 5965: Brain tumor diagnostic interval and tumor size at detection: Impact on survival, recurrence, inpatient length of stay and neurological deficit",
       "year": 2025,
@@ -525,34 +595,6 @@
       ]
     },
     {
-      "doi": "10.1183/13993003.congress-2025.rct2289",
-      "title": "RCT Abstract - Morphine for chronic breathlessness (MABEL): a multi-site, parallel group, dose titration, double-blind, randomised, placebo-controlled trial.",
-      "year": 2025,
-      "venue": "",
-      "cited_by_count": 0,
-      "authors": [
-        "Miriam J. Johnson",
-        "Bronwen Williams",
-        "Catriona Keerie",
-        "Sharon Tuck",
-        "Simon P. Hart",
-        "Sabrina Bajwah",
-        "Nazia Chaudhuri",
-        "Mark Pearson",
-        "Judith Cohen",
-        "Rachael A Evans",
-        "David C. Currow",
-        "Irene J Higginson",
-        "Peter Hall",
-        "Marek Atter",
-        "John Norrie",
-        "Marie Fallon"
-      ],
-      "matched_authors": [
-        "Peter Hall"
-      ]
-    },
-    {
       "doi": "10.1016/j.jval.2025.09.1962",
       "title": "HTA177 Healthstate Utilities for Hormone Receptor-Positive (HR+) Human Epidermal Growth Factor-Receptor 2 Negative (HER2-) Breast Cancer",
       "year": 2025,
@@ -570,155 +612,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(25)00956-9",
-      "title": "2289 Impact of Assumptions in Causal Inference: Estimating the Effect of Mean Dose to the Medulla Oblongata on Dysphagia After Head and Neck Radiotherapy",
-      "year": 2025,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Eliana Vásquez Osorio",
-        "Laia Humbert‐Vidan",
-        "Azadeh Abravan",
-        "Carly E. A. Barbon",
-        "Deborah Ganderton",
-        "Katherine A. Hutcheson",
-        "Stephen Y. Lai",
-        "Lip W. Lee",
-        "Alan McWilliam",
-        "Amy C. Moreno",
-        "Gareth J. Price",
-        "James Price",
-        "Michael K. Rooney",
-        "Marcel van Herk",
-        "Clifton D. Fuller",
-        "Matthew Sperrin"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(25)01750-5",
-      "title": "3486 The importance of dose spill in lung SABR – a simulation study",
-      "year": 2025,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Marcel van Herk",
-        "Azadeh Abravan",
-        "Matthew Craddock",
-        "Esther G.C. Troost",
-        "Corinne Faivre‐Finn",
-        "Ursula Nestle"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(25)03159-7",
-      "title": "4128 Association between body composition and survival in gynecological cancer patients undergoing radiotherapy",
-      "year": 2025,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Artemis Bouzaki",
-        "Alan McWilliam",
-        "Donal McSweeny",
-        "Claire Higham",
-        "Peter Hoskin",
-        "Azadeh Abravan"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(25)00390-1",
-      "title": "1321 NLR does not remain prognostic in sarcopenic lung and oesophageal cancer patients",
-      "year": 2025,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Kathryn Banfill",
-        "Ganesh Radhakrishna",
-        "Donal McSweeney"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(25)00570-5",
-      "title": "1630 Radiotherapy dose to non-emphysematous lung outperforms whole lung volume in predicting survival in non-small cell lung cancer patients",
-      "year": 2025,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Fatemah-Alzahraa Gomaa",
-        "Tereza Růžičková",
-        "Corinne Faivre‐Finn",
-        "Ahmed Salem"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.2340/1651-226x.2025.43977",
-      "title": "External validation of deep learning-derived 18F-FDG PET/CT delta biomarkers for loco-regional control in head and neck cancer",
-      "year": 2025,
-      "venue": "Acta Oncologica",
-      "cited_by_count": 0,
-      "authors": [
-        "David Gergely Kovacs Petersen",
-        "Marianne Aznar",
-        "Marcel van Herk",
-        "Iskandar Mohamed",
-        "James Price",
-        "Claes Nøhr Ladefoged",
-        "Barbara Malene Fischer",
-        "Flemming Littrup Andersen",
-        "Andrew McPartlin",
-        "Eliana Vásquez Osorio",
-        "Azadeh Abravan"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.annonc.2025.08.1649",
-      "title": "3178eP How precise radiotherapy can enhance novel drug efficacy through innovative combinations: A perspective from ESTRO focus group",
-      "year": 2025,
-      "venue": "Annals of Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "A. Angrisani",
-        "Youlia Kirova",
-        "Azadeh Abravan",
-        "Carlotta Becherini",
-        "S. Benavente",
-        "Luís Castelo-Branco",
-        "Anthony J. Chalmers",
-        "S.M. Christ",
-        "Éric Deutsch",
-        "Andrea Riccardo Filippi",
-        "L. Hendriks",
-        "Zita Zolcsák",
-        "Tim Illidge",
-        "Andreas Rimner",
-        "Fernanda Herrera",
-        "Dirk De Ruysscher"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -895,51 +788,6 @@
       ]
     },
     {
-      "doi": "10.1038/s41416-024-02838-w",
-      "title": "Comorbidity in patients with cancer treated at The Christie",
-      "year": 2024,
-      "venue": "British Journal of Cancer",
-      "cited_by_count": 10,
-      "authors": [
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Fábio Gomes",
-        "Marcel van Herk",
-        "Gareth Price"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.radonc.2024.110226",
-      "title": "Professional development through mentoring: Final evaluation of the pilot mentoring programme of the European society of radiotherapy and oncology",
-      "year": 2024,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 8,
-      "authors": [
-        "Steven Petit",
-        "Daniel Portik",
-        "Azadeh Abravan",
-        "Jenny Bertholet",
-        "Dylan Callens",
-        "Ludwig Dubois",
-        "Pierfrancesco Franco",
-        "Morten Horsholt Kristensen",
-        "Pierre Montay‐Gruel",
-        "Daan Nevens",
-        "Sophie Perryck",
-        "Kathrine Røe Redalen",
-        "Bartłomiej Tomasik",
-        "Amanda Webster",
-        "Jesper Grau Eriksen",
-        "Jolien Heukelom"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1136/spcare-2024-004869",
       "title": "Early prehabilitation reduces admissions and time in hospital in patients with newly diagnosed lung cancer",
       "year": 2024,
@@ -1033,27 +881,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/j.jtocrr.2024.100742",
-      "title": "Brief Report of a New Anatomical Region at Risk in Thoracic Radiotherapy: From Discovery to Implementation",
-      "year": 2024,
-      "venue": "JTO Clinical and Research Reports",
-      "cited_by_count": 4,
-      "authors": [
-        "Kathryn Banfill",
-        "Tom Marchant",
-        "Alan McWilliam",
-        "Joseph Wood",
-        "Matthias Schmitt",
-        "Azadeh Abravan",
-        "Gareth J. Price",
-        "Marcel van Herk",
-        "Corinne Faivre‐Finn"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -1212,31 +1039,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(24)01233-7",
-      "title": "675: Young radiation oncology professionals’ perspective on job satisfaction, recruitment and retention",
-      "year": 2024,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 1,
-      "authors": [
-        "Dylan Callens",
-        "Amanda Webster",
-        "Azadeh Abravan",
-        "Jenny Bertholet",
-        "Andrea Collavini",
-        "Morten Horsholt Kristensen",
-        "Pierre Montay‐Gruel",
-        "Daan Nevens",
-        "Sophie Perryck",
-        "Steven Petit",
-        "Daniel Portik",
-        "Bartłomiej Tomasik",
-        "Jolien Heukelom"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -1429,110 +1231,6 @@
       ]
     },
     {
-      "doi": "10.58530/2023/0583",
-      "title": "MRI detects macro- and microstructural changes to normal brain tissue following hemi-brain radiotherapy",
-      "year": 2024,
-      "venue": "Proceedings on CD-ROM - International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition/Proceedings of the International Society for Magnetic Resonance in Medicine, Scientific Meeting and Exhibition",
-      "cited_by_count": 0,
-      "authors": [
-        "Ben Dickie",
-        "Duncan Forster",
-        "Abigail Bryce-Atkinson",
-        "Izabelle Lövgren",
-        "Azadeh Abravan",
-        "Marcel van Herk",
-        "Kaye J. Williams"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(24)01358-6",
-      "title": "833: Does NSCLC tumour volume impact the survival of curative-intent treatment? A real-word data analysis",
-      "year": 2024,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Oluwasikemi Onamusi",
-        "Azadeh Abravan",
-        "Eliana Vásquez Osorio",
-        "Hitesh Mistry",
-        "Gareth J. Price",
-        "Marcel van Herk",
-        "Corinne Faivre‐Finn"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(24)01061-2",
-      "title": "442: Is comorbidity associated with interruption of Radiotherapy treatment in patients with HNSCC cancer?",
-      "year": 2024,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Eliana Vásquez Osorio",
-        "James O. Price",
-        "Marcel van Herk",
-        "Hitesh Mistry",
-        "Gareth Price"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(24)02765-8",
-      "title": "2587: The association between cancer stage, comorbidity, and socioeconomic status in a pan-cancer cohort",
-      "year": 2024,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Marcel van Herk",
-        "Corinne Faivre‐Finn",
-        "Gareth J. Price"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(24)02094-2",
-      "title": "1756: Novel causal inference (natural experiment) method for estimating dose-effect from complex outcomes",
-      "year": 2024,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Marcel van Herk",
-        "Azadeh Abravan",
-        "Alan McWilliam",
-        "Eliana Vásquez Osorio"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(24)02913-x",
-      "title": "2763: Socioeconomic disparities in lung cancer: The impact of symptom-to-diagnosis time",
-      "year": 2024,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk",
-        "Gareth J. Price"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1016/j.annonc.2023.10.001",
       "title": "ESMO Guidance for Reporting Oncology real-World evidence (GROW)",
       "year": 2023,
@@ -1609,42 +1307,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.jtho.2023.01.085",
-      "title": "Demystifying the Results of RTOG 0617: Identification of Dose Sensitive Cardiac Subregions Associated With Overall Survival",
-      "year": 2023,
-      "venue": "Journal of Thoracic Oncology",
-      "cited_by_count": 68,
-      "authors": [
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Kathryn Banfill",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2023.06.004",
-      "title": "Dysphagia at 1 Year is Associated With Mean Dose to the Inferior Section of the Brain Stem",
-      "year": 2023,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "cited_by_count": 26,
-      "authors": [
-        "Eliana Vásquez Osorio",
-        "Azadeh Abravan",
-        "Andrew Green",
-        "Marcel van Herk",
-        "Lip Wai Lee",
-        "Deborah Ganderton",
-        "Andrew McPartlin"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1016/j.esmorw.2023.10.001",
       "title": "ESMO Guidance for Reporting Oncology real-World evidence (GROW)",
       "year": 2023,
@@ -1677,26 +1339,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.3389/fonc.2023.1278723",
-      "title": "Severe radiation-induced lymphopenia during concurrent chemoradiotherapy for stage III non-small cell lung cancer: external validation of two prediction models",
-      "year": 2023,
-      "venue": "Frontiers in Oncology",
-      "cited_by_count": 12,
-      "authors": [
-        "Peter S.N. van Rossum",
-        "Celia Juan‐Cruz",
-        "Barbara Stam",
-        "Maddalena Rossi",
-        "Steven H. Lin",
-        "Azadeh Abravan",
-        "J. Belderbos",
-        "Jan‐Jakob Sonke"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -1784,31 +1426,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2023.02.009",
-      "title": "Qualitative Study on Diversity, Equity, and Inclusion Within Radiation Oncology in Europe",
-      "year": 2023,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "cited_by_count": 9,
-      "authors": [
-        "Azadeh Abravan",
-        "Dora Correia",
-        "Anne Gasnier",
-        "Stella Shakhverdian",
-        "Tirza van der Stok",
-        "Jenny Bertholet",
-        "Ludwig J. Dubois",
-        "Barbara Alicja Jereczek‐Fossa",
-        "Matteo Pepa",
-        "Mateusz Spałek",
-        "Steven Petit",
-        "Pierfrancesco Franco",
-        "Violet Petit‐Steeghs"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -2140,178 +1757,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0169-5002(23)00564-0",
-      "title": "Using heart contour volume variability as natural experiment to test the effect heart sparing",
-      "year": 2023,
-      "venue": "Lung Cancer",
-      "cited_by_count": 0,
-      "authors": [
-        "Marcel van Herk",
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Alan McWilliam"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(23)66591-0",
-      "title": "PO-1676 Optimising heart substructure visibility in 4D planning CT by compensating respiratory motion",
-      "year": 2023,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Marcel van Herk",
-        "Tom Marchant",
-        "E HENDERSON",
-        "D. McSweeney",
-        "Azadeh Abravan",
-        "Eliana Vásquez Osorio",
-        "Alan McWilliam",
-        "Corinne Faivre‐Finn",
-        "Gareth Price"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(23)08554-7",
-      "title": "OC-0259 Diversity, equity, and inclusion within radiation oncology in Europe: a qualitative study",
-      "year": 2023,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Dora Correia",
-        "Anne Gasnier",
-        "Stella Shakhverdian",
-        "T. van der Stok",
-        "Jenny Bertholet",
-        "Lena Dubois",
-        "Barbara Alicja Jereczek‐Fossa",
-        "Matteo Pepa",
-        "Mateusz Spałek",
-        "Steven Petit",
-        "P. Franco",
-        "Violet Petit‐Steeghs"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(23)08396-2",
-      "title": "MO-0474 Is comorbidity associated with interruption of RT treatment in patients with lung cancer?",
-      "year": 2023,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Golnoosh Motamedi-Ghahfarokhi",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk",
-        "Hitesh Mistry",
-        "Gareth Price",
-        "Azadeh Abravan"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(23)08622-x",
-      "title": "OC-0450 Dose-effect relationship for the medulla and dysphagia studied with causal inference methods",
-      "year": 2023,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Eliana Vásquez Osorio",
-        "D. Ganderton",
-        "Azadeh Abravan",
-        "Gareth Price",
-        "James Price",
-        "L.W. Lee",
-        "Alan McWilliam",
-        "Matthew Sperrin",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(23)08393-7",
-      "title": "MO-0471 Post-radiotherapy G3+ esophageal toxicity predictors: Pooled data from 2,131 lung cancer patients",
-      "year": 2023,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Hitesh Mistry",
-        "Alan McWilliam",
-        "Corinne Faivre‐Finn",
-        "A. Vega",
-        "José Luis López Guerra",
-        "Dirk De Ruysscher",
-        "Catharine West",
-        "Ahmed Salem"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(23)08422-0",
-      "title": "MO-0638 Frequency of cardiac hospitalization early after lung cancer RT relates to cardiac substructure dose",
-      "year": 2023,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Gareth Price",
-        "Alan McWilliam",
-        "Corinne Faivre‐Finn",
-        "M. van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2023.06.1718",
-      "title": "Evaluation of Observer Variation as Natural Experiment to Detect Sensitive Heart Subregions",
-      "year": 2023,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "cited_by_count": 0,
-      "authors": [
-        "Marcel van Herk",
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Alan McWilliam"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.jtho.2023.09.1064",
-      "title": "EP08.01-03 Lymphocyte Count Pre-immunotherapy Predicts Progression-Free Survival in Stage III NSCLC Treated with Chemoradiotherapy and Immunotherapy",
-      "year": 2023,
-      "venue": "Journal of Thoracic Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "A. Horne",
-        "Marcel van Herk",
-        "Gareth Price",
-        "Corinne Faivre‐Finn"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1016/j.annonc.2022.11.005",
       "title": "Results of the c-TRAK TN trial: a clinical trial utilising ctDNA mutation tracking to detect molecular residual disease and trigger intervention in patients with moderate- and high-risk early-stage triple-negative breast cancer",
       "year": 2022,
@@ -2483,25 +1928,6 @@
       ]
     },
     {
-      "doi": "10.3389/fonc.2022.1007577",
-      "title": "Heart dose and cardiac comorbidities influence death with a cardiac cause following hypofractionated radiotherapy for lung cancer",
-      "year": 2022,
-      "venue": "Frontiers in Oncology",
-      "cited_by_count": 16,
-      "authors": [
-        "Kathryn Banfill",
-        "Azadeh Abravan",
-        "Marcel van Herk",
-        "Fei Sun",
-        "K. Franks",
-        "Alan McWilliam",
-        "Corinne Faivre‐Finn"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1158/1538-7445.sabcs21-gs3-06",
       "title": "Abstract GS3-06: Primary results of the cTRAK TN trial: A clinical trial utilising ctDNA mutation tracking to detect minimal residual disease and trigger intervention in patients with moderate and high risk early stage triple negative breast cancer",
       "year": 2022,
@@ -2656,23 +2082,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(22)02577-4",
-      "title": "OC-0441 Risk of cardiac death increases with dose to cardiac sub structure avoidance region in lung cancer",
-      "year": 2022,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 1,
-      "authors": [
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Kathryn Banfill",
-        "Alan McWilliam",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -2894,24 +2303,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.clon.2022.08.009",
-      "title": "Radiation-induced lymphopenia with proton beam therapy (PBT)",
-      "year": 2022,
-      "venue": "Clinical Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Srijith Sashidharan",
-        "Azadeh Abravan",
-        "Peter Sitch",
-        "Cy Howells",
-        "Edward R. Smith",
-        "Shermaine Pan"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1200/jco.2021.39.15_suppl.526",
       "title": "Trastuzumab deruxtecan (T-DXd) in patients with HER2+ metastatic breast cancer with brain metastases: A subgroup analysis of the DESTINY-Breast01 trial.",
       "year": 2021,
@@ -2940,51 +2331,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/j.clon.2021.05.002",
-      "title": "A Predictive Model for Reactive Tube Feeding in Head and Neck Cancer Patients Undergoing Definitive (Chemo) Radiotherapy",
-      "year": 2021,
-      "venue": "Clinical Oncology",
-      "cited_by_count": 18,
-      "authors": [
-        "Simona Gaito",
-        "Anna France",
-        "Philip Foden",
-        "Azadeh Abravan",
-        "N.G. Burnet",
-        "Kate Garcez",
-        "V.R. Kota",
-        "L W Lee",
-        "James Price",
-        "Andrew Sykes",
-        "David Thomson",
-        "Edward Smith",
-        "Eliana Vásquez Osorio",
-        "Andrew McPartlin"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.clon.2021.03.009",
-      "title": "Skin Toxicity Profile of Photon Radiotherapy versus Proton Beam Therapy in Paediatric and Young Adult Patients with Sarcomas",
-      "year": 2021,
-      "venue": "Clinical Oncology",
-      "cited_by_count": 17,
-      "authors": [
-        "Simona Gaito",
-        "Azadeh Abravan",
-        "Jenna Richardson",
-        "Matthew Lowe",
-        "Daniel J. Indelicato",
-        "N.G. Burnet",
-        "Ed Smith"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -3161,58 +2507,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)06806-7",
-      "title": "OC-0191 Cardiac death relates to cardiac admission and left anterior descending artery RTdose in lung cancer",
-      "year": 2021,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 1,
-      "authors": [
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Jonathan Khalifa",
-        "Kathryn Banfill",
-        "Alan McWilliam",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2021.07.285",
-      "title": "Demystifying Cardiac Dose in RTOG-0617",
-      "year": 2021,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "cited_by_count": 1,
-      "authors": [
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Kathryn Banfill",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2021.07.1200",
-      "title": "Anatomical Association of Dose Distribution With Radiotherapy-Related Lymphopenia in Oropharynx Cancer",
-      "year": 2021,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "cited_by_count": 1,
-      "authors": [
-        "Azadeh Abravan",
-        "Eliana Vásquez Osorio",
-        "Andrew Green",
-        "Andrew McPartlin",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -3398,101 +2692,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0167-8140(21)07605-2",
-      "title": "PO-1154 Respiratory admissions following RT in relation to pulmonary function and lung doses in lung cancer",
-      "year": 2021,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Fu-Rong Sun",
-        "Azadeh Abravan",
-        "Alan McWilliam",
-        "Kathryn Banfill",
-        "J. Lilley",
-        "B. Wheller",
-        "F. Corinne",
-        "K. Franks"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)07290-x",
-      "title": "PH-0275 Estimating the casual effect of reducing dose to cardiac structures in lung cancer radiotherapy",
-      "year": 2021,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Kathryn Banfill",
-        "Gillian Price",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)07172-3",
-      "title": "PD-0893 Probabilistic lung tumour target definition from 4DCT data: A motion model based approach",
-      "year": 2021,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Björn Eiben",
-        "E. Chandy",
-        "Azadeh Abravan",
-        "V. Rompokos",
-        "H. Grimes",
-        "D. D’Souza",
-        "Andrew Poynter",
-        "Marcel van Herk",
-        "Jamie R. McClelland"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.jtho.2020.06.008",
-      "title": "Radiotherapy-Related Lymphopenia Affects Overall Survival in Patients With Lung Cancer",
-      "year": 2020,
-      "venue": "Journal of Thoracic Oncology",
-      "cited_by_count": 176,
-      "authors": [
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Jason Kennedy",
-        "Alan McWilliam",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2020.06.031",
-      "title": "Novel Methodology to Investigate the Effect of Radiation Dose to Heart Substructures on Overall Survival",
-      "year": 2020,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "cited_by_count": 102,
-      "authors": [
-        "Alan McWilliam",
-        "Jonathan Khalifa",
-        "Eliana Vásquez Osorio",
-        "Kathryn Banfill",
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1183/13993003.00118-2020",
       "title": "SABRTooth: a randomised controlled feasibility study of stereotactic ablative radiotherapy (SABR) with surgery in patients with peripheral stage I nonsmall cell lung cancer considered to be at higher risk of complications from surgical resection",
       "year": 2020,
@@ -3526,29 +2725,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/j.lungcan.2020.05.004",
-      "title": "Cardiovascular mortality and morbidity following radical radiotherapy for lung cancer: Is cardiovascular death under-reported?",
-      "year": 2020,
-      "venue": "Lung Cancer",
-      "cited_by_count": 30,
-      "authors": [
-        "Fei Sun",
-        "K. Franks",
-        "Louise Murray",
-        "J. Lilley",
-        "B. Wheller",
-        "Kathryn Banfill",
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Marcel van Herk",
-        "Corinne Faivre‐Finn",
-        "Richard M. Cubbon"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -3595,40 +2771,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.phro.2020.07.002",
-      "title": "Dose surface maps of the heart can identify regions associated with worse survival for lung cancer patients treated with radiotherapy",
-      "year": 2020,
-      "venue": "Physics and Imaging in Radiation Oncology",
-      "cited_by_count": 25,
-      "authors": [
-        "Alan McWilliam",
-        "Chloe Dootson",
-        "Lewis E. Graham",
-        "Kathryn Banfill",
-        "Azadeh Abravan",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ctro.2020.02.005",
-      "title": "Radiotherapy-related lymphopenia in patients with advanced non-small cell lung cancer receiving palliative radiotherapy",
-      "year": 2020,
-      "venue": "Clinical and Translational Radiation Oncology",
-      "cited_by_count": 21,
-      "authors": [
-        "Azadeh Abravan",
-        "H. Eide",
-        "Åslaug Helland",
-        "Eirik Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1200/jco.2020.38.15_suppl.12003",
       "title": "ACUFOCIN: Randomized clinical trial of ACUpuncture plus standard care versus standard care alone FOr Chemotherapy Induced peripheral Neuropathy (CIPN).",
       "year": 2020,
@@ -3657,24 +2799,6 @@
       ],
       "matched_authors": [
         "Elizabeth Lemmon"
-      ]
-    },
-    {
-      "doi": "10.1016/j.ejmp.2020.09.010",
-      "title": "Predictive value of vascular calcification identified in 4D planning CT of lung cancer patients treated with stereotactic body radiation therapy",
-      "year": 2020,
-      "venue": "Physica Medica",
-      "cited_by_count": 5,
-      "authors": [
-        "Azadeh Abravan",
-        "Marcel van Herk",
-        "Frank Brewster",
-        "Corinne Faivre‐Finn",
-        "Alan McWilliam",
-        "Eliana Vásquez Osorio"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -3721,23 +2845,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)00250-4",
-      "title": "OC-0226: Pre-existing cardiac disease and cardiopulmonary RT dose associate with cardiac death in lung cancer",
-      "year": 2020,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 1,
-      "authors": [
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "K. Banfill",
-        "A. McWilliam",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -3858,82 +2965,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)00224-3",
-      "title": "OC-0200: Heart dose constraints do not predict for cardiac death in radiotherapy for lung cancer",
-      "year": 2020,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Kathryn Banfill",
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Fangdi Sun",
-        "K. Franks",
-        "Marcel van Herk",
-        "Corinne Faivre‐Finn"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)01008-2",
-      "title": "PO-0991: Impact of residual setup errors after image guidance on heart dose in NSCLC patients",
-      "year": 2020,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Corinne Johnson‐Hart",
-        "G. Sylvester Price",
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)00221-8",
-      "title": "OC-0197: Dose surface maps of the heart identify dose sensitive regions",
-      "year": 2020,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Alan McWilliam",
-        "Lancelot Graham",
-        "Chloe Dootson",
-        "Azadeh Abravan",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(21)00305-4",
-      "title": "PH-0281: Outcomes of re-irradiation &amp; repeat radiotherapy in NSCLC: A propensity matched analysis",
-      "year": 2020,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "L. Sandhu",
-        "Alan McWilliam",
-        "Hitesh Mistry",
-        "David Woolf",
-        "Corinne Faivre‐Finn",
-        "Christopher Golby",
-        "Azadeh Abravan",
-        "Marcel van Herk",
-        "Gareth Price",
-        "Agustina Salem"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -4156,29 +3187,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0169-5002(19)30263-6",
-      "title": "Avoiding cardiac toxicity in patients undergoing curative intent radiotherapy for lung cancer",
-      "year": 2019,
-      "venue": "Lung Cancer",
-      "cited_by_count": 2,
-      "authors": [
-        "Kathryn Banfill",
-        "Fei Sun",
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "J. Lilley",
-        "Robert Wheller",
-        "Sarah Falk",
-        "Marina Schmitt",
-        "Marcel van Herk",
-        "K. Franks",
-        "Corinne Faivre‐Finn"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1093/annonc/mdz242.073",
       "title": "Real-world treatment sequencing patterns in secondary breast cancer (SBC): Pathway visualisation using national datasets",
       "year": 2019,
@@ -4212,66 +3220,6 @@
       ],
       "matched_authors": [
         "Elizabeth Lemmon"
-      ]
-    },
-    {
-      "doi": "10.1093/annonc/mdz064.004",
-      "title": "Multi-centre analysis of cardiac events following radical radiotherapy for lung cancer",
-      "year": 2019,
-      "venue": "Annals of Oncology",
-      "cited_by_count": 1,
-      "authors": [
-        "Fei Sun",
-        "Kathryn Banfill",
-        "J. Lilley",
-        "B. Wheller",
-        "Louise Murray",
-        "Alan McWilliam",
-        "Marcel van Herk",
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "K. Franks"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.26226/morressier.5cb72192ae0a090015830ae5",
-      "title": "03 - Acute and late skin toxicity assessment in paediatric/young adult patients with Ewing’s sarcomas treated with chemo-radiotherapy",
-      "year": 2019,
-      "venue": "",
-      "cited_by_count": 1,
-      "authors": [
-        "Simona Gaito",
-        "Azadeh Abravan",
-        "Jenny Richardson",
-        "Bernadette Brennan",
-        "Matthew Lowe",
-        "Matthew Clarke",
-        "Rovel Colaco",
-        "Ed Smith",
-        "D.J. Saunders"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(19)31052-7",
-      "title": "OC-0632 Radiotherapy-related lymphopenia affects overall survival in patients with lung cancer",
-      "year": 2019,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 1,
-      "authors": [
-        "Azadeh Abravan",
-        "Corinne Faivre‐Finn",
-        "J. Kennedy",
-        "A. McWilliam",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -4349,130 +3297,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(19)30223-3",
-      "title": "PO-057 Predicting risk of Acute Kidney Injury in head and neck cancer patients receiving chemoradiotherapy",
-      "year": 2019,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "S. Gaito",
-        "V.R. Kota",
-        "Azadeh Abravan",
-        "Kate Garcez",
-        "L.W. Lee",
-        "Andrew Sykes",
-        "Denise Thomson",
-        "K. Mais",
-        "Andrew McPartlin"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(19)30485-2",
-      "title": "OC-0065 Cardiac dose and survival in lung cancer: which cardiac sub-structures matters most?",
-      "year": 2019,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Alan McWilliam",
-        "Jonathan Khalifa",
-        "Eliana Vásquez Osorio",
-        "Azadeh Abravan",
-        "Aznar Marianne",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(19)32447-8",
-      "title": "EP-2027 FDG-PET/CT-based assessment of hematologic toxicity in anal cancer patients following chemoradiation",
-      "year": 2019,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "J. Kalsnes",
-        "Espen Rusten",
-        "Azadeh Abravan",
-        "B.L. Rekstad",
-        "Eivor Hernes",
-        "Marianne G. Guren",
-        "E. Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(19)30824-2",
-      "title": "OC-0404 Dose to vascular calcifications is predictive for overall survival in lung cancer patients",
-      "year": 2019,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Eliana Vásquez Osorio",
-        "Frank Brewster",
-        "Alan McWilliam",
-        "Anna M. M. Scaife",
-        "Kathryn Banfill",
-        "Azadeh Abravan",
-        "D. Cobben",
-        "Corinne Faivre‐Finn",
-        "Marcel van Herk"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.jtho.2019.08.1296",
-      "title": "P1.17-22 Do Statins Improve Outcomes After Radical Radiotherapy for Lung Cancer? An In-Depth Analysis of Over 1100 Patients",
-      "year": 2019,
-      "venue": "Journal of Thoracic Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Fei Sun",
-        "Louise Murray",
-        "J. Lilley",
-        "Kathryn Banfill",
-        "B. Wheller",
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "Marcel van Herk",
-        "Corinne Faivre‐Finn",
-        "K. Franks"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
-      "doi": "10.1016/j.jtho.2019.08.1246",
-      "title": "P1.16-20 Trial in Progress: Cardiac Toxicity in Patients Undergoing Curative Intent Radiotherapy for Lung Cancer",
-      "year": 2019,
-      "venue": "Journal of Thoracic Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Kathryn Banfill",
-        "Fei Sun",
-        "Alan McWilliam",
-        "Azadeh Abravan",
-        "J. Lilley",
-        "B. Wheller",
-        "Martin Schmitt",
-        "K. Franks",
-        "Marcel van Herk",
-        "Corinne Faivre‐Finn"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -4612,30 +3436,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.adro.2017.12.007",
-      "title": "Serum cytokine profiles and metabolic tumor burden in patients with non-small cell lung cancer undergoing palliative thoracic radiation therapy",
-      "year": 2018,
-      "venue": "Advances in Radiation Oncology",
-      "cited_by_count": 10,
-      "authors": [
-        "H. Eide",
-        "Ingerid Skjei Knudtsen",
-        "Vandana Sandhu",
-        "Ayca Muftuler Løndalen",
-        "Ann Rita Halvorsen",
-        "Azadeh Abravan",
-        "Elin H. Kure",
-        "Trond Velde Bogsrud",
-        "Odd Terje Brustugun",
-        "Jon Amund Kyte",
-        "Eirik Malinen",
-        "Åslaug Helland"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1186/s40814-018-0381-6",
       "title": "A randomised, phase II, unblinded trial of an Exercise and Nutrition-based Rehabilitation programme (ENeRgy) versus standard care in patients with cancer: feasibility trial protocol",
       "year": 2018,
@@ -4732,23 +3532,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1007/s11307-018-1226-7",
-      "title": "Mapping Bone Marrow Response in the Vertebral Column by Positron Emission Tomography Following Radiotherapy and Erlotinib Therapy of Lung Cancer",
-      "year": 2018,
-      "venue": "Molecular Imaging and Biology",
-      "cited_by_count": 4,
-      "authors": [
-        "Azadeh Abravan",
-        "H. Eide",
-        "Ayca Muftuler Løndalen",
-        "Åslaug Helland",
-        "Eirik Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -4904,23 +3687,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0167-8140(18)32422-8",
-      "title": "EP-2113: Reduction in the bone marrow 18F-FDG uptake during thoracic radiotherapy of lung cancer",
-      "year": 2018,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "H. Eide",
-        "Ayca Muftuler Løndalen",
-        "Åslaug Helland",
-        "E. Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.3310/hta21170",
       "title": "PET-NECK: a multicentre randomised Phase III non-inferiority trial comparing a positron emission tomography–computerised tomography-guided watch-and-wait policy with planned neck dissection in the management of locally advanced (N2/N3) nodal metastases in patients with squamous cell head and neck cancer",
       "year": 2017,
@@ -5046,24 +3812,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.ctro.2017.04.002",
-      "title": "Assessment of pulmonary 18 F-FDG-PET uptake and cytokine profiles in non-small cell lung cancer patients treated with radiotherapy and erlotinib",
-      "year": 2017,
-      "venue": "Clinical and Translational Radiation Oncology",
-      "cited_by_count": 10,
-      "authors": [
-        "Azadeh Abravan",
-        "H. Eide",
-        "Ingerid Skjei Knudtsen",
-        "Ayca Muftuler Løndalen",
-        "Åslaug Helland",
-        "Eirik Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1007/s10549-017-4567-z",
       "title": "Real-world treatment in patients with HER2+ metastatic breast cancer",
       "year": 2017,
@@ -5080,25 +3828,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1080/0284186x.2017.1349336",
-      "title": "A new method to assess pulmonary changes using <sup>18</sup>F-fluoro-2-deoxyglucose positron emission tomography for lung cancer patients following radiotherapy",
-      "year": 2017,
-      "venue": "Acta Oncologica",
-      "cited_by_count": 6,
-      "authors": [
-        "Azadeh Abravan",
-        "Ingerid Skjei Knudtsen",
-        "H. Eide",
-        "Ayca Muftuler Løndalen",
-        "Åslaug Helland",
-        "Peter van Luijk",
-        "Eirik Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     },
     {
@@ -5681,24 +4410,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0167-8140(16)32180-6",
-      "title": "PO-0930: PET based response assessment of lung toxicity - assessment of two approaches for dose response",
-      "year": 2016,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Ingerid Skjei Knudtsen",
-        "H. Eide",
-        "Adrienne Helland",
-        "Peter van Luijk",
-        "E. Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
-      ]
-    },
-    {
       "doi": "10.1038/bjc.2014.644",
       "title": "Costs of cancer care for use in economic evaluation: a UK analysis of patient-level routine health system data",
       "year": 2015,
@@ -6107,24 +4818,6 @@
       ],
       "matched_authors": [
         "Peter Hall"
-      ]
-    },
-    {
-      "doi": "10.1016/s0167-8140(15)41159-4",
-      "title": "EP-1167 FDG-PET response in the normal lung for lung cancer patients receiving fractionated radiotherapy and erlotinib",
-      "year": 2015,
-      "venue": "Radiotherapy and Oncology",
-      "cited_by_count": 0,
-      "authors": [
-        "Azadeh Abravan",
-        "Ingerid Skjei Knudtsen",
-        "H. Eide",
-        "O.T. Brustugun",
-        "Åslaug Helland",
-        "E. Malinen"
-      ],
-      "matched_authors": [
-        "Azadeh Abravan"
       ]
     }
   ]
