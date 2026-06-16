@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-16T21:15:59+00:00",
+  "generated_at": "2026-06-16T21:28:01+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "1254"
+    "zotero_library_version": "1270"
   },
-  "count": 107,
-  "doi_backfilled": 17,
+  "count": 113,
+  "doi_backfilled": 16,
   "publications": [
     {
       "zotero_key": "U5BR45IU",
@@ -444,6 +444,209 @@
       "enriched": false
     },
     {
+      "zotero_key": "AMTV36DW",
+      "item_type": "journalArticle",
+      "title": "A pooled analysis evaluating prognostic significance of Residual Cancer Burden in invasive lobular breast cancer",
+      "authors": [
+        {
+          "family": "Mukhtar",
+          "given": "Rita A."
+        },
+        {
+          "family": "Gottipati",
+          "given": "Soumya"
+        },
+        {
+          "family": "Yau",
+          "given": "Christina"
+        },
+        {
+          "family": "López‐Tarruella",
+          "given": "Sara"
+        },
+        {
+          "family": "Earl",
+          "given": "Helena"
+        },
+        {
+          "family": "Hayward",
+          "given": "Larry"
+        },
+        {
+          "family": "Hiller",
+          "given": "Louise"
+        },
+        {
+          "family": "Osdoit",
+          "given": "Marie"
+        },
+        {
+          "family": "Noordaa",
+          "given": "Marieke van der"
+        },
+        {
+          "family": "Croze",
+          "given": "Diane De"
+        },
+        {
+          "family": "Hamy",
+          "given": "Anne‐Sophie"
+        },
+        {
+          "family": "Laé",
+          "given": "Marick"
+        },
+        {
+          "family": "Reyal",
+          "given": "Fabien"
+        },
+        {
+          "family": "Sonke",
+          "given": "Gabe S."
+        },
+        {
+          "family": "Steenbruggen",
+          "given": "Tessa G."
+        },
+        {
+          "family": "Seijen",
+          "given": "Maartje van"
+        },
+        {
+          "family": "Wesseling",
+          "given": "Jelle"
+        },
+        {
+          "family": "Martín",
+          "given": "Miguel"
+        },
+        {
+          "family": "Monte-Millán",
+          "given": "Marı́a del"
+        },
+        {
+          "family": "Boughey",
+          "given": "Judy C."
+        },
+        {
+          "family": "Goetz",
+          "given": "Matthew P."
+        },
+        {
+          "family": "Hoskin",
+          "given": "Tanya L."
+        },
+        {
+          "family": "Valero",
+          "given": "Vicente"
+        },
+        {
+          "family": "Edge",
+          "given": "Stephen B."
+        },
+        {
+          "family": "Abraham",
+          "given": "Jean"
+        },
+        {
+          "family": "Bartlett",
+          "given": "John M. S."
+        },
+        {
+          "family": "Caldas",
+          "given": "Carlos"
+        },
+        {
+          "family": "Dunn",
+          "given": "Janet"
+        },
+        {
+          "family": "Provenzano",
+          "given": "Elena"
+        },
+        {
+          "family": "Sammut",
+          "given": "Stephen‐John"
+        },
+        {
+          "family": "Thomas",
+          "given": "Jeremy"
+        },
+        {
+          "family": "Graham",
+          "given": "A"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Mackintosh",
+          "given": "Lorna"
+        },
+        {
+          "family": "Fan",
+          "given": "Fang"
+        },
+        {
+          "family": "Godwin",
+          "given": "Andrew K."
+        },
+        {
+          "family": "Schwensen",
+          "given": "Kelsey"
+        },
+        {
+          "family": "Sharma",
+          "given": "Priyanka"
+        },
+        {
+          "family": "DeMichele",
+          "given": "Angela"
+        },
+        {
+          "family": "Cole",
+          "given": "Kimberly"
+        },
+        {
+          "family": "Pusztai",
+          "given": "Lajos"
+        },
+        {
+          "family": "Kim",
+          "given": "Mi‐Ok"
+        },
+        {
+          "family": "Veer",
+          "given": "Laura van ‘t"
+        },
+        {
+          "family": "Cameron",
+          "given": "David"
+        },
+        {
+          "family": "Esserman",
+          "given": "Laura J."
+        },
+        {
+          "family": "Symmans",
+          "given": "W. Fraser"
+        }
+      ],
+      "year": "2025",
+      "venue": "npj Breast Cancer",
+      "volume": "11",
+      "issue": "1",
+      "pages": "14–14",
+      "doi": "10.1038/s41523-025-00720-3",
+      "url": "https://doi.org/10.1038/s41523-025-00720-3",
+      "doi_source": "zotero",
+      "cited_by_count": 6,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41523-025-00720-3.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "CX6CPARZ",
       "item_type": "journalArticle",
       "title": "Anaemia management with red blood cell transfusion to improve post-intensive care disability: Protocol for the ABC post-ICU randomised controlled trial",
@@ -669,6 +872,73 @@
       "enriched": false
     },
     {
+      "zotero_key": "6TTG67N7",
+      "item_type": "journalArticle",
+      "title": "Anthracycline Dose, Myocardial Injury, and Change in Left Ventricular Function in the Cardiac CARE Trial",
+      "authors": [
+        {
+          "family": "Loganath",
+          "given": "Krithika"
+        },
+        {
+          "family": "Lee",
+          "given": "Kuan Ken"
+        },
+        {
+          "family": "Oikonomidou",
+          "given": "Olga"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Mills",
+          "given": "Nicholas L."
+        },
+        {
+          "family": "Joshi",
+          "given": "Shruti"
+        },
+        {
+          "family": "Singh",
+          "given": "Trisha"
+        },
+        {
+          "family": "McGillivray",
+          "given": "Tom"
+        },
+        {
+          "family": "Semple",
+          "given": "Scott"
+        },
+        {
+          "family": "Lang",
+          "given": "Ninian N."
+        },
+        {
+          "family": "Dweck",
+          "given": "Marc R."
+        },
+        {
+          "family": "Henriksen",
+          "given": "Peter"
+        }
+      ],
+      "year": "2025",
+      "venue": "JACC CardioOncology",
+      "volume": "7",
+      "issue": "6",
+      "pages": "725–735",
+      "doi": "10.1016/j.jaccao.2025.06.003",
+      "url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
+      "doi_source": "zotero",
+      "cited_by_count": 3,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
+      "enriched": true
+    },
+    {
       "zotero_key": "UDZ5JDFV",
       "item_type": "journalArticle",
       "title": "Anthracycline dose, myocardial injury, and change in left ventricular function in the Cardiac CARE trial",
@@ -875,6 +1145,57 @@
       "enriched": true
     },
     {
+      "zotero_key": "86TEH2GX",
+      "item_type": "journalArticle",
+      "title": "Breast cancer-specific survival by molecular subtype in different age groups of women in Scotland",
+      "authors": [
+        {
+          "family": "Mesa‐Eguiagaray",
+          "given": "Ines"
+        },
+        {
+          "family": "Wild",
+          "given": "Sarah H."
+        },
+        {
+          "family": "Williams",
+          "given": "Linda"
+        },
+        {
+          "family": "Jin",
+          "given": "Kai"
+        },
+        {
+          "family": "Bird",
+          "given": "Sheila M."
+        },
+        {
+          "family": "Brewster",
+          "given": "David"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Figueroa",
+          "given": "Jonine D."
+        }
+      ],
+      "year": "2025",
+      "venue": "Breast Cancer Research",
+      "volume": "27",
+      "issue": "1",
+      "pages": "59–59",
+      "doi": "10.1186/s13058-025-02012-x",
+      "url": "https://doi.org/10.1186/s13058-025-02012-x",
+      "doi_source": "zotero",
+      "cited_by_count": 3,
+      "is_oa": true,
+      "oa_url": "https://breast-cancer-research.biomedcentral.com/counter/pdf/10.1186/s13058-025-02012-x",
+      "enriched": true
+    },
+    {
       "zotero_key": "EYMMDCG9",
       "item_type": "journalArticle",
       "title": "Breast cancer-specific survival by molecular subtype in different age groups of women in Scotland",
@@ -924,6 +1245,45 @@
       "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://breast-cancer-research.biomedcentral.com/counter/pdf/10.1186/s13058-025-02012-x",
+      "enriched": true
+    },
+    {
+      "zotero_key": "5522ZNGZ",
+      "item_type": "journalArticle",
+      "title": "KERMIT: Performance indicators in electronic patient reported outcome measures: a modified Delphi",
+      "authors": [
+        {
+          "family": "Hatton",
+          "given": "N."
+        },
+        {
+          "family": "Baxter",
+          "given": "Mark"
+        },
+        {
+          "family": "Lewis",
+          "given": "Sally"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Spencer",
+          "given": "Katie"
+        }
+      ],
+      "year": "2025",
+      "venue": "Journal of Patient-Reported Outcomes",
+      "volume": "9",
+      "issue": "1",
+      "pages": "81–81",
+      "doi": "10.1186/s41687-025-00898-x",
+      "url": "https://doi.org/10.1186/s41687-025-00898-x",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://jpro.springeropen.com/counter/pdf/10.1186/s41687-025-00898-x",
       "enriched": true
     },
     {
@@ -1200,6 +1560,212 @@
       "enriched": false
     },
     {
+      "zotero_key": "FFWJ7IE5",
+      "item_type": "journalArticle",
+      "title": "Morphine for chronic breathlessness (MABEL) in the UK: a multi-site, parallel-group, dose titration, double-blind, randomised, placebo-controlled trial",
+      "authors": [
+        {
+          "family": "Johnson",
+          "given": "Miriam J."
+        },
+        {
+          "family": "Williams",
+          "given": "Bronwen"
+        },
+        {
+          "family": "Keerie",
+          "given": "Catriona"
+        },
+        {
+          "family": "Tuck",
+          "given": "Sharon"
+        },
+        {
+          "family": "Hart",
+          "given": "Simon P."
+        },
+        {
+          "family": "Bajwah",
+          "given": "Sabrina"
+        },
+        {
+          "family": "Chaudhuri",
+          "given": "Nazia"
+        },
+        {
+          "family": "Pearson",
+          "given": "Mark"
+        },
+        {
+          "family": "Cohen",
+          "given": "Judith"
+        },
+        {
+          "family": "Evans",
+          "given": "Rachael A"
+        },
+        {
+          "family": "Currow",
+          "given": "David C."
+        },
+        {
+          "family": "Higginson",
+          "given": "Irene J"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Norrie",
+          "given": "John"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Hart",
+          "given": "Simon P."
+        },
+        {
+          "family": "Barrett",
+          "given": "S. A."
+        },
+        {
+          "family": "Bayes",
+          "given": "Hannah"
+        },
+        {
+          "family": "Stewart",
+          "given": "Gareth"
+        },
+        {
+          "family": "Walters",
+          "given": "Gareth"
+        },
+        {
+          "family": "Rivera‐Ortega",
+          "given": "Pilar"
+        },
+        {
+          "family": "Palmer",
+          "given": "J. Lynn"
+        },
+        {
+          "family": "Boland",
+          "given": "Alison"
+        },
+        {
+          "family": "Bowden",
+          "given": "Joanna"
+        },
+        {
+          "family": "Jones",
+          "given": "Annie"
+        }
+      ],
+      "year": "2025",
+      "venue": "The Lancet Respiratory Medicine",
+      "volume": "13",
+      "issue": "11",
+      "pages": "967–977",
+      "doi": "10.1016/s2213-2600(25)00205-x",
+      "url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
+      "doi_source": "zotero",
+      "cited_by_count": 9,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
+      "enriched": true
+    },
+    {
+      "zotero_key": "CF5QSCQI",
+      "item_type": "journalArticle",
+      "title": "Multidisciplinary Prehabilitation Reduces Hospitalization Time and Suggests Improved Survival in Patients with Radiologically Diagnosed Lung Cancer",
+      "authors": [
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "McDougall",
+          "given": "Caleb"
+        },
+        {
+          "family": "Walton",
+          "given": "Abi"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Grecian",
+          "given": "Robert"
+        },
+        {
+          "family": "O’Brien",
+          "given": "Fiona"
+        },
+        {
+          "family": "Mencnarowski",
+          "given": "J."
+        },
+        {
+          "family": "MacCormick",
+          "given": "Fiona"
+        },
+        {
+          "family": "McLean",
+          "given": "Gavin"
+        },
+        {
+          "family": "Higgins",
+          "given": "Steven L."
+        },
+        {
+          "family": "McMillan",
+          "given": "Debbie"
+        },
+        {
+          "family": "Reid",
+          "given": "Colette"
+        },
+        {
+          "family": "Allan",
+          "given": "Lindsey"
+        },
+        {
+          "family": "Lim",
+          "given": "B.H."
+        },
+        {
+          "family": "Barrie",
+          "given": "Colin"
+        }
+      ],
+      "year": "2025",
+      "venue": "Cancers",
+      "volume": "17",
+      "issue": "20",
+      "pages": "3329–3329",
+      "doi": "10.3390/cancers17203329",
+      "url": "https://doi.org/10.3390/cancers17203329",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2072-6694/17/20/3329/pdf?version=1760544513",
+      "enriched": true
+    },
+    {
       "zotero_key": "MT2QF92K",
       "item_type": "journalArticle",
       "title": "Multidisciplinary prehabilitation reduces hospitalization time and suggests improved survival in patients with radiologically diagnosed lung cancer",
@@ -1303,43 +1869,34 @@
       "enriched": true
     },
     {
-      "zotero_key": "BV5N3HVQ",
+      "zotero_key": "JG358NPR",
       "item_type": "journalArticle",
-      "title": "N-terminal pro-b-type natriuretic peptide (NT-proBNP)—a prognostic biomarker in older and/or frail adults with advanced gastroesophageal cancer: a post hoc analysis of the GO2 clinical trial",
+      "title": "The risk of contralateral breast cancer during long-term follow-up after breast conserving surgery to inform tailored surveillance protocols",
       "authors": [
         {
-          "family": "Tao",
-          "given": "Yuewei"
+          "family": "Lucocq",
+          "given": "James"
         },
         {
-          "family": "Lang",
-          "given": "Chim C"
-        },
-        {
-          "family": "Petty",
-          "given": "Russell D"
+          "family": "Erskine",
+          "given": "Elliot"
         },
         {
           "family": "Hall",
-          "given": "Peter S"
-        },
-        {
-          "family": "Baxter",
-          "given": "Mark A"
+          "given": "Peter"
         }
       ],
       "year": "2025",
-      "venue": "Cancers",
-      "volume": "17",
-      "issue": "4",
-      "pages": "601",
-      "doi": "10.3390/cancers17040601",
-      "url": "",
-      "doi_source": "openalex-title-match",
-      "title_match_score": 1.0,
-      "cited_by_count": 1,
-      "is_oa": true,
-      "oa_url": "https://www.mdpi.com/2072-6694/17/4/601/pdf?version=1739353656",
+      "venue": "European Journal of Surgical Oncology",
+      "volume": "51",
+      "issue": "",
+      "pages": "109944–109944",
+      "doi": "10.1016/j.ejso.2025.109944",
+      "url": "https://doi.org/10.1016/j.ejso.2025.109944",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
       "enriched": true
     },
     {
