@@ -20,6 +20,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
@@ -38,11 +39,18 @@ TITLE_MATCH_THRESHOLD = 0.92   # min normalised-title similarity to accept
 TITLE_YEAR_TOLERANCE = 1       # allowed year gap when the Zotero item has a year
 
 
-def get_json(url, headers=None):
+def get_json(url, headers=None, retries=4):
     req = urllib.request.Request(url, headers=headers or {})
     req.add_header("User-Agent", USER_AGENT)
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.loads(resp.read().decode("utf-8")), resp.headers
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return json.loads(resp.read().decode("utf-8")), resp.headers
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503) and attempt < retries - 1:
+                time.sleep(2 ** attempt * 2)  # 2, 4, 8 s
+                continue
+            raise
 
 
 def fetch_zotero_collection_items():
@@ -86,22 +94,25 @@ def normalise_doi(raw):
 
 def extract_from_zotero(item):
     d = item.get("data", {})
-    creators = d.get("creators", [])
     authors = []
-    for c in creators:
+    for c in d.get("creators", []):
         if c.get("creatorType") not in (None, "author"):
             continue
-        last = c.get("lastName") or c.get("name") or ""
-        first = c.get("firstName") or ""
-        authors.append((first + " " + last).strip() if first else last)
+        family = (c.get("lastName") or c.get("name") or "").strip()
+        given = (c.get("firstName") or "").strip()
+        if family or given:
+            authors.append({"family": family, "given": given})
     doi = normalise_doi(d.get("DOI"))
     return {
         "zotero_key": d.get("key"),
         "item_type": d.get("itemType"),
         "title": d.get("title", "").strip(),
-        "authors": [a for a in authors if a],
+        "authors": authors,
         "year": (d.get("date") or "")[:4] if (d.get("date") or "")[:4].isdigit() else None,
         "venue": d.get("publicationTitle") or d.get("bookTitle") or d.get("publisher") or "",
+        "volume": (d.get("volume") or "").strip(),
+        "issue": (d.get("issue") or "").strip(),
+        "pages": (d.get("pages") or "").strip(),
         "doi": doi,
         "url": d.get("url") or (f"https://doi.org/{doi}" if doi else ""),
     }
@@ -122,7 +133,7 @@ def enrich_from_openalex(dois):
             f"{OPENALEX_BASE}/works"
             f"?filter=doi:{urllib.parse.quote(pipe, safe='|/:')}"
             f"&per-page=100&select=doi,display_name,publication_year,cited_by_count,"
-            f"open_access,primary_location,type{mailto}"
+            f"open_access,primary_location,type,biblio{mailto}"
         )
         data, _ = get_json(url)
         for w in data.get("results", []):
@@ -132,6 +143,9 @@ def enrich_from_openalex(dois):
             oa = w.get("open_access") or {}
             loc = w.get("primary_location") or {}
             src = (loc.get("source") or {}) if loc else {}
+            bib = w.get("biblio") or {}
+            fp, lp = bib.get("first_page"), bib.get("last_page")
+            pages = f"{fp}\u2013{lp}" if fp and lp else (fp or lp or "")
             out[doi] = {
                 "openalex_year": w.get("publication_year"),
                 "cited_by_count": w.get("cited_by_count", 0),
@@ -139,6 +153,9 @@ def enrich_from_openalex(dois):
                 "oa_url": oa.get("oa_url"),
                 "openalex_venue": src.get("display_name"),
                 "openalex_type": w.get("type"),
+                "biblio_volume": bib.get("volume") or "",
+                "biblio_issue": bib.get("issue") or "",
+                "biblio_pages": pages,
             }
         time.sleep(0.2)
     return out
@@ -229,6 +246,12 @@ def build():
             r["year"] = str(e["openalex_year"])
         if not r["venue"] and e.get("openalex_venue"):
             r["venue"] = e["openalex_venue"]
+        if not r["volume"] and e.get("biblio_volume"):
+            r["volume"] = str(e["biblio_volume"])
+        if not r["issue"] and e.get("biblio_issue"):
+            r["issue"] = str(e["biblio_issue"])
+        if not r["pages"] and e.get("biblio_pages"):
+            r["pages"] = e["biblio_pages"]
         r["enriched"] = bool(e)
 
     def sort_key(r):
@@ -236,7 +259,7 @@ def build():
     records.sort(key=sort_key)
 
     payload = {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": {
             "zotero_group": ZOTERO_GROUP_ID,
