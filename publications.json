@@ -1,14 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-15T22:27:23+00:00",
+  "generated_at": "2026-06-16T11:40:30+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "870"
+    "zotero_library_version": "1238"
   },
-  "count": 99,
+  "count": 100,
   "doi_backfilled": 17,
   "publications": [
+    {
+      "zotero_key": "QFQ8GW9B",
+      "item_type": "journalArticle",
+      "title": "Environmental determinants of cancer outcomes: a scoping review",
+      "authors": [
+        "Azadeh Abravan",
+        "Isabella Fornacon-Wood",
+        "Richard Kingston",
+        "David Topping",
+        "Gareth Price"
+      ],
+      "year": "2026",
+      "venue": "Radiotherapy and Oncology",
+      "doi": "10.1016/j.radonc.2026.111408",
+      "url": "https://doi.org/10.1016/j.radonc.2026.111408",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.radonc.2026.111408",
+      "enriched": true
+    },
     {
       "zotero_key": "QHDI23RR",
       "item_type": "journalArticle",
