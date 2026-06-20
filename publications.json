@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-19T11:00:59+00:00",
+  "generated_at": "2026-06-20T09:48:05+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -3004,7 +3004,7 @@
       "doi": "10.1001/jamanetworkopen.2023.0490",
       "url": "https://doi.org/10.1001/jamanetworkopen.2023.0490",
       "doi_source": "zotero",
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2801741/goldstein_2023_oi_230033_1676399877.96803.pdf",
       "enriched": true
@@ -3218,7 +3218,7 @@
       "url": "",
       "doi_source": "openalex-title-match",
       "title_match_score": 1.0,
-      "cited_by_count": 190,
+      "cited_by_count": 191,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -3348,7 +3348,7 @@
       "doi": "10.1016/j.crad.2023.07.010",
       "url": "https://doi.org/10.1016/j.crad.2023.07.010",
       "doi_source": "zotero",
-      "cited_by_count": 4,
+      "cited_by_count": 5,
       "is_oa": true,
       "oa_url": "http://www.clinicalradiologyonline.net/article/S0009926023003124/pdf",
       "enriched": true
@@ -9358,7 +9358,7 @@
       "doi": "10.1177/0272989x19866415",
       "url": "https://doi.org/10.1177/0272989x19866415",
       "doi_source": "zotero",
-      "cited_by_count": 35,
+      "cited_by_count": 36,
       "is_oa": true,
       "oa_url": "https://discovery.ucl.ac.uk/10086095/7/Uchegbu1%20Abel%202019.pdf",
       "enriched": true
