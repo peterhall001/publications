@@ -7,8 +7,9 @@ Guidance for AI agents and developers working in this repository.
 This repo maintains `publications.json`, the data behind the Edinburgh Cancer
 Informatics publications page at https://cancer-data.ecrc.ed.ac.uk/. A GitHub
 Actions workflow runs daily, reads a vetted Zotero collection, enriches it from
-OpenAlex, and commits the result. WordPress reads the committed file over the
-jsDelivr CDN. There is no server and no database.
+OpenAlex, discovers new candidate publications, writes enriched candidates to
+Zotero Review, and commits the generated outputs. WordPress reads the committed
+file over the jsDelivr CDN. There is no server and no database.
 
 The source of truth is a Zotero group collection that a human curates. OpenAlex
 provides discovery and enrichment only. Nothing reaches the page without passing
@@ -21,8 +22,11 @@ through the Zotero vetting step.
   pages), backfills missing DOIs by confident title match, and writes
   `publications.json`. Standard library only, no dependencies.
 - `scripts/discover_candidates.py`: queries OpenAlex by ORCID for each author in
-  `authors.json`, removes anything already filed in Zotero, and adds the rest to
-  the Review collection for a human to triage. Also writes `candidates.json` and
+  `authors.json`, removes anything already filed in Zotero, enriches each
+  candidate DOI from Crossref first and OpenAlex `biblio` as fallback, and adds
+  the rest to the Review collection for a human to triage. It writes richer
+  Zotero Review items including publication title, volume, issue, pages, date,
+  DOI, URL and authors where available. Also writes `candidates.json` and
   `candidates_for_review.md` as logs. Requires `pyzotero`.
 - `authors.json`: the team. One entry per person with an `orcid`, plus an
   optional `since_year` to narrow that person's scan window (the default is 2015).
@@ -79,6 +83,21 @@ OPENALEX_MAILTO=you@example.org ZOTERO_COLLECTION_ID=X3G67CXM \
 Use a recent `SINCE_YEAR` when testing so you do not pull the whole
 back-catalogue into Review.
 
+## Fresh Review rebuilds
+
+If nothing has been vetted yet, it is acceptable to manually empty or recreate
+the Zotero Review collection and let discovery repopulate it. This is often the
+cleanest way to get better bibliographic metadata into Zotero because discovery
+now creates Review items from DOI metadata with this precedence:
+
+1. Crossref publisher metadata.
+2. OpenAlex `biblio` fields as fallback.
+3. Blank Zotero fields only when neither source has a value.
+
+Even during a fresh rebuild, do not auto-populate Web-Publications directly from
+OpenAlex discovery. Review remains the safety gate because OpenAlex author
+matching can include false positives.
+
 ## publications.json schema (version 2)
 
 Top level: `schema_version`, `generated_at`, `source`, `count`,
@@ -101,6 +120,11 @@ Each publication: `zotero_key`, `item_type`, `title`, `authors` (a list of
 - Enrichment keys on DOI. Items with no DOI in Zotero get no citation count or
   open-access link unless the title-match backfill resolves one. Adding the DOIs
   in Zotero is the durable fix and also closes the dedup blind spot above.
+- For volume, issue and pages in newly discovered Review items, prefer Crossref
+  by DOI because it usually reflects publisher bibliographic metadata. Keep
+  OpenAlex `biblio` as fallback. Build-time OpenAlex enrichment fills missing
+  fields in `publications.json` only; discovery is what writes these fields into
+  Zotero for new Review items.
 - The build is dependency-free on purpose. Keep it that way. Only discovery uses
   `pyzotero`.
 - `generated_at` changes on every run, so every build commits. This is
@@ -112,6 +136,11 @@ Each publication: `zotero_key`, `item_type`, `title`, `authors` (a list of
   multi-type negation and this broke the build once. Filter item types in code
   instead.
 - Citations on the page follow Vancouver style, capped at 20 authors then et al.
+- The workflow can fail in the final "Commit logs if changed" step even after
+  Zotero has populated successfully. One known cause is a push race: the action
+  starts on an older commit, discovery writes to Zotero, then `origin/main` moves
+  before the action tries to push generated JSON/markdown. In that case, the
+  Zotero write is already done; rerun the workflow or rebase/pull before pushing.
 
 ## What an agent should not do here
 
