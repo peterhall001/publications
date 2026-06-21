@@ -1,0 +1,156 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex b357f58..f155ea6 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -8,11 +8,14 @@[m [mhttps://cancer-data.ecrc.ed.ac.uk/.[m
+ 1. A vetted Zotero group collection is the allowlist (the source of truth for[m
+    what appears). Group `4536042`, collection *Web-Publications* (`X3G67CXM`).[m
+ 2. `scripts/build_publications.py` reads that collection and enriches each item[m
+[31m-   from OpenAlex by DOI (citation count, open-access status and PDF link, venue).[m
+[32m+[m[32m   from OpenAlex by DOI (citation count, open-access status and PDF link, venue,[m
+[32m+[m[32m   volume, issue and pages when they are missing in Zotero).[m
+    It writes `publications.json`.[m
+ 3. `scripts/discover_candidates.py` queries OpenAlex by the ORCIDs in[m
+[31m-   `authors.json`, drops anything already in the collection, and writes[m
+[31m-   `candidates_for_review.md` — your vetting queue. It never writes to Zotero.[m
+[32m+[m[32m   `authors.json`, drops anything already in the collection, enriches candidate[m
+[32m+[m[32m   DOIs from Crossref with OpenAlex as fallback, and writes richer records into[m
+[32m+[m[32m   the Zotero Review collection plus `candidates_for_review.md` — your vetting[m
+[32m+[m[32m   queue.[m
+ 4. `.github/workflows/build.yml` runs both daily and commits the results.[m
+ 5. WordPress reads the committed `publications.json` and renders the page.[m
+ [m
+[36m@@ -22,6 +25,31 @@[m [mhttps://cancer-data.ecrc.ed.ac.uk/.[m
+ - Add the genuine entries to the *Web-Publications* collection in Zotero.[m
+ - The next build picks them up automatically.[m
+ [m
+[32m+[m[32m## Fresh Review rebuild for richer metadata[m
+[32m+[m
+[32m+[m[32mIf the current Zotero contents have not yet been vetted, the cleanest way to get[m
+[32m+[m[32mbetter volume, issue and page metadata is to rebuild the Review collection rather[m
+[32m+[m[32mthan patching individual Zotero records by hand.[m
+[32m+[m
+[32m+[m[32mRecommended process:[m
+[32m+[m
+[32m+[m[32m1. In Zotero, manually empty or recreate the Review collection. Do the same for[m
+[32m+[m[32m   Web-Publications and Rejected only if you are sure nothing there needs to be[m
+[32m+[m[32m   preserved.[m
+[32m+[m[32m2. Run discovery with a recent `SINCE_YEAR` first so you can inspect the result[m
+[32m+[m[32m   before pulling in the whole back-catalogue.[m
+[32m+[m[32m3. The discovery script will:[m
+[32m+[m[32m   - discover candidate article DOIs from OpenAlex by ORCID;[m
+[32m+[m[32m   - enrich each DOI from Crossref, preferring publisher bibliographic metadata;[m
+[32m+[m[32m   - fall back to OpenAlex `biblio` fields when Crossref lacks a value;[m
+[32m+[m[32m   - create Zotero Review items with `publicationTitle`, `volume`, `issue`,[m
+[32m+[m[32m     `pages`, `date`, `DOI`, authors and URL where available.[m
+[32m+[m[32m4. Vet in Zotero by moving genuine publications from Review into[m
+[32m+[m[32m   Web-Publications and moving false positives into Rejected.[m
+[32m+[m
+[32m+[m[32mDo not auto-populate Web-Publications directly from OpenAlex discovery. OpenAlex[m
+[32m+[m[32mauthor matching can include false positives, so Review remains the safety gate.[m
+[32m+[m
+ [m
+ ## Secrets / variables[m
+ [m
+[36m@@ -31,3 +59,4 @@[m [mhttps://cancer-data.ecrc.ed.ac.uk/.[m
+ | ZOTERO_API_KEY       | a read key (optional, group is public) |[m
+ | OPENALEX_MAILTO      | email, for the polite pool |[m
+ [m
+[41m+[m
+[1mdiff --git a/scripts/discover_candidates.py b/scripts/discover_candidates.py[m
+[1mindex 303ec74..344040d 100644[m
+[1m--- a/scripts/discover_candidates.py[m
+[1m+++ b/scripts/discover_candidates.py[m
+[36m@@ -25,6 +25,7 @@[m [mEnv vars:[m
+ import json[m
+ import os[m
+ import time[m
+[32m+[m[32mimport urllib.error[m
+ import urllib.parse[m
+ import urllib.request[m
+ from datetime import datetime, timezone[m
+[36m@@ -43,6 +44,7 @@[m [mOPENALEX_MAILTO = os.environ.get("OPENALEX_MAILTO", "").strip()[m
+ DEFAULT_SINCE_YEAR = int(os.environ.get("SINCE_YEAR", 2015))[m
+ [m
+ OPENALEX_BASE = "https://api.openalex.org"[m
+[32m+[m[32mCROSSREF_BASE = "https://api.crossref.org"[m
+ USER_AGENT = "eci-publications-builder/1.0 (mailto:%s)" % (OPENALEX_MAILTO or "unknown")[m
+ MAX_CREATORS = 50[m
+ [m
+[36m@@ -66,10 +68,17 @@[m [mdef split_name(display):[m
+     return {"creatorType": "author", "firstName": " ".join(parts[:-1]), "lastName": parts[-1]}[m
+ [m
+ [m
+[31m-def oa_get(url):[m
+[32m+[m[32mdef get_json(url, retries=4):[m
+     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})[m
+[31m-    with urllib.request.urlopen(req, timeout=60) as resp:[m
+[31m-        return json.loads(resp.read().decode("utf-8"))[m
+[32m+[m[32m    for attempt in range(retries):[m
+[32m+[m[32m        try:[m
+[32m+[m[32m            with urllib.request.urlopen(req, timeout=60) as resp:[m
+[32m+[m[32m                return json.loads(resp.read().decode("utf-8"))[m
+[32m+[m[32m        except urllib.error.HTTPError as e:[m
+[32m+[m[32m            if e.code in (429, 500, 502, 503, 504) and attempt < retries - 1:[m
+[32m+[m[32m                time.sleep(2 ** attempt * 2)[m
+[32m+[m[32m                continue[m
+[32m+[m[32m            raise[m
+ [m
+ [m
+ def works_for_orcid(orcid, since_year):[m
+[36m@@ -80,16 +89,19 @@[m [mdef works_for_orcid(orcid, since_year):[m
+         url = ([m
+             f"{OPENALEX_BASE}/works"[m
+             f"?filter=author.orcid:{orcid},from_publication_date:{since_year}-01-01,type:article"[m
+[31m-            f"&select=doi,display_name,publication_year,cited_by_count,authorships,primary_location"[m
+[32m+[m[32m            f"&select=doi,display_name,publication_year,cited_by_count,authorships,primary_location,biblio"[m
+             f"&per-page=100&cursor={cursor}{mailto}"[m
+         )[m
+[31m-        data = oa_get(url)[m
+[32m+[m[32m        data = get_json(url)[m
+         for w in data.get("results", []):[m
+             doi = normalise_doi(w.get("doi"))[m
+             if not doi:[m
+                 continue[m
+             loc = w.get("primary_location") or {}[m
+             src = (loc.get("source") or {}) if loc else {}[m
+[32m+[m[32m            bib = w.get("biblio") or {}[m
+[32m+[m[32m            fp, lp = bib.get("first_page"), bib.get("last_page")[m
+[32m+[m[32m            pages = f"{fp}-{lp}" if fp and lp else (fp or lp or "")[m
+             authors = [a.get("author", {}).get("display_name", "")[m
+                        for a in (w.get("authorships") or [])][m
+             found.append({[m
+[36m@@ -97,14 +109,93 @@[m [mdef works_for_orcid(orcid, since_year):[m
+                 "title": w.get("display_name", "") or "",[m
+                 "year": w.get("publication_year"),[m
+                 "venue": src.get("display_name") or "",[m
+[32m+[m[32m                "volume": bib.get("volume") or "",[m
+[32m+[m[32m                "issue": bib.get("issue") or "",[m
+[32m+[m[32m                "pages": pages,[m
+                 "cited_by_count": w.get("cited_by_count", 0),[m
+                 "authors": [a for a in authors if a][:MAX_CREATORS],[m
+[32m+[m[32m                "metadata_source": "openalex",[m
+             })[m
+         cursor = data.get("meta", {}).get("next_cursor")[m
+         time.sleep(0.2)[m
+     return found[m
+ [m
+ [m
+[32m+[m[32mdef first(value):[m
+[32m+[m[32m    if isinstance(value, list):[m
+[32m+[m[32m        return value[0] if value else ""[m
+[32m+[m[32m    return value or ""[m
+[32m+[m
+[32m+[m
+[32m+[m[32mdef crossref_year(msg):[m
+[32m+[m[32m    for key in ("published-print", "published-online", "published", "issued"):[m
+[32m+[m[32m        parts = (msg.get(key) or {}).get("date-parts") or [][m
+[32m+[m[32m        if parts and parts[0]:[m
+[32m+[m[32m            return parts[0][0][m
+[32m+[m[32m    return None[m
+[32m+[m
+[32m+[m
+[32m+[m[32mdef crossref_authors(msg):[m
+[32m+[m[32m    creators = [][m
+[32m+[m[32m    for a in msg.get("author") or []:[m
+[
