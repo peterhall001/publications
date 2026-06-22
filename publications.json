@@ -1,12 +1,686 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-21T20:21:34+00:00",
+  "generated_at": "2026-06-22T12:30:17+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "2740"
+    "zotero_library_version": "2766"
   },
-  "count": 0,
+  "count": 11,
   "doi_backfilled": 0,
-  "publications": []
+  "publications": [
+    {
+      "zotero_key": "AA4B3PXX",
+      "item_type": "journalArticle",
+      "title": "Anaemia management with red blood cell transfusion to improve post-intensive care disability: Protocol for the ABC post-ICU randomised controlled trial",
+      "authors": [
+        {
+          "family": "Walsh",
+          "given": "Timothy S."
+        },
+        {
+          "family": "Emerson",
+          "given": "Lydia"
+        },
+        {
+          "family": "Singleton",
+          "given": "Jo"
+        },
+        {
+          "family": "Locherty",
+          "given": "Rachel"
+        },
+        {
+          "family": "Hope",
+          "given": "David"
+        },
+        {
+          "family": "Cholbi",
+          "given": "Stephanie"
+        },
+        {
+          "family": "Giddings",
+          "given": "Annabel"
+        },
+        {
+          "family": "Macdonald",
+          "given": "Alix"
+        },
+        {
+          "family": "Lone",
+          "given": "Nazir"
+        },
+        {
+          "family": "Docherty",
+          "given": "Annemarie B."
+        },
+        {
+          "family": "Mead",
+          "given": "Gillian"
+        },
+        {
+          "family": "Stanworth",
+          "given": "Simon J."
+        },
+        {
+          "family": "Drakesmith",
+          "given": "Alexander"
+        },
+        {
+          "family": "Roy",
+          "given": "Noemi B. A."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Neilson",
+          "given": "Aileen R."
+        },
+        {
+          "family": "Pollock",
+          "given": "Roz"
+        },
+        {
+          "family": "Rodriguez",
+          "given": "Aryelly"
+        },
+        {
+          "family": "Norrie",
+          "given": "John"
+        },
+        {
+          "family": "Weir",
+          "given": "Christopher J."
+        },
+        {
+          "family": "Shah",
+          "given": "Akshay"
+        },
+        {
+          "family": "Griffith",
+          "given": "David"
+        }
+      ],
+      "year": "2026",
+      "venue": "Journal of the Intensive Care Society",
+      "volume": "27",
+      "issue": "1",
+      "pages": "98-106",
+      "doi": "10.1177/17511437251374884",
+      "url": "https://doi.org/10.1177/17511437251374884",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/files/535171890/Anaemia_management_with_red_Blood_WALSH_DOA27062025_AAM.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "ERBNS8IE",
+      "item_type": "journalArticle",
+      "title": "Annual versus less frequent mammographic surveillance in people with breast cancer aged 50 years and older in the UK (Mammo-50): cost-effectiveness and budget impact analysis",
+      "authors": [
+        {
+          "family": "Cocco",
+          "given": "Paola"
+        },
+        {
+          "family": "Bojke",
+          "given": "Chris"
+        },
+        {
+          "family": "Hulme",
+          "given": "Claire"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Hopkins",
+          "given": "Amy"
+        },
+        {
+          "family": "Marshall",
+          "given": "Andrea"
+        },
+        {
+          "family": "Dunn",
+          "given": "Janet A."
+        },
+        {
+          "family": "Meads",
+          "given": "David"
+        },
+        {
+          "family": "Shinkins",
+          "given": "Bethany"
+        }
+      ],
+      "year": "2026",
+      "venue": "British Journal of Cancer",
+      "volume": "134",
+      "issue": "2",
+      "pages": "252-258",
+      "doi": "10.1038/s41416-025-03248-2",
+      "url": "https://doi.org/10.1038/s41416-025-03248-2",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41416-025-03248-2.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "T7VDAF4T",
+      "item_type": "journalArticle",
+      "title": "Cost-Effectiveness of Electronic Patient-Reported Outcome Measure Interventions in Cancer: A Systematic Review and Parameter Extraction for Economic Modelling (Preprint)",
+      "authors": [
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Bullen",
+          "given": "Alistair"
+        },
+        {
+          "family": "Cresswell",
+          "given": "Kathrin"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        }
+      ],
+      "year": "2026",
+      "venue": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.2196/preprints.100505",
+      "url": "https://doi.org/10.2196/preprints.100505",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.2196/preprints.100505",
+      "enriched": true
+    },
+    {
+      "zotero_key": "ZTZGJAT3",
+      "item_type": "journalArticle",
+      "title": "Environmental determinants of cancer outcomes: a scoping review",
+      "authors": [
+        {
+          "family": "Abravan",
+          "given": "Azadeh"
+        },
+        {
+          "family": "Fornacon-Wood",
+          "given": "Isabella"
+        },
+        {
+          "family": "Kingston",
+          "given": "Richard"
+        },
+        {
+          "family": "Topping",
+          "given": "David"
+        },
+        {
+          "family": "Price",
+          "given": "Gareth"
+        }
+      ],
+      "year": "2026",
+      "venue": "Radiotherapy and Oncology",
+      "volume": "217",
+      "issue": "",
+      "pages": "111408",
+      "doi": "10.1016/j.radonc.2026.111408",
+      "url": "https://doi.org/10.1016/j.radonc.2026.111408",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.radonc.2026.111408",
+      "enriched": true
+    },
+    {
+      "zotero_key": "MQKPTVW4",
+      "item_type": "journalArticle",
+      "title": "Long-term costs associated with healthcare use of people with cancer in Scotland",
+      "authors": [
+        {
+          "family": "Haining",
+          "given": "Kenny"
+        },
+        {
+          "family": "Lemmon",
+          "given": "Elizabeth"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Lone",
+          "given": "Nazir I."
+        }
+      ],
+      "year": "2026",
+      "venue": "The European Journal of Health Economics",
+      "volume": "27",
+      "issue": "1",
+      "pages": "1-15",
+      "doi": "10.1007/s10198-025-01800-8",
+      "url": "https://doi.org/10.1007/s10198-025-01800-8",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10198-025-01800-8.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "KMBZEJ9V",
+      "item_type": "journalArticle",
+      "title": "Modelled impact of a multi-cancer early detection screening programme on cancer treatment in England",
+      "authors": [
+        {
+          "family": "Ellis",
+          "given": "Libby"
+        },
+        {
+          "family": "Eversfield",
+          "given": "Charlotte"
+        },
+        {
+          "family": "Gray",
+          "given": "Ewan"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Hiom",
+          "given": "Sara"
+        },
+        {
+          "family": "Jones",
+          "given": "David A."
+        },
+        {
+          "family": "Lee",
+          "given": "Lennard YW"
+        },
+        {
+          "family": "McPhail",
+          "given": "Sean"
+        },
+        {
+          "family": "Spencer",
+          "given": "Katie"
+        },
+        {
+          "family": "Halloran",
+          "given": "Christopher"
+        }
+      ],
+      "year": "2026",
+      "venue": "British Journal of Cancer",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1038/s41416-026-03412-2",
+      "url": "https://doi.org/10.1038/s41416-026-03412-2",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41416-026-03412-2",
+      "enriched": true
+    },
+    {
+      "zotero_key": "GI4W7CPV",
+      "item_type": "journalArticle",
+      "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy",
+      "authors": [
+        {
+          "family": "Angrisani",
+          "given": "Antonio"
+        },
+        {
+          "family": "Kirova",
+          "given": "Youlia"
+        },
+        {
+          "family": "Abravan",
+          "given": "Azadeh"
+        },
+        {
+          "family": "Becherini",
+          "given": "Carlotta"
+        },
+        {
+          "family": "Benavente",
+          "given": "Sergi"
+        },
+        {
+          "family": "Castelo-Branco",
+          "given": "Luís"
+        },
+        {
+          "family": "Chalmers",
+          "given": "Anthony J"
+        },
+        {
+          "family": "Christ",
+          "given": "Sebastian M."
+        },
+        {
+          "family": "Deutsch",
+          "given": "Eric"
+        },
+        {
+          "family": "Filippi",
+          "given": "Andrea Riccardo"
+        },
+        {
+          "family": "Hendriks",
+          "given": "Lizza E L"
+        },
+        {
+          "family": "Zolcsók",
+          "given": "Zita"
+        },
+        {
+          "family": "Illidge",
+          "given": "Tim"
+        },
+        {
+          "family": "Rimner",
+          "given": "Andreas"
+        },
+        {
+          "family": "Herrera",
+          "given": "Fernanda"
+        },
+        {
+          "family": "Ruysscher",
+          "given": "Dirk De"
+        }
+      ],
+      "year": "2026",
+      "venue": "Universität Zürich, ZORA",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.5167/uzh-433879",
+      "url": "https://doi.org/10.5167/uzh-433879",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5167/uzh-433879",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6J27IITB",
+      "item_type": "journalArticle",
+      "title": "190O Clinical outcomes in the OPTIMA prelim (Optimal Personalised Treatment of early breast cancer using Multi-Parameter Analysis) feasibility study",
+      "authors": [
+        {
+          "family": "Stein",
+          "given": "R.C."
+        },
+        {
+          "family": "Marshall",
+          "given": "A."
+        },
+        {
+          "family": "Makris",
+          "given": "A."
+        },
+        {
+          "family": "Hughes-Davies",
+          "given": "L."
+        },
+        {
+          "family": "Macpherson",
+          "given": "I."
+        },
+        {
+          "family": "Hopkins",
+          "given": "A.F."
+        },
+        {
+          "family": "Cameron",
+          "given": "D.A."
+        },
+        {
+          "family": "Canney",
+          "given": "P."
+        },
+        {
+          "family": "Earl",
+          "given": "H.M."
+        },
+        {
+          "family": "Rea",
+          "given": "D.W."
+        },
+        {
+          "family": "Bayani",
+          "given": "J."
+        },
+        {
+          "family": "Hall",
+          "given": "P.S."
+        },
+        {
+          "family": "McCabe",
+          "given": "C."
+        },
+        {
+          "family": "Donovan",
+          "given": "J."
+        },
+        {
+          "family": "Harmer",
+          "given": "V."
+        },
+        {
+          "family": "Pinder",
+          "given": "S.E."
+        },
+        {
+          "family": "Rooshenas",
+          "given": "L."
+        },
+        {
+          "family": "Morgan",
+          "given": "A."
+        },
+        {
+          "family": "Bartlett",
+          "given": "J.M.S."
+        },
+        {
+          "family": "Dunn",
+          "given": "J.A."
+        }
+      ],
+      "year": "2025",
+      "venue": "ESMO Open",
+      "volume": "10",
+      "issue": "",
+      "pages": "104744",
+      "doi": "10.1016/j.esmoop.2025.104744",
+      "url": "https://doi.org/10.1016/j.esmoop.2025.104744",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.esmoop.2025.104744",
+      "enriched": true
+    },
+    {
+      "zotero_key": "CN9A99ZD",
+      "item_type": "journalArticle",
+      "title": "Breast cancer survival and mortality among women with type 2 diabetes: a retrospective cohort study",
+      "authors": [
+        {
+          "family": "Sears",
+          "given": "Alison J."
+        },
+        {
+          "family": "Wild",
+          "given": "Sarah H."
+        },
+        {
+          "family": "Mesa-Eguiagaray",
+          "given": "Ines"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Figueroa",
+          "given": "Jonine D."
+        }
+      ],
+      "year": "2025",
+      "venue": "Scientific Reports",
+      "volume": "15",
+      "issue": "1",
+      "pages": "26144",
+      "doi": "10.1038/s41598-025-08785-7",
+      "url": "https://doi.org/10.1038/s41598-025-08785-7",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41598-025-08785-7.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "ZGDA2AHQ",
+      "item_type": "journalArticle",
+      "title": "Multidisciplinary Prehabilitation Reduces Hospitalization Time and Suggests Improved Survival in Patients with Radiologically Diagnosed Lung Cancer",
+      "authors": [
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "McDougall",
+          "given": "Caleb"
+        },
+        {
+          "family": "Walton",
+          "given": "Abi"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Grecian",
+          "given": "Robert"
+        },
+        {
+          "family": "O’Brien",
+          "given": "Fiona"
+        },
+        {
+          "family": "Mencnarowski",
+          "given": "Julie"
+        },
+        {
+          "family": "MacCormick",
+          "given": "Fiona"
+        },
+        {
+          "family": "McLean",
+          "given": "Gavin"
+        },
+        {
+          "family": "Higgins",
+          "given": "Steven"
+        },
+        {
+          "family": "McMillan",
+          "given": "Debbie"
+        },
+        {
+          "family": "Reid",
+          "given": "Colette"
+        },
+        {
+          "family": "Allan",
+          "given": "Lindsey"
+        },
+        {
+          "family": "Lim",
+          "given": "Benjamin Jia Liang"
+        },
+        {
+          "family": "Barrie",
+          "given": "Colin"
+        }
+      ],
+      "year": "2025",
+      "venue": "Cancers",
+      "volume": "17",
+      "issue": "20",
+      "pages": "3329",
+      "doi": "10.3390/cancers17203329",
+      "url": "https://doi.org/10.3390/cancers17203329",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2072-6694/17/20/3329/pdf?version=1760544513",
+      "enriched": true
+    },
+    {
+      "zotero_key": "AIFFQMXJ",
+      "item_type": "journalArticle",
+      "title": "N-Terminal Pro-B-Type Natriuretic Peptide (NT-proBNP)—A Prognostic Biomarker in Older and/or Frail Adults with Advanced Gastroesophageal Cancer: A Post Hoc Analysis of the GO2 Clinical Trial",
+      "authors": [
+        {
+          "family": "Tao",
+          "given": "Yuewei"
+        },
+        {
+          "family": "Lang",
+          "given": "Chim C."
+        },
+        {
+          "family": "Petty",
+          "given": "Russell D."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Baxter",
+          "given": "Mark A."
+        }
+      ],
+      "year": "2025",
+      "venue": "Cancers",
+      "volume": "17",
+      "issue": "4",
+      "pages": "601",
+      "doi": "10.3390/cancers17040601",
+      "url": "https://doi.org/10.3390/cancers17040601",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2072-6694/17/4/601/pdf?version=1739353656",
+      "enriched": true
+    }
+  ]
 }
