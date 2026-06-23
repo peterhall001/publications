@@ -1,11 +1,785 @@
 {
-  "generated_at": "2026-06-22T12:30:31+00:00",
+  "generated_at": "2026-06-23T10:09:14+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
     "Elizabeth Lemmon": 2015,
     "Azadeh Abravan": 2026
   },
-  "count": 0,
-  "candidates": []
+  "count": 6,
+  "candidates": [
+    {
+      "doi": "10.1200/jco.2025.43.16_suppl.e23268",
+      "title": "Earlier brain tumor detection: Assessing the impact on survival, recurrence, inpatient length of stay and neurological deficit.",
+      "year": 2025,
+      "venue": "Journal of Clinical Oncology",
+      "volume": "43",
+      "issue": "16_suppl",
+      "pages": "",
+      "cited_by_count": 1,
+      "authors": [
+        "Holly J. Butler",
+        "Ewan Gray",
+        "James Cameron",
+        "Paul Brennan",
+        "Peter S Hall",
+        "A.W. Lishman",
+        "Piyumanga Karunaratne",
+        "Giovanni Tramonti",
+        "Mahéva Vallet",
+        "Matthew Baker"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Holly",
+          "lastName": "Butler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ewan",
+          "lastName": "Gray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James Munro",
+          "lastName": "Cameron"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Brennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter S.",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abigail",
+          "lastName": "Lishman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Piyumanga",
+          "lastName": "Karunaratne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Giovanni",
+          "lastName": "Tramonti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mahéva",
+          "lastName": "Vallet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Baker"
+        }
+      ]
+    },
+    {
+      "doi": "10.1158/1538-7445.am2025-5965",
+      "title": "Abstract 5965: Brain tumor diagnostic interval and tumor size at detection: Impact on survival, recurrence, inpatient length of stay and neurological deficit",
+      "year": 2025,
+      "venue": "Cancer Research",
+      "volume": "85",
+      "issue": "8_Supplement_1",
+      "pages": "5965-5965",
+      "cited_by_count": 0,
+      "authors": [
+        "James M. Cameron",
+        "Ewan Gray",
+        "Paul Brennan",
+        "Matthew Baker",
+        "Peter S Hall",
+        "A.W. Lishman",
+        "Piyumanga Karunaratne",
+        "Giovanni Tramonti",
+        "Mahéva Vallet"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "James M.",
+          "lastName": "Cameron"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ewan",
+          "lastName": "Gray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Brennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Baker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abigail",
+          "lastName": "Lishman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Piyumanga",
+          "lastName": "Karunaratne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Giovanni",
+          "lastName": "Tramonti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maheva",
+          "lastName": "Vallet"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.ejso.2025.109944",
+      "title": "The risk of contralateral breast cancer during long-term follow-up after breast conserving surgery to inform tailored surveillance protocols",
+      "year": 2025,
+      "venue": "European Journal of Surgical Oncology",
+      "volume": "51",
+      "issue": "",
+      "pages": "109944",
+      "cited_by_count": 0,
+      "authors": [
+        "James Lucocq",
+        "Elliot Erskine",
+        "Peter S Hall"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Lucocq"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elliot",
+          "lastName": "Erskine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hall"
+        }
+      ]
+    },
+    {
+      "doi": "10.1183/13993003.congress-2025.rct2289",
+      "title": "RCT Abstract - Morphine for chronic breathlessness (MABEL): a multi-site, parallel group, dose titration, double-blind, randomised, placebo-controlled trial.",
+      "year": 2025,
+      "venue": "Clinical problems",
+      "volume": "",
+      "issue": "",
+      "pages": "RCT2289",
+      "cited_by_count": 0,
+      "authors": [
+        "Miriam J. Johnson",
+        "Bronwen Williams",
+        "Catriona Keerie",
+        "Sharon Tuck",
+        "Simon P. Hart",
+        "Sabrina Bajwah",
+        "Nazia Chaudhuri",
+        "Mark Pearson",
+        "Judith Cohen",
+        "Rachael A Evans",
+        "David C. Currow",
+        "Irene J Higginson",
+        "Peter S Hall",
+        "Marek Atter",
+        "John Norrie",
+        "Marie Fallon"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Miriam",
+          "lastName": "Johnson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bronwen",
+          "lastName": "Williams"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Catriona",
+          "lastName": "Keerie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sharon",
+          "lastName": "Tuck"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Hart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sabrina",
+          "lastName": "Bajwah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nazia",
+          "lastName": "Chaudhuri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Pearson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Judith",
+          "lastName": "Cohen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rachael",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David C",
+          "lastName": "Currow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Irene J",
+          "lastName": "Higginson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter S",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marek",
+          "lastName": "Atter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Norrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie T",
+          "lastName": "Fallon"
+        }
+      ]
+    },
+    {
+      "doi": "10.1126/scitranslmed.adh0185",
+      "title": "High-throughput mass spectrometry maps the sepsis plasma proteome and differences in patient response",
+      "year": 2024,
+      "venue": "Science Translational Medicine",
+      "volume": "16",
+      "issue": "750",
+      "pages": "eadh0185",
+      "cited_by_count": 55,
+      "authors": [
+        "Yuxin Mi",
+        "Katie L. Burnham",
+        "Philip D. Charles",
+        "Raphael Heilig",
+        "Iolanda Vendrell",
+        "Justin P. Whalley",
+        "Hew D.T. Torrance",
+        "David Antcliffe",
+        "Shaun M. May",
+        "Matt J. Neville",
+        "G. Berridge",
+        "Paula Hutton",
+        "Cyndi G. Geoghegan",
+        "Jayachandran Radhakrishnan",
+        "Alexey I. Nesvizhskii",
+        "Fengchao Yu",
+        "GAinS Investigators",
+        "Emma E. Davenport",
+        "Stuart McKechnie",
+        "Roger Davies",
+        "David JP O’Callaghan",
+        "P. Patel",
+        "Ana Gutierrez del Arroyo",
+        "Fredrik Karpe",
+        "Anthony Gordon",
+        "Gareth L. Ackland",
+        "Charles Hinds",
+        "Román Fischer",
+        "Julian C. Knight",
+        "Nigel R. Webster",
+        "Helen F. Galley",
+        "Jane R. Taylor",
+        "Sally Hall",
+        "Jenni Addison",
+        "Siân Roughton",
+        "Heather Tennant",
+        "Achyut Guleri",
+        "Natalia Waddington",
+        "Dilshan Arawwawala",
+        "John Durcan",
+        "Alasdair Short",
+        "Karen Swan",
+        "Sarah Williams",
+        "Susan Smolen",
+        "Christine Mitchell-Inwang",
+        "Emily Errington",
+        "Maie Templeton",
+        "Pyda Venatesh",
+        "Geraldine Ward",
+        "Marie McCauley"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yuxin",
+          "lastName": "Mi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katie L.",
+          "lastName": "Burnham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip D.",
+          "lastName": "Charles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raphael",
+          "lastName": "Heilig"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iolanda",
+          "lastName": "Vendrell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Justin",
+          "lastName": "Whalley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hew D.",
+          "lastName": "Torrance"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David B.",
+          "lastName": "Antcliffe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shaun M.",
+          "lastName": "May"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matt J.",
+          "lastName": "Neville"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Georgina",
+          "lastName": "Berridge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paula",
+          "lastName": "Hutton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cyndi G.",
+          "lastName": "Geoghegan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jayachandran",
+          "lastName": "Radhakrishnan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexey I.",
+          "lastName": "Nesvizhskii"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fengchao",
+          "lastName": "Yu"
+        },
+        {
+          "creatorType": "author",
+          "name": "GAinS Investigators"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emma E.",
+          "lastName": "Davenport"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stuart",
+          "lastName": "McKechnie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roger",
+          "lastName": "Davies"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David J. P.",
+          "lastName": "O’Callaghan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Parind",
+          "lastName": "Patel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ana G.",
+          "lastName": "del Arroyo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fredrik",
+          "lastName": "Karpe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anthony C.",
+          "lastName": "Gordon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gareth L.",
+          "lastName": "Ackland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charles J.",
+          "lastName": "Hinds"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roman",
+          "lastName": "Fischer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julian C.",
+          "lastName": "Knight"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nigel",
+          "lastName": "Webster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Helen",
+          "lastName": "Galley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Taylor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jenni",
+          "lastName": "Addison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sian",
+          "lastName": "Roughton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heather",
+          "lastName": "Tennant"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Achyut",
+          "lastName": "Guleri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Natalia",
+          "lastName": "Waddington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dilshan",
+          "lastName": "Arawwawala"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Durcan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alasdair",
+          "lastName": "Short"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen",
+          "lastName": "Swan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Williams"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susan",
+          "lastName": "Smolen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christine",
+          "lastName": "Mitchell-Inwang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emily",
+          "lastName": "Errington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maie",
+          "lastName": "Templeton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pyda",
+          "lastName": "Venatesh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Geraldine",
+          "lastName": "Ward"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie",
+          "lastName": "McCauley"
+        }
+      ]
+    },
+    {
+      "doi": "10.1093/bjs/znae118.045",
+      "title": "Decentralized Colorectal Cancer Care: Benefit or Burden in the Pandemic? – An International Comparative Study in two Health Care Systems (DCCC Study)",
+      "year": 2024,
+      "venue": "British Journal of Surgery",
+      "volume": "111",
+      "issue": "Supplement_3",
+      "pages": "znae118.045",
+      "cited_by_count": 0,
+      "authors": [
+        "B Wiesler",
+        "J.‐M. Gass",
+        "Jürg Metzger",
+        "M. Hartel",
+        "Christian A. Nebiker",
+        "Urs Zingg",
+        "Daniel Stimpfle",
+        "C. T. Viehl",
+        "Andreas Müller",
+        "Mathias Worni",
+        "Peter Studer",
+        "Lukas Eisner",
+        "Costa Andreou",
+        "R Rosenberg",
+        "Raffaele Galli",
+        "Beat P. Müller‐Stich",
+        "Kris Denhaerynck",
+        "Peter S Hall",
+        "John C. Gallagher",
+        "Christina Lilley",
+        "Markus Zuber",
+        "Hugh Paterson",
+        "M von Strauss Und Torney"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "B",
+          "lastName": "Wiesler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J M",
+          "lastName": "Gass"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J",
+          "lastName": "Metzger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M",
+          "lastName": "Hartel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C",
+          "lastName": "Nebiker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "U",
+          "lastName": "Zingg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D",
+          "lastName": "Stimpfle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C T",
+          "lastName": "Viehl"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A",
+          "lastName": "Müller"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M",
+          "lastName": "Worni"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P",
+          "lastName": "Studer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "L",
+          "lastName": "Eisner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C",
+          "lastName": "Andreou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R",
+          "lastName": "Rosenberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R",
+          "lastName": "Galli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B P",
+          "lastName": "Müller"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K",
+          "lastName": "Denhaerynck"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C",
+          "lastName": "Gallagher"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C",
+          "lastName": "Lilley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M",
+          "lastName": "Zuber"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "H M",
+          "lastName": "Paterson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M",
+          "lastName": "von Strauss Und Torney"
+        }
+      ]
+    }
+  ]
 }
