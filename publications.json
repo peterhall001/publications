@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-23T10:09:01+00:00",
+  "generated_at": "2026-06-24T09:54:59+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3015"
+    "zotero_library_version": "3027"
   },
   "count": 86,
   "doi_backfilled": 0,
@@ -2900,7 +2900,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 209,
+      "cited_by_count": 210,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
