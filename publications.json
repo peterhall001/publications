@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-24T09:54:59+00:00",
+  "generated_at": "2026-06-25T09:50:13+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -3498,7 +3498,7 @@
       "doi": "10.1001/jamanetworkopen.2023.0490",
       "url": "https://doi.org/10.1001/jamanetworkopen.2023.0490",
       "doi_source": "zotero",
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2801741/goldstein_2023_oi_230033_1676399877.96803.pdf",
       "enriched": true
@@ -5986,7 +5986,7 @@
       "doi": "10.3310/hta20100",
       "url": "https://doi.org/10.3310/hta20100",
       "doi_source": "zotero",
-      "cited_by_count": 78,
+      "cited_by_count": 79,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2003391",
       "enriched": true
