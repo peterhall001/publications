@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-26T09:57:00+00:00",
+  "generated_at": "2026-06-27T09:09:43+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3027"
+    "zotero_library_version": "3148"
   },
-  "count": 86,
+  "count": 124,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -420,105 +420,6 @@
       "cited_by_count": 0,
       "is_oa": true,
       "oa_url": "https://doi.org/10.5167/uzh-433879",
-      "enriched": true
-    },
-    {
-      "zotero_key": "6J27IITB",
-      "item_type": "journalArticle",
-      "title": "190O Clinical outcomes in the OPTIMA prelim (Optimal Personalised Treatment of early breast cancer using Multi-Parameter Analysis) feasibility study",
-      "authors": [
-        {
-          "family": "Stein",
-          "given": "R.C."
-        },
-        {
-          "family": "Marshall",
-          "given": "A."
-        },
-        {
-          "family": "Makris",
-          "given": "A."
-        },
-        {
-          "family": "Hughes-Davies",
-          "given": "L."
-        },
-        {
-          "family": "Macpherson",
-          "given": "I."
-        },
-        {
-          "family": "Hopkins",
-          "given": "A.F."
-        },
-        {
-          "family": "Cameron",
-          "given": "D.A."
-        },
-        {
-          "family": "Canney",
-          "given": "P."
-        },
-        {
-          "family": "Earl",
-          "given": "H.M."
-        },
-        {
-          "family": "Rea",
-          "given": "D.W."
-        },
-        {
-          "family": "Bayani",
-          "given": "J."
-        },
-        {
-          "family": "Hall",
-          "given": "P.S."
-        },
-        {
-          "family": "McCabe",
-          "given": "C."
-        },
-        {
-          "family": "Donovan",
-          "given": "J."
-        },
-        {
-          "family": "Harmer",
-          "given": "V."
-        },
-        {
-          "family": "Pinder",
-          "given": "S.E."
-        },
-        {
-          "family": "Rooshenas",
-          "given": "L."
-        },
-        {
-          "family": "Morgan",
-          "given": "A."
-        },
-        {
-          "family": "Bartlett",
-          "given": "J.M.S."
-        },
-        {
-          "family": "Dunn",
-          "given": "J.A."
-        }
-      ],
-      "year": "2025",
-      "venue": "ESMO Open",
-      "volume": "10",
-      "issue": "",
-      "pages": "104744",
-      "doi": "10.1016/j.esmoop.2025.104744",
-      "url": "https://doi.org/10.1016/j.esmoop.2025.104744",
-      "doi_source": "zotero",
-      "cited_by_count": 1,
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.esmoop.2025.104744",
       "enriched": true
     },
     {
@@ -1066,7 +967,7 @@
       "doi": "10.1038/s41598-025-08785-7",
       "url": "https://doi.org/10.1038/s41598-025-08785-7",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41598-025-08785-7.pdf",
       "enriched": true
@@ -1120,6 +1021,105 @@
       "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://breast-cancer-research.biomedcentral.com/counter/pdf/10.1186/s13058-025-02012-x",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6J27IITB",
+      "item_type": "journalArticle",
+      "title": "Clinical outcomes in the OPTIMA prelim (Optimal Personalised Treatment of early breast cancer using Multi-Parameter Analysis) feasibility study",
+      "authors": [
+        {
+          "family": "Stein",
+          "given": "R.C."
+        },
+        {
+          "family": "Marshall",
+          "given": "A."
+        },
+        {
+          "family": "Makris",
+          "given": "A."
+        },
+        {
+          "family": "Hughes-Davies",
+          "given": "L."
+        },
+        {
+          "family": "Macpherson",
+          "given": "I."
+        },
+        {
+          "family": "Hopkins",
+          "given": "A.F."
+        },
+        {
+          "family": "Cameron",
+          "given": "D.A."
+        },
+        {
+          "family": "Canney",
+          "given": "P."
+        },
+        {
+          "family": "Earl",
+          "given": "H.M."
+        },
+        {
+          "family": "Rea",
+          "given": "D.W."
+        },
+        {
+          "family": "Bayani",
+          "given": "J."
+        },
+        {
+          "family": "Hall",
+          "given": "P.S."
+        },
+        {
+          "family": "McCabe",
+          "given": "C."
+        },
+        {
+          "family": "Donovan",
+          "given": "J."
+        },
+        {
+          "family": "Harmer",
+          "given": "V."
+        },
+        {
+          "family": "Pinder",
+          "given": "S.E."
+        },
+        {
+          "family": "Rooshenas",
+          "given": "L."
+        },
+        {
+          "family": "Morgan",
+          "given": "A."
+        },
+        {
+          "family": "Bartlett",
+          "given": "J.M.S."
+        },
+        {
+          "family": "Dunn",
+          "given": "J.A."
+        }
+      ],
+      "year": "2025",
+      "venue": "ESMO Open",
+      "volume": "10",
+      "issue": "",
+      "pages": "104744",
+      "doi": "10.1016/j.esmoop.2025.104744",
+      "url": "https://doi.org/10.1016/j.esmoop.2025.104744",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.esmoop.2025.104744",
       "enriched": true
     },
     {
@@ -1692,6 +1692,37 @@
       "cited_by_count": 1,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/17/4/601/pdf?version=1739353656",
+      "enriched": true
+    },
+    {
+      "zotero_key": "AWPR3QWE",
+      "item_type": "journalArticle",
+      "title": "The risk of contralateral breast cancer during long-term follow-up after breast conserving surgery to inform tailored surveillance protocols",
+      "authors": [
+        {
+          "family": "Lucocq",
+          "given": "James"
+        },
+        {
+          "family": "Erskine",
+          "given": "Elliot"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        }
+      ],
+      "year": "2025",
+      "venue": "European Journal of Surgical Oncology",
+      "volume": "51",
+      "issue": "",
+      "pages": "109944",
+      "doi": "10.1016/j.ejso.2025.109944",
+      "url": "https://doi.org/10.1016/j.ejso.2025.109944",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
       "enriched": true
     },
     {
@@ -5066,6 +5097,645 @@
       "enriched": true
     },
     {
+      "zotero_key": "ZJAA4UP2",
+      "item_type": "journalArticle",
+      "title": "A randomized, feasibility trial of an exercise and nutrition‐based rehabilitation programme (ENeRgy) in people with cancer",
+      "authors": [
+        {
+          "family": "Hall",
+          "given": "Charlie C."
+        },
+        {
+          "family": "Skipworth",
+          "given": "Richard J.E."
+        },
+        {
+          "family": "Blackwood",
+          "given": "Honor"
+        },
+        {
+          "family": "Brown",
+          "given": "Duncan"
+        },
+        {
+          "family": "Cook",
+          "given": "Jane"
+        },
+        {
+          "family": "Diernberger",
+          "given": "Katharina"
+        },
+        {
+          "family": "Dixon",
+          "given": "Elizabeth"
+        },
+        {
+          "family": "Gibson",
+          "given": "Valerie"
+        },
+        {
+          "family": "Graham",
+          "given": "Catriona"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Haraldsdottir",
+          "given": "Erna"
+        },
+        {
+          "family": "Hopkinson",
+          "given": "Jane"
+        },
+        {
+          "family": "Lloyd",
+          "given": "Anna"
+        },
+        {
+          "family": "Maddocks",
+          "given": "Matthew"
+        },
+        {
+          "family": "Norris",
+          "given": "Lucy"
+        },
+        {
+          "family": "Tuck",
+          "given": "Sharon"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie T."
+        },
+        {
+          "family": "Laird",
+          "given": "Barry J.A."
+        }
+      ],
+      "year": "2021",
+      "venue": "Journal of Cachexia, Sarcopenia and Muscle",
+      "volume": "12",
+      "issue": "6",
+      "pages": "2034-2044",
+      "doi": "10.1002/jcsm.12806",
+      "url": "https://doi.org/10.1002/jcsm.12806",
+      "doi_source": "zotero",
+      "cited_by_count": 44,
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcsm.12806",
+      "enriched": true
+    },
+    {
+      "zotero_key": "JXGENJ7T",
+      "item_type": "journalArticle",
+      "title": "Creation of the first national linked colorectal cancer dataset in Scotland: prospects for future research and a reflection on lessons learned",
+      "authors": [
+        {
+          "family": "Hanna",
+          "given": "Catherine"
+        },
+        {
+          "family": "Lemmon",
+          "given": "Elizabeth"
+        },
+        {
+          "family": "Ennis",
+          "given": "Holly"
+        },
+        {
+          "family": "Jones",
+          "given": "Robert"
+        },
+        {
+          "family": "Hay",
+          "given": "Joy"
+        },
+        {
+          "family": "Halliday",
+          "given": "Roger"
+        },
+        {
+          "family": "Clark",
+          "given": "Steve"
+        },
+        {
+          "family": "Morris",
+          "given": "Eva"
+        },
+        {
+          "family": "Peter",
+          "given": "Hall"
+        }
+      ],
+      "year": "2021",
+      "venue": "International Journal of Population Data Science",
+      "volume": "6",
+      "issue": "1",
+      "pages": "1654-1654",
+      "doi": "10.23889/ijpds.v6i1.1654",
+      "url": "https://doi.org/10.23889/ijpds.v6i1.1654",
+      "doi_source": "zotero",
+      "cited_by_count": 10,
+      "is_oa": true,
+      "oa_url": "https://ijpds.org/article/download/1654/3117",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6FFBMKZX",
+      "item_type": "journalArticle",
+      "title": "Data Resource Profile: The COloRECTal cancer data repository (CORECT-R)",
+      "authors": [
+        {
+          "family": "Downing",
+          "given": "Amy"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Birch",
+          "given": "Rebecca"
+        },
+        {
+          "family": "Lemmon",
+          "given": "Elizabeth"
+        },
+        {
+          "family": "Affleck",
+          "given": "Paul"
+        },
+        {
+          "family": "Rossington",
+          "given": "Hannah"
+        },
+        {
+          "family": "Boldison",
+          "given": "Emily"
+        },
+        {
+          "family": "Ewart",
+          "given": "Paul"
+        },
+        {
+          "family": "Morris",
+          "given": "Eva J A"
+        }
+      ],
+      "year": "2021",
+      "venue": "International Journal of Epidemiology",
+      "volume": "50",
+      "issue": "5",
+      "pages": "1418-1418k",
+      "doi": "10.1093/ije/dyab122",
+      "url": "https://doi.org/10.1093/ije/dyab122",
+      "doi_source": "zotero",
+      "cited_by_count": 20,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/ije/article-pdf/50/5/1418/41120563/dyab122.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6MU3PQCB",
+      "item_type": "journalArticle",
+      "title": "Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Quality of Life and Cancer Control Among Older and Frail Patients With Advanced Gastroesophageal Cancer",
+      "authors": [
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Swinson",
+          "given": "Daniel"
+        },
+        {
+          "family": "Cairns",
+          "given": "David A."
+        },
+        {
+          "family": "Waters",
+          "given": "Justin S."
+        },
+        {
+          "family": "Petty",
+          "given": "Russell"
+        },
+        {
+          "family": "Allmark",
+          "given": "Christine"
+        },
+        {
+          "family": "Ruddock",
+          "given": "Sharon"
+        },
+        {
+          "family": "Falk",
+          "given": "Stephen"
+        },
+        {
+          "family": "Wadsley",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Roy",
+          "given": "Rajarshi"
+        },
+        {
+          "family": "Tillett",
+          "given": "Tania"
+        },
+        {
+          "family": "Nicoll",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Cummins",
+          "given": "Sebastian"
+        },
+        {
+          "family": "Mano",
+          "given": "Joseph"
+        },
+        {
+          "family": "Grumett",
+          "given": "Simon"
+        },
+        {
+          "family": "Stokes",
+          "given": "Zuzana"
+        },
+        {
+          "family": "Kamposioras",
+          "given": "Konstantinos-Velios"
+        },
+        {
+          "family": "Chatterjee",
+          "given": "Anirban"
+        },
+        {
+          "family": "Garcia",
+          "given": "Angel"
+        },
+        {
+          "family": "Waddell",
+          "given": "Tom"
+        },
+        {
+          "family": "Guptal",
+          "given": "Kamalnayan"
+        },
+        {
+          "family": "Maisey",
+          "given": "Nick"
+        },
+        {
+          "family": "Khan",
+          "given": "Mohammed"
+        },
+        {
+          "family": "Dent",
+          "given": "Jo"
+        },
+        {
+          "family": "Lord",
+          "given": "Simon"
+        },
+        {
+          "family": "Crossley",
+          "given": "Ann"
+        },
+        {
+          "family": "Katona",
+          "given": "Eszter"
+        },
+        {
+          "family": "Marshall",
+          "given": "Helen"
+        },
+        {
+          "family": "Grabsch",
+          "given": "Heike I."
+        },
+        {
+          "family": "Velikova",
+          "given": "Galina"
+        },
+        {
+          "family": "Ow",
+          "given": "Pei Loo"
+        },
+        {
+          "family": "Handforth",
+          "given": "Catherine"
+        },
+        {
+          "family": "Howard",
+          "given": "Helen"
+        },
+        {
+          "family": "Seymour",
+          "given": "Matthew T."
+        },
+        {
+          "family": "GO2 Trial Investigators",
+          "given": ""
+        },
+        {
+          "family": "James",
+          "given": "Eleanor"
+        },
+        {
+          "family": "Cheeseman",
+          "given": "Sue"
+        },
+        {
+          "family": "Roques",
+          "given": "Tom"
+        },
+        {
+          "family": "Reed",
+          "given": "Nick"
+        },
+        {
+          "family": "Candish",
+          "given": "Charles"
+        },
+        {
+          "family": "Fyfe",
+          "given": "David"
+        },
+        {
+          "family": "Last",
+          "given": "Kim"
+        },
+        {
+          "family": "Ellis",
+          "given": "Richard"
+        },
+        {
+          "family": "Samuel",
+          "given": "Lesley"
+        },
+        {
+          "family": "Herbertson",
+          "given": "Rebecca"
+        },
+        {
+          "family": "Medley",
+          "given": "Louise"
+        },
+        {
+          "family": "Patel",
+          "given": "Kinnari"
+        },
+        {
+          "family": "Sherriff",
+          "given": "David"
+        },
+        {
+          "family": "Robinson",
+          "given": "Angus"
+        },
+        {
+          "family": "Bezecny",
+          "given": "Pavel"
+        }
+      ],
+      "year": "2021",
+      "venue": "JAMA Oncology",
+      "volume": "7",
+      "issue": "6",
+      "pages": "869",
+      "doi": "10.1001/jamaoncol.2021.0848",
+      "url": "https://doi.org/10.1001/jamaoncol.2021.0848",
+      "doi_source": "zotero",
+      "cited_by_count": 191,
+      "is_oa": true,
+      "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2780033/jamaoncology_hall_2021_oi_210009_1624469496.87358.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "QJK366IK",
+      "item_type": "journalArticle",
+      "title": "Genomic and Transcriptomic Analyses of Breast Cancer Primaries and Matched Metastases in AURORA, the Breast International Group (BIG) Molecular Screening Initiative",
+      "authors": [
+        {
+          "family": "Aftimos",
+          "given": "Philippe"
+        },
+        {
+          "family": "Oliveira",
+          "given": "Mafalda"
+        },
+        {
+          "family": "Irrthum",
+          "given": "Alexandre"
+        },
+        {
+          "family": "Fumagalli",
+          "given": "Debora"
+        },
+        {
+          "family": "Sotiriou",
+          "given": "Christos"
+        },
+        {
+          "family": "Gal-Yam",
+          "given": "Einav Nili"
+        },
+        {
+          "family": "Robson",
+          "given": "Mark E."
+        },
+        {
+          "family": "Ndozeng",
+          "given": "Justin"
+        },
+        {
+          "family": "Di Leo",
+          "given": "Angelo"
+        },
+        {
+          "family": "Ciruelos",
+          "given": "Eva M."
+        },
+        {
+          "family": "de Azambuja",
+          "given": "Evandro"
+        },
+        {
+          "family": "Viale",
+          "given": "Giuseppe"
+        },
+        {
+          "family": "Scheepers",
+          "given": "Elsemieke D."
+        },
+        {
+          "family": "Curigliano",
+          "given": "Giuseppe"
+        },
+        {
+          "family": "Bliss",
+          "given": "Judith M."
+        },
+        {
+          "family": "Reis-Filho",
+          "given": "Jorge S."
+        },
+        {
+          "family": "Colleoni",
+          "given": "Marco"
+        },
+        {
+          "family": "Balic",
+          "given": "Marija"
+        },
+        {
+          "family": "Cardoso",
+          "given": "Fatima"
+        },
+        {
+          "family": "Albanell",
+          "given": "Joan"
+        },
+        {
+          "family": "Duhem",
+          "given": "Caroline"
+        },
+        {
+          "family": "Marreaud",
+          "given": "Sandrine"
+        },
+        {
+          "family": "Romagnoli",
+          "given": "Dario"
+        },
+        {
+          "family": "Rojas",
+          "given": "Beatriz"
+        },
+        {
+          "family": "Gombos",
+          "given": "Andrea"
+        },
+        {
+          "family": "Wildiers",
+          "given": "Hans"
+        },
+        {
+          "family": "Guerrero-Zotano",
+          "given": "Angel"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Bonetti",
+          "given": "Andrea"
+        },
+        {
+          "family": "Larsson",
+          "given": "Karolina Fs"
+        },
+        {
+          "family": "Degiorgis",
+          "given": "Martina"
+        },
+        {
+          "family": "Khodaverdi",
+          "given": "Silvia"
+        },
+        {
+          "family": "Greil",
+          "given": "Richard"
+        },
+        {
+          "family": "Sverrisdóttir",
+          "given": "Ásgerdur"
+        },
+        {
+          "family": "Paoli",
+          "given": "Marta"
+        },
+        {
+          "family": "Seyll",
+          "given": "Ethel"
+        },
+        {
+          "family": "Loibl",
+          "given": "Sibylle"
+        },
+        {
+          "family": "Linderholm",
+          "given": "Barbro"
+        },
+        {
+          "family": "Zoppoli",
+          "given": "Gabriele"
+        },
+        {
+          "family": "Davidson",
+          "given": "Nancy E."
+        },
+        {
+          "family": "Johannsson",
+          "given": "Oskar Th"
+        },
+        {
+          "family": "Bedard",
+          "given": "Philippe L."
+        },
+        {
+          "family": "Loi",
+          "given": "Sherene"
+        },
+        {
+          "family": "Knox",
+          "given": "Susan"
+        },
+        {
+          "family": "Cameron",
+          "given": "David A."
+        },
+        {
+          "family": "Harbeck",
+          "given": "Nadia"
+        },
+        {
+          "family": "Montoya",
+          "given": "Maite Lasa"
+        },
+        {
+          "family": "Brandão",
+          "given": "Mariana"
+        },
+        {
+          "family": "Vingiani",
+          "given": "Andrea"
+        },
+        {
+          "family": "Caballero",
+          "given": "Carmela"
+        }
+      ],
+      "year": "2021",
+      "venue": "Cancer Discovery",
+      "volume": "11",
+      "issue": "11",
+      "pages": "2796-2811",
+      "doi": "10.1158/2159-8290.cd-20-1647",
+      "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
+      "doi_source": "zotero",
+      "cited_by_count": 177,
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "PU9P3GD4",
       "item_type": "journalArticle",
       "title": "Probabilistic One-Way Sensitivity Analysis with Multiple Comparators: The Conditional Net Benefit Frontier",
@@ -5102,6 +5772,2454 @@
       "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-020-00983-7.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "TN5AEUZE",
+      "item_type": "journalArticle",
+      "title": "Risk of missing colorectal cancer with a COVID-adapted diagnostic pathway using quantitative faecal immunochemical testing",
+      "authors": [
+        {
+          "family": "Maeda",
+          "given": "Y"
+        },
+        {
+          "family": "Gray",
+          "given": "E"
+        },
+        {
+          "family": "Figueroa",
+          "given": "J D"
+        },
+        {
+          "family": "Hall",
+          "given": "P S"
+        },
+        {
+          "family": "Weller",
+          "given": "D"
+        },
+        {
+          "family": "Dunlop",
+          "given": "M G"
+        },
+        {
+          "family": "Din",
+          "given": "F V N"
+        }
+      ],
+      "year": "2021",
+      "venue": "BJS Open",
+      "volume": "5",
+      "issue": "4",
+      "pages": "zrab056",
+      "doi": "10.1093/bjsopen/zrab056",
+      "url": "https://doi.org/10.1093/bjsopen/zrab056",
+      "doi_source": "zotero",
+      "cited_by_count": 7,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/bjsopen/article-pdf/5/4/zrab056/42504946/zrab056.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "9AC789BJ",
+      "item_type": "journalArticle",
+      "title": "The Finding My Way UK Clinical Trial: Adaptation Report and Protocol for a Replication Randomized Controlled Efficacy Trial of a Web-Based Psychological Program to Support Cancer Survivors",
+      "authors": [
+        {
+          "family": "Hulbert-Williams",
+          "given": "Nicholas J"
+        },
+        {
+          "family": "Leslie",
+          "given": "Monica"
+        },
+        {
+          "family": "Hulbert-Williams",
+          "given": "Lee"
+        },
+        {
+          "family": "Koczwara",
+          "given": "Bogda"
+        },
+        {
+          "family": "Watson",
+          "given": "Eila K"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "Ashley",
+          "given": "Laura"
+        },
+        {
+          "family": "Coulson",
+          "given": "Neil S"
+        },
+        {
+          "family": "Jackson",
+          "given": "Richard"
+        },
+        {
+          "family": "Millington",
+          "given": "Sue"
+        },
+        {
+          "family": "The Finding My Way UK Trial Steering Group",
+          "given": ""
+        },
+        {
+          "family": "Beatty",
+          "given": "Lisa"
+        }
+      ],
+      "year": "2021",
+      "venue": "JMIR Research Protocols",
+      "volume": "10",
+      "issue": "9",
+      "pages": "e31976",
+      "doi": "10.2196/31976",
+      "url": "https://doi.org/10.2196/31976",
+      "doi_source": "zotero",
+      "cited_by_count": 4,
+      "is_oa": true,
+      "oa_url": "https://jmir.org/api/download?alt_name=resprot_v10i9e31976_app1.pdf&filename=e7ec64685ce040a47ea7744d458a3406.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "9GCMVNF6",
+      "item_type": "journalArticle",
+      "title": "The impact of COVID-19 on systemic anticancer treatment delivery in Scotland",
+      "authors": [
+        {
+          "family": "Baxter",
+          "given": "Mark A."
+        },
+        {
+          "family": "Murphy",
+          "given": "John"
+        },
+        {
+          "family": "Cameron",
+          "given": "David"
+        },
+        {
+          "family": "Jordan",
+          "given": "Judith"
+        },
+        {
+          "family": "Crearie",
+          "given": "Christine"
+        },
+        {
+          "family": "Lilley",
+          "given": "Christina"
+        },
+        {
+          "family": "Sadozye",
+          "given": "Azmat"
+        },
+        {
+          "family": "Maclean",
+          "given": "Mary"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Phillips",
+          "given": "Angela"
+        },
+        {
+          "family": "Greger",
+          "given": "Alex"
+        },
+        {
+          "family": "Madeleine",
+          "given": "Jude"
+        },
+        {
+          "family": "Petty",
+          "given": "Russell D."
+        }
+      ],
+      "year": "2021",
+      "venue": "British Journal of Cancer",
+      "volume": "124",
+      "issue": "8",
+      "pages": "1353-1356",
+      "doi": "10.1038/s41416-021-01262-8",
+      "url": "https://doi.org/10.1038/s41416-021-01262-8",
+      "doi_source": "zotero",
+      "cited_by_count": 43,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41416-021-01262-8.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "K4VWNQW4",
+      "item_type": "journalArticle",
+      "title": "Variation in chemotherapy prescribing rates and mortality in early breast cancer over two decades: a national data linkage study",
+      "authors": [
+        {
+          "family": "Gray",
+          "given": "E."
+        },
+        {
+          "family": "Figueroa",
+          "given": "J.D."
+        },
+        {
+          "family": "Oikonomidou",
+          "given": "O."
+        },
+        {
+          "family": "MacPherson",
+          "given": "I."
+        },
+        {
+          "family": "Urquhart",
+          "given": "G."
+        },
+        {
+          "family": "Cameron",
+          "given": "D.A."
+        },
+        {
+          "family": "Hall",
+          "given": "P.S."
+        }
+      ],
+      "year": "2021",
+      "venue": "ESMO Open",
+      "volume": "6",
+      "issue": "6",
+      "pages": "100331",
+      "doi": "10.1016/j.esmoop.2021.100331",
+      "url": "https://doi.org/10.1016/j.esmoop.2021.100331",
+      "doi_source": "zotero",
+      "cited_by_count": 13,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.esmoop.2021.100331",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6WXRM8US",
+      "item_type": "journalArticle",
+      "title": "Capivasertib Plus Paclitaxel Versus Placebo Plus Paclitaxel As First-Line Therapy for Metastatic Triple-Negative Breast Cancer: The PAKT Trial",
+      "authors": [
+        {
+          "family": "Schmid",
+          "given": "Peter"
+        },
+        {
+          "family": "Abraham",
+          "given": "Jacinta"
+        },
+        {
+          "family": "Chan",
+          "given": "Stephen"
+        },
+        {
+          "family": "Wheatley",
+          "given": "Duncan"
+        },
+        {
+          "family": "Brunt",
+          "given": "Adrian Murray"
+        },
+        {
+          "family": "Nemsadze",
+          "given": "Gia"
+        },
+        {
+          "family": "Baird",
+          "given": "Richard D."
+        },
+        {
+          "family": "Park",
+          "given": "Yeon Hee"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Perren",
+          "given": "Timothy"
+        },
+        {
+          "family": "Stein",
+          "given": "Robert C."
+        },
+        {
+          "family": "Mangel",
+          "given": "László"
+        },
+        {
+          "family": "Ferrero",
+          "given": "Jean-Marc"
+        },
+        {
+          "family": "Phillips",
+          "given": "Melissa"
+        },
+        {
+          "family": "Conibear",
+          "given": "John"
+        },
+        {
+          "family": "Cortes",
+          "given": "Javier"
+        },
+        {
+          "family": "Foxley",
+          "given": "Andrew"
+        },
+        {
+          "family": "de Bruin",
+          "given": "Elza C."
+        },
+        {
+          "family": "McEwen",
+          "given": "Robert"
+        },
+        {
+          "family": "Stetson",
+          "given": "Daniel"
+        },
+        {
+          "family": "Dougherty",
+          "given": "Brian"
+        },
+        {
+          "family": "Sarker",
+          "given": "Shah-Jalal"
+        },
+        {
+          "family": "Prendergast",
+          "given": "Aaron"
+        },
+        {
+          "family": "McLaughlin-Callan",
+          "given": "Max"
+        },
+        {
+          "family": "Burgess",
+          "given": "Matthew"
+        },
+        {
+          "family": "Lawrence",
+          "given": "Cheryl"
+        },
+        {
+          "family": "Cartwright",
+          "given": "Hayley"
+        },
+        {
+          "family": "Mousa",
+          "given": "Kelly"
+        },
+        {
+          "family": "Turner",
+          "given": "Nicholas C."
+        }
+      ],
+      "year": "2020",
+      "venue": "Journal of Clinical Oncology",
+      "volume": "38",
+      "issue": "5",
+      "pages": "423-433",
+      "doi": "10.1200/jco.19.00368",
+      "url": "https://doi.org/10.1200/jco.19.00368",
+      "doi_source": "zotero",
+      "cited_by_count": 389,
+      "is_oa": true,
+      "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
+      "enriched": true
+    },
+    {
+      "zotero_key": "GI4FS3SC",
+      "item_type": "journalArticle",
+      "title": "Distinct temporal trends in breast cancer incidence from 1997 to 2016 by molecular subtypes: a population-based study of Scottish cancer registry data",
+      "authors": [
+        {
+          "family": "Mesa-Eguiagaray",
+          "given": "Ines"
+        },
+        {
+          "family": "Wild",
+          "given": "Sarah H."
+        },
+        {
+          "family": "Rosenberg",
+          "given": "Philip S."
+        },
+        {
+          "family": "Bird",
+          "given": "Sheila M."
+        },
+        {
+          "family": "Brewster",
+          "given": "David H."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Cameron",
+          "given": "David A."
+        },
+        {
+          "family": "Morrison",
+          "given": "David"
+        },
+        {
+          "family": "Figueroa",
+          "given": "Jonine D."
+        }
+      ],
+      "year": "2020",
+      "venue": "British Journal of Cancer",
+      "volume": "123",
+      "issue": "5",
+      "pages": "852-859",
+      "doi": "10.1038/s41416-020-0938-z",
+      "url": "https://doi.org/10.1038/s41416-020-0938-z",
+      "doi_source": "zotero",
+      "cited_by_count": 52,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41416-020-0938-z.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "W7KDQZPM",
+      "item_type": "journalArticle",
+      "title": "Dynamic Changes in High-Sensitivity Cardiac Troponin I in Response to Anthracycline-Based Chemotherapy",
+      "authors": [
+        {
+          "family": "Tzolos",
+          "given": "E."
+        },
+        {
+          "family": "Adamson",
+          "given": "P.D."
+        },
+        {
+          "family": "Hall",
+          "given": "P.S."
+        },
+        {
+          "family": "Macpherson",
+          "given": "I.R."
+        },
+        {
+          "family": "Oikonomidou",
+          "given": "O."
+        },
+        {
+          "family": "MacLean",
+          "given": "M."
+        },
+        {
+          "family": "Lewis",
+          "given": "S.C."
+        },
+        {
+          "family": "McVicars",
+          "given": "H."
+        },
+        {
+          "family": "Newby",
+          "given": "D.E."
+        },
+        {
+          "family": "Mills",
+          "given": "N.L."
+        },
+        {
+          "family": "Lang",
+          "given": "N.N."
+        },
+        {
+          "family": "Henriksen",
+          "given": "P.A."
+        }
+      ],
+      "year": "2020",
+      "venue": "Clinical Oncology",
+      "volume": "32",
+      "issue": "5",
+      "pages": "292-297",
+      "doi": "10.1016/j.clon.2019.11.008",
+      "url": "https://doi.org/10.1016/j.clon.2019.11.008",
+      "doi_source": "zotero",
+      "cited_by_count": 38,
+      "is_oa": true,
+      "oa_url": "http://www.clinicaloncologyonline.net/article/S0936655519304960/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "33C4RDWM",
+      "item_type": "journalArticle",
+      "title": "One-Way Sensitivity Analysis for Probabilistic Cost-Effectiveness Analysis: Conditional Expected Incremental Net Benefit",
+      "authors": [
+        {
+          "family": "McCabe",
+          "given": "Christopher"
+        },
+        {
+          "family": "Paulden",
+          "given": "Mike"
+        },
+        {
+          "family": "Awotwe",
+          "given": "Isaac"
+        },
+        {
+          "family": "Sutton",
+          "given": "Andrew"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        }
+      ],
+      "year": "2020",
+      "venue": "PharmacoEconomics",
+      "volume": "38",
+      "issue": "2",
+      "pages": "135-141",
+      "doi": "10.1007/s40273-019-00869-3",
+      "url": "https://doi.org/10.1007/s40273-019-00869-3",
+      "doi_source": "zotero",
+      "cited_by_count": 64,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-019-00869-3.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "GH2XNPFI",
+      "item_type": "journalArticle",
+      "title": "Rationale and study design: A randomized controlled trial of early palliative care in newly diagnosed cancer patients in Addis Ababa, Ethiopia",
+      "authors": [
+        {
+          "family": "Reid",
+          "given": "Eleanor"
+        },
+        {
+          "family": "Abathun",
+          "given": "Ephrem"
+        },
+        {
+          "family": "Diribi",
+          "given": "Jilcha"
+        },
+        {
+          "family": "Mamo",
+          "given": "Yoseph"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Wondemagegnhu",
+          "given": "Tigineh"
+        },
+        {
+          "family": "Grant",
+          "given": "Liz"
+        }
+      ],
+      "year": "2020",
+      "venue": "Contemporary Clinical Trials Communications",
+      "volume": "18",
+      "issue": "",
+      "pages": "100564",
+      "doi": "10.1016/j.conctc.2020.100564",
+      "url": "https://doi.org/10.1016/j.conctc.2020.100564",
+      "doi_source": "zotero",
+      "cited_by_count": 6,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.conctc.2020.100564",
+      "enriched": true
+    },
+    {
+      "zotero_key": "2FVVS2H5",
+      "item_type": "journalArticle",
+      "title": "SABRTooth: a randomised controlled feasibility study of stereotactic ablative radiotherapy (SABR) with surgery in patients with peripheral stage I nonsmall cell lung cancer considered to be at higher risk of complications from surgical resection",
+      "authors": [
+        {
+          "family": "Franks",
+          "given": "Kevin N."
+        },
+        {
+          "family": "McParland",
+          "given": "Lucy"
+        },
+        {
+          "family": "Webster",
+          "given": "Joanne"
+        },
+        {
+          "family": "Baldwin",
+          "given": "David R."
+        },
+        {
+          "family": "Sebag-Montefiore",
+          "given": "David"
+        },
+        {
+          "family": "Evison",
+          "given": "Matthew"
+        },
+        {
+          "family": "Booton",
+          "given": "Richard"
+        },
+        {
+          "family": "Faivre-Finn",
+          "given": "Corinne"
+        },
+        {
+          "family": "Naidu",
+          "given": "Babu"
+        },
+        {
+          "family": "Ferguson",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Peedell",
+          "given": "Clive"
+        },
+        {
+          "family": "Callister",
+          "given": "Matthew E.J."
+        },
+        {
+          "family": "Kennedy",
+          "given": "Martyn"
+        },
+        {
+          "family": "Hewison",
+          "given": "Jenny"
+        },
+        {
+          "family": "Bestall",
+          "given": "Janine"
+        },
+        {
+          "family": "Gregory",
+          "given": "Walter M."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Collinson",
+          "given": "Fiona"
+        },
+        {
+          "family": "Olivier",
+          "given": "Catherine"
+        },
+        {
+          "family": "Naylor",
+          "given": "Rachel"
+        },
+        {
+          "family": "Bell",
+          "given": "Sue"
+        },
+        {
+          "family": "Allen",
+          "given": "Peter"
+        },
+        {
+          "family": "Sloss",
+          "given": "Andrew"
+        },
+        {
+          "family": "Snee",
+          "given": "Michael"
+        }
+      ],
+      "year": "2020",
+      "venue": "European Respiratory Journal",
+      "volume": "56",
+      "issue": "5",
+      "pages": "2000118",
+      "doi": "10.1183/13993003.00118-2020",
+      "url": "https://doi.org/10.1183/13993003.00118-2020",
+      "doi_source": "zotero",
+      "cited_by_count": 54,
+      "is_oa": true,
+      "oa_url": "https://erj.ersjournals.com/content/erj/56/5/2000118.full.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "Q3ZFEUGE",
+      "item_type": "journalArticle",
+      "title": "Six versus 12 months’ adjuvant trastuzumab in patients with HER2-positive early breast cancer: the PERSEPHONE non-inferiority RCT",
+      "authors": [
+        {
+          "family": "Earl",
+          "given": "Helena"
+        },
+        {
+          "family": "Hiller",
+          "given": "Louise"
+        },
+        {
+          "family": "Vallier",
+          "given": "Anne-Laure"
+        },
+        {
+          "family": "Loi",
+          "given": "Shrushma"
+        },
+        {
+          "family": "McAdam",
+          "given": "Karen"
+        },
+        {
+          "family": "Hughes-Davies",
+          "given": "Luke"
+        },
+        {
+          "family": "Rea",
+          "given": "Daniel"
+        },
+        {
+          "family": "Howe",
+          "given": "Donna"
+        },
+        {
+          "family": "Raynes",
+          "given": "Kerry"
+        },
+        {
+          "family": "Higgins",
+          "given": "Helen B"
+        },
+        {
+          "family": "Wilcox",
+          "given": "Maggie"
+        },
+        {
+          "family": "Plummer",
+          "given": "Chris"
+        },
+        {
+          "family": "Mahler-Araujo",
+          "given": "Betania"
+        },
+        {
+          "family": "Provenzano",
+          "given": "Elena"
+        },
+        {
+          "family": "Chhabra",
+          "given": "Anita"
+        },
+        {
+          "family": "Gasson",
+          "given": "Sophie"
+        },
+        {
+          "family": "Balmer",
+          "given": "Claire"
+        },
+        {
+          "family": "Abraham",
+          "given": "Jean E"
+        },
+        {
+          "family": "Caldas",
+          "given": "Carlos"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Shinkins",
+          "given": "Bethany"
+        },
+        {
+          "family": "McCabe",
+          "given": "Christopher"
+        },
+        {
+          "family": "Hulme",
+          "given": "Claire"
+        },
+        {
+          "family": "Miles",
+          "given": "David"
+        },
+        {
+          "family": "Wardley",
+          "given": "Andrew M"
+        },
+        {
+          "family": "Cameron",
+          "given": "David A"
+        },
+        {
+          "family": "Dunn",
+          "given": "Janet A"
+        }
+      ],
+      "year": "2020",
+      "venue": "Health Technology Assessment",
+      "volume": "24",
+      "issue": "40",
+      "pages": "1-190",
+      "doi": "10.3310/hta24400",
+      "url": "https://doi.org/10.3310/hta24400",
+      "doi_source": "zotero",
+      "cited_by_count": 22,
+      "is_oa": true,
+      "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2033711",
+      "enriched": true
+    },
+    {
+      "zotero_key": "ZXV9C6M2",
+      "item_type": "journalArticle",
+      "title": "Strategies to Improve Recruitment to a De-escalation Trial: A Mixed-Methods Study of the OPTIMA Prelim Trial in Early Breast Cancer",
+      "authors": [
+        {
+          "family": "Conefrey",
+          "given": "C."
+        },
+        {
+          "family": "Donovan",
+          "given": "J.L."
+        },
+        {
+          "family": "Stein",
+          "given": "R.C."
+        },
+        {
+          "family": "Paramasivan",
+          "given": "S."
+        },
+        {
+          "family": "Marshall",
+          "given": "A."
+        },
+        {
+          "family": "Bartlett",
+          "given": "J."
+        },
+        {
+          "family": "Cameron",
+          "given": "D."
+        },
+        {
+          "family": "Campbell",
+          "given": "A."
+        },
+        {
+          "family": "Dunn",
+          "given": "J."
+        },
+        {
+          "family": "Earl",
+          "given": "H."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Harmer",
+          "given": "V."
+        },
+        {
+          "family": "Hughes-Davies",
+          "given": "L."
+        },
+        {
+          "family": "Macpherson",
+          "given": "I."
+        },
+        {
+          "family": "Makris",
+          "given": "A."
+        },
+        {
+          "family": "Morgan",
+          "given": "A."
+        },
+        {
+          "family": "Pinder",
+          "given": "S."
+        },
+        {
+          "family": "Poole",
+          "given": "C."
+        },
+        {
+          "family": "Rea",
+          "given": "D."
+        },
+        {
+          "family": "Rooshenas",
+          "given": "L."
+        }
+      ],
+      "year": "2020",
+      "venue": "Clinical Oncology",
+      "volume": "32",
+      "issue": "6",
+      "pages": "382-389",
+      "doi": "10.1016/j.clon.2020.01.029",
+      "url": "https://doi.org/10.1016/j.clon.2020.01.029",
+      "doi_source": "zotero",
+      "cited_by_count": 12,
+      "is_oa": true,
+      "oa_url": "http://www.clinicaloncologyonline.net/article/S0936655520300376/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "AHQ47Q3B",
+      "item_type": "journalArticle",
+      "title": "The investigative burden of membranous nephropathy in the UK",
+      "authors": [
+        {
+          "family": "Hamilton",
+          "given": "Patrick"
+        },
+        {
+          "family": "Wilson",
+          "given": "Fiona"
+        },
+        {
+          "family": "Chinnadurai",
+          "given": "Rajkumar"
+        },
+        {
+          "family": "Sinha",
+          "given": "Smeeta"
+        },
+        {
+          "family": "Singh",
+          "given": "Malinder"
+        },
+        {
+          "family": "Ponnusamy",
+          "given": "Arvind"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Dhaygude",
+          "given": "Ajay"
+        },
+        {
+          "family": "Kanigicherla",
+          "given": "Durga"
+        },
+        {
+          "family": "Brenchley",
+          "given": "Paul"
+        }
+      ],
+      "year": "2020",
+      "venue": "Clinical Kidney Journal",
+      "volume": "13",
+      "issue": "1",
+      "pages": "27-34",
+      "doi": "10.1093/ckj/sfz036",
+      "url": "https://doi.org/10.1093/ckj/sfz036",
+      "doi_source": "zotero",
+      "cited_by_count": 12,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/ckj/article-pdf/13/1/27/32500176/sfz036.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "44DEEBEG",
+      "item_type": "journalArticle",
+      "title": "Utilisation of Personal Care Services in Scotland: The Influence of                         Unpaid Carers",
+      "authors": [
+        {
+          "family": "Lemmon",
+          "given": "Elizabeth"
+        }
+      ],
+      "year": "2020",
+      "venue": "Journal of Long-Term Care",
+      "volume": "0",
+      "issue": "2020",
+      "pages": "54",
+      "doi": "10.31389/jltc.23",
+      "url": "https://doi.org/10.31389/jltc.23",
+      "doi_source": "zotero",
+      "cited_by_count": 5,
+      "is_oa": true,
+      "oa_url": "http://journal.ilpnetwork.org/articles/10.31389/jltc.23/galley/49/download/",
+      "enriched": true
+    },
+    {
+      "zotero_key": "WFKKEFQJ",
+      "item_type": "journalArticle",
+      "title": "6 versus 12 months of adjuvant trastuzumab for HER2-positive early breast cancer (PERSEPHONE): 4-year disease-free survival results of a randomised phase 3 non-inferiority trial",
+      "authors": [
+        {
+          "family": "Earl",
+          "given": "Helena M"
+        },
+        {
+          "family": "Hiller",
+          "given": "Louise"
+        },
+        {
+          "family": "Vallier",
+          "given": "Anne-Laure"
+        },
+        {
+          "family": "Loi",
+          "given": "Shrushma"
+        },
+        {
+          "family": "McAdam",
+          "given": "Karen"
+        },
+        {
+          "family": "Hughes-Davies",
+          "given": "Luke"
+        },
+        {
+          "family": "Harnett",
+          "given": "Adrian N"
+        },
+        {
+          "family": "Ah-See",
+          "given": "Mei-Lin"
+        },
+        {
+          "family": "Simcock",
+          "given": "Richard"
+        },
+        {
+          "family": "Rea",
+          "given": "Daniel"
+        },
+        {
+          "family": "Raj",
+          "given": "Sanjay"
+        },
+        {
+          "family": "Woodings",
+          "given": "Pamela"
+        },
+        {
+          "family": "Harries",
+          "given": "Mark"
+        },
+        {
+          "family": "Howe",
+          "given": "Donna"
+        },
+        {
+          "family": "Raynes",
+          "given": "Kerry"
+        },
+        {
+          "family": "Higgins",
+          "given": "Helen B"
+        },
+        {
+          "family": "Wilcox",
+          "given": "Maggie"
+        },
+        {
+          "family": "Plummer",
+          "given": "Chris"
+        },
+        {
+          "family": "Mansi",
+          "given": "Janine"
+        },
+        {
+          "family": "Gounaris",
+          "given": "Ioannis"
+        },
+        {
+          "family": "Mahler–Araujo",
+          "given": "Betania"
+        },
+        {
+          "family": "Provenzano",
+          "given": "Elena"
+        },
+        {
+          "family": "Chhabra",
+          "given": "Anita"
+        },
+        {
+          "family": "Abraham",
+          "given": "Jean E"
+        },
+        {
+          "family": "Caldas",
+          "given": "Carlos"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "McCabe",
+          "given": "Christopher"
+        },
+        {
+          "family": "Hulme",
+          "given": "Claire"
+        },
+        {
+          "family": "Miles",
+          "given": "David"
+        },
+        {
+          "family": "Wardley",
+          "given": "Andrew M"
+        },
+        {
+          "family": "Cameron",
+          "given": "David A"
+        },
+        {
+          "family": "Dunn",
+          "given": "Janet A"
+        },
+        {
+          "family": "Agarwal",
+          "given": "Roshan"
+        },
+        {
+          "family": "Algurafi",
+          "given": "Hafiz"
+        },
+        {
+          "family": "Allerton",
+          "given": "Rozenn"
+        },
+        {
+          "family": "Archer",
+          "given": "Caroline"
+        },
+        {
+          "family": "Armstrong",
+          "given": "Anne"
+        },
+        {
+          "family": "Bale",
+          "given": "Catherine"
+        },
+        {
+          "family": "Barraclough",
+          "given": "Lisa"
+        },
+        {
+          "family": "Barthakur",
+          "given": "Urmila"
+        },
+        {
+          "family": "Bedi",
+          "given": "Carolyn"
+        },
+        {
+          "family": "Benstead",
+          "given": "Kim"
+        },
+        {
+          "family": "Bloomfield",
+          "given": "David"
+        },
+        {
+          "family": "Bowen",
+          "given": "Rebecca"
+        },
+        {
+          "family": "Bradley",
+          "given": "Chris"
+        },
+        {
+          "family": "Brown",
+          "given": "Jane"
+        },
+        {
+          "family": "Butt",
+          "given": "Mohammad"
+        },
+        {
+          "family": "Churn",
+          "given": "Mark"
+        },
+        {
+          "family": "Cleator",
+          "given": "Susan"
+        },
+        {
+          "family": "Cliff",
+          "given": "Joanne"
+        }
+      ],
+      "year": "2019",
+      "venue": "The Lancet",
+      "volume": "393",
+      "issue": "10191",
+      "pages": "2599-2612",
+      "doi": "10.1016/s0140-6736(19)30650-6",
+      "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
+      "doi_source": "zotero",
+      "cited_by_count": 283,
+      "is_oa": true,
+      "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "R3GWZMVS",
+      "item_type": "journalArticle",
+      "title": "Chemotherapy effectiveness in trial-underrepresented groups with early breast cancer: A retrospective cohort study",
+      "authors": [
+        {
+          "family": "Gray",
+          "given": "Ewan"
+        },
+        {
+          "family": "Marti",
+          "given": "Joachim"
+        },
+        {
+          "family": "Wyatt",
+          "given": "Jeremy C."
+        },
+        {
+          "family": "Brewster",
+          "given": "David H."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "SATURNE advisory group",
+          "given": ""
+        }
+      ],
+      "year": "2019",
+      "venue": "PLOS Medicine",
+      "volume": "16",
+      "issue": "12",
+      "pages": "e1003006",
+      "doi": "10.1371/journal.pmed.1003006",
+      "url": "https://doi.org/10.1371/journal.pmed.1003006",
+      "doi_source": "zotero",
+      "cited_by_count": 22,
+      "is_oa": true,
+      "oa_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1003006&type=printable",
+      "enriched": true
+    },
+    {
+      "zotero_key": "D3XFCRN9",
+      "item_type": "journalArticle",
+      "title": "Cost effectiveness and affordability of trastuzumab in sub-Saharan Africa for early stage HER2-positive breast cancer",
+      "authors": [
+        {
+          "family": "Gershon",
+          "given": "Noga"
+        },
+        {
+          "family": "Berchenko",
+          "given": "Yakir"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Goldstein",
+          "given": "Daniel A."
+        }
+      ],
+      "year": "2019",
+      "venue": "Cost Effectiveness and Resource Allocation",
+      "volume": "17",
+      "issue": "1",
+      "pages": "5",
+      "doi": "10.1186/s12962-019-0174-7",
+      "url": "https://doi.org/10.1186/s12962-019-0174-7",
+      "doi_source": "zotero",
+      "cited_by_count": 61,
+      "is_oa": true,
+      "oa_url": "https://resource-allocation.biomedcentral.com/track/pdf/10.1186/s12962-019-0174-7",
+      "enriched": true
+    },
+    {
+      "zotero_key": "JPNWUMV6",
+      "item_type": "journalArticle",
+      "title": "Early Economic Evaluation of Diagnostic Technologies: Experiences of the NIHR Diagnostic Evidence Co-operatives",
+      "authors": [
+        {
+          "family": "Abel",
+          "given": "Lucy"
+        },
+        {
+          "family": "Shinkins",
+          "given": "Bethany"
+        },
+        {
+          "family": "Smith",
+          "given": "Alison"
+        },
+        {
+          "family": "Sutton",
+          "given": "Andrew J."
+        },
+        {
+          "family": "Sagoo",
+          "given": "Gurdeep S."
+        },
+        {
+          "family": "Uchegbu",
+          "given": "Ijeoma"
+        },
+        {
+          "family": "Allen",
+          "given": "A. Joy"
+        },
+        {
+          "family": "Graziadio",
+          "given": "Sara"
+        },
+        {
+          "family": "Moloney",
+          "given": "Eoin"
+        },
+        {
+          "family": "Yang",
+          "given": "Yaling"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        }
+      ],
+      "year": "2019",
+      "venue": "Medical Decision Making",
+      "volume": "39",
+      "issue": "7",
+      "pages": "857-866",
+      "doi": "10.1177/0272989x19866415",
+      "url": "https://doi.org/10.1177/0272989x19866415",
+      "doi_source": "zotero",
+      "cited_by_count": 36,
+      "is_oa": true,
+      "oa_url": "https://discovery.ucl.ac.uk/10086095/7/Uchegbu1%20Abel%202019.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "PZJ8TQD5",
+      "item_type": "journalArticle",
+      "title": "Fractionation and early mortality in palliative radiotherapy: Insights from the national radiotherapy dataset",
+      "authors": [
+        {
+          "family": "Spencer",
+          "given": "Katie"
+        },
+        {
+          "family": "Le Calvez",
+          "given": "Kerlann"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Velikova",
+          "given": "Galina"
+        },
+        {
+          "family": "Henry",
+          "given": "Ann"
+        },
+        {
+          "family": "Morris",
+          "given": "Eva"
+        },
+        {
+          "family": "Williams",
+          "given": "Matt"
+        }
+      ],
+      "year": "2019",
+      "venue": "Clinical Oncology",
+      "volume": "31",
+      "issue": "",
+      "pages": "e14",
+      "doi": "10.1016/j.clon.2019.09.039",
+      "url": "https://doi.org/10.1016/j.clon.2019.09.039",
+      "doi_source": "zotero",
+      "cited_by_count": 2,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "FS4F5R93",
+      "item_type": "journalArticle",
+      "title": "Methods to assess the impact of test measurement uncertainty on downstream clinical outcomes: A case study of faecal calprotectin (FC) for the diagnosis of Inflammatory Bowel Disease (IBD)",
+      "authors": [
+        {
+          "family": "Smith",
+          "given": "A."
+        },
+        {
+          "family": "Shinkins",
+          "given": "B."
+        },
+        {
+          "family": "Hulme",
+          "given": "C."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Messenger",
+          "given": "M."
+        }
+      ],
+      "year": "2019",
+      "venue": "Clinica Chimica Acta",
+      "volume": "493",
+      "issue": "",
+      "pages": "S353-S354",
+      "doi": "10.1016/j.cca.2019.03.760",
+      "url": "https://doi.org/10.1016/j.cca.2019.03.760",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "APTW7ZES",
+      "item_type": "journalArticle",
+      "title": "Net Pain Relief After Palliative Radiation Therapy for Painful Bone Metastases: A Useful Measure to Reflect Response Duration? A Further Analysis of the Dutch Bone Metastasis Study",
+      "authors": [
+        {
+          "family": "Spencer",
+          "given": "Katie"
+        },
+        {
+          "family": "Velikova",
+          "given": "Galina"
+        },
+        {
+          "family": "Henry",
+          "given": "Ann"
+        },
+        {
+          "family": "Westhoff",
+          "given": "Paulien"
+        },
+        {
+          "family": "Hall",
+          "given": "Pe ter"
+        },
+        {
+          "family": "van der Linden",
+          "given": "Yvette M."
+        }
+      ],
+      "year": "2019",
+      "venue": "International Journal of Radiation Oncology*Biology*Physics",
+      "volume": "105",
+      "issue": "3",
+      "pages": "559-566",
+      "doi": "10.1016/j.ijrobp.2019.07.009",
+      "url": "https://doi.org/10.1016/j.ijrobp.2019.07.009",
+      "doi_source": "zotero",
+      "cited_by_count": 30,
+      "is_oa": true,
+      "oa_url": "http://www.redjournal.org/article/S0360301619334583/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "C52FXRNU",
+      "item_type": "journalArticle",
+      "title": "Real-world evidence was feasible for estimating effectiveness of chemotherapy in breast cancer: a cohort study",
+      "authors": [
+        {
+          "family": "Gray",
+          "given": "Ewan"
+        },
+        {
+          "family": "Marti",
+          "given": "Joachim"
+        },
+        {
+          "family": "Brewster",
+          "given": "David H."
+        },
+        {
+          "family": "Wyatt",
+          "given": "Jeremy C."
+        },
+        {
+          "family": "Piaget-Rossel",
+          "given": "Romain"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        }
+      ],
+      "year": "2019",
+      "venue": "Journal of Clinical Epidemiology",
+      "volume": "109",
+      "issue": "",
+      "pages": "125-132",
+      "doi": "10.1016/j.jclinepi.2019.01.006",
+      "url": "https://doi.org/10.1016/j.jclinepi.2019.01.006",
+      "doi_source": "zotero",
+      "cited_by_count": 6,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/6c875ae1-32cc-422a-b4dd-c55c163b99b6",
+      "enriched": true
+    },
+    {
+      "zotero_key": "ZTRZEVZU",
+      "item_type": "journalArticle",
+      "title": "The 4 ‘A’s test for detecting delirium in acute medical patients: a diagnostic accuracy study",
+      "authors": [
+        {
+          "family": "MacLullich",
+          "given": "Alasdair MJ"
+        },
+        {
+          "family": "Shenkin",
+          "given": "Susan D"
+        },
+        {
+          "family": "Goodacre",
+          "given": "Steve"
+        },
+        {
+          "family": "Godfrey",
+          "given": "Mary"
+        },
+        {
+          "family": "Hanley",
+          "given": "Janet"
+        },
+        {
+          "family": "Stíobhairt",
+          "given": "Antaine"
+        },
+        {
+          "family": "Lavender",
+          "given": "Elizabeth"
+        },
+        {
+          "family": "Boyd",
+          "given": "Julia"
+        },
+        {
+          "family": "Stephen",
+          "given": "Jacqueline"
+        },
+        {
+          "family": "Weir",
+          "given": "Christopher"
+        },
+        {
+          "family": "MacRaild",
+          "given": "Allan"
+        },
+        {
+          "family": "Steven",
+          "given": "Jill"
+        },
+        {
+          "family": "Black",
+          "given": "Polly"
+        },
+        {
+          "family": "Diernberger",
+          "given": "Katharina"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Tieges",
+          "given": "Zoë"
+        },
+        {
+          "family": "Fox",
+          "given": "Christopher"
+        },
+        {
+          "family": "Anand",
+          "given": "Atul"
+        },
+        {
+          "family": "Young",
+          "given": "John"
+        },
+        {
+          "family": "Siddiqi",
+          "given": "Najma"
+        },
+        {
+          "family": "Gray",
+          "given": "Alasdair"
+        }
+      ],
+      "year": "2019",
+      "venue": "Health Technology Assessment",
+      "volume": "23",
+      "issue": "40",
+      "pages": "1-194",
+      "doi": "10.3310/hta23400",
+      "url": "https://doi.org/10.3310/hta23400",
+      "doi_source": "zotero",
+      "cited_by_count": 126,
+      "is_oa": true,
+      "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2029922",
+      "enriched": true
+    },
+    {
+      "zotero_key": "AXDWV5T9",
+      "item_type": "journalArticle",
+      "title": "The impact of surgical site infections on hospital contribution margin—a European prospective observational cohort study",
+      "authors": [
+        {
+          "family": "von Strauss",
+          "given": "Marco"
+        },
+        {
+          "family": "Marti",
+          "given": "Walter R."
+        },
+        {
+          "family": "Mujagic",
+          "given": "Edin"
+        },
+        {
+          "family": "Coslovsky",
+          "given": "Michael"
+        },
+        {
+          "family": "Diernberger",
+          "given": "Katharina"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Zeindler",
+          "given": "Jasmin"
+        },
+        {
+          "family": "Salm",
+          "given": "Lilian A."
+        },
+        {
+          "family": "Soysal",
+          "given": "Savas D."
+        },
+        {
+          "family": "Mechera",
+          "given": "Robert"
+        },
+        {
+          "family": "von Holzen",
+          "given": "Urs"
+        },
+        {
+          "family": "Weber",
+          "given": "Walter P."
+        }
+      ],
+      "year": "2019",
+      "venue": "Infection Control &amp; Hospital Epidemiology",
+      "volume": "40",
+      "issue": "12",
+      "pages": "1374-1379",
+      "doi": "10.1017/ice.2019.273",
+      "url": "https://doi.org/10.1017/ice.2019.273",
+      "doi_source": "zotero",
+      "cited_by_count": 6,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "BPFJTVGD",
+      "item_type": "journalArticle",
+      "title": "The QuinteT Recruitment Intervention supported five randomized trials to recruit to target: a mixed-methods evaluation",
+      "authors": [
+        {
+          "family": "Rooshenas",
+          "given": "Leila"
+        },
+        {
+          "family": "Scott",
+          "given": "Lauren J."
+        },
+        {
+          "family": "Blazeby",
+          "given": "Jane M."
+        },
+        {
+          "family": "Rogers",
+          "given": "Chris A."
+        },
+        {
+          "family": "Tilling",
+          "given": "Kate M."
+        },
+        {
+          "family": "Husbands",
+          "given": "Samantha"
+        },
+        {
+          "family": "Conefrey",
+          "given": "Carmel"
+        },
+        {
+          "family": "Mills",
+          "given": "Nicola"
+        },
+        {
+          "family": "Stein",
+          "given": "Robert C."
+        },
+        {
+          "family": "Metcalfe",
+          "given": "Chris"
+        },
+        {
+          "family": "Carr",
+          "given": "Andrew J."
+        },
+        {
+          "family": "Beard",
+          "given": "David J."
+        },
+        {
+          "family": "Davis",
+          "given": "Tim"
+        },
+        {
+          "family": "Paramasivan",
+          "given": "Sangeetha"
+        },
+        {
+          "family": "Jepson",
+          "given": "Marcus"
+        },
+        {
+          "family": "Avery",
+          "given": "Kerry"
+        },
+        {
+          "family": "Elliott",
+          "given": "Daisy"
+        },
+        {
+          "family": "Wilson",
+          "given": "Caroline"
+        },
+        {
+          "family": "Donovan",
+          "given": "Jenny L."
+        },
+        {
+          "family": "Rogers",
+          "given": "Chris A."
+        },
+        {
+          "family": "Andrews",
+          "given": "Robert"
+        },
+        {
+          "family": "Blazeby",
+          "given": "Jane M."
+        },
+        {
+          "family": "Byrne",
+          "given": "James"
+        },
+        {
+          "family": "Donovan",
+          "given": "Jenny L."
+        },
+        {
+          "family": "Kelly",
+          "given": "Jamie"
+        },
+        {
+          "family": "Mazza",
+          "given": "Graziella"
+        },
+        {
+          "family": "Mahon",
+          "given": "David"
+        },
+        {
+          "family": "Noble",
+          "given": "Hamish"
+        },
+        {
+          "family": "Reeves",
+          "given": "Barnaby C."
+        },
+        {
+          "family": "Thompson",
+          "given": "Janice L."
+        },
+        {
+          "family": "Wordsworth",
+          "given": "Sarah"
+        },
+        {
+          "family": "Welbourn",
+          "given": "Richard"
+        },
+        {
+          "family": "Beard",
+          "given": "David"
+        },
+        {
+          "family": "Carr",
+          "given": "Andrew"
+        },
+        {
+          "family": "Cook",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Cooper",
+          "given": "Cushla"
+        },
+        {
+          "family": "Dean",
+          "given": "Benjamin"
+        },
+        {
+          "family": "Donovan",
+          "given": "Jenny L."
+        },
+        {
+          "family": "Gray",
+          "given": "Alastair"
+        },
+        {
+          "family": "Gwilym",
+          "given": "Stephen"
+        },
+        {
+          "family": "Judge",
+          "given": "Andrew"
+        },
+        {
+          "family": "Merritt",
+          "given": "Naomi"
+        },
+        {
+          "family": "Moser",
+          "given": "Jane"
+        },
+        {
+          "family": "Rees",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Rombach",
+          "given": "Ines"
+        },
+        {
+          "family": "Savulescu",
+          "given": "Julian"
+        },
+        {
+          "family": "Tracey",
+          "given": "Irene"
+        },
+        {
+          "family": "Wartolowska",
+          "given": "Karolina"
+        },
+        {
+          "family": "Harrison",
+          "given": "Eleanor"
+        },
+        {
+          "family": "Tan",
+          "given": "Wei"
+        }
+      ],
+      "year": "2019",
+      "venue": "Journal of Clinical Epidemiology",
+      "volume": "106",
+      "issue": "",
+      "pages": "108-120",
+      "doi": "10.1016/j.jclinepi.2018.10.004",
+      "url": "https://doi.org/10.1016/j.jclinepi.2018.10.004",
+      "doi_source": "zotero",
+      "cited_by_count": 98,
+      "is_oa": true,
+      "oa_url": "http://www.jclinepi.com/article/S0895435618306280/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "IGBGJBJJ",
+      "item_type": "journalArticle",
+      "title": "Utilisation of Personal Care Services in Scotland: the Influence of Unpaid Carers",
+      "authors": [
+        {
+          "family": "Lemmon",
+          "given": "Elizabeth"
+        }
+      ],
+      "year": "2019",
+      "venue": "International Journal of Population Data Science",
+      "volume": "4",
+      "issue": "3",
+      "pages": "",
+      "doi": "10.23889/ijpds.v4i3.1329",
+      "url": "https://doi.org/10.23889/ijpds.v4i3.1329",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://ijpds.org/article/download/1329/2455",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6KG9QWKV",
+      "item_type": "journalArticle",
+      "title": "A randomised, phase II, unblinded trial of an Exercise and Nutrition-based Rehabilitation programme (ENeRgy) versus standard care in patients with cancer: feasibility trial protocol",
+      "authors": [
+        {
+          "family": "Hall",
+          "given": "Charlie C."
+        },
+        {
+          "family": "Norris",
+          "given": "Lucy"
+        },
+        {
+          "family": "Dixon",
+          "given": "Liz"
+        },
+        {
+          "family": "Cook",
+          "given": "Jane"
+        },
+        {
+          "family": "Maddocks",
+          "given": "Matthew"
+        },
+        {
+          "family": "Graham",
+          "given": "Catriona"
+        },
+        {
+          "family": "Tuck",
+          "given": "Sharon"
+        },
+        {
+          "family": "Haraldsdottir",
+          "given": "Erna"
+        },
+        {
+          "family": "Brown",
+          "given": "Duncan"
+        },
+        {
+          "family": "Lloyd",
+          "given": "Anna"
+        },
+        {
+          "family": "Finucane",
+          "given": "Anne"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Diernberger",
+          "given": "Katharina"
+        },
+        {
+          "family": "Skipworth",
+          "given": "Richard J. E."
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Laird",
+          "given": "Barry J."
+        }
+      ],
+      "year": "2018",
+      "venue": "Pilot and Feasibility Studies",
+      "volume": "4",
+      "issue": "1",
+      "pages": "192",
+      "doi": "10.1186/s40814-018-0381-6",
+      "url": "https://doi.org/10.1186/s40814-018-0381-6",
+      "doi_source": "zotero",
+      "cited_by_count": 9,
+      "is_oa": true,
+      "oa_url": "https://pilotfeasibilitystudies.biomedcentral.com/track/pdf/10.1186/s40814-018-0381-6",
+      "enriched": true
+    },
+    {
+      "zotero_key": "GQSUVNCN",
+      "item_type": "journalArticle",
+      "title": "An observational study showed that explaining randomization using gambling-related metaphors and computer-agency descriptions impeded randomized clinical trial recruitment",
+      "authors": [
+        {
+          "family": "Jepson",
+          "given": "Marcus"
+        },
+        {
+          "family": "Elliott",
+          "given": "Daisy"
+        },
+        {
+          "family": "Conefrey",
+          "given": "Carmel"
+        },
+        {
+          "family": "Wade",
+          "given": "Julia"
+        },
+        {
+          "family": "Rooshenas",
+          "given": "Leila"
+        },
+        {
+          "family": "Wilson",
+          "given": "Caroline"
+        },
+        {
+          "family": "Beard",
+          "given": "David"
+        },
+        {
+          "family": "Blazeby",
+          "given": "Jane M."
+        },
+        {
+          "family": "Birtle",
+          "given": "Alison"
+        },
+        {
+          "family": "Halliday",
+          "given": "Alison"
+        },
+        {
+          "family": "Stein",
+          "given": "Rob"
+        },
+        {
+          "family": "Donovan",
+          "given": "Jenny L."
+        },
+        {
+          "family": "Beard",
+          "given": "David"
+        },
+        {
+          "family": "Carr",
+          "given": "Andrew"
+        },
+        {
+          "family": "Cook",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Cooper",
+          "given": "Cushla"
+        },
+        {
+          "family": "Dean",
+          "given": "Benjamin"
+        },
+        {
+          "family": "Donovan",
+          "given": "Jenny L."
+        },
+        {
+          "family": "Gray",
+          "given": "Alastair"
+        },
+        {
+          "family": "Gwilym",
+          "given": "Stephen"
+        },
+        {
+          "family": "Judge",
+          "given": "Andrew"
+        },
+        {
+          "family": "Merritt",
+          "given": "Naomi"
+        },
+        {
+          "family": "Moser",
+          "given": "Jane"
+        },
+        {
+          "family": "Rees",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Rombach",
+          "given": "Ines"
+        },
+        {
+          "family": "Savulescu",
+          "given": "Julian"
+        },
+        {
+          "family": "Tracey",
+          "given": "Irene"
+        },
+        {
+          "family": "Wartolowska",
+          "given": "Karolina"
+        },
+        {
+          "family": "Blazeby",
+          "given": "Jane M."
+        },
+        {
+          "family": "Barham",
+          "given": "Paul"
+        },
+        {
+          "family": "Brookes",
+          "given": "Sara T."
+        },
+        {
+          "family": "Crosby",
+          "given": "Tom"
+        },
+        {
+          "family": "Donovan",
+          "given": "Jenny L."
+        },
+        {
+          "family": "Falk",
+          "given": "Stephen J."
+        },
+        {
+          "family": "Griffin",
+          "given": "S. Michael"
+        },
+        {
+          "family": "Hollingworth",
+          "given": "William"
+        },
+        {
+          "family": "Hollowood",
+          "given": "Andrew D."
+        },
+        {
+          "family": "Krysztopik",
+          "given": "Richard"
+        },
+        {
+          "family": "Lewis",
+          "given": "Wyn"
+        },
+        {
+          "family": "Nicklin",
+          "given": "Jo"
+        },
+        {
+          "family": "Streets",
+          "given": "Christopher"
+        },
+        {
+          "family": "Strong",
+          "given": "Sean"
+        },
+        {
+          "family": "Titcomb",
+          "given": "Dan"
+        },
+        {
+          "family": "Williams",
+          "given": "Geraint"
+        },
+        {
+          "family": "Birtle",
+          "given": "Alison"
+        },
+        {
+          "family": "Bryan",
+          "given": "Rik"
+        },
+        {
+          "family": "Catto",
+          "given": "James"
+        },
+        {
+          "family": "Chester",
+          "given": "John"
+        },
+        {
+          "family": "Donovan",
+          "given": "Jenny L."
+        },
+        {
+          "family": "French",
+          "given": "Ann"
+        }
+      ],
+      "year": "2018",
+      "venue": "Journal of Clinical Epidemiology",
+      "volume": "99",
+      "issue": "",
+      "pages": "75-83",
+      "doi": "10.1016/j.jclinepi.2018.02.018",
+      "url": "https://doi.org/10.1016/j.jclinepi.2018.02.018",
+      "doi_source": "zotero",
+      "cited_by_count": 68,
+      "is_oa": true,
+      "oa_url": "http://www.jclinepi.com/article/S0895435617312787/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "ET434AJS",
+      "item_type": "journalArticle",
+      "title": "Cost-effectiveness of Pembrolizumab in Second-line Advanced Bladder Cancer",
+      "authors": [
+        {
+          "family": "Sarfaty",
+          "given": "Michal"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Chan",
+          "given": "Kelvin K.W."
+        },
+        {
+          "family": "Virik",
+          "given": "Kiran"
+        },
+        {
+          "family": "Leshno",
+          "given": "Moshe"
+        },
+        {
+          "family": "Gordon",
+          "given": "Noa"
+        },
+        {
+          "family": "Moore",
+          "given": "Assaf"
+        },
+        {
+          "family": "Neiman",
+          "given": "Victoria"
+        },
+        {
+          "family": "Rosenbaum",
+          "given": "Eli"
+        },
+        {
+          "family": "Goldstein",
+          "given": "Daniel A."
+        }
+      ],
+      "year": "2018",
+      "venue": "European Urology",
+      "volume": "74",
+      "issue": "1",
+      "pages": "57-62",
+      "doi": "10.1016/j.eururo.2018.03.006",
+      "url": "https://doi.org/10.1016/j.eururo.2018.03.006",
+      "doi_source": "zotero",
+      "cited_by_count": 66,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/c1eece36-1019-40ff-8a9b-0c6d8378ed97",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6DTIR7KB",
+      "item_type": "journalArticle",
+      "title": "Discharged but not dissatisfied: outcomes and satisfaction of patients discharged from the Edinburgh Trauma Triage Clinic",
+      "authors": [
+        {
+          "family": "Mackenzie",
+          "given": "S. P."
+        },
+        {
+          "family": "Carter",
+          "given": "T. H."
+        },
+        {
+          "family": "Jefferies",
+          "given": "J. G."
+        },
+        {
+          "family": "Wilby",
+          "given": "J. B. J."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Duckworth",
+          "given": "A. D."
+        },
+        {
+          "family": "Keating",
+          "given": "J. F."
+        },
+        {
+          "family": "White",
+          "given": "T. O."
+        }
+      ],
+      "year": "2018",
+      "venue": "The Bone &amp; Joint Journal",
+      "volume": "100-B",
+      "issue": "7",
+      "pages": "959-965",
+      "doi": "10.1302/0301-620x.100b7.bjj-2017-1388.r2",
+      "url": "https://doi.org/10.1302/0301-620x.100b7.bjj-2017-1388.r2",
+      "doi_source": "zotero",
+      "cited_by_count": 53,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/1ed6af96-efda-457b-addd-589aeecf7b82",
+      "enriched": true
+    },
+    {
+      "zotero_key": "CARVBZX7",
+      "item_type": "journalArticle",
+      "title": "Independent validation of the PREDICT breast cancer prognosis prediction tool in 45,789 patients using Scottish Cancer Registry data",
+      "authors": [
+        {
+          "family": "Gray",
+          "given": "Ewan"
+        },
+        {
+          "family": "Marti",
+          "given": "Joachim"
+        },
+        {
+          "family": "Brewster",
+          "given": "David H."
+        },
+        {
+          "family": "Wyatt",
+          "given": "Jeremy C."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "the SATURNE Advisory Group",
+          "given": ""
+        }
+      ],
+      "year": "2018",
+      "venue": "British Journal of Cancer",
+      "volume": "119",
+      "issue": "7",
+      "pages": "808-814",
+      "doi": "10.1038/s41416-018-0256-x",
+      "url": "https://doi.org/10.1038/s41416-018-0256-x",
+      "doi_source": "zotero",
+      "cited_by_count": 69,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41416-018-0256-x.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "KHXTPKM2",
+      "item_type": "journalArticle",
+      "title": "Real-world treatment in patients with HER2+ metastatic breast cancer",
+      "authors": [
+        {
+          "family": "Colomer",
+          "given": "R."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Szkultecka-Debek",
+          "given": "M."
+        },
+        {
+          "family": "Bondi",
+          "given": "R. C."
+        },
+        {
+          "family": "Flinois",
+          "given": "A."
+        },
+        {
+          "family": "Auziere",
+          "given": "S."
+        },
+        {
+          "family": "Le Cléac’h",
+          "given": "J. Y."
+        }
+      ],
+      "year": "2018",
+      "venue": "Breast Cancer Research and Treatment",
+      "volume": "168",
+      "issue": "1",
+      "pages": "197-205",
+      "doi": "10.1007/s10549-017-4567-z",
+      "url": "https://doi.org/10.1007/s10549-017-4567-z",
+      "doi_source": "zotero",
+      "cited_by_count": 9,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs10549-017-4567-z.pdf",
       "enriched": true
     },
     {
