@@ -3,6 +3,20 @@
   "authors": [
     { "name": "Peter Hall", "orcid": "0000-0001-6015-7841" },
     { "name": "Elizabeth Lemmon", "orcid": "0000-0002-3564-6106" },
-    { "name": "Azadeh Abravan", "orcid": "0000-0003-4839-6705", "since_year": 2026 }
+    { "name": "Azadeh Abravan", "orcid": "0000-0003-4839-6705", "since_year": 2026 },
+    { "name": "Sam McInerney", "orcid": "0009-0003-7543-7450", "since_year": 2025 },
+    { "name": "Giovanni Tramonti", "orcid": "0000-0003-4117-9855", "since_year": 2015 },
+    { "name": "Piyumanga Karunaratne", "orcid": "0009-0001-7894-8075", "since_year": 2020 },
+    { "name": "Sean Foley", "orcid": "0009-0006-2348-0301", "since_year": 2026 },
+    { "name": "Colin McLean", "orcid": "0000-0002-8937-0619", "since_year": 2021 },
+    { "name": "Maxine de Araujo", "orcid": "0009-0004-8652-0476", "since_year": 2023 },
+    { "name": "Oliver Llewellyn", "orcid": "0000-0002-6494-7530", "since_year": 2026 },
+    { "name": "Laura Hewitt", "orcid": "0009-0004-4836-2323", "since_year": 2026 },
+    { "name": "Nicola Symmers", "orcid": "0009-0001-0279-2609", "since_year": 2019 },
+    { "name": "Lauren Ng", "orcid": "0009-0005-9929-6191", "since_year": 2026 },
+    { "name": "Maheva Vallet", "orcid": "0000-0001-7007-0782", "since_year": 2019 },
+    { "name": "Marek Atter", "orcid": "0000-0002-1628-7427", "since_year": 2020 },
+    { "name": "Elliot Erskine", "orcid": "0009-0004-1336-971X", "since_year": 2025 },
+    { "name": "Nick Fethers", "orcid": "0009-0007-6954-8612", "since_year": 2025 }
   ]
 }
