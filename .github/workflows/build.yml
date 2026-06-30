@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: build-publications
@@ -37,6 +38,13 @@ jobs:
 
       - name: Discover new candidates and add them to the Zotero Review collection
         run: python scripts/discover_candidates.py
+
+      - name: Update Zotero Review issue when new candidates are found
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          REVIEW_NOTIFICATION_USER: peterhall001
+          ZOTERO_REVIEW_URL: https://www.zotero.org/groups/4536042/items/collectionKey/69RXNW6D
+        run: python scripts/update_review_issue.py
 
       - name: Commit logs if changed
         run: |

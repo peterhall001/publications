@@ -30,8 +30,9 @@ through the Zotero vetting step.
   `candidates_for_review.md` as logs. Requires `pyzotero`.
 - `authors.json`: the team. One entry per person with an `orcid`, plus an
   optional `since_year` to narrow that person's scan window (the default is 2015).
-- `.github/workflows/build.yml`: runs both scripts daily and on demand, then
-  commits the outputs.
+- `.github/workflows/build.yml`: runs both scripts daily and on demand, updates
+  the standing GitHub Review issue when new candidates are found, then commits
+  the outputs.
 - `publications.json`, `candidates.json`, `candidates_for_review.md`: generated
   and committed outputs. Do not edit by hand.
 - The WordPress plugin is not in this repo. It lives on the WordPress server and
@@ -59,6 +60,14 @@ All configuration is via GitHub Actions secrets, never in code:
 - `OPENALEX_MAILTO`: an email address, for the OpenAlex polite pool.
 
 The group ID `4536042` is public and is set directly in the workflow and scripts.
+The workflow also uses the built-in GitHub Actions `GITHUB_TOKEN` with
+`issues: write` permission to maintain a standing GitHub issue named
+`Zotero review queue` when new Review candidates are found. The issue body is
+updated with `candidates_for_review.md`, and a comment mentions `@peterhall001`
+so GitHub sends an account notification. The issue includes the online Zotero
+Review collection URL:
+https://www.zotero.org/groups/4536042/items/collectionKey/69RXNW6D. No SMTP or
+email secrets are required.
 
 ## Running locally
 
