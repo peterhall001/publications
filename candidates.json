@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T09:41:41+00:00",
+  "generated_at": "2026-07-03T09:40:24+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -20,6 +20,33 @@
     "Elliot Erskine": 2025,
     "Nick Fethers": 2025
   },
-  "count": 0,
-  "candidates": []
+  "count": 1,
+  "candidates": [
+    {
+      "doi": "10.17605/osf.io/2vg38",
+      "title": "INTEGRATE WP2 - Peer Mentoring",
+      "year": 2026,
+      "venue": "Open Science Framework",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "cited_by_count": 0,
+      "authors": [
+        "INTEGRATE Project",
+        "Sarah Cadman",
+        "Paul Davies",
+        "Matthew Elliott",
+        "Rachel Etherington",
+        "David Gavaghan",
+        "Tanita Casci",
+        "Charlotte George",
+        "C. Mclean",
+        "David Sims"
+      ],
+      "metadata_source": "openalex",
+      "matched_authors": [
+        "Colin McLean"
+      ]
+    }
+  ]
 }
