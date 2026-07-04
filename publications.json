@@ -1,14 +1,233 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-03T09:40:04+00:00",
+  "generated_at": "2026-07-04T09:04:00+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3167"
+    "zotero_library_version": "3209"
   },
-  "count": 124,
+  "count": 137,
   "doi_backfilled": 0,
   "publications": [
+    {
+      "zotero_key": "24Q9G8M8",
+      "item_type": "journalArticle",
+      "title": "Adaptation of digital integration of PROMs and PREMs in oncology during implementation: a scoping review",
+      "authors": [
+        {
+          "family": "Farič",
+          "given": "Nuša"
+        },
+        {
+          "family": "Scherrens",
+          "given": "Anne-Lore"
+        },
+        {
+          "family": "Raemdonck",
+          "given": "Eveline"
+        },
+        {
+          "family": "Beernaert",
+          "given": "Kim"
+        },
+        {
+          "family": "Cresswell",
+          "given": "Kathrin"
+        },
+        {
+          "family": "Jacobs",
+          "given": "An"
+        },
+        {
+          "family": "Lundeby",
+          "given": "Tonje"
+        },
+        {
+          "family": "Pardon",
+          "given": "Koen"
+        },
+        {
+          "family": "Williams",
+          "given": "Robin"
+        },
+        {
+          "family": "Van Landschoot",
+          "given": "Femke"
+        },
+        {
+          "family": "de Vos-Geelen",
+          "given": "Judith"
+        },
+        {
+          "family": "Ausen",
+          "given": "Dag"
+        },
+        {
+          "family": "Urrizola",
+          "given": "Amaia"
+        },
+        {
+          "family": "Hjermstad",
+          "given": "Marianne Jensen"
+        },
+        {
+          "family": "Kaasa",
+          "given": "Stein"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Deliens",
+          "given": "Luc"
+        },
+        {
+          "family": "MyPath consortium",
+          "given": ""
+        },
+        {
+          "family": "Absolom",
+          "given": "Kate"
+        },
+        {
+          "family": "Andresen",
+          "given": "Morten"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Ausen",
+          "given": "Dag"
+        },
+        {
+          "family": "Bea",
+          "given": "Sara"
+        },
+        {
+          "family": "Beernaert",
+          "given": "Kim"
+        },
+        {
+          "family": "Caraceni",
+          "given": "Augusto"
+        },
+        {
+          "family": "Cervantes",
+          "given": "Andres"
+        },
+        {
+          "family": "Cresswell",
+          "given": "Kathrin"
+        },
+        {
+          "family": "Dajani",
+          "given": "Olav"
+        },
+        {
+          "family": "de Vos-Geelen",
+          "given": "Judith"
+        },
+        {
+          "family": "Deliens",
+          "given": "Luc"
+        },
+        {
+          "family": "Evans",
+          "given": "Felicity"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Freitas-Durks",
+          "given": "Victòria"
+        },
+        {
+          "family": "Fusetti",
+          "given": "Viviana"
+        },
+        {
+          "family": "Gonzalez-Barrallo",
+          "given": "Inez"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Hjermstad",
+          "given": "Marianne Jensen"
+        },
+        {
+          "family": "Huerta",
+          "given": "Marisol"
+        },
+        {
+          "family": "Hustad",
+          "given": "Kristin Solheim"
+        },
+        {
+          "family": "Jacobs",
+          "given": "An"
+        },
+        {
+          "family": "Kaasa",
+          "given": "Stein"
+        },
+        {
+          "family": "Koteng",
+          "given": "Lisa Heide"
+        },
+        {
+          "family": "Kurita",
+          "given": "Geana Paula"
+        },
+        {
+          "family": "Larsen",
+          "given": "Henrik"
+        },
+        {
+          "family": "Lassen",
+          "given": "Ulrik"
+        },
+        {
+          "family": "Latino",
+          "given": "Nicola Jane"
+        },
+        {
+          "family": "Lundeby",
+          "given": "Tonje"
+        },
+        {
+          "family": "Lundereng",
+          "given": "Elias David"
+        },
+        {
+          "family": "Lykke",
+          "given": "Camilla Charlotte"
+        },
+        {
+          "family": "Massa",
+          "given": "Giacomo"
+        }
+      ],
+      "year": "2026",
+      "venue": "Supportive Care in Cancer",
+      "volume": "34",
+      "issue": "4",
+      "pages": "316",
+      "doi": "10.1007/s00520-026-10509-0",
+      "url": "https://doi.org/10.1007/s00520-026-10509-0",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00520-026-10509-0.pdf",
+      "enriched": true
+    },
     {
       "zotero_key": "AA4B3PXX",
       "item_type": "journalArticle",
@@ -172,6 +391,428 @@
       "enriched": true
     },
     {
+      "zotero_key": "H27K72NZ",
+      "item_type": "journalArticle",
+      "title": "Balancing ideals and realities: health care professionals’ perspectives of and attitudes toward digital patient-centered cancer care",
+      "authors": [
+        {
+          "family": "Lundereng",
+          "given": "Elias David"
+        },
+        {
+          "family": "Brkic",
+          "given": "Alen"
+        },
+        {
+          "family": "Absolom",
+          "given": "Kate"
+        },
+        {
+          "family": "Andvik",
+          "given": "Elisabeth"
+        },
+        {
+          "family": "Beernaert",
+          "given": "Kim"
+        },
+        {
+          "family": "Cresswell",
+          "given": "Kathrin"
+        },
+        {
+          "family": "Dajani",
+          "given": "Olav Faisal"
+        },
+        {
+          "family": "De Glas",
+          "given": "Nienke"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Freitas-Durks",
+          "given": "Victoria"
+        },
+        {
+          "family": "Guldhav",
+          "given": "Kristin Vassbotn"
+        },
+        {
+          "family": "Hjermstad",
+          "given": "Marianne Jensen"
+        },
+        {
+          "family": "Kaasa",
+          "given": "Stein"
+        },
+        {
+          "family": "Kurita",
+          "given": "Geana Paula"
+        },
+        {
+          "family": "Lund",
+          "given": "Jo-Åsmund"
+        },
+        {
+          "family": "Mitrea",
+          "given": "Nicoleta"
+        },
+        {
+          "family": "Damink",
+          "given": "Steven Olde"
+        },
+        {
+          "family": "Paulsen",
+          "given": "Ørnulf"
+        },
+        {
+          "family": "Pedersen",
+          "given": "Guro Meldre"
+        },
+        {
+          "family": "Skåre",
+          "given": "Terese Solvoll"
+        },
+        {
+          "family": "Lundeby",
+          "given": "Tonje"
+        },
+        {
+          "family": "The MyPath consortium",
+          "given": ""
+        },
+        {
+          "family": "Absolom",
+          "given": "Kate"
+        },
+        {
+          "family": "Andresen",
+          "given": "Morten"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Ausen",
+          "given": "Dag"
+        },
+        {
+          "family": "Bea",
+          "given": "Sara"
+        },
+        {
+          "family": "Beernaert",
+          "given": "Kim"
+        },
+        {
+          "family": "Caraceni",
+          "given": "Augusto"
+        },
+        {
+          "family": "Cervantes",
+          "given": "Andres"
+        },
+        {
+          "family": "Cresswell",
+          "given": "Kathrin"
+        },
+        {
+          "family": "Dajani",
+          "given": "Olav"
+        },
+        {
+          "family": "de Vos-Geelen",
+          "given": "Judith"
+        },
+        {
+          "family": "Deliens",
+          "given": "Luc"
+        },
+        {
+          "family": "Evans",
+          "given": "Felicity"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Durks",
+          "given": "Victoria Freitas"
+        },
+        {
+          "family": "Cassano",
+          "given": "Teresa Serra"
+        },
+        {
+          "family": "Gonzalez-Barrallo",
+          "given": "Inez"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Hjermstad",
+          "given": "Marianne Jensen"
+        },
+        {
+          "family": "Huerta",
+          "given": "Marisol"
+        },
+        {
+          "family": "Hustad",
+          "given": "Kristin Solheim"
+        },
+        {
+          "family": "Jacobs",
+          "given": "An"
+        },
+        {
+          "family": "Kaasa",
+          "given": "Stein"
+        },
+        {
+          "family": "Koteng",
+          "given": "Lisa Heide"
+        },
+        {
+          "family": "Kurita",
+          "given": "Geana Paula"
+        },
+        {
+          "family": "Larsen",
+          "given": "Henrik"
+        },
+        {
+          "family": "Lassen",
+          "given": "Ulrik"
+        },
+        {
+          "family": "Latino",
+          "given": "Nicola Jane"
+        }
+      ],
+      "year": "2026",
+      "venue": "Quality of Life Research",
+      "volume": "35",
+      "issue": "3",
+      "pages": "76",
+      "doi": "10.1007/s11136-025-04103-w",
+      "url": "https://doi.org/10.1007/s11136-025-04103-w",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1007/s11136-025-04103-w",
+      "enriched": true
+    },
+    {
+      "zotero_key": "JF99PF8R",
+      "item_type": "journalArticle",
+      "title": "Comorbidities, medication use, and overall survival in eight cancers: a multinational cohort study of 1.7 million patients across Europe",
+      "authors": [
+        {
+          "family": "López-Sánchez",
+          "given": "Irene"
+        },
+        {
+          "family": "Palomar-Cros",
+          "given": "Anna"
+        },
+        {
+          "family": "Claire",
+          "given": "Ravinder"
+        },
+        {
+          "family": "Pérez-Crespo",
+          "given": "Laura"
+        },
+        {
+          "family": "Giuliodori",
+          "given": "Agustina"
+        },
+        {
+          "family": "Koblbauer",
+          "given": "Ian"
+        },
+        {
+          "family": "Dietz",
+          "given": "Jeremy"
+        },
+        {
+          "family": "Elvidge",
+          "given": "Jamie"
+        },
+        {
+          "family": "Koh",
+          "given": "James"
+        },
+        {
+          "family": "Golozar",
+          "given": "Asieh"
+        },
+        {
+          "family": "Ramirez-Anguita",
+          "given": "Juan Manuel"
+        },
+        {
+          "family": "Leis",
+          "given": "Angela"
+        },
+        {
+          "family": "Mayer",
+          "given": "Miguel-Angel"
+        },
+        {
+          "family": "Symmers",
+          "given": "Nicola"
+        },
+        {
+          "family": "Vallet",
+          "given": "Mahéva"
+        },
+        {
+          "family": "McLean",
+          "given": "Colin"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Mosseveld",
+          "given": "Mees"
+        },
+        {
+          "family": "Verhamme",
+          "given": "Katia"
+        },
+        {
+          "family": "Enerly",
+          "given": "Espen"
+        },
+        {
+          "family": "Prinsen",
+          "given": "Peter"
+        },
+        {
+          "family": "Evers",
+          "given": "Jelle"
+        },
+        {
+          "family": "Oja",
+          "given": "Marek"
+        },
+        {
+          "family": "Kolde",
+          "given": "Raivo"
+        },
+        {
+          "family": "Marcos-Gragera",
+          "given": "Rafael"
+        },
+        {
+          "family": "Fey",
+          "given": "Eric"
+        },
+        {
+          "family": "Porkka",
+          "given": "Kimmo"
+        },
+        {
+          "family": "Taveira-Gomes",
+          "given": "Tiago"
+        },
+        {
+          "family": "Estevinho",
+          "given": "Fernanda"
+        },
+        {
+          "family": "Conde",
+          "given": "Alberto Moreno"
+        },
+        {
+          "family": "Conde",
+          "given": "Jesus Moreno"
+        },
+        {
+          "family": "Sanchez",
+          "given": "Carlos Miguez"
+        },
+        {
+          "family": "Fournier",
+          "given": "Evelyne"
+        },
+        {
+          "family": "Pistillo",
+          "given": "Andrea"
+        },
+        {
+          "family": "Chen",
+          "given": "Xihang"
+        },
+        {
+          "family": "Corby",
+          "given": "George"
+        },
+        {
+          "family": "Robinson",
+          "given": "Abigail"
+        },
+        {
+          "family": "Sanchez-Santos",
+          "given": "Maria T."
+        },
+        {
+          "family": "Delmestri",
+          "given": "Antonella"
+        },
+        {
+          "family": "Man",
+          "given": "Wai Yi"
+        },
+        {
+          "family": "Català",
+          "given": "Martí"
+        },
+        {
+          "family": "Alcalde-Herraiz",
+          "given": "Marta"
+        },
+        {
+          "family": "Burn",
+          "given": "Edward"
+        },
+        {
+          "family": "Prieto-Alhambra",
+          "given": "Daniel"
+        },
+        {
+          "family": "Duarte-Salles",
+          "given": "Talita"
+        },
+        {
+          "family": "Newby",
+          "given": "Danielle"
+        }
+      ],
+      "year": "2026",
+      "venue": "The Lancet Regional Health - Europe",
+      "volume": "63",
+      "issue": "",
+      "pages": "101585",
+      "doi": "10.1016/j.lanepe.2025.101585",
+      "url": "https://doi.org/10.1016/j.lanepe.2025.101585",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lanepe.2025.101585",
+      "enriched": true
+    },
+    {
       "zotero_key": "T7VDAF4T",
       "item_type": "journalArticle",
       "title": "Cost-Effectiveness of Electronic Patient-Reported Outcome Measure Interventions in Cancer: A Systematic Review and Parameter Extraction for Economic Modelling (Preprint)",
@@ -243,6 +884,88 @@
       "cited_by_count": 1,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.radonc.2026.111408",
+      "enriched": true
+    },
+    {
+      "zotero_key": "3Q3NSXJE",
+      "item_type": "journalArticle",
+      "title": "From bench to byte: A UK perspective on data-driven cancer research",
+      "authors": [
+        {
+          "family": "Wooller",
+          "given": "Sarah K."
+        },
+        {
+          "family": "Blake",
+          "given": "Andrew"
+        },
+        {
+          "family": "McCabe",
+          "given": "Martin"
+        },
+        {
+          "family": "McLean",
+          "given": "Colin"
+        },
+        {
+          "family": "Price",
+          "given": "Gareth"
+        },
+        {
+          "family": "Unsworth",
+          "given": "Harriet"
+        },
+        {
+          "family": "Van Hemelrijck",
+          "given": "Mieke"
+        },
+        {
+          "family": "Pearl",
+          "given": "Frances M.G."
+        }
+      ],
+      "year": "2026",
+      "venue": "European Journal of Cancer",
+      "volume": "240",
+      "issue": "",
+      "pages": "116751",
+      "doi": "10.1016/j.ejca.2026.116751",
+      "url": "https://doi.org/10.1016/j.ejca.2026.116751",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "EPFBSGVP",
+      "item_type": "journalArticle",
+      "title": "Large language models in oncology: promise, pitfalls, and the path to real-world adoption",
+      "authors": [
+        {
+          "family": "McInerney",
+          "given": "S."
+        },
+        {
+          "family": "Hall",
+          "given": "P.S."
+        },
+        {
+          "family": "Cresswell",
+          "given": "K."
+        }
+      ],
+      "year": "2026",
+      "venue": "ESMO Real World Data and Digital Oncology",
+      "volume": "13",
+      "issue": "",
+      "pages": "100723",
+      "doi": "10.1016/j.esmorw.2026.100723",
+      "url": "https://doi.org/10.1016/j.esmorw.2026.100723",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://www.esmorwd.org/article/S2949-8201(26)00042-1/pdf",
       "enriched": true
     },
     {
@@ -337,6 +1060,225 @@
       "cited_by_count": 0,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1038/s41416-026-03412-2",
+      "enriched": true
+    },
+    {
+      "zotero_key": "6MTRMMXJ",
+      "item_type": "journalArticle",
+      "title": "Opportunities and challenges in implementing digital patient-centred cancer care in Europe—a qualitative study of several ESMO Designated Centres",
+      "authors": [
+        {
+          "family": "Lundereng",
+          "given": "E.D."
+        },
+        {
+          "family": "Brkic",
+          "given": "A."
+        },
+        {
+          "family": "Fallon",
+          "given": "M."
+        },
+        {
+          "family": "Cresswell",
+          "given": "K."
+        },
+        {
+          "family": "Deliens",
+          "given": "L."
+        },
+        {
+          "family": "Pardon",
+          "given": "K."
+        },
+        {
+          "family": "Beernaert",
+          "given": "K."
+        },
+        {
+          "family": "Scherrens",
+          "given": "A.-L."
+        },
+        {
+          "family": "Ausen",
+          "given": "D."
+        },
+        {
+          "family": "Andresen",
+          "given": "M."
+        },
+        {
+          "family": "Pedersen",
+          "given": "G.M."
+        },
+        {
+          "family": "Lykke",
+          "given": "C."
+        },
+        {
+          "family": "Caraceni",
+          "given": "A."
+        },
+        {
+          "family": "Cervantes",
+          "given": "A."
+        },
+        {
+          "family": "Mitrea",
+          "given": "N."
+        },
+        {
+          "family": "Olde Damink",
+          "given": "S."
+        },
+        {
+          "family": "Hjermstad",
+          "given": "M.J."
+        },
+        {
+          "family": "Kaasa",
+          "given": "S."
+        },
+        {
+          "family": "Lundeby",
+          "given": "T."
+        },
+        {
+          "family": "Absolom",
+          "given": "Kate"
+        },
+        {
+          "family": "Andresen",
+          "given": "Morten"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Ausen",
+          "given": "Dag"
+        },
+        {
+          "family": "Bea",
+          "given": "Sara"
+        },
+        {
+          "family": "Beernaert",
+          "given": "Kim"
+        },
+        {
+          "family": "Caraceni",
+          "given": "Augusto"
+        },
+        {
+          "family": "Cervantes",
+          "given": "Andres"
+        },
+        {
+          "family": "Cresswell",
+          "given": "Kathrin"
+        },
+        {
+          "family": "Dajani",
+          "given": "Olav"
+        },
+        {
+          "family": "de Vos-Geelen",
+          "given": "Judith"
+        },
+        {
+          "family": "Deliens",
+          "given": "Luc"
+        },
+        {
+          "family": "Evans",
+          "given": "Felicity"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        },
+        {
+          "family": "Freitas",
+          "given": "Victoria"
+        },
+        {
+          "family": "Fusetti",
+          "given": "Viviana"
+        },
+        {
+          "family": "Gonzalez-Barrallo",
+          "given": "Inez"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Hjermstad",
+          "given": "Marianne Jensen"
+        },
+        {
+          "family": "Huerta",
+          "given": "Marisol"
+        },
+        {
+          "family": "Hustad",
+          "given": "Kristin Solheim"
+        },
+        {
+          "family": "Jacobs",
+          "given": "An"
+        },
+        {
+          "family": "Kaasa",
+          "given": "Stein"
+        },
+        {
+          "family": "Koteng",
+          "given": "Lisa Heide"
+        },
+        {
+          "family": "Kurita",
+          "given": "Geana Paula"
+        },
+        {
+          "family": "Larsen",
+          "given": "Henrik"
+        },
+        {
+          "family": "Lassen",
+          "given": "Ulrik"
+        },
+        {
+          "family": "Latino",
+          "given": "Nicola Jane"
+        },
+        {
+          "family": "Lundeby",
+          "given": "Tonje"
+        },
+        {
+          "family": "Lundereng",
+          "given": "Elias David"
+        },
+        {
+          "family": "Lykke",
+          "given": "Camilla Charlotte"
+        }
+      ],
+      "year": "2026",
+      "venue": "ESMO Real World Data and Digital Oncology",
+      "volume": "12",
+      "issue": "",
+      "pages": "100696",
+      "doi": "10.1016/j.esmorw.2026.100696",
+      "url": "https://doi.org/10.1016/j.esmorw.2026.100696",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.esmorw.2026.100696",
       "enriched": true
     },
     {
@@ -841,7 +1783,7 @@
       "doi": "10.1016/j.jaccao.2025.06.003",
       "url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "doi_source": "zotero",
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "enriched": true
@@ -1262,6 +2204,164 @@
       "cited_by_count": 0,
       "is_oa": false,
       "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "4826HVNX",
+      "item_type": "journalArticle",
+      "title": "Intravenous Lidocaine for Gut Function Recovery in Colonic Surgery",
+      "authors": [
+        {
+          "family": "Paterson",
+          "given": "Hugh"
+        },
+        {
+          "family": "Vadiveloo",
+          "given": "Thenmalar"
+        },
+        {
+          "family": "Innes",
+          "given": "Karen"
+        },
+        {
+          "family": "Balfour",
+          "given": "Angie"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Stoddart",
+          "given": "Andrew"
+        },
+        {
+          "family": "Cotton",
+          "given": "Seonaidh"
+        },
+        {
+          "family": "Arnott",
+          "given": "Robert"
+        },
+        {
+          "family": "Aucott",
+          "given": "Lorna"
+        },
+        {
+          "family": "Batham",
+          "given": "Zoe"
+        },
+        {
+          "family": "Foo",
+          "given": "Irwin"
+        },
+        {
+          "family": "MacLennan",
+          "given": "Graeme"
+        },
+        {
+          "family": "Nimmo",
+          "given": "Susan"
+        },
+        {
+          "family": "Speake",
+          "given": "Doug"
+        },
+        {
+          "family": "Norrie",
+          "given": "John"
+        }
+      ],
+      "year": "2025",
+      "venue": "JAMA",
+      "volume": "333",
+      "issue": "1",
+      "pages": "39",
+      "doi": "10.1001/jama.2024.23898",
+      "url": "https://doi.org/10.1001/jama.2024.23898",
+      "doi_source": "zotero",
+      "cited_by_count": 29,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/5ec6f887-efd7-4bb9-add8-a6d298c3535e",
+      "enriched": true
+    },
+    {
+      "zotero_key": "F6G9RJ44",
+      "item_type": "journalArticle",
+      "title": "Intravenous lidocaine for gut function recovery in colonic surgery: a health economic evaluation of the ALLEGRO randomised clinical trial",
+      "authors": [
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Stoddart",
+          "given": "Andrew"
+        },
+        {
+          "family": "Cotton",
+          "given": "Seonaidh"
+        },
+        {
+          "family": "Vadiveloo",
+          "given": "Thenmalar"
+        },
+        {
+          "family": "Innes",
+          "given": "Karen"
+        },
+        {
+          "family": "Balfour",
+          "given": "Angie"
+        },
+        {
+          "family": "Arnott",
+          "given": "Robert"
+        },
+        {
+          "family": "Aucott",
+          "given": "Lorna"
+        },
+        {
+          "family": "Batham",
+          "given": "Zoe"
+        },
+        {
+          "family": "Foo",
+          "given": "Irwin"
+        },
+        {
+          "family": "MacLennan",
+          "given": "Graeme"
+        },
+        {
+          "family": "Nimmo",
+          "given": "Susan"
+        },
+        {
+          "family": "Speake",
+          "given": "Doug"
+        },
+        {
+          "family": "Norrie",
+          "given": "John"
+        },
+        {
+          "family": "Paterson",
+          "given": "Hugh"
+        }
+      ],
+      "year": "2025",
+      "venue": "BMJ Open",
+      "volume": "15",
+      "issue": "2",
+      "pages": "e088298",
+      "doi": "10.1136/bmjopen-2024-088298",
+      "url": "https://doi.org/10.1136/bmjopen-2024-088298",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://bmjopen.bmj.com/content/bmjopen/15/2/e088298.full.pdf",
       "enriched": true
     },
     {
@@ -2267,6 +3367,45 @@
       "enriched": true
     },
     {
+      "zotero_key": "BQNNF2AI",
+      "item_type": "journalArticle",
+      "title": "High-sensitivity cardiac troponin I-guided combination angiotensin receptor blockade and beta blocker therapy to prevent anthracycline cardiotoxicity: the Cardiac CARE RCT",
+      "authors": [
+        {
+          "family": "Henriksen",
+          "given": "Peter"
+        },
+        {
+          "family": "MacLean",
+          "given": "Morag"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Lewis",
+          "given": "Steff"
+        },
+        {
+          "family": "Rodriguez",
+          "given": "Aryelly"
+        }
+      ],
+      "year": "2024",
+      "venue": "Efficacy and Mechanism Evaluation",
+      "volume": "",
+      "issue": "",
+      "pages": "1-73",
+      "doi": "10.3310/aptu2400",
+      "url": "https://doi.org/10.3310/aptu2400",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "http://doi.org/10.3310/aptu2400",
+      "enriched": true
+    },
+    {
       "zotero_key": "ME5SKWDI",
       "item_type": "journalArticle",
       "title": "Metastatic bone disease: new quality performance indicator development",
@@ -2665,6 +3804,45 @@
       "enriched": true
     },
     {
+      "zotero_key": "H8T2I5WA",
+      "item_type": "journalArticle",
+      "title": "BioNAR: an integrated biological network analysis package in bioconductor",
+      "authors": [
+        {
+          "family": "McLean",
+          "given": "Colin"
+        },
+        {
+          "family": "Sorokin",
+          "given": "Anatoly"
+        },
+        {
+          "family": "Simpson",
+          "given": "Thomas Ian"
+        },
+        {
+          "family": "Armstrong",
+          "given": "James Douglas"
+        },
+        {
+          "family": "Sorokina",
+          "given": "Oksana"
+        }
+      ],
+      "year": "2023",
+      "venue": "Bioinformatics Advances",
+      "volume": "3",
+      "issue": "1",
+      "pages": "vbad137",
+      "doi": "10.1093/bioadv/vbad137",
+      "url": "https://doi.org/10.1093/bioadv/vbad137",
+      "doi_source": "zotero",
+      "cited_by_count": 3,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/bioinformaticsadvances/advance-article-pdf/doi/10.1093/bioadv/vbad137/51799829/vbad137.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "22X39UND",
       "item_type": "journalArticle",
       "title": "Cancer pain assessment and management: does an institutional approach individualise and reduce cost of care?",
@@ -2752,6 +3930,41 @@
       "cited_by_count": 0,
       "is_oa": false,
       "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "FE959FV8",
+      "item_type": "journalArticle",
+      "title": "Computational Pipeline for Analysis of Biomedical Networks with BioNAR",
+      "authors": [
+        {
+          "family": "McLean",
+          "given": "Colin"
+        },
+        {
+          "family": "Sorokin",
+          "given": "Anatoly"
+        },
+        {
+          "family": "Armstrong",
+          "given": "J. Douglas"
+        },
+        {
+          "family": "Sorokina",
+          "given": "Oksana"
+        }
+      ],
+      "year": "2023",
+      "venue": "Current Protocols",
+      "volume": "3",
+      "issue": "12",
+      "pages": "e940",
+      "doi": "10.1002/cpz1.940",
+      "url": "https://doi.org/10.1002/cpz1.940",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpz1.940",
       "enriched": true
     },
     {
@@ -4749,7 +5962,7 @@
       "doi": "10.1001/jamanetworkopen.2022.0130",
       "url": "https://doi.org/10.1001/jamanetworkopen.2022.0130",
       "doi_source": "zotero",
-      "cited_by_count": 58,
+      "cited_by_count": 59,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2789152/vrnai_2022_oi_220011_1649087088.91954.pdf",
       "enriched": true
@@ -5736,6 +6949,65 @@
       "enriched": true
     },
     {
+      "zotero_key": "DJEJ6PF3",
+      "item_type": "journalArticle",
+      "title": "Pattern of SQSTM1 Gene Variants in a Hungarian Cohort of Paget’s Disease of Bone",
+      "authors": [
+        {
+          "family": "Donáth",
+          "given": "Judit"
+        },
+        {
+          "family": "Balla",
+          "given": "Bernadett"
+        },
+        {
+          "family": "Pálinkás",
+          "given": "Márton"
+        },
+        {
+          "family": "Rásonyi",
+          "given": "Rita"
+        },
+        {
+          "family": "Vastag",
+          "given": "Gyula"
+        },
+        {
+          "family": "Alonso",
+          "given": "Nerea"
+        },
+        {
+          "family": "Prieto",
+          "given": "Beatriz Larraz"
+        },
+        {
+          "family": "Vallet",
+          "given": "Mahéva"
+        },
+        {
+          "family": "Ralston",
+          "given": "Stuart H."
+        },
+        {
+          "family": "Poór",
+          "given": "Gyula"
+        }
+      ],
+      "year": "2021",
+      "venue": "Calcified Tissue International",
+      "volume": "108",
+      "issue": "2",
+      "pages": "159-164",
+      "doi": "10.1007/s00223-020-00758-4",
+      "url": "https://doi.org/10.1007/s00223-020-00758-4",
+      "doi_source": "zotero",
+      "cited_by_count": 5,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00223-020-00758-4.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "PU9P3GD4",
       "item_type": "journalArticle",
       "title": "Probabilistic One-Way Sensitivity Analysis with Multiple Comparators: The Conditional Net Benefit Frontier",
@@ -5819,6 +7091,53 @@
       "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/bjsopen/article-pdf/5/4/zrab056/42504946/zrab056.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "MVV8IFRI",
+      "item_type": "journalArticle",
+      "title": "Targeted Inactivation of Rin3 Increases Trabecular Bone Mass by Reducing Bone Resorption and Favouring Bone Formation",
+      "authors": [
+        {
+          "family": "Vallet",
+          "given": "Mahéva"
+        },
+        {
+          "family": "Sophocleous",
+          "given": "Antonia"
+        },
+        {
+          "family": "Törnqvist",
+          "given": "Anna E."
+        },
+        {
+          "family": "Azfer",
+          "given": "Asim"
+        },
+        {
+          "family": "Hof",
+          "given": "Rob van’t"
+        },
+        {
+          "family": "Albagha",
+          "given": "Omar ME"
+        },
+        {
+          "family": "Ralston",
+          "given": "Stuart H."
+        }
+      ],
+      "year": "2021",
+      "venue": "Calcified Tissue International",
+      "volume": "109",
+      "issue": "1",
+      "pages": "92-102",
+      "doi": "10.1007/s00223-021-00827-2",
+      "url": "https://doi.org/10.1007/s00223-021-00827-2",
+      "doi_source": "zotero",
+      "cited_by_count": 9,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00223-021-00827-2.pdf",
       "enriched": true
     },
     {
