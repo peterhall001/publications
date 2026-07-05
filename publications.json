@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-04T09:04:00+00:00",
+  "generated_at": "2026-07-05T09:25:52+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3209"
+    "zotero_library_version": "3210"
   },
   "count": 137,
   "doi_backfilled": 0,
@@ -4144,7 +4144,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 212,
+      "cited_by_count": 213,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -8309,7 +8309,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 283,
+      "cited_by_count": 284,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
@@ -10336,7 +10336,7 @@
       "doi": "10.1186/s40560-016-0178-8",
       "url": "https://doi.org/10.1186/s40560-016-0178-8",
       "doi_source": "zotero",
-      "cited_by_count": 67,
+      "cited_by_count": 69,
       "is_oa": true,
       "oa_url": "https://jintensivecare.biomedcentral.com/track/pdf/10.1186/s40560-016-0178-8",
       "enriched": true
