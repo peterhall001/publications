@@ -2,6 +2,7 @@
   "_comment": "Team members to scan for new publications. Add one entry per researcher. ORCID is preferred; openalex_id is an optional fallback.",
   "authors": [
     { "name": "Peter Hall", "orcid": "0000-0001-6015-7841" },
+    { "name": "Mark Stares", "orcid": "0000-0002-5943-8440", "since_year": 2020 },
     { "name": "Elizabeth Lemmon", "orcid": "0000-0002-3564-6106" },
     { "name": "Azadeh Abravan", "orcid": "0000-0003-4839-6705", "since_year": 2026 },
     { "name": "Sam McInerney", "orcid": "0009-0003-7543-7450", "since_year": 2025 },
