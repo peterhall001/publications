@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-08T09:04:47+00:00",
+  "generated_at": "2026-07-09T10:02:56+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
+    "Mark Stares": 2020,
     "Elizabeth Lemmon": 2015,
     "Azadeh Abravan": 2026,
     "Sam McInerney": 2025,
@@ -18,8 +19,5262 @@
     "Maheva Vallet": 2019,
     "Marek Atter": 2020,
     "Elliot Erskine": 2025,
-    "Nick Fethers": 2025
+    "Nick Fethers": 2025,
+    "Iain Phillips": 2020
   },
-  "count": 0,
-  "candidates": []
+  "count": 54,
+  "candidates": [
+    {
+      "doi": "10.1016/j.cell.2026.01.007",
+      "title": "Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design",
+      "year": 2026,
+      "venue": "Cell",
+      "volume": "189",
+      "issue": "6",
+      "pages": "1854-1873.e17",
+      "cited_by_count": 7,
+      "authors": [
+        "Yan Shao",
+        "Shuyi Wang",
+        "Bonface M. Gichuki",
+        "Mark Stares",
+        "Timothy Rozday",
+        "Nitin Kumar",
+        "Hilary P. Browne",
+        "Nicholas J.R. Dawson",
+        "James M. Njunge",
+        "Caroline Tigoi",
+        "Narshion Ngao",
+        "Mohammod Jobayer Chisti",
+        "Benson Singa",
+        "Samuel Kariuki",
+        "Abdoulaye Hama Diallo",
+        "Ali Faisal Saleem",
+        "Syed Asad Ali",
+        "Ezekiel Mupere",
+        "Emmie Mbale",
+        "Kirkby D. Tickell",
+        "Wieger Voskuijl",
+        "Christina Lancioni",
+        "Robert Bandsma",
+        "Tahmeed Ahmed",
+        "Judd L. Walson",
+        "James A. Berkley",
+        "Trevor D. Lawley"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yan",
+          "lastName": "Shao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shuyi",
+          "lastName": "Wang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bonface M.",
+          "lastName": "Gichuki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Timothy J.",
+          "lastName": "Rozday"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary P.",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas J.R.",
+          "lastName": "Dawson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James M.",
+          "lastName": "Njunge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Caroline",
+          "lastName": "Tigoi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Narshion",
+          "lastName": "Ngao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mohammod Jobayer",
+          "lastName": "Chisti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benson O.",
+          "lastName": "Singa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samuel",
+          "lastName": "Kariuki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abdoulaye Hama",
+          "lastName": "Diallo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ali Faisal",
+          "lastName": "Saleem"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Syed Asad",
+          "lastName": "Ali"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ezekiel",
+          "lastName": "Mupere"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emmie",
+          "lastName": "Mbale"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirkby D.",
+          "lastName": "Tickell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wieger P.",
+          "lastName": "Voskuijl"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christina L.",
+          "lastName": "Lancioni"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert H.J.",
+          "lastName": "Bandsma"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tahmeed",
+          "lastName": "Ahmed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Judd L.",
+          "lastName": "Walson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James A.",
+          "lastName": "Berkley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.crmicr.2026.100573",
+      "title": "Modelling Fusobacterium lifestyles transitions by integrating transcriptomics and growth data",
+      "year": 2026,
+      "venue": "Current Research in Microbial Sciences",
+      "volume": "10",
+      "issue": "",
+      "pages": "100573",
+      "cited_by_count": 0,
+      "authors": [
+        "Michele Giovannini",
+        "Emanuele Bosi",
+        "Walter Vieri",
+        "Luana Presta",
+        "Elisa Viciani",
+        "Ilaria Bernabei",
+        "Giulia Nannini",
+        "Mark Stares",
+        "Hilary P. Browne",
+        "Trevor D. Lawley",
+        "Thomas Sauter",
+        "Elisabeth Letellier",
+        "Jessica Karta",
+        "Amedeo Amedei",
+        "R Fani",
+        "Marco Fondi"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michele",
+          "lastName": "Giovannini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emanuele",
+          "lastName": "Bosi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Walter",
+          "lastName": "Vieri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luana",
+          "lastName": "Presta"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisa",
+          "lastName": "Viciani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ilaria",
+          "lastName": "Bernabei"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Giulia",
+          "lastName": "Nannini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Sauter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisabeth",
+          "lastName": "Letellier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jessica",
+          "lastName": "Karta"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amedeo",
+          "lastName": "Amedei"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Renato",
+          "lastName": "Fani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marco",
+          "lastName": "Fondi"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109065",
+      "title": "116 Neutrophilia and hypoalbuminaemia with respect to clinicopathological characteristics in metastatic non-small cell lung cancer",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109065",
+      "cited_by_count": 0,
+      "authors": [
+        "Irfaan Mohangee",
+        "B.H. Lim",
+        "Jenny Lamb",
+        "Jack Leach",
+        "Karim H. El-Shakankery",
+        "Elliot Erskine",
+        "Nicholas Fethers",
+        "Iain Phillips",
+        "Mark Stares",
+        "Jane Parry",
+        "Barrie Colin"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Irfaan",
+          "lastName": "Mohangee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Jia Liang Lim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jenny",
+          "lastName": "Lamb"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jack",
+          "lastName": "Leach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karim",
+          "lastName": "H El-Shakankery"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elliot",
+          "lastName": "Erskine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Fethers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Parry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barrie",
+          "lastName": "Colin"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109201",
+      "title": "253 Assessing the Prognostication of Inflammatory Markers in Patients with Small Cell Lung Cancer receiving Prophylactic Cranial Irradiation",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109201",
+      "cited_by_count": 0,
+      "authors": [
+        "Theodora Tarousa",
+        "Nadeem Ijaz",
+        "Dhruv Abhi",
+        "Mark Stares",
+        "Iain Phillips",
+        "Sorcha Campbell",
+        "Stephen Harrow",
+        "Kirsty Maclennan",
+        "Colin Barrie",
+        "Jane Parry",
+        "Almudena Cascales"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Theodora",
+          "lastName": "Tarousa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nadeem",
+          "lastName": "Ijaz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dhruv",
+          "lastName": "Abhi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "MacLennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Parry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Almudena",
+          "lastName": "Cascales"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109068",
+      "title": "119 Simple Biomarker Predicts Receipt of Adjuvant Immunotherapy after Concurrent Chemoradiation for Non-Small Cell Lung Cancer",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109068",
+      "cited_by_count": 0,
+      "authors": [
+        "Jack Leach",
+        "Elliot Erskine",
+        "Almudena Cascales",
+        "Kirsty Maclennan",
+        "Sorcha Campbell",
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jack",
+          "lastName": "Leach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elliot",
+          "lastName": "Erskine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Almudena",
+          "lastName": "Cascales"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "MacLennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1186/s40168-025-02322-4",
+      "title": "Copper is an intestinal habitat filter affecting the gut microbiota interactions with Salmonella Typhimurium",
+      "year": 2026,
+      "venue": "Microbiome",
+      "volume": "14",
+      "issue": "1",
+      "pages": "110",
+      "cited_by_count": 0,
+      "authors": [
+        "Rafał Kolenda",
+        "Marwa M. Hassan",
+        "Ainhoa Arrieta-Gisasola",
+        "Abioseh Kamara",
+        "Rebecca Ansorge",
+        "Katarzyna Sidorczuk",
+        "Luke Acton",
+        "Gaëtan Thilliez",
+        "Dave Baker",
+        "Michał Burdukiewicz",
+        "Mark Stares",
+        "Hilary P. Browne",
+        "Gwenaelle Le Gall",
+        "Ricardo Casasola Torres",
+        "Alfredo Chavez-Arroyo",
+        "John Garrett",
+        "Mark P. Stevens",
+        "Trevor D. Lawley",
+        "Andreas J. Bäumler",
+        "Roberto La Ragione",
+        "Falk Hildebrand",
+        "Robert A. Kingsley"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rafał",
+          "lastName": "Kolenda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marwa M.",
+          "lastName": "Hassan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ainhoa",
+          "lastName": "Arrieta-Gisasola"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abioseh",
+          "lastName": "Kamara"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rebecca",
+          "lastName": "Ansorge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katarzyna",
+          "lastName": "Sidorczuk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luke",
+          "lastName": "Acton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gaëtan",
+          "lastName": "Thilliez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dave J.",
+          "lastName": "Baker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michał",
+          "lastName": "Burdukiewicz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary P.",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gwenaelle",
+          "lastName": "Le Gall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ricardo C.",
+          "lastName": "Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alfredo",
+          "lastName": "Chavez-Arroyo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Garrett"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark P.",
+          "lastName": "Stevens"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andreas J.",
+          "lastName": "Bäumler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roberto",
+          "lastName": "La Ragione"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Falk",
+          "lastName": "Hildebrand"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert A.",
+          "lastName": "Kingsley"
+        }
+      ]
+    },
+    {
+      "doi": "10.6084/m9.figshare.31969200.v1",
+      "title": "Additional file 3 of Copper is an intestinal habitat filter affecting the gut microbiota interactions with Salmonella Typhimurium",
+      "year": 2026,
+      "venue": "Figshare",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "cited_by_count": 0,
+      "authors": [
+        "Rafał Kolenda",
+        "Marwa M. Hassan",
+        "Ainhoa Arrieta-Gisasola",
+        "Abioseh Kamara",
+        "Rebecca Ansorge",
+        "Katarzyna Sidorczuk",
+        "Luke Acton",
+        "Gaëtan Thilliez",
+        "Dave Baker",
+        "Michał Burdukiewicz",
+        "Mark Stares",
+        "Hilary P. Browne",
+        "Gwenaelle Le Gall",
+        "Ricardo Casasola Torres",
+        "Alfredo Chavez-Arroyo",
+        "John Garrett",
+        "Mark P. Stevens",
+        "Trevor D. Lawley",
+        "Andreas J. Bäumler",
+        "Roberto La Ragione",
+        "Falk Hildebrand",
+        "Robert A. Kingsley"
+      ],
+      "metadata_source": "openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ]
+    },
+    {
+      "doi": "10.6084/m9.figshare.31969200",
+      "title": "Additional file 3 of Copper is an intestinal habitat filter affecting the gut microbiota interactions with Salmonella Typhimurium",
+      "year": 2026,
+      "venue": "Figshare",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "cited_by_count": 0,
+      "authors": [
+        "Rafał Kolenda",
+        "Marwa M. Hassan",
+        "Ainhoa Arrieta-Gisasola",
+        "Abioseh Kamara",
+        "Rebecca Ansorge",
+        "Katarzyna Sidorczuk",
+        "Luke Acton",
+        "Gaëtan Thilliez",
+        "Dave Baker",
+        "Michał Burdukiewicz",
+        "Mark Stares",
+        "Hilary P. Browne",
+        "Gwenaelle Le Gall",
+        "Ricardo Casasola Torres",
+        "Alfredo Chavez-Arroyo",
+        "John Garrett",
+        "Mark P. Stevens",
+        "Trevor D. Lawley",
+        "Andreas J. Bäumler",
+        "Roberto La Ragione",
+        "Falk Hildebrand",
+        "Robert A. Kingsley"
+      ],
+      "metadata_source": "openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ]
+    },
+    {
+      "doi": "10.1016/j.clnesp.2025.03.007",
+      "title": "Dissecting the global leadership initiative on malnutrition criteria in advanced cancer: Reduced intake vs. inflammation",
+      "year": 2025,
+      "venue": "Clinical Nutrition ESPEN",
+      "volume": "67",
+      "issue": "",
+      "pages": "114-121",
+      "cited_by_count": 6,
+      "authors": [
+        "Michael S. Yule",
+        "Andressa Miranda Machado",
+        "Leo R. Brown",
+        "Bruna M M Rocha",
+        "Rebekah Patton",
+        "Judith Sayers",
+        "Iona Munro",
+        "Jennifer Baxter",
+        "Amy McLuskie",
+        "Paula Philbert Lajolo",
+        "Jann Arends",
+        "Carlos Eduardo Paiva",
+        "Mark Stares",
+        "Duncan Brown",
+        "Iain Phillips",
+        "Donald C. McMillan",
+        "Yara Cristina de Paiva Maia",
+        "Richard J. E. Skipworth",
+        "Barry Laird"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael S.",
+          "lastName": "Yule"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andressa M.",
+          "lastName": "Machado"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leo R.",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bruna M.M.",
+          "lastName": "Rocha"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rebekah",
+          "lastName": "Patton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Judith",
+          "lastName": "Sayers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iona",
+          "lastName": "Munro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jennifer",
+          "lastName": "Baxter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amy",
+          "lastName": "McLuskie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paula P.",
+          "lastName": "Lajolo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jann",
+          "lastName": "Arends"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carlos E.",
+          "lastName": "Paiva"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Duncan",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donald C.",
+          "lastName": "McMillan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yara C.P.",
+          "lastName": "Maia"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard J.E.",
+          "lastName": "Skipworth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barry J.A.",
+          "lastName": "Laird"
+        }
+      ]
+    },
+    {
+      "doi": "10.1158/2159-8290.cd-25-0099",
+      "title": "MANIFEST: Multiomic Platform for Cancer Immunotherapy",
+      "year": 2025,
+      "venue": "Cancer Discovery",
+      "volume": "15",
+      "issue": "5",
+      "pages": "878-883",
+      "cited_by_count": 6,
+      "authors": [
+        "Kok Haw Jonathan Lim",
+        "Zayd Tippu",
+        "Pippa Corrie",
+        "Michael Hubank",
+        "James Larkin",
+        "Trevor D. Lawley",
+        "Mark Stares",
+        "Grant D. Stewart",
+        "Amy Strange",
+        "Stefan N. Symeonides",
+        "Bernadett Szabados",
+        "Nicholas C. Turner",
+        "Tom Waddell",
+        "Santiago Zelenay",
+        "Manuel Salto‐Tellez",
+        "Caroline Dive",
+        "Samra Turajlic",
+        "Javier A. Alfaro",
+        "Ali Raza",
+        "Karen Ambrose",
+        "Anne Armstrong",
+        "Christopher R. S. Banerji",
+        "Bristi Basu",
+        "Véronique Birault",
+        "James-Baptiste Cazier",
+        "Benny Chain",
+        "Tapabrata Rohan Chakraborty",
+        "Jyoti Choudhary",
+        "Ananya Choudhury",
+        "Fiona Collinson",
+        "Natalie Cook",
+        "J.D.B. De Bono",
+        "Corinne Faivre‐Finn",
+        "James W. Fleming",
+        "Xiao Fu",
+        "Andrew J.S. Furness",
+        "Trevor A. Graham",
+        "Peter E. Hall",
+        "David J. Harrison",
+        "Jennifer Hay",
+        "Karibaan Hodivala-Dilke",
+        "Robert Huddart",
+        "Matthew P. Humphries",
+        "Will Ince",
+        "James O. Jones",
+        "George Kassiotis",
+        "Gavin Kelly",
+        "Dimitris Lagos",
+        "Alexander Laird",
+        "Rebecca Lee"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kok Haw Jonathan",
+          "lastName": "Lim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zayd",
+          "lastName": "Tippu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pippa G.",
+          "lastName": "Corrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Hubank"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Larkin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Grant D.",
+          "lastName": "Stewart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amy",
+          "lastName": "Strange"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan N.",
+          "lastName": "Symeonides"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bernadett",
+          "lastName": "Szabados"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas C.",
+          "lastName": "Turner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tom",
+          "lastName": "Waddell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Santiago",
+          "lastName": "Zelenay"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manuel",
+          "lastName": "Salto-Tellez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Caroline",
+          "lastName": "Dive"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samra",
+          "lastName": "Turajlic"
+        },
+        {
+          "creatorType": "author",
+          "name": "the MANIFEST consortium"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Javier",
+          "lastName": "Alfaro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raza",
+          "lastName": "Ali"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen",
+          "lastName": "Ambrose"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne",
+          "lastName": "Armstrong"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher",
+          "lastName": "Banerji"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bristi",
+          "lastName": "Basu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Veronique",
+          "lastName": "Birault"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James-Baptiste",
+          "lastName": "Cazier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benny",
+          "lastName": "Chain"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tapabrata Rohan",
+          "lastName": "Chakraborty"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jyoti",
+          "lastName": "Choudhary"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ananya",
+          "lastName": "Choudhury"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fiona",
+          "lastName": "Collinson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Natalie",
+          "lastName": "Cook"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Johan",
+          "lastName": "de Bono"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Corinne",
+          "lastName": "Faivre-Finn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Fleming"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiao",
+          "lastName": "Fu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew J.S.",
+          "lastName": "Furness"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor",
+          "lastName": "Graham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David J.",
+          "lastName": "Harrison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jennifer",
+          "lastName": "Hay"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karibaan",
+          "lastName": "Hodivala-Dilke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert",
+          "lastName": "Huddart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Humphries"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Will",
+          "lastName": "Ince"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James O.",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Kassiotis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gavin",
+          "lastName": "Kelly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dimitris",
+          "lastName": "Lagos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexander",
+          "lastName": "Laird"
+        }
+      ]
+    },
+    {
+      "doi": "10.3389/fdgth.2025.1637195",
+      "title": "Leveraging knowledge for explainable AI in personalized cancer treatment: challenges and future directions",
+      "year": 2025,
+      "venue": "Frontiers in Digital Health",
+      "volume": "7",
+      "issue": "",
+      "pages": "1637195",
+      "cited_by_count": 3,
+      "authors": [
+        "Emilia Daghir‐Wojtkowiak",
+        "Javier A. Alfaro",
+        "Michele Mastromattei",
+        "Aleksander Pałkowski",
+        "Mark Stares",
+        "Ana Roca‐Umbert",
+        "Andraž Krajnc",
+        "Riccardo Leoni",
+        "Anne Boland",
+        "Aria Nourbaksh",
+        "Ashwin Adrian Kallor",
+        "Camille Ducki",
+        "Davide Venditti",
+        "Carla Montesano",
+        "Chiara Cipriani",
+        "Daniel Faria",
+        "Delphine Pflieger",
+        "Elisa Zago",
+        "Etienne Bardet",
+        "Filipa Serrano",
+        "Florian Jeanneret",
+        "Damien Alouges",
+        "Liangwei Yin",
+        "Elodine Coquelet",
+        "Apolline Bacquet",
+        "Francesco Bonchi",
+        "Francesco Maiorino",
+        "Francesco Torino",
+        "Georges Bedran",
+        "Jean‐Alexandre Long",
+        "Laura Balbi",
+        "Laurent Guyon",
+        "Liana Bevilacqua",
+        "Manuel Fiorelli",
+        "Marie-Catherine Wagner",
+        "Mario Reyes de los Mozos",
+        "Mario Roselli",
+        "Marta Contreiras Silva",
+        "Michał Waleron",
+        "Nikolas Dovrolis",
+        "Odile Filhol-Cochet",
+        "In Hwa Um",
+        "Georg Wölflein",
+        "Patrícia Eugénio",
+        "Pauline Bazelle",
+        "Pavlos Golnas",
+        "Peter Thorpe",
+        "Pierluigi Bove",
+        "Piyush Borole",
+        "Roberta Bernardini"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Emilia",
+          "lastName": "Daghir-Wojtkowiak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Javier",
+          "lastName": "Alfaro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michele",
+          "lastName": "Mastromattei"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aleksander",
+          "lastName": "Palkowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ana",
+          "lastName": "Roca-Umbert"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andraz",
+          "lastName": "Krajnc"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Riccardo",
+          "lastName": "Leoni"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne",
+          "lastName": "Boland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aria",
+          "lastName": "Nourbaksh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ashwin",
+          "lastName": "Kallor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Camille",
+          "lastName": "Ducki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Davide",
+          "lastName": "Venditti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carla",
+          "lastName": "Montesano"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chiara",
+          "lastName": "Cipriani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Faria"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Delphine",
+          "lastName": "Pflieger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisa",
+          "lastName": "Zago"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Etienne",
+          "lastName": "Bardet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Filipa",
+          "lastName": "Serrano"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florian",
+          "lastName": "Jeanneret"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Damien",
+          "lastName": "Alouges"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Liangwei",
+          "lastName": "Yin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elodine",
+          "lastName": "Coquelet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Apolline",
+          "lastName": "Bacquet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francesco",
+          "lastName": "Bonchi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francesco",
+          "lastName": "Maiorino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francesco",
+          "lastName": "Torino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Georges",
+          "lastName": "Bedran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jean-Alexandre",
+          "lastName": "Long"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura",
+          "lastName": "Balbi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laurent",
+          "lastName": "Guyon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Liana",
+          "lastName": "Bevilacqua"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manuel",
+          "lastName": "Fiorelli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie-Catherine",
+          "lastName": "Wagner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mario",
+          "lastName": "Reyes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mario",
+          "lastName": "Roselli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marta Contreiras",
+          "lastName": "Silva"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michal",
+          "lastName": "Waleron"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nikolas",
+          "lastName": "Dovrolis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Odile",
+          "lastName": "Filhol-Cochet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "In Hwa",
+          "lastName": "Um"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Georg",
+          "lastName": "Wolflein"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patrícia",
+          "lastName": "Eugénio"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pauline",
+          "lastName": "Bazelle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pavlos",
+          "lastName": "Golnas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Thorpe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pierluigi",
+          "lastName": "Bove"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Piyush",
+          "lastName": "Borole"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roberta",
+          "lastName": "Bernardini"
+        }
+      ]
+    },
+    {
+      "doi": "10.1002/path.6377",
+      "title": "Oronasal mucosal melanoma is defined by two transcriptional subtypes in humans and dogs with implications for diagnosis and therapy",
+      "year": 2025,
+      "venue": "The Journal of Pathology",
+      "volume": "265",
+      "issue": "3",
+      "pages": "245-259",
+      "cited_by_count": 1,
+      "authors": [
+        "Kelly Blacklock",
+        "Kevin S. Donnelly",
+        "Yuting Lu",
+        "Jorge del Pozo",
+        "Laura Glendinning",
+        "Gerry Polton",
+        "Laura E. Selmic",
+        "Jean‐Benoit Tanis",
+        "David Killick",
+        "Maciej Parys",
+        "Joanna S. Morris",
+        "Inge Breathnach",
+        "Stefano Zago",
+        "Sara Gould",
+        "Darren J. Shaw",
+        "Mickey Tivers",
+        "Davide Malucelli",
+        "Ana Paula Marques",
+        "Katarzyna Purzycka",
+        "Matteo Cantatore",
+        "Marie E. Mathers",
+        "Mark Stares",
+        "Alison Meynert",
+        "E. Elizabeth Patton"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kelly L Bowlt",
+          "lastName": "Blacklock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Donnelly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yuting",
+          "lastName": "Lu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jorge del",
+          "lastName": "Pozo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura",
+          "lastName": "Glendinning"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gerry",
+          "lastName": "Polton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura",
+          "lastName": "Selmic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jean‐Benoit",
+          "lastName": "Tanis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Killick"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maciej",
+          "lastName": "Parys"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joanna S",
+          "lastName": "Morris"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Inge",
+          "lastName": "Breathnach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefano",
+          "lastName": "Zago"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sara M",
+          "lastName": "Gould"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Darren J",
+          "lastName": "Shaw"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael S",
+          "lastName": "Tivers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Davide",
+          "lastName": "Malucelli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ana",
+          "lastName": "Marques"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katarzyna",
+          "lastName": "Purzycka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matteo",
+          "lastName": "Cantatore"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie E",
+          "lastName": "Mathers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alison",
+          "lastName": "Meynert"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "E Elizabeth",
+          "lastName": "Patton"
+        }
+      ]
+    },
+    {
+      "doi": "10.1097/spc.0000000000000772",
+      "title": "Assessing the impact of early palliative care intervention in patients with lung cancer, cachexia and weight loss",
+      "year": 2025,
+      "venue": "Current Opinion in Supportive &amp; Palliative Care",
+      "volume": "19",
+      "issue": "3",
+      "pages": "192-197",
+      "cited_by_count": 0,
+      "authors": [
+        "I. Phillips",
+        "Charlie Hall",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charlie",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1093/oncolo/oyaf248.041",
+      "title": "IUC24394-87 Meet-URO score update in metastatic renal cell carcinoma receiving first-line immune-combinations",
+      "year": 2025,
+      "venue": "The Oncologist",
+      "volume": "30",
+      "issue": "Supplement_1",
+      "pages": "oyaf248.041",
+      "cited_by_count": 0,
+      "authors": [
+        "Pasquale Rescigno",
+        "Aruni Ghose",
+        "Nicholas F. Brown",
+        "Lijo James",
+        "Sophia Haywood",
+        "Ricky Frazer",
+        "Anupama Vijay",
+        "Mark Stares",
+        "Michael Cheung",
+        "Ishika Mahajan",
+        "Niall Moon",
+        "Ritika Abrol",
+        "Ondřej Fiala",
+        "Vishwani Chauhan",
+        "Yamin Soe",
+        "Anum Zargham",
+        "Sara Elena Rebuzzi"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Pasquale",
+          "lastName": "Rescigno"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aruni",
+          "lastName": "Ghose"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lijo",
+          "lastName": "James"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sophia",
+          "lastName": "Haywood"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ricky",
+          "lastName": "Frazer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anupama",
+          "lastName": "Vijay"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Cheung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ishika",
+          "lastName": "Mahajan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Niall",
+          "lastName": "Moon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ritika",
+          "lastName": "Abrol"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ondrej",
+          "lastName": "Fiala"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vishwani",
+          "lastName": "Chauhan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yamin Shwe Yee",
+          "lastName": "Soe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anum",
+          "lastName": "Zargham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sara Elena",
+          "lastName": "Rebuzzi"
+        }
+      ]
+    },
+    {
+      "doi": "10.1038/s41564-024-01804-9",
+      "title": "Primary succession of Bifidobacteria drives pathogen resistance in neonatal microbiota assembly",
+      "year": 2024,
+      "venue": "Nature Microbiology",
+      "volume": "9",
+      "issue": "10",
+      "pages": "2570-2582",
+      "cited_by_count": 67,
+      "authors": [
+        "Yan Shao",
+        "Cristina García-Mauriño",
+        "Simon Clare",
+        "Nicholas J. R. Dawson",
+        "Andre Mu",
+        "Anne Adoum",
+        "Katherine Harcourt",
+        "Junyan Liu",
+        "Hilary P. Browne",
+        "Mark Stares",
+        "Alison Rodger",
+        "Peter Brocklehurst",
+        "Nigel Field",
+        "Trevor D. Lawley"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yan",
+          "lastName": "Shao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cristina",
+          "lastName": "Garcia-Mauriño"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Clare"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas J. R.",
+          "lastName": "Dawson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andre",
+          "lastName": "Mu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne",
+          "lastName": "Adoum"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katherine",
+          "lastName": "Harcourt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Junyan",
+          "lastName": "Liu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary P.",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alison",
+          "lastName": "Rodger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Brocklehurst"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nigel",
+          "lastName": "Field"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2024.107497",
+      "title": "Prognostic value of the Scottish Inflammatory prognostic Score in patients with NSCLC expressing PD-L1 ≥ 50 % progressing on first-line pembrolizumab",
+      "year": 2024,
+      "venue": "Lung Cancer",
+      "volume": "189",
+      "issue": "",
+      "pages": "107497",
+      "cited_by_count": 7,
+      "authors": [
+        "Mark Stares",
+        "Emma Doyle",
+        "Sally Chapple",
+        "George Raynes",
+        "James H. MacDonald",
+        "Colin Barrie",
+        "Barry Laird",
+        "Melanie Mackean",
+        "Iain Philips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emma",
+          "lastName": "Doyle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "Chapple"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Raynes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "MacDonald"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barry",
+          "lastName": "Laird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Philips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1002/cam4.6988",
+      "title": "Biomarkers of systemic inflammation provide additional prognostic stratification in cancers of unknown primary",
+      "year": 2024,
+      "venue": "Cancer Medicine",
+      "volume": "13",
+      "issue": "3",
+      "pages": "e6988",
+      "cited_by_count": 6,
+      "authors": [
+        "Svenja Harvey",
+        "Mark Stares",
+        "J.A. Scott",
+        "Tharun Joseph Vattam Thottiyil",
+        "Alicia‐Marie Conway",
+        "Rachel Haigh",
+        "Jackie Brown",
+        "Gillian Knowles",
+        "Sonali Dasgupta",
+        "Kai‐Keen Shiu",
+        "Claire Mitchell",
+        "Colin Barrie",
+        "Natalie Cook",
+        "Sally Clive"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Svenja",
+          "lastName": "Harvey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julie‐Anne",
+          "lastName": "Scott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tharun Joseph Vattam",
+          "lastName": "Thottiyil"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alicia‐Marie",
+          "lastName": "Conway"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rachel",
+          "lastName": "Haigh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jackie",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gillian",
+          "lastName": "Knowles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sonali",
+          "lastName": "Dasgupta"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kai‐Keen",
+          "lastName": "Shiu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Mitchell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Natalie",
+          "lastName": "Cook"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "Clive"
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/cancers16223833",
+      "title": "Validation of the Scottish Inflammatory Prognostic Score (SIPS) in NSCLC Patients Treated with First-Line Pembrolizumab",
+      "year": 2024,
+      "venue": "Cancers",
+      "volume": "16",
+      "issue": "22",
+      "pages": "3833",
+      "cited_by_count": 4,
+      "authors": [
+        "Igor Gomez-Randulfe",
+        "Fábio Gomes",
+        "Melanie Mackean",
+        "Iain Phillips",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Igor",
+          "lastName": "Gomez-Randulfe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fabio",
+          "lastName": "Gomes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1200/jco.2024.42.16_suppl.3059",
+      "title": "CUPCOMP: A multi-site UK trial in carcinoma of unknown primary: A comparison across tissue and liquid biomarkers.",
+      "year": 2024,
+      "venue": "Journal of Clinical Oncology",
+      "volume": "42",
+      "issue": "16_suppl",
+      "pages": "3059-3059",
+      "cited_by_count": 2,
+      "authors": [
+        "Alicia‐Marie Conway",
+        "Matthew Robinson",
+        "Matthew J. Concannon",
+        "Sally Clive",
+        "Tania Tillett",
+        "Kai‐Keen Shiu",
+        "Louise Medley",
+        "Sonali Dasgupta",
+        "Eliyaz Ahmed",
+        "Kelly Warrington",
+        "Zoulikha Zair",
+        "Tess Gillham",
+        "Aaron Davis",
+        "Julie-Anne Scott",
+        "Alison Taylor",
+        "Mark Stares",
+        "Claire Mitchell",
+        "P.M. Lino Soares de Oliveria",
+        "George J. Burghel",
+        "Natalie Cook"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alicia-Marie",
+          "lastName": "Conway"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Robinson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Concannon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "Clive"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tania",
+          "lastName": "Tillett"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kai-Keen",
+          "lastName": "Shiu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Louise C.",
+          "lastName": "Medley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sonali",
+          "lastName": "Dasgupta"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eliyaz",
+          "lastName": "Ahmed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kelly",
+          "lastName": "Warrington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zoulikha",
+          "lastName": "Zair"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tess",
+          "lastName": "Gillham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aaron",
+          "lastName": "Davis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julie-Anne",
+          "lastName": "Scott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alison",
+          "lastName": "Taylor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Mitchell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pedro",
+          "lastName": "Oliveria"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Burghel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Natalie",
+          "lastName": "Cook"
+        }
+      ]
+    },
+    {
+      "doi": "10.3389/fonc.2024.1330271",
+      "title": "Case report: A rare case of immunotherapy induced isolated left CN VI palsy in a patient with unresectable melanoma",
+      "year": 2024,
+      "venue": "Frontiers in Oncology",
+      "volume": "14",
+      "issue": "",
+      "pages": "1330271",
+      "cited_by_count": 2,
+      "authors": [
+        "Samantha Su Ping Low",
+        "Karim El-Shakankery",
+        "Ewan Brown",
+        "Alan Christie",
+        "Sally McCormack",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Samantha Su Ping",
+          "lastName": "Low"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karim",
+          "lastName": "El-Shakankery"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ewan",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "Christie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "McCormack"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.esmoop.2024.102360",
+      "title": "32P Validation of the Scottish Immunotherapy Prognostic Score (SIPS) in NSCLC patients treated with first-line pembrolizumab",
+      "year": 2024,
+      "venue": "ESMO Open",
+      "volume": "9",
+      "issue": "",
+      "pages": "102360",
+      "cited_by_count": 0,
+      "authors": [
+        "M.I. Gomez-Randulfe Rodriguez",
+        "I. Phillips",
+        "Fábio Gomes",
+        "Melanie Mackean",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M.I.",
+          "lastName": "Gomez-Randulfe Rodriguez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "I.",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "F.",
+          "lastName": "Gomes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Mackean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2024.107720",
+      "title": "159 Outcomes of thoracic radiotherapy for oligoprogression after a response to Pembrolizumab in patients with advanced Non-Small Cell Lung Cancer",
+      "year": 2024,
+      "venue": "Lung Cancer",
+      "volume": "190",
+      "issue": "",
+      "pages": "107720",
+      "cited_by_count": 0,
+      "authors": [
+        "Dhania Haron",
+        "Iain Phillips",
+        "Stephen Harrow",
+        "Tamasin Evans",
+        "Kirsty Maclennan",
+        "Sorcha Campbell",
+        "Melanie Mackean",
+        "Colin Barrie",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dhania",
+          "lastName": "Haron"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "MacLennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "Mackean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.annonc.2024.08.1184",
+      "title": "1116P Application of the Scottish inflammatory prognostic score to the south-east Scotland cancer network real-world melanoma cohort",
+      "year": 2024,
+      "venue": "Annals of Oncology",
+      "volume": "35",
+      "issue": "",
+      "pages": "S737",
+      "cited_by_count": 0,
+      "authors": [
+        "Karim El-Shakankery",
+        "Sze Shin Low",
+        "Alan Christie",
+        "Elizabeth R. Brown",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "K.H.",
+          "lastName": "El-Shakankery"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.S.P.",
+          "lastName": "Low"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Christie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "E.R.",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/cancers15235502",
+      "title": "Immune-Related Adverse Events, Biomarkers of Systemic Inflammation, and Survival Outcomes in Patients Receiving Pembrolizumab for Non-Small-Cell Lung Cancer",
+      "year": 2023,
+      "venue": "Cancers",
+      "volume": "15",
+      "issue": "23",
+      "pages": "5502",
+      "cited_by_count": 12,
+      "authors": [
+        "George Raynes",
+        "Mark Stares",
+        "Samantha Low",
+        "Dhania Haron",
+        "Hussain Sarwar",
+        "Dhruv Abhi",
+        "Colin Barrie",
+        "Barry Laird",
+        "Caledonian Cachexia Collaborative",
+        "I. Phillips",
+        "Melanie Mackean"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Raynes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samantha",
+          "lastName": "Low"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dhania",
+          "lastName": "Haron"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hussain",
+          "lastName": "Sarwar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dhruv",
+          "lastName": "Abhi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barry",
+          "lastName": "Laird"
+        },
+        {
+          "creatorType": "author",
+          "name": "Caledonian Cachexia Collaborative"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "MacKean"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.cmi.2023.02.022",
+      "title": "Screening for Clostridioides difficile colonization at admission to the hospital: a multi-centre study",
+      "year": 2023,
+      "venue": "Clinical Microbiology and Infection",
+      "volume": "29",
+      "issue": "7",
+      "pages": "891-896",
+      "cited_by_count": 9,
+      "authors": [
+        "Monique J. T. Crobach",
+        "Bastian Hornung",
+        "Cees M. Verduin",
+        "Martine De Vos",
+        "Joost Hopman",
+        "Nitin Kumar",
+        "Céline Harmanus",
+        "Ingrid M. J. G. Sanders",
+        "Elisabeth M. Terveer",
+        "Mark Stares",
+        "Trevor D. Lawley",
+        "Ed J. Kuijper"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Monique J.T.",
+          "lastName": "Crobach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bastian V.H.",
+          "lastName": "Hornung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cees",
+          "lastName": "Verduin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margreet C.",
+          "lastName": "Vos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joost",
+          "lastName": "Hopman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Celine",
+          "lastName": "Harmanus"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ingrid",
+          "lastName": "Sanders"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisabeth M.",
+          "lastName": "Terveer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ed J.",
+          "lastName": "Kuijper"
+        }
+      ]
+    },
+    {
+      "doi": "10.1002/cam4.5330",
+      "title": "Initial active surveillance for patients with metastatic renal cell carcinoma: 10 years' experience at a regional cancer Centre",
+      "year": 2023,
+      "venue": "Cancer Medicine",
+      "volume": "12",
+      "issue": "5",
+      "pages": "5255-5264",
+      "cited_by_count": 7,
+      "authors": [
+        "Mark Stares",
+        "Vishwani Chauhan",
+        "Jigi Moudgil‐Joshi",
+        "Qiu G. Kong",
+        "Jahangeer Malik",
+        "Aravindhan Sundaramurthy",
+        "Tony Elliott",
+        "Edward Mains",
+        "Steve Leung",
+        "Alexander Laird",
+        "Stefan N. Symeonides"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vishwani",
+          "lastName": "Chauhan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jigi",
+          "lastName": "Moudgil‐Joshi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Qiu G.",
+          "lastName": "Kong"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jahangeer",
+          "lastName": "Malik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aravindhan",
+          "lastName": "Sundaramurthy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tony",
+          "lastName": "Elliott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Edward",
+          "lastName": "Mains"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Leung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexander",
+          "lastName": "Laird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan N.",
+          "lastName": "Symeonides"
+        }
+      ]
+    },
+    {
+      "doi": "10.1200/jco.2023.41.6_suppl.645",
+      "title": "Real-world survival outcomes of patients (pts) treated with 6-weekly pembrolizumab 400mg (pem6w) plus axitinib (axi) for advanced renal cell carcinoma (aRCC).",
+      "year": 2023,
+      "venue": "Journal of Clinical Oncology",
+      "volume": "41",
+      "issue": "6_suppl",
+      "pages": "645-645",
+      "cited_by_count": 1,
+      "authors": [
+        "Sonam Ansel",
+        "Mark Stares",
+        "Robert J. Jones",
+        "Stefan N. Symeonides",
+        "Laura Manson",
+        "Anirban Ray-Chaudhuri",
+        "Manreet Randhawa",
+        "Sarah Slater",
+        "Abeera Devasar",
+        "Jahangeer Malik",
+        "Aravindhan Sundaramurthy",
+        "Tony Elliott",
+        "Balaji Venugopal"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sonam",
+          "lastName": "Ansel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert J.",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan N.",
+          "lastName": "Symeonides"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura",
+          "lastName": "Manson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anirban",
+          "lastName": "Ray-Chaudhuri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manreet",
+          "lastName": "Randhawa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Slater"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abeera",
+          "lastName": "Devasar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jahangeer",
+          "lastName": "Malik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aravindhan",
+          "lastName": "Sundaramurthy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tony",
+          "lastName": "Elliott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Balaji",
+          "lastName": "Venugopal"
+        }
+      ]
+    },
+    {
+      "doi": "10.1200/jco.2023.41.6_suppl.716",
+      "title": "Predictive value of C reactive protein (CRP) in patients with metastatic renal cell carcinoma (mRCC) treated with pembrolizumab (pembro) and axitinib (axi).",
+      "year": 2023,
+      "venue": "Journal of Clinical Oncology",
+      "volume": "41",
+      "issue": "6_suppl",
+      "pages": "716-716",
+      "cited_by_count": 0,
+      "authors": [
+        "Aitzaz Qaisar",
+        "Balaji Venugopal",
+        "Sonam Ansel",
+        "Robert J. Jones",
+        "Sarah Slater",
+        "Stefan N. Symeonides",
+        "Jahangeer Malik",
+        "Aravindhan Sundaramurthy",
+        "Tony Elliott",
+        "Abeera Devasar",
+        "Mark Stares",
+        "Manreet Randhawa"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Aitzaz",
+          "lastName": "Qaisar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Balaji",
+          "lastName": "Venugopal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sonam",
+          "lastName": "Ansel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert J.",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Slater"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan N.",
+          "lastName": "Symeonides"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jahangeer",
+          "lastName": "Malik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aravindhan",
+          "lastName": "Sundaramurthy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tony",
+          "lastName": "Elliott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abeera",
+          "lastName": "Devasar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manreet",
+          "lastName": "Randhawa"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.jtho.2023.09.536",
+      "title": "P2.05-09 SIPS as a Prognostic Biomarker within Performance Status in Advanced Lung Cancer Patients Treated with Pembrolizumab",
+      "year": 2023,
+      "venue": "Journal of Thoracic Oncology",
+      "volume": "18",
+      "issue": "11",
+      "pages": "S311",
+      "cited_by_count": 0,
+      "authors": [
+        "Sally Chapple",
+        "Iain Philips",
+        "Mark Stares",
+        "Melanie Mackean",
+        "C. Barrie",
+        "S. Low"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Chapple"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "I.",
+          "lastName": "Philips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Low"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.chom.2021.12.003",
+      "title": "The Mouse Gastrointestinal Bacteria Catalogue enables translation between the mouse and human gut microbiotas via functional mapping",
+      "year": 2022,
+      "venue": "Cell Host &amp; Microbe",
+      "volume": "30",
+      "issue": "1",
+      "pages": "124-138.e8",
+      "cited_by_count": 193,
+      "authors": [
+        "Benjamin S. Beresford-Jones",
+        "Samuel C. Forster",
+        "Mark Stares",
+        "George Notley",
+        "Elisa Viciani",
+        "Hilary P. Browne",
+        "Daniel J. Boehmler",
+        "Amelia T. Soderholm",
+        "Nitin Kumar",
+        "Kévin Vervier",
+        "Justin R. Cross",
+        "Alexandre Almeida",
+        "Trevor D. Lawley",
+        "Virginia A. Pedicord"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin S.",
+          "lastName": "Beresford-Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samuel C.",
+          "lastName": "Forster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Notley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisa",
+          "lastName": "Viciani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary P.",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel J.",
+          "lastName": "Boehmler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amelia T.",
+          "lastName": "Soderholm"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Vervier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Justin R.",
+          "lastName": "Cross"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandre",
+          "lastName": "Almeida"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Virginia A.",
+          "lastName": "Pedicord"
+        }
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-022-29096-9",
+      "title": "Strain-level characterization of broad host range mobile genetic elements transferring antibiotic resistance from the human microbiome",
+      "year": 2022,
+      "venue": "Nature Communications",
+      "volume": "13",
+      "issue": "1",
+      "pages": "1445",
+      "cited_by_count": 178,
+      "authors": [
+        "Samuel C. Forster",
+        "Junyan Liu",
+        "Nitin Kumar",
+        "Emily L. Gulliver",
+        "Jodee A. Gould",
+        "Alejandra Escobar‐Zepeda",
+        "Tapoka T. Mkandawire",
+        "Lindsay J. Pike",
+        "Yan Shao",
+        "Mark Stares",
+        "Hilary P. Browne",
+        "Bridget A. Neville",
+        "Trevor D. Lawley"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Samuel C.",
+          "lastName": "Forster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Junyan",
+          "lastName": "Liu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emily L.",
+          "lastName": "Gulliver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jodee A.",
+          "lastName": "Gould"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alejandra",
+          "lastName": "Escobar-Zepeda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tapoka",
+          "lastName": "Mkandawire"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lindsay J.",
+          "lastName": "Pike"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yan",
+          "lastName": "Shao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary P.",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B. Anne",
+          "lastName": "Neville"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        }
+      ]
+    },
+    {
+      "doi": "10.1136/gutjnl-2021-325177",
+      "title": "Two microbiota subtypes identified in irritable bowel syndrome with distinct responses to the low FODMAP diet",
+      "year": 2022,
+      "venue": "Gut",
+      "volume": "71",
+      "issue": "9",
+      "pages": "1821-1830",
+      "cited_by_count": 133,
+      "authors": [
+        "Kévin Vervier",
+        "Stephen Moss",
+        "Nitin Kumar",
+        "Anne Adoum",
+        "Meg Barne",
+        "Hilary P. Browne",
+        "Arthur Kaser",
+        "Christopher J. Kiely",
+        "Bridget A. Neville",
+        "Nina Powell",
+        "Tim Raine",
+        "Mark Stares",
+        "Ana Zhu",
+        "Juan De La Revilla Negro",
+        "Trevor D. Lawley",
+        "Miles Parkes"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Vervier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Moss"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne",
+          "lastName": "Adoum"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Meg",
+          "lastName": "Barne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arthur",
+          "lastName": "Kaser"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher J",
+          "lastName": "Kiely"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B Anne",
+          "lastName": "Neville"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nina",
+          "lastName": "Powell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tim",
+          "lastName": "Raine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ana",
+          "lastName": "Zhu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juan",
+          "lastName": "De La Revilla Negro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Miles",
+          "lastName": "Parkes"
+        }
+      ]
+    },
+    {
+      "doi": "10.1038/s41564-022-01094-z",
+      "title": "Identification of gut microbial species linked with disease variability in a widely used mouse model of colitis",
+      "year": 2022,
+      "venue": "Nature Microbiology",
+      "volume": "7",
+      "issue": "4",
+      "pages": "590-599",
+      "cited_by_count": 133,
+      "authors": [
+        "Samuel C. Forster",
+        "Simon Clare",
+        "Benjamin S. Beresford-Jones",
+        "Katherine Harcourt",
+        "George Notley",
+        "Mark Stares",
+        "Nitin Kumar",
+        "Amelia T. Soderholm",
+        "Anne Adoum",
+        "Hannah Wong",
+        "Belén Morón",
+        "Cordelia Brandt",
+        "Gordon Dougan",
+        "David J. Adams",
+        "Kevin J. Maloy",
+        "Virginia A. Pedicord",
+        "Trevor D. Lawley"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Samuel C.",
+          "lastName": "Forster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Clare"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin S.",
+          "lastName": "Beresford-Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katherine",
+          "lastName": "Harcourt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Notley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amelia T.",
+          "lastName": "Soderholm"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne",
+          "lastName": "Adoum"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hannah",
+          "lastName": "Wong"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bélen",
+          "lastName": "Morón"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cordelia",
+          "lastName": "Brandt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gordon",
+          "lastName": "Dougan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David J.",
+          "lastName": "Adams"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin J.",
+          "lastName": "Maloy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Virginia A.",
+          "lastName": "Pedicord"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.esmoop.2022.100445",
+      "title": "Biomarkers of systemic inflammation predict survival with first-line immune checkpoint inhibitors in non-small-cell lung cancer",
+      "year": 2022,
+      "venue": "ESMO Open",
+      "volume": "7",
+      "issue": "2",
+      "pages": "100445",
+      "cited_by_count": 56,
+      "authors": [
+        "Mark Stares",
+        "Tze-en Ding",
+        "Cory Stratton",
+        "Findlay Thomson",
+        "Mark Baxter",
+        "Hannah Cagney",
+        "Kirsty Cumming",
+        "Amanda M. Swan",
+        "F. M. Ross",
+        "C. Barrie",
+        "Kirsty Maclennan",
+        "S. Campbell",
+        "Tamasin Evans",
+        "Adnan Tufail",
+        "Stephen Harrow",
+        "Hannah Lord",
+        "Barry Laird",
+        "Melanie Mackean",
+        "I. Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T.E.",
+          "lastName": "Ding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Stratton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "F.",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Baxter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "H.",
+          "lastName": "Cagney"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K.",
+          "lastName": "Cumming"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Swan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "F.",
+          "lastName": "Ross"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K.",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T.",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "H.",
+          "lastName": "Lord"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B.",
+          "lastName": "Laird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "I.",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(22)00117-9",
+      "title": "Adjuvant durvalumab post-chemoradiotherapy in stage III non-small cell lung cancer: experience from the Edinburgh Cancer Centre",
+      "year": 2022,
+      "venue": "Lung Cancer",
+      "volume": "165",
+      "issue": "",
+      "pages": "S34",
+      "cited_by_count": 1,
+      "authors": [
+        "Xiangfei Yan",
+        "Gareth Price",
+        "George Raynes",
+        "Mark Stares",
+        "Tamasin Evans",
+        "Sorcha Campbell",
+        "Aisha Tufail",
+        "Kirsty Maclennan",
+        "Colin Barrie",
+        "Melanie Mackean",
+        "Stephen Harrow",
+        "Iain Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Xiangfei",
+          "lastName": "Yan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gareth",
+          "lastName": "Price"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Raynes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "MacLennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(22)00116-7",
+      "title": "The Scottish Inflammatory Prognostic Score (SIPS) identifies poor responders to first-line chemoimmunotherapy in non-small cell lung cancer",
+      "year": 2022,
+      "venue": "Lung Cancer",
+      "volume": "165",
+      "issue": "",
+      "pages": "S33-S34",
+      "cited_by_count": 0,
+      "authors": [
+        "George Raynes",
+        "Gareth Price",
+        "Xiangfei Yan",
+        "Colin Barrie",
+        "Kirsty Maclennan",
+        "Sorcha Campbell",
+        "Tamasin Evans",
+        "Aisha Tufail",
+        "Stephen Harrow",
+        "Melanie Mackean",
+        "Iain Philips",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Raynes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gareth",
+          "lastName": "Price"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiangfei",
+          "lastName": "Yan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Philips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(22)00171-4",
+      "title": "Real-world outcomes for patients with inoperable stage III non-small cell lung cancer: a prognostic role for albumin?",
+      "year": 2022,
+      "venue": "Lung Cancer",
+      "volume": "165",
+      "issue": "",
+      "pages": "S58",
+      "cited_by_count": 0,
+      "authors": [
+        "James L. Leach",
+        "Mark Stares",
+        "Benjamin Langley",
+        "Florence Fenner",
+        "Angus Killean",
+        "Colin Barrie",
+        "Kirsty Maclennan",
+        "Sorcha Campbell",
+        "Tamasin Evans",
+        "Aisha Tufail",
+        "Stephen Harrow",
+        "Maria McMenemy",
+        "Melanie Mackean",
+        "Iain Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Leach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Langley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florence",
+          "lastName": "Fenner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Angus",
+          "lastName": "Killean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maria",
+          "lastName": "McMenemy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "Mackean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(22)00161-1",
+      "title": "Biomarkers of systemic inflammation predict survival in stage III non-small cell lung cancer treated with chemoradiotherapy",
+      "year": 2022,
+      "venue": "Lung Cancer",
+      "volume": "165",
+      "issue": "",
+      "pages": "S53-S54",
+      "cited_by_count": 0,
+      "authors": [
+        "Benjamin Langley",
+        "James Leach",
+        "Florence Fenner",
+        "Angus Killean",
+        "Colin Barrie",
+        "Kirsty Maclennan",
+        "Sorcha Campbell",
+        "Tamasin Evans",
+        "Aisha Tufail",
+        "Stephen Harrow",
+        "Maria McMenemy",
+        "Melanie Mackean",
+        "Iain Phillips",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Langley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Leach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florence",
+          "lastName": "Fenner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Angus",
+          "lastName": "Killean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maria",
+          "lastName": "McMenemy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(22)00168-4",
+      "title": "Gross tumour volume predicts survival and correlates with pre-treatment serum albumin concentration in patients with stage III non-small cell lung cancer treated with chemo-radiotherapy",
+      "year": 2022,
+      "venue": "Lung Cancer",
+      "volume": "165",
+      "issue": "",
+      "pages": "S56-S57",
+      "cited_by_count": 0,
+      "authors": [
+        "Angus Killean",
+        "Florence Fenner",
+        "Mark Stares",
+        "Tamasin Evans",
+        "Kirsty Maclennan",
+        "Aisha Tufail",
+        "Sorcha Campbell",
+        "Stephen Harrow",
+        "Duncan B. McLaren",
+        "Iain Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Angus",
+          "lastName": "Killean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florence",
+          "lastName": "Fenner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Duncan",
+          "lastName": "McLaren"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1200/jco.2022.40.6_suppl.309",
+      "title": "Real-world experience (RWE) of safety and efficacy of 6-weekly pembrolizumab 400mg (pem6w) plus axitinib (axi) in patients (pts) with advanced renal cell carcinoma (aRCC).",
+      "year": 2022,
+      "venue": "Journal of Clinical Oncology",
+      "volume": "40",
+      "issue": "6_suppl",
+      "pages": "309-309",
+      "cited_by_count": 0,
+      "authors": [
+        "Sonam Ansel",
+        "Anirban Ray-Chaudhuri",
+        "Robert J. Jones",
+        "Mark Stares",
+        "Tze-en Ding",
+        "Stefan N. Symeonides",
+        "Christine Crearie",
+        "Sarah Slater",
+        "Maria Almudena Cascales Garcia",
+        "Aravindhan Sundaramurthy",
+        "Jahangeer Malik",
+        "Nicola Thomson",
+        "Marie Pringle",
+        "Gillian Barmack",
+        "Balaji Venugopal"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sonam",
+          "lastName": "Ansel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anirban",
+          "lastName": "Ray-Chaudhuri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert J.",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tze-en",
+          "lastName": "Ding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan N.",
+          "lastName": "Symeonides"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christine",
+          "lastName": "Crearie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Slater"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maria Almudena",
+          "lastName": "Cascales Garcia"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aravindhan",
+          "lastName": "Sundaramurthy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jahangeer",
+          "lastName": "Malik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicola",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie",
+          "lastName": "Pringle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gillian",
+          "lastName": "Barmack"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Balaji",
+          "lastName": "Venugopal"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.clon.2022.08.006",
+      "title": "A predictive tool for assessing bone lesions in malignancy of undefined primary origin",
+      "year": 2022,
+      "venue": "Clinical Oncology",
+      "volume": "34",
+      "issue": "",
+      "pages": "e2",
+      "cited_by_count": 0,
+      "authors": [
+        "Mark Stares",
+        "Guo Yong",
+        "Sean OʼReilly",
+        "Gillian Knowles",
+        "Rachel Haigh",
+        "Jackie Brown",
+        "Colin Barrie",
+        "Sally Clive"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Guo Liang",
+          "lastName": "Yong"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sean",
+          "lastName": "O'Reilly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gillian",
+          "lastName": "Knowles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rachel",
+          "lastName": "Haigh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jackie",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "Clive"
+        }
+      ]
+    },
+    {
+      "doi": "10.3389/fnut.2021.734735",
+      "title": "Hypoalbuminaemia as a Prognostic Biomarker of First-Line Treatment Resistance in Metastatic Non-small Cell Lung Cancer",
+      "year": 2021,
+      "venue": "Frontiers in Nutrition",
+      "volume": "8",
+      "issue": "",
+      "pages": "734735",
+      "cited_by_count": 51,
+      "authors": [
+        "Mark Stares",
+        "Amanda M. Swan",
+        "Kirsten Cumming",
+        "Tze-en Ding",
+        "James Leach",
+        "Cory Stratton",
+        "Findlay Thomson",
+        "Colin Barrie",
+        "Kirsty Maclennan",
+        "Sorcha Campbell",
+        "Tamasin Evans",
+        "Aisha Tufail",
+        "Stephen Harrow",
+        "Melanie Mackean",
+        "I. Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amanda",
+          "lastName": "Swan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsten",
+          "lastName": "Cumming"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tze-En",
+          "lastName": "Ding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Leach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cory",
+          "lastName": "Stratton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Findlay",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "MacLennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "MacKean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1038/s41416-021-01544-1",
+      "title": "Characterisation and outcomes of patients referred to a regional cancer of unknown primary team: a 10-year analysis",
+      "year": 2021,
+      "venue": "British Journal of Cancer",
+      "volume": "125",
+      "issue": "11",
+      "pages": "1503-1510",
+      "cited_by_count": 13,
+      "authors": [
+        "Mark Stares",
+        "Karin Purshouse",
+        "Gillian Knowles",
+        "Rachel Haigh",
+        "Jenny Irvine",
+        "Aoife Gatenby",
+        "Rebekah Patton",
+        "Jo McGinty",
+        "Alan Christie",
+        "Marjory Maclennan",
+        "Colin Barrie",
+        "Sally Clive"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karin",
+          "lastName": "Purshouse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gillian",
+          "lastName": "Knowles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rachel",
+          "lastName": "Haigh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jenny",
+          "lastName": "Irvine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aoife",
+          "lastName": "Gatenby"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rebekah",
+          "lastName": "Patton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jo",
+          "lastName": "McGinty"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "Christie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marjory",
+          "lastName": "MacLennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "Clive"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(21)00301-9",
+      "title": "Scottish Immunotherapy Prognostic Score: biomarker of systemic inflammation predicts response to first-line pembrolizumab for metastatic non-small cell lung cancer",
+      "year": 2021,
+      "venue": "Lung Cancer",
+      "volume": "156",
+      "issue": "",
+      "pages": "S43",
+      "cited_by_count": 4,
+      "authors": [
+        "Tze-en Grace Ding",
+        "Findlay Thomson",
+        "Cory Stratton",
+        "Kirsten Cumming",
+        "Colin Barrie",
+        "Kirsty Maclennan",
+        "Tamasin Evans",
+        "Sorcha Campbell",
+        "Aisha Tufail",
+        "Melanie Mackean",
+        "I. Phillips",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Tze-en Grace",
+          "lastName": "Ding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Findlay",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cory",
+          "lastName": "Stratton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsten",
+          "lastName": "Cumming"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Melanie",
+          "lastName": "Mackean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.jtho.2021.08.579",
+      "title": "P57.07 The Scottish Immunotherapy Prognostic Score (SIPS) Predicts Response to First-Line Pembrolizumab for Metastatic Non-Small Cell Lung Cancer",
+      "year": 2021,
+      "venue": "Journal of Thoracic Oncology",
+      "volume": "16",
+      "issue": "10",
+      "pages": "S1139-S1140",
+      "cited_by_count": 1,
+      "authors": [
+        "Mark Stares",
+        "Tze-en Ding",
+        "Cory Stratton",
+        "Fiona Thomson",
+        "Melanie Mackean",
+        "Kirsty Cumming",
+        "C. Barrie",
+        "Kirsty Maclennan",
+        "S. Campbell",
+        "Tamasin Evans",
+        "Adnan Tufail",
+        "I. Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T.",
+          "lastName": "Ding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Stratton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "F.",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Mackean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K.",
+          "lastName": "Cumming"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K.",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T.",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "I.",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1200/jco.2021.39.6_suppl.350",
+      "title": "Prognostic value of simple blood biomarkers of systemic inflammation for metastatic renal cell carcinoma (mRCC) patients who undergo cytoreductive nephrectomy (CNx).",
+      "year": 2021,
+      "venue": "Journal of Clinical Oncology",
+      "volume": "39",
+      "issue": "6_suppl",
+      "pages": "350-350",
+      "cited_by_count": 0,
+      "authors": [
+        "Jigi Moudgil-Joshi",
+        "Mark Stares",
+        "Alex Laird",
+        "Steve Leung",
+        "Jahangeer Malik",
+        "Aravindhan Sundaramurthy",
+        "Stefan N. Symeonides"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jigi",
+          "lastName": "Moudgil-Joshi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alex",
+          "lastName": "Laird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Leung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jahangeer",
+          "lastName": "Malik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aravindhan",
+          "lastName": "Sundaramurthy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan N.",
+          "lastName": "Symeonides"
+        }
+      ]
+    },
+    {
+      "doi": "10.1200/jco.2021.39.6_suppl.348",
+      "title": "Prognostic biomarkers of systemic inflammation in patients on active surveillance for metastatic renal cell carcinoma (mRCC): A biobank analysis.",
+      "year": 2021,
+      "venue": "Journal of Clinical Oncology",
+      "volume": "39",
+      "issue": "6_suppl",
+      "pages": "348-348",
+      "cited_by_count": 0,
+      "authors": [
+        "Vishwani Chauhan",
+        "Jahangeer Malik",
+        "Aravindhan Sundaramurthy",
+        "Stefan N. Symeonides",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Vishwani",
+          "lastName": "Chauhan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jahangeer",
+          "lastName": "Malik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aravindhan",
+          "lastName": "Sundaramurthy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan N.",
+          "lastName": "Symeonides"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(21)00298-1",
+      "title": "Sarcopenia is not a useful prognostic biomarker in metastatic NSCLC patients treated with first-line pembrolizumab",
+      "year": 2021,
+      "venue": "Lung Cancer",
+      "volume": "156",
+      "issue": "",
+      "pages": "S42",
+      "cited_by_count": 0,
+      "authors": [
+        "Findlay Thomson",
+        "Cory Stratton",
+        "Mark Stares",
+        "Tze-en Ding",
+        "I. Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Findlay",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cory",
+          "lastName": "Stratton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tze-en",
+          "lastName": "Ding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-5002(21)00206-3",
+      "title": "Pre-treatment serum albumin is a prognostic biomarker for locally advanced non-small cell lung cancer: extended follow up of patients treated with concurrent chemo-radiotherapy",
+      "year": 2021,
+      "venue": "Lung Cancer",
+      "volume": "156",
+      "issue": "",
+      "pages": "S3-S4",
+      "cited_by_count": 0,
+      "authors": [
+        "Angus Killean",
+        "Ashley Horne",
+        "Iain Phillips",
+        "Kirsty Maclennan",
+        "Tamasin Evans",
+        "F. Little",
+        "Aisha Tufail",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Angus",
+          "lastName": "Killean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ashley",
+          "lastName": "Horne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tamasin",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Felicity",
+          "lastName": "Little"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.jtho.2021.08.244",
+      "title": "FP12.04 Obesity is Associated With Greater Overall Survival in Patients With Metastatic NSCLC Receiving First-Line Pembrolizumab",
+      "year": 2021,
+      "venue": "Journal of Thoracic Oncology",
+      "volume": "16",
+      "issue": "10",
+      "pages": "S965-S966",
+      "cited_by_count": 0,
+      "authors": [
+        "Fiona Thomson",
+        "Cory Stratton",
+        "I. Phillips",
+        "Melanie Mackean",
+        "C. Barrie",
+        "S. Campbell",
+        "Adnan Tufail",
+        "Kirsty Maclennan",
+        "Tamasin Evans",
+        "Mark Stares"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "F.",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Stratton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "I.",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Mackean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Tufail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K.",
+          "lastName": "Maclennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T.",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Stares"
+        }
+      ]
+    },
+    {
+      "doi": "10.4049/jimmunol.206.supp.27.13",
+      "title": "Extensive culturing and metagenomics enable functional and taxonomic comparison of mouse and human gut microbiotas",
+      "year": 2021,
+      "venue": "The Journal of Immunology",
+      "volume": "206",
+      "issue": "1_Supplement",
+      "pages": "27.13-27.13",
+      "cited_by_count": 0,
+      "authors": [
+        "Virginia Anh Pedicord",
+        "Benjamin S. Beresford-Jones",
+        "Samuel C. Forster",
+        "Mark Stares",
+        "George Notley",
+        "Elisa Viciani",
+        "Hilary P. Browne",
+        "Nitin Kumar",
+        "Kévin Vervier",
+        "Alexandre Almeida",
+        "Trevor D. Lawley"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Virginia Anh",
+          "lastName": "Pedicord"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin S",
+          "lastName": "Beresford-Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samuel C",
+          "lastName": "Forster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Notley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisa",
+          "lastName": "Viciani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary P",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Vervier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandre",
+          "lastName": "Almeida"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D",
+          "lastName": "Lawley"
+        }
+      ]
+    },
+    {
+      "doi": "10.1038/s41590-020-0602-z",
+      "title": "Distinct microbial and immune niches of the human colon",
+      "year": 2020,
+      "venue": "Nature Immunology",
+      "volume": "21",
+      "issue": "3",
+      "pages": "343-353",
+      "cited_by_count": 311,
+      "authors": [
+        "Kylie R. James",
+        "Tomás Gomes",
+        "Rasa Elmentaite",
+        "Nitin Kumar",
+        "Emily L. Gulliver",
+        "Hamish W. King",
+        "Mark Stares",
+        "Bethany Bareham",
+        "John R. Ferdinand",
+        "Velislava Petrova",
+        "Krzysztof Polański",
+        "Samuel C. Forster",
+        "Lorna B. Jarvis",
+        "Ondřej Suchánek",
+        "Sarah Howlett",
+        "Louisa K. James",
+        "Joanne Jones",
+        "Kerstin B. Meyer",
+        "Menna R. Clatworthy",
+        "Kourosh Saeb‐Parsy",
+        "Trevor D. Lawley",
+        "Sarah A. Teichmann"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kylie R.",
+          "lastName": "James"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tomas",
+          "lastName": "Gomes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rasa",
+          "lastName": "Elmentaite"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emily L.",
+          "lastName": "Gulliver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hamish W.",
+          "lastName": "King"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bethany R.",
+          "lastName": "Bareham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John R.",
+          "lastName": "Ferdinand"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Velislava N.",
+          "lastName": "Petrova"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Krzysztof",
+          "lastName": "Polański"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samuel C.",
+          "lastName": "Forster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lorna B.",
+          "lastName": "Jarvis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ondrej",
+          "lastName": "Suchanek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Howlett"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Louisa K.",
+          "lastName": "James"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joanne L.",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kerstin B.",
+          "lastName": "Meyer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Menna R.",
+          "lastName": "Clatworthy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kourosh",
+          "lastName": "Saeb-Parsy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah A.",
+          "lastName": "Teichmann"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.ejca.2020.07.036",
+      "title": "A biobank analysis of prognostic biomarkers of the systemic inflammatory response in patients presenting with malignancy of undefined primary origin",
+      "year": 2020,
+      "venue": "European Journal of Cancer",
+      "volume": "139",
+      "issue": "",
+      "pages": "1-9",
+      "cited_by_count": 7,
+      "authors": [
+        "Mark Stares",
+        "R. A. Patton",
+        "Gillian Knowles",
+        "Rachel Haigh",
+        "C. Barrie",
+        "Larry Dobbs",
+        "Donald C. McMillan",
+        "Barry Laird",
+        "Sally Clive"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R.",
+          "lastName": "Patton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "G.",
+          "lastName": "Knowles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R.",
+          "lastName": "Haigh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "L.",
+          "lastName": "Dobbs"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D.",
+          "lastName": "McMillan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B.",
+          "lastName": "Laird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Clive"
+        }
+      ]
+    },
+    {
+      "doi": "10.4049/jimmunol.204.supp.82.17",
+      "title": "Deeper comparison of the human and mouse microbiota reveals the utility of mouse models",
+      "year": 2020,
+      "venue": "The Journal of Immunology",
+      "volume": "204",
+      "issue": "1_Supplement",
+      "pages": "82.17-82.17",
+      "cited_by_count": 0,
+      "authors": [
+        "Benjamin S. Beresford-Jones",
+        "Nitin Kumar",
+        "Mark Stares",
+        "Kévin Vervier",
+        "Trevor D. Lawley",
+        "Virginia A. Pedicord"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin Samuel",
+          "lastName": "Beresford-Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Vervier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Virginia Ahn",
+          "lastName": "Pedicord"
+        }
+      ]
+    }
+  ]
 }
