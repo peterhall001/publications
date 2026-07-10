@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-09T10:02:31+00:00",
+  "generated_at": "2026-07-10T09:58:00+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3210"
+    "zotero_library_version": "3375"
   },
-  "count": 137,
+  "count": 150,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -1789,6 +1789,37 @@
       "enriched": true
     },
     {
+      "zotero_key": "I4CCE869",
+      "item_type": "journalArticle",
+      "title": "Assessing the impact of early palliative care intervention in patients with lung cancer, cachexia and weight loss",
+      "authors": [
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "Hall",
+          "given": "Charlie"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        }
+      ],
+      "year": "2025",
+      "venue": "Current Opinion in Supportive &amp; Palliative Care",
+      "volume": "19",
+      "issue": "3",
+      "pages": "192-197",
+      "doi": "10.1097/spc.0000000000000772",
+      "url": "https://doi.org/10.1097/spc.0000000000000772",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
       "zotero_key": "H4CXC8IE",
       "item_type": "journalArticle",
       "title": "Attrition between lines of therapy and real-world outcomes of patients with HER2-positive metastatic breast cancer in Europe: a cohort study leveraging electronic medical records",
@@ -2062,6 +2093,101 @@
       "cited_by_count": 1,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.esmoop.2025.104744",
+      "enriched": true
+    },
+    {
+      "zotero_key": "8Q9B4736",
+      "item_type": "journalArticle",
+      "title": "Dissecting the global leadership initiative on malnutrition criteria in advanced cancer: Reduced intake vs. inflammation",
+      "authors": [
+        {
+          "family": "Yule",
+          "given": "Michael S."
+        },
+        {
+          "family": "Machado",
+          "given": "Andressa M."
+        },
+        {
+          "family": "Brown",
+          "given": "Leo R."
+        },
+        {
+          "family": "Rocha",
+          "given": "Bruna M.M."
+        },
+        {
+          "family": "Patton",
+          "given": "Rebekah"
+        },
+        {
+          "family": "Sayers",
+          "given": "Judith"
+        },
+        {
+          "family": "Munro",
+          "given": "Iona"
+        },
+        {
+          "family": "Baxter",
+          "given": "Jennifer"
+        },
+        {
+          "family": "McLuskie",
+          "given": "Amy"
+        },
+        {
+          "family": "Lajolo",
+          "given": "Paula P."
+        },
+        {
+          "family": "Arends",
+          "given": "Jann"
+        },
+        {
+          "family": "Paiva",
+          "given": "Carlos E."
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Brown",
+          "given": "Duncan"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "McMillan",
+          "given": "Donald C."
+        },
+        {
+          "family": "Maia",
+          "given": "Yara C.P."
+        },
+        {
+          "family": "Skipworth",
+          "given": "Richard J.E."
+        },
+        {
+          "family": "Laird",
+          "given": "Barry J.A."
+        }
+      ],
+      "year": "2025",
+      "venue": "Clinical Nutrition ESPEN",
+      "volume": "67",
+      "issue": "",
+      "pages": "114-121",
+      "doi": "10.1016/j.clnesp.2025.03.007",
+      "url": "https://doi.org/10.1016/j.clnesp.2025.03.007",
+      "doi_source": "zotero",
+      "cited_by_count": 6,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.clnesp.2025.03.007",
       "enriched": true
     },
     {
@@ -2401,6 +2527,444 @@
       "cited_by_count": 1,
       "is_oa": true,
       "oa_url": "https://jpro.springeropen.com/counter/pdf/10.1186/s41687-025-00898-x",
+      "enriched": true
+    },
+    {
+      "zotero_key": "X2QZF5V9",
+      "item_type": "journalArticle",
+      "title": "Leveraging knowledge for explainable AI in personalized cancer treatment: challenges and future directions",
+      "authors": [
+        {
+          "family": "Daghir-Wojtkowiak",
+          "given": "Emilia"
+        },
+        {
+          "family": "Alfaro",
+          "given": "Javier"
+        },
+        {
+          "family": "Mastromattei",
+          "given": "Michele"
+        },
+        {
+          "family": "Palkowski",
+          "given": "Aleksander"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Roca-Umbert",
+          "given": "Ana"
+        },
+        {
+          "family": "Krajnc",
+          "given": "Andraz"
+        },
+        {
+          "family": "Leoni",
+          "given": "Riccardo"
+        },
+        {
+          "family": "Boland",
+          "given": "Anne"
+        },
+        {
+          "family": "Nourbaksh",
+          "given": "Aria"
+        },
+        {
+          "family": "Kallor",
+          "given": "Ashwin"
+        },
+        {
+          "family": "Ducki",
+          "given": "Camille"
+        },
+        {
+          "family": "Venditti",
+          "given": "Davide"
+        },
+        {
+          "family": "Montesano",
+          "given": "Carla"
+        },
+        {
+          "family": "Cipriani",
+          "given": "Chiara"
+        },
+        {
+          "family": "Faria",
+          "given": "Daniel"
+        },
+        {
+          "family": "Pflieger",
+          "given": "Delphine"
+        },
+        {
+          "family": "Zago",
+          "given": "Elisa"
+        },
+        {
+          "family": "Bardet",
+          "given": "Etienne"
+        },
+        {
+          "family": "Serrano",
+          "given": "Filipa"
+        },
+        {
+          "family": "Jeanneret",
+          "given": "Florian"
+        },
+        {
+          "family": "Alouges",
+          "given": "Damien"
+        },
+        {
+          "family": "Yin",
+          "given": "Liangwei"
+        },
+        {
+          "family": "Coquelet",
+          "given": "Elodine"
+        },
+        {
+          "family": "Bacquet",
+          "given": "Apolline"
+        },
+        {
+          "family": "Bonchi",
+          "given": "Francesco"
+        },
+        {
+          "family": "Maiorino",
+          "given": "Francesco"
+        },
+        {
+          "family": "Torino",
+          "given": "Francesco"
+        },
+        {
+          "family": "Bedran",
+          "given": "Georges"
+        },
+        {
+          "family": "Long",
+          "given": "Jean-Alexandre"
+        },
+        {
+          "family": "Balbi",
+          "given": "Laura"
+        },
+        {
+          "family": "Guyon",
+          "given": "Laurent"
+        },
+        {
+          "family": "Bevilacqua",
+          "given": "Liana"
+        },
+        {
+          "family": "Fiorelli",
+          "given": "Manuel"
+        },
+        {
+          "family": "Wagner",
+          "given": "Marie-Catherine"
+        },
+        {
+          "family": "Reyes",
+          "given": "Mario"
+        },
+        {
+          "family": "Roselli",
+          "given": "Mario"
+        },
+        {
+          "family": "Silva",
+          "given": "Marta Contreiras"
+        },
+        {
+          "family": "Waleron",
+          "given": "Michal"
+        },
+        {
+          "family": "Dovrolis",
+          "given": "Nikolas"
+        },
+        {
+          "family": "Filhol-Cochet",
+          "given": "Odile"
+        },
+        {
+          "family": "Um",
+          "given": "In Hwa"
+        },
+        {
+          "family": "Wolflein",
+          "given": "Georg"
+        },
+        {
+          "family": "Eugénio",
+          "given": "Patrícia"
+        },
+        {
+          "family": "Bazelle",
+          "given": "Pauline"
+        },
+        {
+          "family": "Golnas",
+          "given": "Pavlos"
+        },
+        {
+          "family": "Thorpe",
+          "given": "Peter"
+        },
+        {
+          "family": "Bove",
+          "given": "Pierluigi"
+        },
+        {
+          "family": "Borole",
+          "given": "Piyush"
+        },
+        {
+          "family": "Bernardini",
+          "given": "Roberta"
+        }
+      ],
+      "year": "2025",
+      "venue": "Frontiers in Digital Health",
+      "volume": "7",
+      "issue": "",
+      "pages": "1637195",
+      "doi": "10.3389/fdgth.2025.1637195",
+      "url": "https://doi.org/10.3389/fdgth.2025.1637195",
+      "doi_source": "zotero",
+      "cited_by_count": 3,
+      "is_oa": true,
+      "oa_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1637195/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "P5BKPTJK",
+      "item_type": "journalArticle",
+      "title": "MANIFEST: Multiomic Platform for Cancer Immunotherapy",
+      "authors": [
+        {
+          "family": "Lim",
+          "given": "Kok Haw Jonathan"
+        },
+        {
+          "family": "Tippu",
+          "given": "Zayd"
+        },
+        {
+          "family": "Corrie",
+          "given": "Pippa G."
+        },
+        {
+          "family": "Hubank",
+          "given": "Michael"
+        },
+        {
+          "family": "Larkin",
+          "given": "James"
+        },
+        {
+          "family": "Lawley",
+          "given": "Trevor D."
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Stewart",
+          "given": "Grant D."
+        },
+        {
+          "family": "Strange",
+          "given": "Amy"
+        },
+        {
+          "family": "Symeonides",
+          "given": "Stefan N."
+        },
+        {
+          "family": "Szabados",
+          "given": "Bernadett"
+        },
+        {
+          "family": "Turner",
+          "given": "Nicholas C."
+        },
+        {
+          "family": "Waddell",
+          "given": "Tom"
+        },
+        {
+          "family": "Zelenay",
+          "given": "Santiago"
+        },
+        {
+          "family": "Salto-Tellez",
+          "given": "Manuel"
+        },
+        {
+          "family": "Dive",
+          "given": "Caroline"
+        },
+        {
+          "family": "Turajlic",
+          "given": "Samra"
+        },
+        {
+          "family": "the MANIFEST consortium",
+          "given": ""
+        },
+        {
+          "family": "Alfaro",
+          "given": "Javier"
+        },
+        {
+          "family": "Ali",
+          "given": "Raza"
+        },
+        {
+          "family": "Ambrose",
+          "given": "Karen"
+        },
+        {
+          "family": "Armstrong",
+          "given": "Anne"
+        },
+        {
+          "family": "Banerji",
+          "given": "Christopher"
+        },
+        {
+          "family": "Basu",
+          "given": "Bristi"
+        },
+        {
+          "family": "Birault",
+          "given": "Veronique"
+        },
+        {
+          "family": "Cazier",
+          "given": "James-Baptiste"
+        },
+        {
+          "family": "Chain",
+          "given": "Benny"
+        },
+        {
+          "family": "Chakraborty",
+          "given": "Tapabrata Rohan"
+        },
+        {
+          "family": "Choudhary",
+          "given": "Jyoti"
+        },
+        {
+          "family": "Choudhury",
+          "given": "Ananya"
+        },
+        {
+          "family": "Collinson",
+          "given": "Fiona"
+        },
+        {
+          "family": "Cook",
+          "given": "Natalie"
+        },
+        {
+          "family": "de Bono",
+          "given": "Johan"
+        },
+        {
+          "family": "Faivre-Finn",
+          "given": "Corinne"
+        },
+        {
+          "family": "Fleming",
+          "given": "James"
+        },
+        {
+          "family": "Fu",
+          "given": "Xiao"
+        },
+        {
+          "family": "Furness",
+          "given": "Andrew J.S."
+        },
+        {
+          "family": "Graham",
+          "given": "Trevor"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Harrison",
+          "given": "David J."
+        },
+        {
+          "family": "Hay",
+          "given": "Jennifer"
+        },
+        {
+          "family": "Hodivala-Dilke",
+          "given": "Karibaan"
+        },
+        {
+          "family": "Huddart",
+          "given": "Robert"
+        },
+        {
+          "family": "Humphries",
+          "given": "Matthew"
+        },
+        {
+          "family": "Ince",
+          "given": "Will"
+        },
+        {
+          "family": "Jones",
+          "given": "James O."
+        },
+        {
+          "family": "Kassiotis",
+          "given": "George"
+        },
+        {
+          "family": "Kelly",
+          "given": "Gavin"
+        },
+        {
+          "family": "Lagos",
+          "given": "Dimitris"
+        },
+        {
+          "family": "Laird",
+          "given": "Alexander"
+        }
+      ],
+      "year": "2025",
+      "venue": "Cancer Discovery",
+      "volume": "15",
+      "issue": "5",
+      "pages": "878-883",
+      "doi": "10.1158/2159-8290.cd-25-0099",
+      "url": "https://doi.org/10.1158/2159-8290.cd-25-0099",
+      "doi_source": "zotero",
+      "cited_by_count": 6,
+      "is_oa": true,
+      "oa_url": "https://research.manchester.ac.uk/en/publications/418e78c0-2216-45c0-8ef4-5ea54f842cc4",
       "enriched": true
     },
     {
@@ -2795,6 +3359,121 @@
       "enriched": true
     },
     {
+      "zotero_key": "HGC6TTFR",
+      "item_type": "journalArticle",
+      "title": "Oronasal mucosal melanoma is defined by two transcriptional subtypes in humans and dogs with implications for diagnosis and therapy",
+      "authors": [
+        {
+          "family": "Blacklock",
+          "given": "Kelly L Bowlt"
+        },
+        {
+          "family": "Donnelly",
+          "given": "Kevin"
+        },
+        {
+          "family": "Lu",
+          "given": "Yuting"
+        },
+        {
+          "family": "Pozo",
+          "given": "Jorge del"
+        },
+        {
+          "family": "Glendinning",
+          "given": "Laura"
+        },
+        {
+          "family": "Polton",
+          "given": "Gerry"
+        },
+        {
+          "family": "Selmic",
+          "given": "Laura"
+        },
+        {
+          "family": "Tanis",
+          "given": "Jean‐Benoit"
+        },
+        {
+          "family": "Killick",
+          "given": "David"
+        },
+        {
+          "family": "Parys",
+          "given": "Maciej"
+        },
+        {
+          "family": "Morris",
+          "given": "Joanna S"
+        },
+        {
+          "family": "Breathnach",
+          "given": "Inge"
+        },
+        {
+          "family": "Zago",
+          "given": "Stefano"
+        },
+        {
+          "family": "Gould",
+          "given": "Sara M"
+        },
+        {
+          "family": "Shaw",
+          "given": "Darren J"
+        },
+        {
+          "family": "Tivers",
+          "given": "Michael S"
+        },
+        {
+          "family": "Malucelli",
+          "given": "Davide"
+        },
+        {
+          "family": "Marques",
+          "given": "Ana"
+        },
+        {
+          "family": "Purzycka",
+          "given": "Katarzyna"
+        },
+        {
+          "family": "Cantatore",
+          "given": "Matteo"
+        },
+        {
+          "family": "Mathers",
+          "given": "Marie E"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Meynert",
+          "given": "Alison"
+        },
+        {
+          "family": "Patton",
+          "given": "E Elizabeth"
+        }
+      ],
+      "year": "2025",
+      "venue": "The Journal of Pathology",
+      "volume": "265",
+      "issue": "3",
+      "pages": "245-259",
+      "doi": "10.1002/path.6377",
+      "url": "https://doi.org/10.1002/path.6377",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/path.6377",
+      "enriched": true
+    },
+    {
       "zotero_key": "AWPR3QWE",
       "item_type": "journalArticle",
       "title": "The risk of contralateral breast cancer during long-term follow-up after breast conserving surgery to inform tailored surveillance protocols",
@@ -3025,6 +3704,49 @@
       "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "http://www.esmoopen.com/article/S2059702924012183/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "A57C5X4J",
+      "item_type": "journalArticle",
+      "title": "Case report: A rare case of immunotherapy induced isolated left CN VI palsy in a patient with unresectable melanoma",
+      "authors": [
+        {
+          "family": "Low",
+          "given": "Samantha Su Ping"
+        },
+        {
+          "family": "El-Shakankery",
+          "given": "Karim"
+        },
+        {
+          "family": "Brown",
+          "given": "Ewan"
+        },
+        {
+          "family": "Christie",
+          "given": "Alan"
+        },
+        {
+          "family": "McCormack",
+          "given": "Sally"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        }
+      ],
+      "year": "2024",
+      "venue": "Frontiers in Oncology",
+      "volume": "14",
+      "issue": "",
+      "pages": "1330271",
+      "doi": "10.3389/fonc.2024.1330271",
+      "url": "https://doi.org/10.3389/fonc.2024.1330271",
+      "doi_source": "zotero",
+      "cited_by_count": 2,
+      "is_oa": true,
+      "oa_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1330271/pdf",
       "enriched": true
     },
     {
@@ -3671,6 +4393,45 @@
       "cited_by_count": 11,
       "is_oa": true,
       "oa_url": "https://bmjopen.bmj.com/content/bmjopen/14/4/e076798.full.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "76K3BWHN",
+      "item_type": "journalArticle",
+      "title": "Validation of the Scottish Inflammatory Prognostic Score (SIPS) in NSCLC Patients Treated with First-Line Pembrolizumab",
+      "authors": [
+        {
+          "family": "Gomez-Randulfe",
+          "given": "Igor"
+        },
+        {
+          "family": "Gomes",
+          "given": "Fabio"
+        },
+        {
+          "family": "MacKean",
+          "given": "Melanie"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        }
+      ],
+      "year": "2024",
+      "venue": "Cancers",
+      "volume": "16",
+      "issue": "22",
+      "pages": "3833",
+      "doi": "10.3390/cancers16223833",
+      "url": "https://doi.org/10.3390/cancers16223833",
+      "doi_source": "zotero",
+      "cited_by_count": 4,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2072-6694/16/22/3833/pdf?version=1731597527",
       "enriched": true
     },
     {
@@ -4471,6 +5232,132 @@
       "enriched": true
     },
     {
+      "zotero_key": "H2QC7AUB",
+      "item_type": "journalArticle",
+      "title": "Immune-Related Adverse Events, Biomarkers of Systemic Inflammation, and Survival Outcomes in Patients Receiving Pembrolizumab for Non-Small-Cell Lung Cancer",
+      "authors": [
+        {
+          "family": "Raynes",
+          "given": "George"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Low",
+          "given": "Samantha"
+        },
+        {
+          "family": "Haron",
+          "given": "Dhania"
+        },
+        {
+          "family": "Sarwar",
+          "given": "Hussain"
+        },
+        {
+          "family": "Abhi",
+          "given": "Dhruv"
+        },
+        {
+          "family": "Barrie",
+          "given": "Colin"
+        },
+        {
+          "family": "Laird",
+          "given": "Barry"
+        },
+        {
+          "family": "Caledonian Cachexia Collaborative",
+          "given": ""
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "MacKean",
+          "given": "Melanie"
+        }
+      ],
+      "year": "2023",
+      "venue": "Cancers",
+      "volume": "15",
+      "issue": "23",
+      "pages": "5502",
+      "doi": "10.3390/cancers15235502",
+      "url": "https://doi.org/10.3390/cancers15235502",
+      "doi_source": "zotero",
+      "cited_by_count": 12,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2072-6694/15/23/5502/pdf?version=1700564980",
+      "enriched": true
+    },
+    {
+      "zotero_key": "SVZMIB7H",
+      "item_type": "journalArticle",
+      "title": "Initial active surveillance for patients with metastatic renal cell carcinoma: 10 years' experience at a regional cancer Centre",
+      "authors": [
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Chauhan",
+          "given": "Vishwani"
+        },
+        {
+          "family": "Moudgil‐Joshi",
+          "given": "Jigi"
+        },
+        {
+          "family": "Kong",
+          "given": "Qiu G."
+        },
+        {
+          "family": "Malik",
+          "given": "Jahangeer"
+        },
+        {
+          "family": "Sundaramurthy",
+          "given": "Aravindhan"
+        },
+        {
+          "family": "Elliott",
+          "given": "Tony"
+        },
+        {
+          "family": "Mains",
+          "given": "Edward"
+        },
+        {
+          "family": "Leung",
+          "given": "Steve"
+        },
+        {
+          "family": "Laird",
+          "given": "Alexander"
+        },
+        {
+          "family": "Symeonides",
+          "given": "Stefan N."
+        }
+      ],
+      "year": "2023",
+      "venue": "Cancer Medicine",
+      "volume": "12",
+      "issue": "5",
+      "pages": "5255-5264",
+      "doi": "10.1002/cam4.5330",
+      "url": "https://doi.org/10.1002/cam4.5330",
+      "doi_source": "zotero",
+      "cited_by_count": 7,
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cam4.5330",
+      "enriched": true
+    },
+    {
       "zotero_key": "9AI9P6JH",
       "item_type": "journalArticle",
       "title": "Modified-release morphine or placebo for chronic breathlessness: the MABEL trial protocol",
@@ -4675,7 +5562,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 75,
+      "cited_by_count": 76,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -4920,7 +5807,7 @@
       "doi": "10.3390/cancers15051431",
       "url": "https://doi.org/10.3390/cancers15051431",
       "doi_source": "zotero",
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/15/5/1431/pdf?version=1677567575",
       "enriched": true
@@ -5079,7 +5966,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 192,
+      "cited_by_count": 193,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -5271,6 +6158,57 @@
       "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://ijpds.org/article/download/1768/4133",
+      "enriched": true
+    },
+    {
+      "zotero_key": "65QVK44G",
+      "item_type": "journalArticle",
+      "title": "A predictive tool for assessing bone lesions in malignancy of undefined primary origin",
+      "authors": [
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Yong",
+          "given": "Guo Liang"
+        },
+        {
+          "family": "O'Reilly",
+          "given": "Sean"
+        },
+        {
+          "family": "Knowles",
+          "given": "Gillian"
+        },
+        {
+          "family": "Haigh",
+          "given": "Rachel"
+        },
+        {
+          "family": "Brown",
+          "given": "Jackie"
+        },
+        {
+          "family": "Barrie",
+          "given": "Colin"
+        },
+        {
+          "family": "Clive",
+          "given": "Sally"
+        }
+      ],
+      "year": "2022",
+      "venue": "Clinical Oncology",
+      "volume": "34",
+      "issue": "",
+      "pages": "e2",
+      "doi": "10.1016/j.clon.2022.08.006",
+      "url": "https://doi.org/10.1016/j.clon.2022.08.006",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
       "enriched": true
     },
     {
@@ -6401,6 +7339,73 @@
       "enriched": true
     },
     {
+      "zotero_key": "NG7TSZBD",
+      "item_type": "journalArticle",
+      "title": "Characterisation and outcomes of patients referred to a regional cancer of unknown primary team: a 10-year analysis",
+      "authors": [
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Purshouse",
+          "given": "Karin"
+        },
+        {
+          "family": "Knowles",
+          "given": "Gillian"
+        },
+        {
+          "family": "Haigh",
+          "given": "Rachel"
+        },
+        {
+          "family": "Irvine",
+          "given": "Jenny"
+        },
+        {
+          "family": "Gatenby",
+          "given": "Aoife"
+        },
+        {
+          "family": "Patton",
+          "given": "Rebekah"
+        },
+        {
+          "family": "McGinty",
+          "given": "Jo"
+        },
+        {
+          "family": "Christie",
+          "given": "Alan"
+        },
+        {
+          "family": "MacLennan",
+          "given": "Marjory"
+        },
+        {
+          "family": "Barrie",
+          "given": "Colin"
+        },
+        {
+          "family": "Clive",
+          "given": "Sally"
+        }
+      ],
+      "year": "2021",
+      "venue": "British Journal of Cancer",
+      "volume": "125",
+      "issue": "11",
+      "pages": "1503-1510",
+      "doi": "10.1038/s41416-021-01544-1",
+      "url": "https://doi.org/10.1038/s41416-021-01544-1",
+      "doi_source": "zotero",
+      "cited_by_count": 13,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41416-021-01544-1.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "JXGENJ7T",
       "item_type": "journalArticle",
       "title": "Creation of the first national linked colorectal cancer dataset in Scotland: prospects for future research and a reflection on lessons learned",
@@ -6943,9 +7948,88 @@
       "doi": "10.1158/2159-8290.cd-20-1647",
       "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
       "doi_source": "zotero",
-      "cited_by_count": 178,
+      "cited_by_count": 179,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "F3FP4QRE",
+      "item_type": "journalArticle",
+      "title": "Hypoalbuminaemia as a Prognostic Biomarker of First-Line Treatment Resistance in Metastatic Non-small Cell Lung Cancer",
+      "authors": [
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Swan",
+          "given": "Amanda"
+        },
+        {
+          "family": "Cumming",
+          "given": "Kirsten"
+        },
+        {
+          "family": "Ding",
+          "given": "Tze-En"
+        },
+        {
+          "family": "Leach",
+          "given": "James"
+        },
+        {
+          "family": "Stratton",
+          "given": "Cory"
+        },
+        {
+          "family": "Thomson",
+          "given": "Findlay"
+        },
+        {
+          "family": "Barrie",
+          "given": "Colin"
+        },
+        {
+          "family": "MacLennan",
+          "given": "Kirsty"
+        },
+        {
+          "family": "Campbell",
+          "given": "Sorcha"
+        },
+        {
+          "family": "Evans",
+          "given": "Tamasin"
+        },
+        {
+          "family": "Tufail",
+          "given": "Aisha"
+        },
+        {
+          "family": "Harrow",
+          "given": "Stephen"
+        },
+        {
+          "family": "MacKean",
+          "given": "Melanie"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        }
+      ],
+      "year": "2021",
+      "venue": "Frontiers in Nutrition",
+      "volume": "8",
+      "issue": "",
+      "pages": "734735",
+      "doi": "10.3389/fnut.2021.734735",
+      "url": "https://doi.org/10.3389/fnut.2021.734735",
+      "doi_source": "zotero",
+      "cited_by_count": 52,
+      "is_oa": true,
+      "oa_url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.734735/pdf",
       "enriched": true
     },
     {
@@ -7323,6 +8407,61 @@
       "cited_by_count": 13,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.esmoop.2021.100331",
+      "enriched": true
+    },
+    {
+      "zotero_key": "4UZ5RZ9K",
+      "item_type": "journalArticle",
+      "title": "A biobank analysis of prognostic biomarkers of the systemic inflammatory response in patients presenting with malignancy of undefined primary origin",
+      "authors": [
+        {
+          "family": "Stares",
+          "given": "M."
+        },
+        {
+          "family": "Patton",
+          "given": "R."
+        },
+        {
+          "family": "Knowles",
+          "given": "G."
+        },
+        {
+          "family": "Haigh",
+          "given": "R."
+        },
+        {
+          "family": "Barrie",
+          "given": "C."
+        },
+        {
+          "family": "Dobbs",
+          "given": "L."
+        },
+        {
+          "family": "McMillan",
+          "given": "D."
+        },
+        {
+          "family": "Laird",
+          "given": "B."
+        },
+        {
+          "family": "Clive",
+          "given": "S."
+        }
+      ],
+      "year": "2020",
+      "venue": "European Journal of Cancer",
+      "volume": "139",
+      "issue": "",
+      "pages": "1-9",
+      "doi": "10.1016/j.ejca.2020.07.036",
+      "url": "https://doi.org/10.1016/j.ejca.2020.07.036",
+      "doi_source": "zotero",
+      "cited_by_count": 7,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/33b4a1c4-8c98-436b-9958-a918c415ee01",
       "enriched": true
     },
     {
@@ -10219,7 +11358,7 @@
       "doi": "10.1093/jnci/djw050",
       "url": "https://doi.org/10.1093/jnci/djw050",
       "doi_source": "zotero",
-      "cited_by_count": 215,
+      "cited_by_count": 216,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/jnci/article-pdf/108/9/djw050/24366498/djw050.pdf",
       "enriched": true
