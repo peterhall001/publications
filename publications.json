@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-10T09:58:00+00:00",
+  "generated_at": "2026-07-11T08:18:11+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3375"
+    "zotero_library_version": "3391"
   },
-  "count": 150,
+  "count": 151,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -931,6 +931,41 @@
       "pages": "116751",
       "doi": "10.1016/j.ejca.2026.116751",
       "url": "https://doi.org/10.1016/j.ejca.2026.116751",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "77NIWEWH",
+      "item_type": "journalArticle",
+      "title": "Identifying markers of cachexia and nutritional deficit on radical radiotherapy outcomes in lung and head and neck cancer",
+      "authors": [
+        {
+          "family": "Liu",
+          "given": "T.K."
+        },
+        {
+          "family": "Noble",
+          "given": "D."
+        },
+        {
+          "family": "Stares",
+          "given": "M."
+        },
+        {
+          "family": "Phillips",
+          "given": "I."
+        }
+      ],
+      "year": "2026",
+      "venue": "Current Opinion in Supportive &amp; Palliative Care",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1097/spc.0000000000000818",
+      "url": "https://doi.org/10.1097/spc.0000000000000818",
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": false,
