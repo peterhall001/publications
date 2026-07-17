@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-16T08:39:01+00:00",
+  "generated_at": "2026-07-17T08:32:47+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3391"
+    "zotero_library_version": "3457"
   },
-  "count": 151,
+  "count": 172,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -3266,7 +3266,7 @@
       "doi": "10.1016/s2213-2600(25)00205-x",
       "url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
       "doi_source": "zotero",
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
       "enriched": true
@@ -3535,6 +3535,37 @@
       "url": "https://doi.org/10.1016/j.ejso.2025.109944",
       "doi_source": "zotero",
       "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "ABJMXCM6",
+      "item_type": "journalArticle",
+      "title": "A traffic light approach for treatment and supportive care stratification in lung cancer",
+      "authors": [
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "Nottelmann",
+          "given": "Lise"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        }
+      ],
+      "year": "2024",
+      "venue": "Current Opinion in Supportive &amp; Palliative Care",
+      "volume": "18",
+      "issue": "3",
+      "pages": "154-160",
+      "doi": "10.1097/spc.0000000000000716",
+      "url": "https://doi.org/10.1097/spc.0000000000000716",
+      "doi_source": "zotero",
+      "cited_by_count": 2,
       "is_oa": false,
       "oa_url": null,
       "enriched": true
@@ -4686,6 +4717,33 @@
       "enriched": true
     },
     {
+      "zotero_key": "VTUBMAZV",
+      "item_type": "journalArticle",
+      "title": "Clinical impact of cachexia biomarkers in advanced cancer",
+      "authors": [
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        }
+      ],
+      "year": "2023",
+      "venue": "Annals of Palliative Medicine",
+      "volume": "12",
+      "issue": "2",
+      "pages": "262-264",
+      "doi": "10.21037/apm-22-1416",
+      "url": "https://doi.org/10.21037/apm-22-1416",
+      "doi_source": "zotero",
+      "cited_by_count": 2,
+      "is_oa": true,
+      "oa_url": "https://apm.amegroups.com/article/viewFile/109047/pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "CR8UM8QD",
       "item_type": "journalArticle",
       "title": "Combined cost-utility analysis of the 21-gene assay to guide chemotherapy in HR+/HER2- breast cancer",
@@ -5267,6 +5325,93 @@
       "enriched": true
     },
     {
+      "zotero_key": "JBRHT6D9",
+      "item_type": "journalArticle",
+      "title": "FOxTROT2: innovative trial design to evaluate the role of neoadjuvant chemotherapy for treating locally advanced colon cancer in older adults or those with frailty",
+      "authors": [
+        {
+          "family": "Platt",
+          "given": "J.R."
+        },
+        {
+          "family": "Todd",
+          "given": "O.M."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Craig",
+          "given": "Z."
+        },
+        {
+          "family": "Quyn",
+          "given": "A."
+        },
+        {
+          "family": "Seymour",
+          "given": "M."
+        },
+        {
+          "family": "Braun",
+          "given": "M."
+        },
+        {
+          "family": "Roodhart",
+          "given": "J."
+        },
+        {
+          "family": "Punt",
+          "given": "C."
+        },
+        {
+          "family": "Christou",
+          "given": "N."
+        },
+        {
+          "family": "Taieb",
+          "given": "J."
+        },
+        {
+          "family": "Karoui",
+          "given": "M."
+        },
+        {
+          "family": "Brown",
+          "given": "J."
+        },
+        {
+          "family": "Cairns",
+          "given": "D.A."
+        },
+        {
+          "family": "Morton",
+          "given": "D."
+        },
+        {
+          "family": "Gilbert",
+          "given": "A."
+        },
+        {
+          "family": "Seligmann",
+          "given": "J.F."
+        }
+      ],
+      "year": "2023",
+      "venue": "ESMO Open",
+      "volume": "8",
+      "issue": "1",
+      "pages": "100642",
+      "doi": "10.1016/j.esmoop.2022.100642",
+      "url": "https://doi.org/10.1016/j.esmoop.2022.100642",
+      "doi_source": "zotero",
+      "cited_by_count": 9,
+      "is_oa": true,
+      "oa_url": "http://www.esmoopen.com/article/S2059702922002769/pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "H2QC7AUB",
       "item_type": "journalArticle",
       "title": "Immune-Related Adverse Events, Biomarkers of Systemic Inflammation, and Survival Outcomes in Patients Receiving Pembrolizumab for Non-Small-Cell Lung Cancer",
@@ -5597,7 +5742,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 77,
+      "cited_by_count": 78,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -5664,7 +5809,7 @@
       "doi": "10.1001/jamanetworkopen.2023.0490",
       "url": "https://doi.org/10.1001/jamanetworkopen.2023.0490",
       "doi_source": "zotero",
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2801741/goldstein_2023_oi_230033_1676399877.96803.pdf",
       "enriched": true
@@ -6941,6 +7086,105 @@
       "enriched": true
     },
     {
+      "zotero_key": "SEH2USR3",
+      "item_type": "journalArticle",
+      "title": "Rationale and Design of the Cardiac CARE Trial: A Randomized Trial of Troponin-Guided Neurohormonal Blockade for the Prevention of Anthracycline Cardiotoxicity",
+      "authors": [
+        {
+          "family": "Henriksen",
+          "given": "Peter A."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Oikonomidou",
+          "given": "Olga"
+        },
+        {
+          "family": "MacPherson",
+          "given": "Iain R."
+        },
+        {
+          "family": "Maclean",
+          "given": "Morag"
+        },
+        {
+          "family": "Lewis",
+          "given": "Steff"
+        },
+        {
+          "family": "McVicars",
+          "given": "Heather"
+        },
+        {
+          "family": "Broom",
+          "given": "Angus"
+        },
+        {
+          "family": "Scott",
+          "given": "Fiona"
+        },
+        {
+          "family": "McKay",
+          "given": "Pam"
+        },
+        {
+          "family": "Borley",
+          "given": "Annabel"
+        },
+        {
+          "family": "Rowntree",
+          "given": "Clare"
+        },
+        {
+          "family": "Lord",
+          "given": "Simon"
+        },
+        {
+          "family": "Collins",
+          "given": "Graham"
+        },
+        {
+          "family": "Radford",
+          "given": "John"
+        },
+        {
+          "family": "Guppy",
+          "given": "Amy"
+        },
+        {
+          "family": "Payne",
+          "given": "John R."
+        },
+        {
+          "family": "Newby",
+          "given": "David E."
+        },
+        {
+          "family": "Mills",
+          "given": "Nick L."
+        },
+        {
+          "family": "Lang",
+          "given": "Ninian N."
+        }
+      ],
+      "year": "2022",
+      "venue": "Circulation: Heart Failure",
+      "volume": "15",
+      "issue": "7",
+      "pages": "e009445-e009445",
+      "doi": "10.1161/circheartfailure.121.009445",
+      "url": "https://doi.org/10.1161/circheartfailure.121.009445",
+      "doi_source": "zotero",
+      "cited_by_count": 11,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/d68f7b44-c77f-4d3a-9dac-4c8b4a6860b0",
+      "enriched": true
+    },
+    {
       "zotero_key": "E4B5H7PH",
       "item_type": "journalArticle",
       "title": "Reproductive history differs by molecular subtypes of breast cancer among women aged ≤ 50 years in Scotland diagnosed 2009–2016: a cross-sectional study",
@@ -7551,6 +7795,225 @@
       "enriched": true
     },
     {
+      "zotero_key": "KBSFNT4C",
+      "item_type": "journalArticle",
+      "title": "Effects of oral anticoagulation for atrial fibrillation after spontaneous intracranial haemorrhage in the UK: a randomised, open-label, assessor-masked, pilot-phase, non-inferiority trial",
+      "authors": [
+        {
+          "family": "Al-Shahi Salman",
+          "given": "Rustam"
+        },
+        {
+          "family": "Keerie",
+          "given": "Catriona"
+        },
+        {
+          "family": "Stephen",
+          "given": "Jacqueline"
+        },
+        {
+          "family": "Lewis",
+          "given": "Steff"
+        },
+        {
+          "family": "Norrie",
+          "given": "John"
+        },
+        {
+          "family": "Dennis",
+          "given": "Martin S."
+        },
+        {
+          "family": "Newby",
+          "given": "David E."
+        },
+        {
+          "family": "Wardlaw",
+          "given": "Joanna M."
+        },
+        {
+          "family": "Lip",
+          "given": "Gregory Y.H."
+        },
+        {
+          "family": "Parry-Jones",
+          "given": "Adrian"
+        },
+        {
+          "family": "White",
+          "given": "Philip M."
+        },
+        {
+          "family": "Baigent",
+          "given": "Colin"
+        },
+        {
+          "family": "Lasserson",
+          "given": "Dan"
+        },
+        {
+          "family": "Oliver",
+          "given": "Colin"
+        },
+        {
+          "family": "O'Mahony",
+          "given": "Fiach"
+        },
+        {
+          "family": "Amoils",
+          "given": "Shannon"
+        },
+        {
+          "family": "Bamford",
+          "given": "John"
+        },
+        {
+          "family": "Armitage",
+          "given": "Jane"
+        },
+        {
+          "family": "Emberson",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Rinkel",
+          "given": "Gabriël J.R."
+        },
+        {
+          "family": "Lowe",
+          "given": "Gordon"
+        },
+        {
+          "family": "Innes",
+          "given": "Karen"
+        },
+        {
+          "family": "Adamczuk",
+          "given": "Kasia"
+        },
+        {
+          "family": "Dinsmore",
+          "given": "Lynn"
+        },
+        {
+          "family": "Drever",
+          "given": "Jonathan"
+        },
+        {
+          "family": "Milne",
+          "given": "Garry"
+        },
+        {
+          "family": "Walker",
+          "given": "Allan"
+        },
+        {
+          "family": "Hutchison",
+          "given": "Aidan"
+        },
+        {
+          "family": "Williams",
+          "given": "Carol"
+        },
+        {
+          "family": "Fraser",
+          "given": "Ruth"
+        },
+        {
+          "family": "Anderson",
+          "given": "Rosemary"
+        },
+        {
+          "family": "Covil",
+          "given": "Kate"
+        },
+        {
+          "family": "Stewart",
+          "given": "Kelly"
+        },
+        {
+          "family": "Rees",
+          "given": "Jessica"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Bullen",
+          "given": "Alistair"
+        },
+        {
+          "family": "Stoddart",
+          "given": "Andrew"
+        },
+        {
+          "family": "Moullaali",
+          "given": "Tom J."
+        },
+        {
+          "family": "Palmer",
+          "given": "Jeb"
+        },
+        {
+          "family": "Sakka",
+          "given": "Eleni"
+        },
+        {
+          "family": "Perthen",
+          "given": "Joanne"
+        },
+        {
+          "family": "Lyttle",
+          "given": "Nicola"
+        },
+        {
+          "family": "Samarasekera",
+          "given": "Neshika"
+        },
+        {
+          "family": "MacRaild",
+          "given": "Allan"
+        },
+        {
+          "family": "Burgess",
+          "given": "Seona"
+        },
+        {
+          "family": "Teasdale",
+          "given": "Jessica"
+        },
+        {
+          "family": "Coakley",
+          "given": "Michelle"
+        },
+        {
+          "family": "Taylor",
+          "given": "Pat"
+        },
+        {
+          "family": "Blair",
+          "given": "Gordon"
+        },
+        {
+          "family": "Whiteley",
+          "given": "William"
+        }
+      ],
+      "year": "2021",
+      "venue": "The Lancet Neurology",
+      "volume": "20",
+      "issue": "10",
+      "pages": "842-853",
+      "doi": "10.1016/s1474-4422(21)00264-7",
+      "url": "https://doi.org/10.1016/s1474-4422(21)00264-7",
+      "doi_source": "zotero",
+      "cited_by_count": 110,
+      "is_oa": true,
+      "oa_url": "http://www.thelancet.com/article/S1474442221002647/pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "6MU3PQCB",
       "item_type": "journalArticle",
       "title": "Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Quality of Life and Cancer Control Among Older and Frail Patients With Advanced Gastroesophageal Cancer",
@@ -8068,6 +8531,136 @@
       "enriched": true
     },
     {
+      "zotero_key": "IAKNI9C8",
+      "item_type": "journalArticle",
+      "title": "Incompatible: end-of-life care and health economics",
+      "authors": [
+        {
+          "family": "Diernberger",
+          "given": "Katharina"
+        },
+        {
+          "family": "Shinkins",
+          "given": "Bethany"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Kaasa",
+          "given": "Stein"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie"
+        }
+      ],
+      "year": "2021",
+      "venue": "BMJ Supportive &amp; Palliative Care",
+      "volume": "11",
+      "issue": "3",
+      "pages": "296-298",
+      "doi": "10.1136/bmjspcare-2020-002388",
+      "url": "https://doi.org/10.1136/bmjspcare-2020-002388",
+      "doi_source": "zotero",
+      "cited_by_count": 10,
+      "is_oa": true,
+      "oa_url": "https://spcare.bmj.com/content/bmjspcare/11/3/296.full.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "5B3CMCKU",
+      "item_type": "journalArticle",
+      "title": "Optimising the Duration of Adjuvant Trastuzumab in Early Breast Cancer in the UK",
+      "authors": [
+        {
+          "family": "Earl",
+          "given": "H.M."
+        },
+        {
+          "family": "Hiller",
+          "given": "L."
+        },
+        {
+          "family": "Dunn",
+          "given": "J."
+        },
+        {
+          "family": "Macpherson",
+          "given": "I."
+        },
+        {
+          "family": "Rea",
+          "given": "D."
+        },
+        {
+          "family": "Hughes-Davies",
+          "given": "L."
+        },
+        {
+          "family": "McAdam",
+          "given": "K."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Mansi",
+          "given": "J."
+        },
+        {
+          "family": "Wheatley",
+          "given": "D."
+        },
+        {
+          "family": "Abraham",
+          "given": "J.E."
+        },
+        {
+          "family": "Caldas",
+          "given": "C."
+        },
+        {
+          "family": "Gasson",
+          "given": "S."
+        },
+        {
+          "family": "O'Riordan",
+          "given": "E."
+        },
+        {
+          "family": "Wilcox",
+          "given": "M."
+        },
+        {
+          "family": "Miles",
+          "given": "D."
+        },
+        {
+          "family": "Cameron",
+          "given": "D.A."
+        },
+        {
+          "family": "Wardley",
+          "given": "A."
+        }
+      ],
+      "year": "2021",
+      "venue": "Clinical Oncology",
+      "volume": "33",
+      "issue": "1",
+      "pages": "15-19",
+      "doi": "10.1016/j.clon.2020.07.006",
+      "url": "https://doi.org/10.1016/j.clon.2020.07.006",
+      "doi_source": "zotero",
+      "cited_by_count": 2,
+      "is_oa": true,
+      "oa_url": "http://www.clinicaloncologyonline.net/article/S0936655520302880/pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "DJEJ6PF3",
       "item_type": "journalArticle",
       "title": "Pattern of SQSTM1 Gene Variants in a Hungarian Cohort of Paget’s Disease of Bone",
@@ -8163,6 +8756,37 @@
       "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-020-00983-7.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "RIJZSTHG",
+      "item_type": "journalArticle",
+      "title": "Quantifying and Interpreting Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Cancer Control for Advanced Gastroesophageal Cancer Among an Older Population—Reply",
+      "authors": [
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        },
+        {
+          "family": "Cairns",
+          "given": "David A."
+        },
+        {
+          "family": "Seymour",
+          "given": "Matthew T."
+        }
+      ],
+      "year": "2021",
+      "venue": "JAMA Oncology",
+      "volume": "7",
+      "issue": "11",
+      "pages": "1725",
+      "doi": "10.1001/jamaoncol.2021.4010",
+      "url": "https://doi.org/10.1001/jamaoncol.2021.4010",
+      "doi_source": "zotero",
+      "cited_by_count": 4,
+      "is_oa": false,
+      "oa_url": null,
       "enriched": true
     },
     {
@@ -8687,6 +9311,77 @@
       "cited_by_count": 53,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41416-020-0938-z.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "NNKNX94P",
+      "item_type": "journalArticle",
+      "title": "Distinguishing between direct and indirect consequences of covid-19",
+      "authors": [
+        {
+          "family": "Figueroa",
+          "given": "Jonine D"
+        },
+        {
+          "family": "Brennan",
+          "given": "Paul M"
+        },
+        {
+          "family": "Theodoratou",
+          "given": "Evropi"
+        },
+        {
+          "family": "Poon",
+          "given": "Michael T C"
+        },
+        {
+          "family": "Purshouse",
+          "given": "Karin"
+        },
+        {
+          "family": "Din",
+          "given": "Farhat V N"
+        },
+        {
+          "family": "Jin",
+          "given": "Kai"
+        },
+        {
+          "family": "Mesa-Eguiagaray",
+          "given": "Ines"
+        },
+        {
+          "family": "Dunlop",
+          "given": "Malcolm G"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "Cameron",
+          "given": "David"
+        },
+        {
+          "family": "Wild",
+          "given": "Sarah H"
+        },
+        {
+          "family": "Sudlow",
+          "given": "Cathie L M"
+        }
+      ],
+      "year": "2020",
+      "venue": "BMJ",
+      "volume": "369",
+      "issue": "",
+      "pages": "m2377",
+      "doi": "10.1136/bmj.m2377",
+      "url": "https://doi.org/10.1136/bmj.m2377",
+      "doi_source": "zotero",
+      "cited_by_count": 22,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/da5507d3-bc59-484b-b32e-e6a8deff9949",
       "enriched": true
     },
     {
@@ -9489,6 +10184,45 @@
       "enriched": true
     },
     {
+      "zotero_key": "DU46JCRF",
+      "item_type": "journalArticle",
+      "title": "Beyond the laboratory: A review of indirect methods to assess the impact of test measurement uncertainty on downstream clinical and cost outcomes",
+      "authors": [
+        {
+          "family": "Smith",
+          "given": "A."
+        },
+        {
+          "family": "Shinkins",
+          "given": "B."
+        },
+        {
+          "family": "Hulme",
+          "given": "C."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Michael",
+          "given": "M."
+        }
+      ],
+      "year": "2019",
+      "venue": "Clinica Chimica Acta",
+      "volume": "493",
+      "issue": "",
+      "pages": "S353",
+      "doi": "10.1016/j.cca.2019.03.759",
+      "url": "https://doi.org/10.1016/j.cca.2019.03.759",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
       "zotero_key": "R3GWZMVS",
       "item_type": "journalArticle",
       "title": "Chemotherapy effectiveness in trial-underrepresented groups with early breast cancer: A retrospective cohort study",
@@ -10191,6 +10925,128 @@
       "enriched": true
     },
     {
+      "zotero_key": "UX56SSRF",
+      "item_type": "journalArticle",
+      "title": "Top ten research priorities for detecting cancer early",
+      "authors": [
+        {
+          "family": "Badrick",
+          "given": "Ellena"
+        },
+        {
+          "family": "Cresswell",
+          "given": "Katharine"
+        },
+        {
+          "family": "Ellis",
+          "given": "Patricia"
+        },
+        {
+          "family": "Crosbie",
+          "given": "Phil"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "O'Flynn",
+          "given": "Helena"
+        },
+        {
+          "family": "Martin",
+          "given": "Richard"
+        },
+        {
+          "family": "Leighton",
+          "given": "James"
+        },
+        {
+          "family": "Brown",
+          "given": "Lindsey"
+        },
+        {
+          "family": "Makin",
+          "given": "David"
+        },
+        {
+          "family": "Morris",
+          "given": "Rebecca L"
+        },
+        {
+          "family": "Thorpe",
+          "given": "Emma"
+        },
+        {
+          "family": "Dickinson",
+          "given": "Joanne Clare"
+        },
+        {
+          "family": "Buckley",
+          "given": "Genevieve"
+        },
+        {
+          "family": "Renehan",
+          "given": "Andrew G"
+        },
+        {
+          "family": "Crosbie",
+          "given": "Emma J"
+        }
+      ],
+      "year": "2019",
+      "venue": "The Lancet Public Health",
+      "volume": "4",
+      "issue": "11",
+      "pages": "e551",
+      "doi": "10.1016/s2468-2667(19)30185-9",
+      "url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
+      "doi_source": "zotero",
+      "cited_by_count": 53,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
+      "enriched": true
+    },
+    {
+      "zotero_key": "8GC4Z4NQ",
+      "item_type": "journalArticle",
+      "title": "Toward a Framework for Outcome-Based Analytical Performance Specifications: A Methodology Review of Indirect Methods for Evaluating the Impact of Measurement Uncertainty on Clinical Outcomes",
+      "authors": [
+        {
+          "family": "Smith",
+          "given": "Alison F"
+        },
+        {
+          "family": "Shinkins",
+          "given": "Bethany"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "Hulme",
+          "given": "Claire T"
+        },
+        {
+          "family": "Messenger",
+          "given": "Mike P"
+        }
+      ],
+      "year": "2019",
+      "venue": "Clinical Chemistry",
+      "volume": "65",
+      "issue": "11",
+      "pages": "1363-1374",
+      "doi": "10.1373/clinchem.2018.300954",
+      "url": "https://doi.org/10.1373/clinchem.2018.300954",
+      "doi_source": "zotero",
+      "cited_by_count": 38,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/clinchem/article-pdf/65/11/1363/33851257/clinchem1363.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "IGBGJBJJ",
       "item_type": "journalArticle",
       "title": "Utilisation of Personal Care Services in Scotland: the Influence of Unpaid Carers",
@@ -10516,6 +11372,37 @@
       "enriched": true
     },
     {
+      "zotero_key": "FFKINA8F",
+      "item_type": "journalArticle",
+      "title": "Balancing the Economics and Ethics of Personalised Oncology",
+      "authors": [
+        {
+          "family": "Flaum",
+          "given": "Nicola"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "McCabe",
+          "given": "Christopher"
+        }
+      ],
+      "year": "2018",
+      "venue": "Trends in Cancer",
+      "volume": "4",
+      "issue": "9",
+      "pages": "608-615",
+      "doi": "10.1016/j.trecan.2018.07.006",
+      "url": "https://doi.org/10.1016/j.trecan.2018.07.006",
+      "doi_source": "zotero",
+      "cited_by_count": 10,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
       "zotero_key": "ET434AJS",
       "item_type": "journalArticle",
       "title": "Cost-effectiveness of Pembrolizumab in Second-line Advanced Bladder Cancer",
@@ -10669,6 +11556,37 @@
       "enriched": true
     },
     {
+      "zotero_key": "HW2AZ4DM",
+      "item_type": "journalArticle",
+      "title": "New horizons in systemic anti-cancer therapy in older people",
+      "authors": [
+        {
+          "family": "Parry",
+          "given": "J L"
+        },
+        {
+          "family": "Hall",
+          "given": "P S"
+        },
+        {
+          "family": "Young",
+          "given": "J"
+        }
+      ],
+      "year": "2018",
+      "venue": "Age and Ageing",
+      "volume": "47",
+      "issue": "3",
+      "pages": "340-348",
+      "doi": "10.1093/ageing/afy024",
+      "url": "https://doi.org/10.1093/ageing/afy024",
+      "doi_source": "zotero",
+      "cited_by_count": 7,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/ageing/article-pdf/47/3/340/24763952/afy024.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "KHXTPKM2",
       "item_type": "journalArticle",
       "title": "Real-world treatment in patients with HER2+ metastatic breast cancer",
@@ -10713,6 +11631,108 @@
       "cited_by_count": 9,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs10549-017-4567-z.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "MC3BU6B8",
+      "item_type": "journalArticle",
+      "title": "The future for diagnostic tests of acute kidney injury in critical care: evidence synthesis, care pathway analysis and research prioritisation",
+      "authors": [
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "Mitchell",
+          "given": "Elizabeth D"
+        },
+        {
+          "family": "Smith",
+          "given": "Alison F"
+        },
+        {
+          "family": "Cairns",
+          "given": "David A"
+        },
+        {
+          "family": "Messenger",
+          "given": "Michael"
+        },
+        {
+          "family": "Hutchinson",
+          "given": "Michelle"
+        },
+        {
+          "family": "Wright",
+          "given": "Judy"
+        },
+        {
+          "family": "Vinall-Collier",
+          "given": "Karen"
+        },
+        {
+          "family": "Corps",
+          "given": "Claire"
+        },
+        {
+          "family": "Hamilton",
+          "given": "Patrick"
+        },
+        {
+          "family": "Meads",
+          "given": "David"
+        },
+        {
+          "family": "Lewington",
+          "given": "Andrew"
+        }
+      ],
+      "year": "2018",
+      "venue": "Health Technology Assessment",
+      "volume": "22",
+      "issue": "32",
+      "pages": "1-274",
+      "doi": "10.3310/hta22320",
+      "url": "https://doi.org/10.3310/hta22320",
+      "doi_source": "zotero",
+      "cited_by_count": 40,
+      "is_oa": true,
+      "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2014510",
+      "enriched": true
+    },
+    {
+      "zotero_key": "BICJVJIS",
+      "item_type": "journalArticle",
+      "title": "The Role of Measurement Uncertainty in Health Technology Assessments (HTAs) of In Vitro Tests",
+      "authors": [
+        {
+          "family": "Smith",
+          "given": "Alison F."
+        },
+        {
+          "family": "Messenger",
+          "given": "Mike"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Hulme",
+          "given": "Claire"
+        }
+      ],
+      "year": "2018",
+      "venue": "PharmacoEconomics",
+      "volume": "36",
+      "issue": "7",
+      "pages": "823-835",
+      "doi": "10.1007/s40273-018-0638-1",
+      "url": "https://doi.org/10.1007/s40273-018-0638-1",
+      "doi_source": "zotero",
+      "cited_by_count": 7,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs40273-018-0638-1.pdf",
       "enriched": true
     },
     {
@@ -10792,6 +11812,33 @@
       "cited_by_count": 47,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/bjc2016442.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "AVWRCDC2",
+      "item_type": "journalArticle",
+      "title": "Accurate Measurement of Financial Toxicity Is a Prerequisite to Finding a Remedy",
+      "authors": [
+        {
+          "family": "Martin",
+          "given": "Adam"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        }
+      ],
+      "year": "2017",
+      "venue": "Breast Care",
+      "volume": "12",
+      "issue": "2",
+      "pages": "78-80",
+      "doi": "10.1159/000475656",
+      "url": "https://doi.org/10.1159/000475656",
+      "doi_source": "zotero",
+      "cited_by_count": 2,
+      "is_oa": true,
+      "oa_url": "https://www.karger.com/Article/Pdf/475656",
       "enriched": true
     },
     {
@@ -10998,7 +12045,7 @@
       "doi": "10.1093/annonc/mdw665",
       "url": "https://doi.org/10.1093/annonc/mdw665",
       "doi_source": "zotero",
-      "cited_by_count": 104,
+      "cited_by_count": 105,
       "is_oa": true,
       "oa_url": "https://hdl.handle.net/20.500.11820/4f051b61-4bf3-449c-b41b-64e867934f39",
       "enriched": true
@@ -11068,6 +12115,45 @@
       "cited_by_count": 0,
       "is_oa": false,
       "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "FPPV5I47",
+      "item_type": "journalArticle",
+      "title": "PD-L1 Expression as a Predictive Biomarker in Advanced Non-Small-Cell Lung Cancer: Updated Survival Data",
+      "authors": [
+        {
+          "family": "Aguiar",
+          "given": "Pedro N"
+        },
+        {
+          "family": "De Mello",
+          "given": "Ramon Andrade"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Tadokoro",
+          "given": "Hakaru"
+        },
+        {
+          "family": "Lima Lopes",
+          "given": "Gilberto de"
+        }
+      ],
+      "year": "2017",
+      "venue": "Immunotherapy",
+      "volume": "9",
+      "issue": "6",
+      "pages": "499-506",
+      "doi": "10.2217/imt-2016-0150",
+      "url": "https://doi.org/10.2217/imt-2016-0150",
+      "doi_source": "zotero",
+      "cited_by_count": 204,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/10400.1/13131",
       "enriched": true
     },
     {
@@ -11147,6 +12233,60 @@
       "cited_by_count": 91,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2010350",
+      "enriched": true
+    },
+    {
+      "zotero_key": "776MZQJX",
+      "item_type": "journalArticle",
+      "title": "Real-world data for efficient health technology assessment",
+      "authors": [
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        }
+      ],
+      "year": "2017",
+      "venue": "European Journal of Cancer",
+      "volume": "79",
+      "issue": "39",
+      "pages": "235-237",
+      "doi": "10.1016/j.ejca.2017.04.003",
+      "url": "https://doi.org/10.1016/j.ejca.2017.04.003",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "I6ICW3Q6",
+      "item_type": "journalArticle",
+      "title": "Secondary-care costs associated with lung cancer diagnosed at emergency hospitalisation in the United Kingdom",
+      "authors": [
+        {
+          "family": "Kennedy",
+          "given": "Martyn P T"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "Callister",
+          "given": "Matthew E J"
+        }
+      ],
+      "year": "2017",
+      "venue": "Thorax",
+      "volume": "72",
+      "issue": "10",
+      "pages": "950-952",
+      "doi": "10.1136/thoraxjnl-2016-209616",
+      "url": "https://doi.org/10.1136/thoraxjnl-2016-209616",
+      "doi_source": "zotero",
+      "cited_by_count": 6,
+      "is_oa": true,
+      "oa_url": "https://thorax.bmj.com/content/thoraxjnl/72/10/950.full.pdf",
       "enriched": true
     },
     {
@@ -11293,6 +12433,33 @@
       "cited_by_count": 0,
       "is_oa": false,
       "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "RNXH26SA",
+      "item_type": "journalArticle",
+      "title": "Can Clinical Guidelines Afford to Ignore Cost Effectiveness? An Ethical Perspective",
+      "authors": [
+        {
+          "family": "Boyd",
+          "given": "Kenneth"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        }
+      ],
+      "year": "2016",
+      "venue": "PharmacoEconomics",
+      "volume": "34",
+      "issue": "6",
+      "pages": "529-531",
+      "doi": "10.1007/s40273-016-0391-2",
+      "url": "https://doi.org/10.1007/s40273-016-0391-2",
+      "doi_source": "zotero",
+      "cited_by_count": 3,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/8f8d2645-3cb3-4301-ad05-163b79f096f2",
       "enriched": true
     },
     {
