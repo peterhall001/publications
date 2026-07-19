@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-18T08:15:39+00:00",
+  "generated_at": "2026-07-19T08:41:51+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -1936,7 +1936,7 @@
       "doi": "10.1007/s10549-024-07506-4",
       "url": "https://doi.org/10.1007/s10549-024-07506-4",
       "doi_source": "zotero",
-      "cited_by_count": 5,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s10549-024-07506-4.pdf",
       "enriched": true
@@ -3656,7 +3656,7 @@
       "doi": "10.1097/ccm.0000000000006348",
       "url": "https://doi.org/10.1097/ccm.0000000000006348",
       "doi_source": "zotero",
-      "cited_by_count": 21,
+      "cited_by_count": 22,
       "is_oa": false,
       "oa_url": null,
       "enriched": true
@@ -9253,7 +9253,7 @@
       "doi": "10.1200/jco.19.00368",
       "url": "https://doi.org/10.1200/jco.19.00368",
       "doi_source": "zotero",
-      "cited_by_count": 389,
+      "cited_by_count": 390,
       "is_oa": true,
       "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
       "enriched": true
@@ -11550,7 +11550,7 @@
       "doi": "10.1038/s41416-018-0256-x",
       "url": "https://doi.org/10.1038/s41416-018-0256-x",
       "doi_source": "zotero",
-      "cited_by_count": 69,
+      "cited_by_count": 70,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41416-018-0256-x.pdf",
       "enriched": true

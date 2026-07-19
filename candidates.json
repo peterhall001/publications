@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:15:58+00:00",
+  "generated_at": "2026-07-19T08:42:12+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,6 +22,1361 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 0,
-  "candidates": []
+  "count": 5,
+  "candidates": [
+    {
+      "doi": "10.1016/j.clon.2026.104300",
+      "title": "Assessing the benefit of adjuvant chemotherapy in rectal cancer: an international real-world analysis",
+      "year": 2026,
+      "venue": "Clinical Oncology",
+      "volume": "",
+      "issue": "",
+      "pages": "104300",
+      "cited_by_count": 0,
+      "authors": [
+        "C.L. Hanna",
+        "Amy Downing",
+        "Felice N. van Erning",
+        "Rob Glynne-Jones",
+        "Peter S. Hall",
+        "Tijmen Koëter",
+        "Elizabeth Lemmon",
+        "H.J.T. Rutten",
+        "Henk Verheul",
+        "Johannes H.W. de Wilt",
+        "Eva Morris",
+        "R. Muirhead"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Elizabeth Lemmon"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Catherine R.",
+          "lastName": "Hanna"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amy",
+          "lastName": "Downing"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Felice N.",
+          "lastName": "van Erning"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rob",
+          "lastName": "Glynne-Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter S.",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tijmen",
+          "lastName": "Koëter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elizabeth",
+          "lastName": "Lemmon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Harm J.T.",
+          "lastName": "Rutten"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Henk",
+          "lastName": "Verheul"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Johannes H.W.",
+          "lastName": "de Wilt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eva J.A.",
+          "lastName": "Morris"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rebecca",
+          "lastName": "Muirhead"
+        }
+      ]
+    },
+    {
+      "doi": "10.1001/jamaoncol.2024.7051",
+      "title": "Plasma <i>AR</i> Alterations and Timing of Intensified Hormone Treatment for Prostate Cancer",
+      "year": 2025,
+      "venue": "JAMA Oncology",
+      "volume": "11",
+      "issue": "4",
+      "pages": "426",
+      "cited_by_count": 5,
+      "authors": [
+        "Gianmarco Leone",
+        "Francesco Orlando",
+        "Peter Dutey‐Magni",
+        "Osvaldas Vainauskas",
+        "Emily Grist",
+        "Yari Ciani",
+        "Sharanpreet Lall",
+        "Suparna Thakali",
+        "Anna Wingate",
+        "Daniel Wetterskog",
+        "Ashwin Sachdeva",
+        "Matthew R. Sydes",
+        "Neil McPhail",
+        "Thiagarajan Sreenivasan",
+        "Joe M. O’Sullivan",
+        "Noel W. Clarke",
+        "Mahesh Parmar",
+        "Louise Brown",
+        "Nicholas D. James",
+        "Francesca Demichelis",
+        "Gerhardt Attard",
+        "STAMPEDE collaborators",
+        "Christian Smith",
+        "Elin Jones",
+        "R. Canavan",
+        "Kirsty Marie Dennet",
+        "Claire Duggan",
+        "Sajid Durrani",
+        "Bleddyn Edwards",
+        "John Edwards",
+        "Sandra Evens",
+        "Abigail Hynes",
+        "Basharat Jameel",
+        "Gwenan Parry Jones",
+        "Philip Jones",
+        "Rhian Elin Jones",
+        "Sarah Jones",
+        "Christine Kotonya",
+        "Ronda Loosley",
+        "Heather McGuinness",
+        "Cerith Morgan",
+        "Geraint Morgan",
+        "Mark Narain",
+        "Emma Nurse",
+        "Donna Robson",
+        "L. Strange",
+        "Helen Tench",
+        "Sean Thomas",
+        "Toby Frederick Trugeion-Smith",
+        "Kenneth Richard Williams"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gianmarco",
+          "lastName": "Leone"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francesco",
+          "lastName": "Orlando"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Dutey-Magni"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Osvaldas",
+          "lastName": "Vainauskas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emily",
+          "lastName": "Grist"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yari",
+          "lastName": "Ciani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sharanpreet",
+          "lastName": "Lall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Suparna",
+          "lastName": "Thakali"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Wingate"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Wetterskog"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ashwin",
+          "lastName": "Sachdeva"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew R.",
+          "lastName": "Sydes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Neil",
+          "lastName": "McPhail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thiagarajan",
+          "lastName": "Sreenivasan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joe M.",
+          "lastName": "O’Sullivan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Noel W.",
+          "lastName": "Clarke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mahesh K. B.",
+          "lastName": "Parmar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Louise C.",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas D.",
+          "lastName": "James"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francesca",
+          "lastName": "Demichelis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gerhardt",
+          "lastName": "Attard"
+        },
+        {
+          "creatorType": "author",
+          "name": "STAMPEDE collaborators"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christian",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elin",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Russel",
+          "lastName": "Canavan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty Marie",
+          "lastName": "Dennet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Duggan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sajid",
+          "lastName": "Durrani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bleddyn",
+          "lastName": "Edwards"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Edwards"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sandra",
+          "lastName": "Evens"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abigail",
+          "lastName": "Hynes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Basharat",
+          "lastName": "Jameel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gwenan Parry",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rhian Elin",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christine",
+          "lastName": "Kotonya"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ronda",
+          "lastName": "Loosley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heather",
+          "lastName": "McGuinness"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cerith",
+          "lastName": "Morgan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Geraint",
+          "lastName": "Morgan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Narain"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emma",
+          "lastName": "Nurse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donna",
+          "lastName": "Robson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Llinos",
+          "lastName": "Strange"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Helen",
+          "lastName": "Tench"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sean",
+          "lastName": "Thomas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Toby Frederick",
+          "lastName": "Trugeion-Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kenneth Richard",
+          "lastName": "Williams"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s1474-4422(24)00096-6",
+      "title": "Medical management and surgery versus medical management alone for symptomatic cerebral cavernous malformation (CARE): a feasibility study and randomised, open, pragmatic, pilot phase trial",
+      "year": 2024,
+      "venue": "The Lancet Neurology",
+      "volume": "23",
+      "issue": "6",
+      "pages": "565-576",
+      "cited_by_count": 19,
+      "authors": [
+        "Madeleine Eriksson",
+        "Raza Hayat",
+        "Elaine L. Kinsella",
+        "Katherine Lewis",
+        "David CS White",
+        "Julia Boyd",
+        "Alastair Bullen",
+        "Morag MacLean",
+        "Andrew Stoddart",
+        "Sandra Phair",
+        "Helen Evans",
+        "Jarrett Noakes",
+        "Debra Alexander",
+        "Catriona Keerie",
+        "Christopher Linsley",
+        "Garry Milne",
+        "John Norrie",
+        "Nicola Farrar",
+        "Alba Realpe",
+        "Jenny Donovan",
+        "Janet Bunch",
+        "Kathryn Douthwaite",
+        "Simon Temple",
+        "James C. Hogg",
+        "David Scott",
+        "Pat Spallone",
+        "Ian Stuart",
+        "Joanna M. Wardlaw",
+        "Jeb Palmer",
+        "Eleni Sakka",
+        "Nitin Mukerji",
+        "Emanuel Cirstea",
+        "S. J. Davies",
+        "Venetia Giannakaki",
+        "Ammar Kadhim",
+        "Oliver Kennion",
+        "Moidul Islam",
+        "Lucie Ferguson",
+        "Manjunath Prasad",
+        "Andrew Bacon",
+        "Emma Richards",
+        "Jo Howe",
+        "Christine Kamara",
+        "JONATHAN GARDNER",
+        "Madalina Roman",
+        "Mary Sikaonga",
+        "Julian Cahill",
+        "Alex Rossdeutsch",
+        "Varduhi Cahill",
+        "Imron Hamina"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Madeleine",
+          "lastName": "Eriksson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raza",
+          "lastName": "Hayat"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elaine",
+          "lastName": "Kinsella"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katherine",
+          "lastName": "Lewis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David CS",
+          "lastName": "White"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julia",
+          "lastName": "Boyd"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alastair",
+          "lastName": "Bullen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Morag",
+          "lastName": "Maclean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew",
+          "lastName": "Stoddart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sandra",
+          "lastName": "Phair"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Helen",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jo",
+          "lastName": "Noakes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Debra",
+          "lastName": "Alexander"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Catriona",
+          "lastName": "Keerie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher",
+          "lastName": "Linsley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Garry",
+          "lastName": "Milne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Norrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicola",
+          "lastName": "Farrar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alba X",
+          "lastName": "Realpe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jenny L",
+          "lastName": "Donovan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Janet",
+          "lastName": "Bunch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathryn",
+          "lastName": "Douthwaite"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Temple"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Hogg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Scott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pat",
+          "lastName": "Spallone"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ian",
+          "lastName": "Stuart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joanna M",
+          "lastName": "Wardlaw"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeb",
+          "lastName": "Palmer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eleni",
+          "lastName": "Sakka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitin",
+          "lastName": "Mukerji"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emanuel",
+          "lastName": "Cirstea"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susan",
+          "lastName": "Davies"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Venetia",
+          "lastName": "Giannakaki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ammar",
+          "lastName": "Kadhim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Oliver",
+          "lastName": "Kennion"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Moidul",
+          "lastName": "Islam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lucie",
+          "lastName": "Ferguson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manjunath",
+          "lastName": "Prasad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew",
+          "lastName": "Bacon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emma",
+          "lastName": "Richards"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jo",
+          "lastName": "Howe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christine",
+          "lastName": "Kamara"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jonathan",
+          "lastName": "Gardner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Madalina",
+          "lastName": "Roman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mary",
+          "lastName": "Sikaonga"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julian",
+          "lastName": "Cahill"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alex",
+          "lastName": "Rossdeutsch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Varduhi",
+          "lastName": "Cahill"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Imron",
+          "lastName": "Hamina"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s1470-2045(20)30442-3",
+      "title": "COVID-19 prevalence and mortality in patients with cancer and the effect of primary tumour subtype and patient demographics: a prospective cohort study",
+      "year": 2020,
+      "venue": "The Lancet Oncology",
+      "volume": "21",
+      "issue": "10",
+      "pages": "1309-1316",
+      "cited_by_count": 600,
+      "authors": [
+        "Lennard Y. W. Lee",
+        "Jean‐Baptiste Cazier",
+        "Thomas Starkey",
+        "Sarah Briggs",
+        "Roland Arnold",
+        "Vartika Bisht",
+        "Stephen Booth",
+        "Naomi Campton",
+        "Vinton W.T. Cheng",
+        "Graham P. Collins",
+        "Helen Curley",
+        "Philip Earwaker",
+        "Matthew W. Fittall",
+        "Spyridon Gennatas",
+        "Anshita Goel",
+        "Simon Hartley",
+        "D.J. Hughes",
+        "David Kerr",
+        "Alvin Lee",
+        "Rebecca Lee",
+        "Siow Ming Lee",
+        "Hayley McKenzie",
+        "Chris P Middleton",
+        "Nirupa Murugaesu",
+        "Tom Newsom‐Davis",
+        "Anna Olsson‐Brown",
+        "Claire Palles",
+        "Thomas Powles",
+        "Emily Protheroe",
+        "Karin Purshouse",
+        "Archana Sharma‐Oates",
+        "Shivan Sivakumar",
+        "Ashley J. Smith",
+        "Oliver Topping",
+        "Chris D. Turnbull",
+        "Csilla Várnai",
+        "Adam Briggs",
+        "Gary Middleton",
+        "Rachel Kerr",
+        "Abigail Gault",
+        "Michael Agnieszka",
+        "Ahmed Bedair",
+        "Aisha Ghaus",
+        "Akinfemi Akingboye",
+        "Alec Maynard",
+        "Alexander Pawsey",
+        "Ali Abdulnabi Suwaidan",
+        "Alicia Okines",
+        "Alison Massey",
+        "Amy Kwan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lennard Y W",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jean-Baptiste",
+          "lastName": "Cazier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Starkey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah E W",
+          "lastName": "Briggs"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roland",
+          "lastName": "Arnold"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vartika",
+          "lastName": "Bisht"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Booth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Naomi A",
+          "lastName": "Campton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vinton W T",
+          "lastName": "Cheng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Graham",
+          "lastName": "Collins"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Helen M",
+          "lastName": "Curley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip",
+          "lastName": "Earwaker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew W",
+          "lastName": "Fittall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Spyridon",
+          "lastName": "Gennatas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anshita",
+          "lastName": "Goel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Hartley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel J",
+          "lastName": "Hughes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Kerr"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alvin J X",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rebecca J",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Siow Ming",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hayley",
+          "lastName": "Mckenzie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chris P",
+          "lastName": "Middleton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nirupa",
+          "lastName": "Murugaesu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tom",
+          "lastName": "Newsom-Davis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna C",
+          "lastName": "Olsson-Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Palles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Powles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emily A",
+          "lastName": "Protheroe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karin",
+          "lastName": "Purshouse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Archana",
+          "lastName": "Sharma-Oates"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shivan",
+          "lastName": "Sivakumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ashley J",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Oliver",
+          "lastName": "Topping"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chris D",
+          "lastName": "Turnbull"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Csilla",
+          "lastName": "Várnai"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam D M",
+          "lastName": "Briggs"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gary",
+          "lastName": "Middleton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rachel",
+          "lastName": "Kerr"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abigail",
+          "lastName": "Gault"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Agnieszka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ahmed",
+          "lastName": "Bedair"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aisha",
+          "lastName": "Ghaus"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Akinfemi",
+          "lastName": "Akingboye"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alec",
+          "lastName": "Maynard"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexander",
+          "lastName": "Pawsey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ali Abdulnabi",
+          "lastName": "Suwaidan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alicia",
+          "lastName": "Okines"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alison",
+          "lastName": "Massey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amy",
+          "lastName": "Kwan"
+        }
+      ]
+    },
+    {
+      "doi": "10.1186/s41512-016-0001-y",
+      "title": "Methods for Evaluating Medical Tests and Biomarkers",
+      "year": 2017,
+      "venue": "Diagnostic and Prognostic Research",
+      "volume": "1",
+      "issue": "S1",
+      "pages": "7",
+      "cited_by_count": 2,
+      "authors": [
+        "STREAMLINE COLON Investigators",
+        "Gowri Gopalakrishna",
+        "STREAMLINE LUNG Investigators",
+        "METRIC Investigators",
+        "on behalf of the CTC-STOP protocol development group",
+        "Miranda Langendam",
+        "Rob Scholten",
+        "Patrick Bossuyt",
+        "Mariska Leeflang",
+        "Anna H Noel-Storr",
+        "James Thomas",
+        "Iain Marshall",
+        "Byron Wallace",
+        "Penny Whiting",
+        "Clare Davenport",
+        "Mariska Leeflang",
+        "Gowri Gopalakrishna",
+        "Isabel de Salis",
+        "Sue Mallett",
+        "Robert Wolff",
+        "Penny Whiting",
+        "Richard D Riley",
+        "Marie Westwood",
+        "Jos Kleinen",
+        "Gary Collins",
+        "Hans Reitsma",
+        "Karel Moons",
+        "Antonia Zapf",
+        "Annika Hoyer",
+        "Katharina Kramer",
+        "Oliver Kuß",
+        "Joie Ensor",
+        "Jonathan J Deeks",
+        "Estelle Martin",
+        "Richard D Riley",
+        "Gerta Rücker",
+        "Susanne Steinhauser",
+        "M. Schumacher",
+        "Richard D Riley",
+        "Joie Ensor",
+        "Kym I E Snell",
+        "Brian H Willis",
+        "Thomas P. A. Debray",
+        "Karel Moons",
+        "Jon Deeks",
+        "Gary Collins",
+        "Lavinia Ferrante di Ruffano",
+        "Brian H Willis",
+        "Clare Davenport",
+        "Sue Mallett"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "STREAMLINE COLON Investigators"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gowri",
+          "lastName": "Gopalakrishna"
+        },
+        {
+          "creatorType": "author",
+          "name": "STREAMLINE LUNG Investigators"
+        },
+        {
+          "creatorType": "author",
+          "name": "METRIC Investigators"
+        },
+        {
+          "creatorType": "author",
+          "name": "on behalf of the MASTERMIND consortium"
+        },
+        {
+          "creatorType": "author",
+          "name": "on behalf of the MASTERMIND consortium"
+        },
+        {
+          "creatorType": "author",
+          "name": "for the Test Evaluation Working Group of the European Federation of Clinical Chemistry and Laboratory Medicine"
+        },
+        {
+          "creatorType": "author",
+          "name": "on behalf of the CTC-STOP protocol development group"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Miranda",
+          "lastName": "Langendam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rob",
+          "lastName": "Scholten"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patrick",
+          "lastName": "Bossuyt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mariska",
+          "lastName": "Leeflang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Noel-Storr"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Thomas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Marshall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Byron",
+          "lastName": "Wallace"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Penny",
+          "lastName": "Whiting"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Clare",
+          "lastName": "Davenport"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mariska",
+          "lastName": "Leeflang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gowri",
+          "lastName": "GopalaKrishna"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Isabel",
+          "lastName": "de Salis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sue",
+          "lastName": "Mallett"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert",
+          "lastName": "Wolff"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Penny",
+          "lastName": "Whiting"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "Riley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie",
+          "lastName": "Westwood"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jos",
+          "lastName": "Kleinen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gary",
+          "lastName": "Collins"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hans",
+          "lastName": "Reitsma"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karel",
+          "lastName": "Moons"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Antonia",
+          "lastName": "Zapf"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Annika",
+          "lastName": "Hoyer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katharina",
+          "lastName": "Kramer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Oliver",
+          "lastName": "Kuss"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J.",
+          "lastName": "Ensor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J. J.",
+          "lastName": "Deeks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "E. C.",
+          "lastName": "Martin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R. D.",
+          "lastName": "Riley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gerta",
+          "lastName": "Rücker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susanne",
+          "lastName": "Steinhauser"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Martin",
+          "lastName": "Schumacher"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "Riley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joie",
+          "lastName": "Ensor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kym",
+          "lastName": "Snell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brian",
+          "lastName": "Willis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Debray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karel",
+          "lastName": "Moons"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jon",
+          "lastName": "Deeks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gary",
+          "lastName": "Collins"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lavinia Ferrante",
+          "lastName": "di Ruffano"
+        }
+      ]
+    }
+  ]
 }
