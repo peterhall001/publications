@@ -1,14 +1,117 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-21T09:07:31+00:00",
+  "generated_at": "2026-07-22T09:06:39+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3480"
+    "zotero_library_version": "3483"
   },
-  "count": 179,
+  "count": 180,
   "doi_backfilled": 0,
   "publications": [
+    {
+      "zotero_key": "T25HM7JC",
+      "item_type": "journalArticle",
+      "title": "A prospective national precision medicine trial evaluating the feasibility of blood-based molecular profiling in patients with Cancer of Unknown Primary (CUP-COMP)",
+      "authors": [
+        {
+          "family": "Conway",
+          "given": "Alicia-Marie"
+        },
+        {
+          "family": "Robinson",
+          "given": "Matthew"
+        },
+        {
+          "family": "Concannon",
+          "given": "Matthew"
+        },
+        {
+          "family": "Clive",
+          "given": "Sally"
+        },
+        {
+          "family": "Tillett",
+          "given": "Tania"
+        },
+        {
+          "family": "Shiu",
+          "given": "Kai-Keen"
+        },
+        {
+          "family": "Medley",
+          "given": "Louise"
+        },
+        {
+          "family": "Dasgupta",
+          "given": "Sonali"
+        },
+        {
+          "family": "Ahmed",
+          "given": "Eliyaz"
+        },
+        {
+          "family": "Warrington",
+          "given": "Kelly"
+        },
+        {
+          "family": "Mahmood",
+          "given": "Usman"
+        },
+        {
+          "family": "Zair",
+          "given": "Zoulikha"
+        },
+        {
+          "family": "Gillham",
+          "given": "Tess"
+        },
+        {
+          "family": "Davis",
+          "given": "Aaron"
+        },
+        {
+          "family": "Scott",
+          "given": "Julie-Anne"
+        },
+        {
+          "family": "Taylor",
+          "given": "Alison"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Mitchell",
+          "given": "Claire"
+        },
+        {
+          "family": "Oliviera",
+          "given": "Pedro"
+        },
+        {
+          "family": "Burghel",
+          "given": "George J."
+        },
+        {
+          "family": "Cook",
+          "given": "Natalie"
+        }
+      ],
+      "year": "2026",
+      "venue": "British Journal of Cancer",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1038/s41416-026-03519-6",
+      "url": "https://doi.org/10.1038/s41416-026-03519-6",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41416-026-03519-6",
+      "enriched": true
+    },
     {
       "zotero_key": "24Q9G8M8",
       "item_type": "journalArticle",
