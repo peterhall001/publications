@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-22T09:06:39+00:00",
+  "generated_at": "2026-07-23T09:05:26+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -109,7 +109,7 @@
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41416-026-03519-6",
+      "oa_url": "https://www.nature.com/articles/s41416-026-03519-6.pdf",
       "enriched": true
     },
     {
@@ -6350,7 +6350,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 80,
+      "cited_by_count": 81,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
