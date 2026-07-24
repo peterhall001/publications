@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-23T09:05:26+00:00",
+  "generated_at": "2026-07-24T09:02:00+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -3673,7 +3673,7 @@
       "doi": "10.1002/path.6377",
       "url": "https://doi.org/10.1002/path.6377",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/path.6377",
       "enriched": true
@@ -5606,7 +5606,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 215,
+      "cited_by_count": 216,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -9097,7 +9097,7 @@
       "doi": "10.1158/2159-8290.cd-20-1647",
       "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
       "doi_source": "zotero",
-      "cited_by_count": 180,
+      "cited_by_count": 181,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
       "enriched": true
@@ -9943,7 +9943,7 @@
       "doi": "10.1200/jco.19.00368",
       "url": "https://doi.org/10.1200/jco.19.00368",
       "doi_source": "zotero",
-      "cited_by_count": 390,
+      "cited_by_count": 391,
       "is_oa": true,
       "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
       "enriched": true
@@ -11087,7 +11087,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 285,
+      "cited_by_count": 286,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
