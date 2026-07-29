@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-28T09:14:19+00:00",
+  "generated_at": "2026-07-29T09:19:17+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -4314,7 +4314,7 @@
       "doi": "10.1158/1078-0432.ccr-23-2326",
       "url": "https://doi.org/10.1158/1078-0432.ccr-23-2326",
       "doi_source": "zotero",
-      "cited_by_count": 46,
+      "cited_by_count": 47,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-23-2326/3390741/ccr-23-2326.pdf",
       "enriched": true
@@ -6754,7 +6754,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 195,
+      "cited_by_count": 196,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -9943,7 +9943,7 @@
       "doi": "10.1200/jco.19.00368",
       "url": "https://doi.org/10.1200/jco.19.00368",
       "doi_source": "zotero",
-      "cited_by_count": 391,
+      "cited_by_count": 392,
       "is_oa": true,
       "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
       "enriched": true
@@ -13162,7 +13162,7 @@
       "doi": "10.3310/hta21170",
       "url": "https://doi.org/10.3310/hta21170",
       "doi_source": "zotero",
-      "cited_by_count": 91,
+      "cited_by_count": 92,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2010350",
       "enriched": true
