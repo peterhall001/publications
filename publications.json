@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-29T09:19:17+00:00",
+  "generated_at": "2026-07-30T09:10:32+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -776,7 +776,7 @@
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1007/s11136-025-04103-w",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11136-025-04103-w.pdf",
       "enriched": true
     },
     {
@@ -4045,7 +4045,7 @@
       "doi": "10.1097/ccm.0000000000006348",
       "url": "https://doi.org/10.1097/ccm.0000000000006348",
       "doi_source": "zotero",
-      "cited_by_count": 22,
+      "cited_by_count": 23,
       "is_oa": false,
       "oa_url": null,
       "enriched": true
@@ -11911,7 +11911,7 @@
       "doi": "10.1016/s2468-2667(19)30185-9",
       "url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "doi_source": "zotero",
-      "cited_by_count": 54,
+      "cited_by_count": 55,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "enriched": true
