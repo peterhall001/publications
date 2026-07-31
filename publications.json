@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-30T09:10:32+00:00",
+  "generated_at": "2026-07-31T09:22:18+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -1138,8 +1138,8 @@
       "url": "https://doi.org/10.1097/spc.0000000000000818",
       "doi_source": "zotero",
       "cited_by_count": 0,
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13405630/",
       "enriched": true
     },
     {
@@ -4483,7 +4483,7 @@
       "doi": "10.1136/bmjspcare-2020-002630",
       "url": "https://doi.org/10.1136/bmjspcare-2020-002630",
       "doi_source": "zotero",
-      "cited_by_count": 56,
+      "cited_by_count": 57,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2020/12/01/bmjspcare-2020-002630.full.pdf",
       "enriched": true
@@ -5606,7 +5606,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 217,
+      "cited_by_count": 218,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -6077,7 +6077,7 @@
       "doi": "10.3390/cancers15235502",
       "url": "https://doi.org/10.3390/cancers15235502",
       "doi_source": "zotero",
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/15/23/5502/pdf?version=1700564980",
       "enriched": true
@@ -6350,7 +6350,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 81,
+      "cited_by_count": 82,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -10355,7 +10355,7 @@
       "doi": "10.1016/j.clon.2019.11.008",
       "url": "https://doi.org/10.1016/j.clon.2019.11.008",
       "doi_source": "zotero",
-      "cited_by_count": 38,
+      "cited_by_count": 39,
       "is_oa": true,
       "oa_url": "http://www.clinicaloncologyonline.net/article/S0936655519304960/pdf",
       "enriched": true
