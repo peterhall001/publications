@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-31T09:22:18+00:00",
+  "generated_at": "2026-08-01T08:37:45+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3483"
+    "zotero_library_version": "3485"
   },
   "count": 180,
   "doi_backfilled": 0,
@@ -5606,7 +5606,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 218,
+      "cited_by_count": 219,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -8659,7 +8659,7 @@
       "doi": "10.1016/s1474-4422(21)00264-7",
       "url": "https://doi.org/10.1016/s1474-4422(21)00264-7",
       "doi_source": "zotero",
-      "cited_by_count": 111,
+      "cited_by_count": 112,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1474442221002647/pdf",
       "enriched": true
@@ -12641,7 +12641,7 @@
       "doi_source": "zotero",
       "cited_by_count": 7,
       "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs40273-018-0638-1.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-018-0638-1.pdf",
       "enriched": true
     },
     {
@@ -13162,7 +13162,7 @@
       "doi": "10.3310/hta21170",
       "url": "https://doi.org/10.3310/hta21170",
       "doi_source": "zotero",
-      "cited_by_count": 92,
+      "cited_by_count": 93,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2010350",
       "enriched": true

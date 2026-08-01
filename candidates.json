@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T09:22:41+00:00",
+  "generated_at": "2026-08-01T08:38:04+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,57 +22,6 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 2,
-  "candidates": [
-    {
-      "doi": "10.5281/zenodo.21623242",
-      "title": "INTEGRATE: Embedding a supportive culture for data science in biomedical research",
-      "year": 2026,
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "cited_by_count": 0,
-      "authors": [
-        "Sarah Cadman",
-        "Tanita Casci",
-        "Paul Davies",
-        "Matthew Elliott",
-        "Rachel Etherington",
-        "David J. Gavaghan",
-        "Charlotte George",
-        "C. Mclean",
-        "David Sims"
-      ],
-      "metadata_source": "openalex",
-      "matched_authors": [
-        "Colin McLean"
-      ]
-    },
-    {
-      "doi": "10.5281/zenodo.21623243",
-      "title": "INTEGRATE: Embedding a supportive culture for data science in biomedical research",
-      "year": 2026,
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "cited_by_count": 0,
-      "authors": [
-        "Sarah Cadman",
-        "Tanita Casci",
-        "Paul Davies",
-        "Matthew Elliott",
-        "Rachel Etherington",
-        "David J. Gavaghan",
-        "Charlotte George",
-        "C. Mclean",
-        "David Sims"
-      ],
-      "metadata_source": "openalex",
-      "matched_authors": [
-        "Colin McLean"
-      ]
-    }
-  ]
+  "count": 0,
+  "candidates": []
 }
