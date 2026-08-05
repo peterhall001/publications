@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-04T09:18:00+00:00",
+  "generated_at": "2026-08-05T09:17:09+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -1131,15 +1131,15 @@
       ],
       "year": "2026",
       "venue": "Current Opinion in Supportive &amp; Palliative Care",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "20",
+      "issue": "3",
+      "pages": "191–197",
       "doi": "10.1097/spc.0000000000000818",
       "url": "https://doi.org/10.1097/spc.0000000000000818",
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": true,
-      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13405630/",
+      "oa_url": "https://doi.org/10.1097/spc.0000000000000818",
       "enriched": true
     },
     {
@@ -6754,7 +6754,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 196,
+      "cited_by_count": 197,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -13083,7 +13083,7 @@
       "doi": "10.2217/imt-2016-0150",
       "url": "https://doi.org/10.2217/imt-2016-0150",
       "doi_source": "zotero",
-      "cited_by_count": 204,
+      "cited_by_count": 205,
       "is_oa": true,
       "oa_url": "http://hdl.handle.net/10400.1/13131",
       "enriched": true
