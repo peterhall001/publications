@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:20:01+00:00",
+  "generated_at": "2026-08-07T07:50:39+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,6 +22,277 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 0,
-  "candidates": []
+  "count": 4,
+  "candidates": [
+    {
+      "doi": "10.1016/s1470-2045(25)00660-6",
+      "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy",
+      "year": 2026,
+      "venue": "The Lancet Oncology",
+      "volume": "27",
+      "issue": "3",
+      "pages": "e150-e159",
+      "cited_by_count": 1,
+      "authors": [
+        "Antonio Angrisani",
+        "Youlia Kirova",
+        "Azadeh Abravan",
+        "Carlotta Becherini",
+        "Sergi Benavente",
+        "Luís Castelo-Branco",
+        "Anthony J Chalmers",
+        "Sebastian M. Christ",
+        "Eric Deutsch",
+        "Andrea Riccardo Filippi",
+        "Lizza E L Hendriks",
+        "Zita Zolcsók",
+        "Tim Illidge",
+        "Andreas Rimner",
+        "Fernanda Herrera",
+        "Dirk De Ruysscher"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Antonio",
+          "lastName": "Angrisani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Youlia",
+          "lastName": "Kirova"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carlotta",
+          "lastName": "Becherini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sergi",
+          "lastName": "Benavente"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luis",
+          "lastName": "Castelo-Branco"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anthony J",
+          "lastName": "Chalmers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sebastian M",
+          "lastName": "Christ"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eric",
+          "lastName": "Deutsch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrea Riccardo",
+          "lastName": "Filippi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lizza E L",
+          "lastName": "Hendriks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zita",
+          "lastName": "Zolcsók"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tim",
+          "lastName": "Illidge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andreas",
+          "lastName": "Rimner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fernanda",
+          "lastName": "Herrera"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dirk",
+          "lastName": "De Ruysscher"
+        }
+      ]
+    },
+    {
+      "doi": "10.1080/14737159.2026.2709442",
+      "title": "The 21-gene recurrence score assay as a tool for predicting recurrence risk and guiding adjuvant treatment selection in early breast cancer",
+      "year": 2026,
+      "venue": "Expert Review of Molecular Diagnostics",
+      "volume": "",
+      "issue": "",
+      "pages": "1-11",
+      "cited_by_count": 0,
+      "authors": [
+        "Carlos Martínez‐Pérez",
+        "Giovanni Tramonti",
+        "Charlene Kay",
+        "Karen Taylor",
+        "Alastair Ironside",
+        "Arran Turnbull",
+        "Peter S Hall"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Carlos",
+          "lastName": "Martínez-Pérez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Giovanni",
+          "lastName": "Tramonti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charlene",
+          "lastName": "Kay"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen J.",
+          "lastName": "Taylor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alastair",
+          "lastName": "Ironside"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arran K.",
+          "lastName": "Turnbull"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter S.",
+          "lastName": "Hall"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111440",
+      "title": "Limitations and future directions in identifying risk factors for radiotherapy related pelvic insufficiency fractures in gynecological cancers: A scoping review",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "217",
+      "issue": "",
+      "pages": "111440",
+      "cited_by_count": 0,
+      "authors": [
+        "Artemis Bouzaki",
+        "Peter Hoskin",
+        "Claire Higham",
+        "Alan McWilliam",
+        "Azadeh Abravan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Artemis",
+          "lastName": "Bouzaki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hoskin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire E.",
+          "lastName": "Higham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "McWilliam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109149",
+      "title": "201 The Integration of Body Composition with NLR Improves Prognostic Modelling in Lung and Oesophageal Cancer",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109149",
+      "cited_by_count": 0,
+      "authors": [
+        "Alan McWilliam",
+        "Donal McSweeney",
+        "K. Banfill",
+        "Ganesh Radhakrishna",
+        "Azadeh Abravan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "McWilliam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donal",
+          "lastName": "McSweeney"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathryn",
+          "lastName": "Banfill"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ganesh",
+          "lastName": "Radhakrishna"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        }
+      ]
+    }
+  ]
 }
