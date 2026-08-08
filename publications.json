@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-07T07:50:14+00:00",
+  "generated_at": "2026-08-08T07:27:26+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3485"
+    "zotero_library_version": "3501"
   },
-  "count": 180,
+  "count": 183,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -1174,6 +1174,45 @@
       "enriched": true
     },
     {
+      "zotero_key": "JR2V3V3W",
+      "item_type": "journalArticle",
+      "title": "Limitations and future directions in identifying risk factors for radiotherapy related pelvic insufficiency fractures in gynecological cancers: A scoping review",
+      "authors": [
+        {
+          "family": "Bouzaki",
+          "given": "Artemis"
+        },
+        {
+          "family": "Hoskin",
+          "given": "Peter"
+        },
+        {
+          "family": "Higham",
+          "given": "Claire E."
+        },
+        {
+          "family": "McWilliam",
+          "given": "Alan"
+        },
+        {
+          "family": "Abravan",
+          "given": "Azadeh"
+        }
+      ],
+      "year": "2026",
+      "venue": "Radiotherapy and Oncology",
+      "volume": "217",
+      "issue": "",
+      "pages": "111440",
+      "doi": "10.1016/j.radonc.2026.111440",
+      "url": "https://doi.org/10.1016/j.radonc.2026.111440",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://www.thegreenjournal.com/article/S0167-8140(26)00079-4/pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "MQKPTVW4",
       "item_type": "journalArticle",
       "title": "Long-term costs associated with healthcare use of people with cancer in Scotland",
@@ -1487,6 +1526,89 @@
       "enriched": true
     },
     {
+      "zotero_key": "HJZMSXG9",
+      "item_type": "journalArticle",
+      "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy",
+      "authors": [
+        {
+          "family": "Angrisani",
+          "given": "Antonio"
+        },
+        {
+          "family": "Kirova",
+          "given": "Youlia"
+        },
+        {
+          "family": "Abravan",
+          "given": "Azadeh"
+        },
+        {
+          "family": "Becherini",
+          "given": "Carlotta"
+        },
+        {
+          "family": "Benavente",
+          "given": "Sergi"
+        },
+        {
+          "family": "Castelo-Branco",
+          "given": "Luis"
+        },
+        {
+          "family": "Chalmers",
+          "given": "Anthony J"
+        },
+        {
+          "family": "Christ",
+          "given": "Sebastian M"
+        },
+        {
+          "family": "Deutsch",
+          "given": "Eric"
+        },
+        {
+          "family": "Filippi",
+          "given": "Andrea Riccardo"
+        },
+        {
+          "family": "Hendriks",
+          "given": "Lizza E L"
+        },
+        {
+          "family": "Zolcsók",
+          "given": "Zita"
+        },
+        {
+          "family": "Illidge",
+          "given": "Tim"
+        },
+        {
+          "family": "Rimner",
+          "given": "Andreas"
+        },
+        {
+          "family": "Herrera",
+          "given": "Fernanda"
+        },
+        {
+          "family": "De Ruysscher",
+          "given": "Dirk"
+        }
+      ],
+      "year": "2026",
+      "venue": "The Lancet Oncology",
+      "volume": "27",
+      "issue": "3",
+      "pages": "e150-e159",
+      "doi": "10.1016/s1470-2045(25)00660-6",
+      "url": "https://doi.org/10.1016/s1470-2045(25)00660-6",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://cris.maastrichtuniversity.nl/en/publications/7d6c3fad-52a5-426a-b1f8-eb4731b50825",
+      "enriched": true
+    },
+    {
       "zotero_key": "GI4W7CPV",
       "item_type": "journalArticle",
       "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy",
@@ -1567,6 +1689,53 @@
       "cited_by_count": 0,
       "is_oa": true,
       "oa_url": "https://doi.org/10.5167/uzh-433879",
+      "enriched": true
+    },
+    {
+      "zotero_key": "ERIMDWQM",
+      "item_type": "journalArticle",
+      "title": "The 21-gene recurrence score assay as a tool for predicting recurrence risk and guiding adjuvant treatment selection in early breast cancer",
+      "authors": [
+        {
+          "family": "Martínez-Pérez",
+          "given": "Carlos"
+        },
+        {
+          "family": "Tramonti",
+          "given": "Giovanni"
+        },
+        {
+          "family": "Kay",
+          "given": "Charlene"
+        },
+        {
+          "family": "Taylor",
+          "given": "Karen J."
+        },
+        {
+          "family": "Ironside",
+          "given": "Alastair"
+        },
+        {
+          "family": "Turnbull",
+          "given": "Arran K."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        }
+      ],
+      "year": "2026",
+      "venue": "Expert Review of Molecular Diagnostics",
+      "volume": "",
+      "issue": "",
+      "pages": "1-11",
+      "doi": "10.1080/14737159.2026.2709442",
+      "url": "https://doi.org/10.1080/14737159.2026.2709442",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
       "enriched": true
     },
     {
@@ -3436,7 +3605,7 @@
       "doi": "10.1016/s2213-2600(25)00205-x",
       "url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
       "doi_source": "zotero",
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
       "enriched": true
@@ -6350,7 +6519,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 82,
+      "cited_by_count": 83,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
