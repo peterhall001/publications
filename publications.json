@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-08T07:27:26+00:00",
+  "generated_at": "2026-08-09T07:29:56+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3501"
+    "zotero_library_version": "3504"
   },
   "count": 183,
   "doi_backfilled": 0,
@@ -11256,7 +11256,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 286,
+      "cited_by_count": 287,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
@@ -13349,12 +13349,12 @@
       "year": "2017",
       "venue": "European Journal of Cancer",
       "volume": "79",
-      "issue": "39",
+      "issue": "",
       "pages": "235-237",
       "doi": "10.1016/j.ejca.2017.04.003",
       "url": "https://doi.org/10.1016/j.ejca.2017.04.003",
       "doi_source": "zotero",
-      "cited_by_count": 0,
+      "cited_by_count": 17,
       "is_oa": false,
       "oa_url": null,
       "enriched": true

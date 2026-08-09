@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:27:43+00:00",
+  "generated_at": "2026-08-09T07:30:20+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,115 +22,6 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 1,
-  "candidates": [
-    {
-      "doi": "10.1016/j.radonc.2026.111721",
-      "title": "Understanding retention in radiation oncology: quantitative findings from the retention survey by the ESTRO Early Career Committee",
-      "year": 2026,
-      "venue": "Radiotherapy and Oncology",
-      "volume": "",
-      "issue": "",
-      "pages": "111721",
-      "cited_by_count": 0,
-      "authors": [
-        "Dylan Callens",
-        "Jolien Heukelom",
-        "Amanda Webster",
-        "Antonio Angrisani",
-        "Federico Mastroleo",
-        "Bartłomiej Tomasik",
-        "Daniel Portik",
-        "D.S. Fairweather",
-        "Hanna Alajõe",
-        "Morten Horsholt Kristensen",
-        "Nathalie Cnops",
-        "Pierfrancesco Franco",
-        "Steven Petit",
-        "Tiuri E. Kroese",
-        "Azadeh Abravan"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Azadeh Abravan"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Dylan",
-          "lastName": "Callens"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jolien",
-          "lastName": "Heukelom"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Amanda",
-          "lastName": "Webster"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Antonio",
-          "lastName": "Angrisani"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Federico",
-          "lastName": "Mastroleo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Bartłomiej",
-          "lastName": "Tomasik"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel",
-          "lastName": "Portik"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Danielle",
-          "lastName": "Fairweather"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Hanna",
-          "lastName": "Alajõe"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Morten Horsholt",
-          "lastName": "Kristensen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Nathalie",
-          "lastName": "Cnops"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Pierfrancesco",
-          "lastName": "Franco"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Steven",
-          "lastName": "Petit"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tiuri",
-          "lastName": "Kroese"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Azadeh",
-          "lastName": "Abravan"
-        }
-      ]
-    }
-  ]
+  "count": 0,
+  "candidates": []
 }
