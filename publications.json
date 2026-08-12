@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-11T07:44:08+00:00",
+  "generated_at": "2026-08-12T07:57:48+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -4325,7 +4325,7 @@
       "doi": "10.1016/j.esmoop.2024.103450",
       "url": "https://doi.org/10.1016/j.esmoop.2024.103450",
       "doi_source": "zotero",
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "http://www.esmoopen.com/article/S2059702924012183/pdf",
       "enriched": true
@@ -4748,7 +4748,7 @@
       "doi_source": "zotero",
       "cited_by_count": 2,
       "is_oa": true,
-      "oa_url": "http://doi.org/10.3310/aptu2400",
+      "oa_url": "https://doi.org/10.3310/aptu2400",
       "enriched": true
     },
     {
@@ -5775,7 +5775,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 220,
+      "cited_by_count": 221,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -8001,7 +8001,7 @@
       "doi_source": "zotero",
       "cited_by_count": 12,
       "is_oa": true,
-      "oa_url": null,
+      "oa_url": "https://eprints.gla.ac.uk/273813/2/273813.pdf",
       "enriched": true
     },
     {
@@ -9266,7 +9266,7 @@
       "doi": "10.1158/2159-8290.cd-20-1647",
       "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
       "doi_source": "zotero",
-      "cited_by_count": 182,
+      "cited_by_count": 183,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
       "enriched": true
@@ -10112,7 +10112,7 @@
       "doi": "10.1200/jco.19.00368",
       "url": "https://doi.org/10.1200/jco.19.00368",
       "doi_source": "zotero",
-      "cited_by_count": 393,
+      "cited_by_count": 394,
       "is_oa": true,
       "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
       "enriched": true
