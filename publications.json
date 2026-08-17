@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-16T07:07:17+00:00",
+  "generated_at": "2026-08-17T07:30:07+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3504"
+    "zotero_library_version": "3507"
   },
-  "count": 183,
+  "count": 184,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -1732,6 +1732,49 @@
       "pages": "1-11",
       "doi": "10.1080/14737159.2026.2709442",
       "url": "https://doi.org/10.1080/14737159.2026.2709442",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "PJDNSN4K",
+      "item_type": "journalArticle",
+      "title": "Understanding retention in radiation oncology: qualitative findings from an international workforce survey",
+      "authors": [
+        {
+          "family": "Fairweather",
+          "given": "Danielle"
+        },
+        {
+          "family": "Abravan",
+          "given": "Azadeh"
+        },
+        {
+          "family": "Portik",
+          "given": "Daniel"
+        },
+        {
+          "family": "Petit",
+          "given": "Steven"
+        },
+        {
+          "family": "Webster",
+          "given": "Amanda"
+        },
+        {
+          "family": "Callens",
+          "given": "Dylan"
+        }
+      ],
+      "year": "2026",
+      "venue": "Radiotherapy and Oncology",
+      "volume": "",
+      "issue": "",
+      "pages": "111722",
+      "doi": "10.1016/j.radonc.2026.111722",
+      "url": "https://doi.org/10.1016/j.radonc.2026.111722",
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": false,

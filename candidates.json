@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:07:38+00:00",
+  "generated_at": "2026-08-17T07:30:29+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,61 +22,6 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 1,
-  "candidates": [
-    {
-      "doi": "10.1016/j.radonc.2026.111722",
-      "title": "Understanding retention in radiation oncology: qualitative findings from an international workforce survey",
-      "year": 2026,
-      "venue": "Radiotherapy and Oncology",
-      "volume": "",
-      "issue": "",
-      "pages": "111722",
-      "cited_by_count": 0,
-      "authors": [
-        "D.S. Fairweather",
-        "Azadeh Abravan",
-        "Daniel Portik",
-        "Steven Petit",
-        "Amanda Webster",
-        "Dylan Callens"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Azadeh Abravan"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Danielle",
-          "lastName": "Fairweather"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Azadeh",
-          "lastName": "Abravan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel",
-          "lastName": "Portik"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Steven",
-          "lastName": "Petit"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Amanda",
-          "lastName": "Webster"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Dylan",
-          "lastName": "Callens"
-        }
-      ]
-    }
-  ]
+  "count": 0,
+  "candidates": []
 }
