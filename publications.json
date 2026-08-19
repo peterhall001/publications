@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-18T07:12:34+00:00",
+  "generated_at": "2026-08-19T07:12:58+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -1603,7 +1603,7 @@
       "doi": "10.1016/s1470-2045(25)00660-6",
       "url": "https://doi.org/10.1016/s1470-2045(25)00660-6",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://cris.maastrichtuniversity.nl/en/publications/7d6c3fad-52a5-426a-b1f8-eb4731b50825",
       "enriched": true
@@ -2034,7 +2034,7 @@
       "doi": "10.1038/s41523-025-00720-3",
       "url": "https://doi.org/10.1038/s41523-025-00720-3",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41523-025-00720-3.pdf",
       "enriched": true
@@ -4642,7 +4642,7 @@
       "doi_source": "zotero",
       "cited_by_count": 2,
       "is_oa": true,
-      "oa_url": "http://www.thebreastonline.com/article/S0960977624000596/pdf",
+      "oa_url": "https://doi.org/10.1016/j.breast.2024.103728",
       "enriched": true
     },
     {
@@ -5447,7 +5447,7 @@
       "doi_source": "zotero",
       "cited_by_count": 7,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/files/281536039/JICS_ABC_Sepsis_Protocol_Accepted_Proof_.pdf",
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/f97644f8-7891-46d9-b5ca-628370dfca0d",
       "enriched": true
     },
     {
@@ -7495,7 +7495,7 @@
       "doi_source": "zotero",
       "cited_by_count": 22,
       "is_oa": true,
-      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/13696998.2022.2066399?needAccess=true",
+      "oa_url": "https://doi.org/10.1080/13696998.2022.2066399",
       "enriched": true
     },
     {
@@ -7681,7 +7681,7 @@
       "doi": "10.1038/s41416-022-01828-0",
       "url": "https://doi.org/10.1038/s41416-022-01828-0",
       "doi_source": "zotero",
-      "cited_by_count": 30,
+      "cited_by_count": 31,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41416-022-01828-0.pdf",
       "enriched": true
@@ -11565,7 +11565,7 @@
       "doi": "10.1016/j.cca.2019.03.760",
       "url": "https://doi.org/10.1016/j.cca.2019.03.760",
       "doi_source": "zotero",
-      "cited_by_count": 0,
+      "cited_by_count": 1,
       "is_oa": false,
       "oa_url": null,
       "enriched": true
@@ -12162,7 +12162,7 @@
       "doi": "10.1373/clinchem.2018.300954",
       "url": "https://doi.org/10.1373/clinchem.2018.300954",
       "doi_source": "zotero",
-      "cited_by_count": 38,
+      "cited_by_count": 39,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/clinchem/article-pdf/65/11/1363/33851257/clinchem1363.pdf",
       "enriched": true
@@ -12704,7 +12704,7 @@
       "doi_source": "zotero",
       "cited_by_count": 7,
       "is_oa": true,
-      "oa_url": "https://academic.oup.com/ageing/article-pdf/47/3/340/24763952/afy024.pdf",
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/fdacf278-c339-405c-be85-078b82aafcf4",
       "enriched": true
     },
     {
@@ -12851,7 +12851,7 @@
       "doi": "10.1007/s40273-018-0638-1",
       "url": "https://doi.org/10.1007/s40273-018-0638-1",
       "doi_source": "zotero",
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-018-0638-1.pdf",
       "enriched": true
@@ -12876,7 +12876,7 @@
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": true,
-      "oa_url": "https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00070931/CINCH_Series_2018_02.pdf",
+      "oa_url": "https://nbn-resolving.org/urn:nbn:de:hbz:464-20191209-180056-4",
       "enriched": true
     },
     {
@@ -13088,7 +13088,7 @@
       "doi_source": "zotero",
       "cited_by_count": 40,
       "is_oa": true,
-      "oa_url": "https://hdl.handle.net/20.500.11820/c12cec65-3b29-4962-8db9-492055b2fbd1",
+      "oa_url": "https://www.research.ed.ac.uk/files/41076027/AAM.pdf",
       "enriched": true
     },
     {
@@ -14052,7 +14052,7 @@
       "doi_source": "zotero",
       "cited_by_count": 35,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/d5316a57-b5f7-44ec-9ce6-b4f9d0a124a9",
+      "oa_url": "https://eprints.leedsbeckett.ac.uk/id/eprint/1539/1/Economic_burden_June2015_final.pdf",
       "enriched": true
     },
     {
