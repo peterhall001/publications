@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-25T07:23:23+00:00",
+  "generated_at": "2026-08-26T07:23:26+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -4526,7 +4526,7 @@
       "doi": "10.1158/1078-0432.ccr-23-2326",
       "url": "https://doi.org/10.1158/1078-0432.ccr-23-2326",
       "doi_source": "zotero",
-      "cited_by_count": 48,
+      "cited_by_count": 49,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-23-2326/3390741/ccr-23-2326.pdf",
       "enriched": true
@@ -5818,7 +5818,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 223,
+      "cited_by_count": 225,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -6966,7 +6966,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 201,
+      "cited_by_count": 202,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -9965,7 +9965,7 @@
       "doi": "10.1016/j.esmoop.2021.100331",
       "url": "https://doi.org/10.1016/j.esmoop.2021.100331",
       "doi_source": "zotero",
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.esmoop.2021.100331",
       "enriched": true
@@ -13295,7 +13295,7 @@
       "doi": "10.2217/imt-2016-0150",
       "url": "https://doi.org/10.2217/imt-2016-0150",
       "doi_source": "zotero",
-      "cited_by_count": 205,
+      "cited_by_count": 206,
       "is_oa": true,
       "oa_url": "http://hdl.handle.net/10400.1/13131",
       "enriched": true
@@ -13999,7 +13999,7 @@
       "doi": "10.1056/nejmoa1514493",
       "url": "https://doi.org/10.1056/nejmoa1514493",
       "doi_source": "zotero",
-      "cited_by_count": 637,
+      "cited_by_count": 638,
       "is_oa": true,
       "oa_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1514493?articleTools=true",
       "enriched": true
