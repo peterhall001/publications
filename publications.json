@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-26T07:23:26+00:00",
+  "generated_at": "2026-08-27T17:43:19+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -5447,7 +5447,7 @@
       "doi_source": "zotero",
       "cited_by_count": 7,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/f97644f8-7891-46d9-b5ca-628370dfca0d",
+      "oa_url": "https://www.research.ed.ac.uk/files/281536039/JICS_ABC_Sepsis_Protocol_Accepted_Proof_.pdf",
       "enriched": true
     },
     {
@@ -8871,7 +8871,7 @@
       "doi": "10.1016/s1474-4422(21)00264-7",
       "url": "https://doi.org/10.1016/s1474-4422(21)00264-7",
       "doi_source": "zotero",
-      "cited_by_count": 112,
+      "cited_by_count": 113,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1474442221002647/pdf",
       "enriched": true
@@ -10155,7 +10155,7 @@
       "doi": "10.1200/jco.19.00368",
       "url": "https://doi.org/10.1200/jco.19.00368",
       "doi_source": "zotero",
-      "cited_by_count": 394,
+      "cited_by_count": 395,
       "is_oa": true,
       "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
       "enriched": true
@@ -12751,7 +12751,7 @@
       "doi_source": "zotero",
       "cited_by_count": 9,
       "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs10549-017-4567-z.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10549-017-4567-z.pdf",
       "enriched": true
     },
     {
