@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-31T14:13:06+00:00",
+  "generated_at": "2026-09-01T11:51:20+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -2693,7 +2693,7 @@
       "doi": "10.1136/spcare-2024-004869",
       "url": "https://doi.org/10.1136/spcare-2024-004869",
       "doi_source": "zotero",
-      "cited_by_count": 5,
+      "cited_by_count": 6,
       "is_oa": true,
       "oa_url": "https://www.research.ed.ac.uk/en/publications/da212012-7504-421b-9932-6c7dcc1452f7",
       "enriched": true
@@ -2825,7 +2825,7 @@
       "doi_source": "zotero",
       "cited_by_count": 32,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/5ec6f887-efd7-4bb9-add8-a6d298c3535e",
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/11603374/bin/jama-e2423898-s001.pdf",
       "enriched": true
     },
     {
@@ -4577,7 +4577,7 @@
       "doi": "10.1136/spcare-2022-003996",
       "url": "https://doi.org/10.1136/spcare-2022-003996",
       "doi_source": "zotero",
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2022/11/22/spcare-2022-003996.full.pdf",
       "enriched": true
@@ -4695,7 +4695,7 @@
       "doi": "10.1136/bmjspcare-2020-002630",
       "url": "https://doi.org/10.1136/bmjspcare-2020-002630",
       "doi_source": "zotero",
-      "cited_by_count": 57,
+      "cited_by_count": 58,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2020/12/01/bmjspcare-2020-002630.full.pdf",
       "enriched": true
@@ -4750,7 +4750,7 @@
       "doi": "10.1136/bmjspcare-2020-002708",
       "url": "https://doi.org/10.1136/bmjspcare-2020-002708",
       "doi_source": "zotero",
-      "cited_by_count": 42,
+      "cited_by_count": 43,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2021/02/11/bmjspcare-2020-002708.full.pdf",
       "enriched": true
@@ -5818,7 +5818,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 227,
+      "cited_by_count": 228,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -11653,7 +11653,7 @@
       "doi_source": "zotero",
       "cited_by_count": 6,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/6c875ae1-32cc-422a-b4dd-c55c163b99b6",
+      "oa_url": "https://linkinghub.elsevier.com/retrieve/pii/S0895435618308138",
       "enriched": true
     },
     {
@@ -12704,7 +12704,7 @@
       "doi_source": "zotero",
       "cited_by_count": 7,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/fdacf278-c339-405c-be85-078b82aafcf4",
+      "oa_url": "http://hdl.handle.net/20.500.11820/fdacf278-c339-405c-be85-078b82aafcf4",
       "enriched": true
     },
     {
@@ -13603,7 +13603,7 @@
       "doi_source": "zotero",
       "cited_by_count": 3,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/8f8d2645-3cb3-4301-ad05-163b79f096f2",
+      "oa_url": "http://hdl.handle.net/20.500.11820/8f8d2645-3cb3-4301-ad05-163b79f096f2",
       "enriched": true
     },
     {
@@ -13768,7 +13768,7 @@
       "doi_source": "zotero",
       "cited_by_count": 18,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/5778657f-59bd-49d4-b3d3-40203e2d690f",
+      "oa_url": "http://hdl.handle.net/20.500.11820/5778657f-59bd-49d4-b3d3-40203e2d690f",
       "enriched": true
     },
     {
@@ -14103,7 +14103,7 @@
       "doi_source": "zotero",
       "cited_by_count": 1,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/df6d167d-f1e7-494f-8c97-9a54de594787",
+      "oa_url": "https://www.research.ed.ac.uk/portal/en/publications/can-ddimer-measurement-reduce-the-frequency-of-radiological-assessment-in-patients-receiving-palliative-imatinib-for-gastrointestinal-stromal-tumor-gist(df6d167d-f1e7-494f-8c97-9a54de594787).html",
       "enriched": true
     },
     {
