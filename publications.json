@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-02T11:32:49+00:00",
+  "generated_at": "2026-09-03T11:28:56+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -1727,8 +1727,8 @@
       ],
       "year": "2026",
       "venue": "Expert Review of Molecular Diagnostics",
-      "volume": "",
-      "issue": "",
+      "volume": "26",
+      "issue": "9",
       "pages": "1-11",
       "doi": "10.1080/14737159.2026.2709442",
       "url": "https://doi.org/10.1080/14737159.2026.2709442",
@@ -5818,7 +5818,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 228,
+      "cited_by_count": 229,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -6724,7 +6724,7 @@
       "doi": "10.1136/bmjopen-2023-077427",
       "url": "https://doi.org/10.1136/bmjopen-2023-077427",
       "doi_source": "zotero",
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "is_oa": true,
       "oa_url": "https://bmjopen.bmj.com/content/bmjopen/13/11/e077427.full.pdf",
       "enriched": true
@@ -7639,8 +7639,8 @@
       "url": "https://doi.org/10.1016/j.vaccine.2021.11.017",
       "doi_source": "zotero",
       "cited_by_count": 2,
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/10072/411254",
       "enriched": true
     },
     {
