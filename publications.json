@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-09T11:37:09+00:00",
+  "generated_at": "2026-09-10T11:35:39+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -2602,7 +2602,7 @@
       "doi": "10.1016/j.clnesp.2025.03.007",
       "url": "https://doi.org/10.1016/j.clnesp.2025.03.007",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.clnesp.2025.03.007",
       "enriched": true
@@ -2823,7 +2823,7 @@
       "doi": "10.1001/jama.2024.23898",
       "url": "https://doi.org/10.1001/jama.2024.23898",
       "doi_source": "zotero",
-      "cited_by_count": 32,
+      "cited_by_count": 33,
       "is_oa": true,
       "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/11603374/bin/jama-e2423898-s001.pdf",
       "enriched": true
@@ -3525,7 +3525,7 @@
       "doi": "10.1136/bmjopen-2025-102124",
       "url": "https://doi.org/10.1136/bmjopen-2025-102124",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://bmjopen.bmj.com/content/bmjopen/15/11/e102124.full.pdf",
       "enriched": true
@@ -4526,7 +4526,7 @@
       "doi": "10.1158/1078-0432.ccr-23-2326",
       "url": "https://doi.org/10.1158/1078-0432.ccr-23-2326",
       "doi_source": "zotero",
-      "cited_by_count": 50,
+      "cited_by_count": 51,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-23-2326/3390741/ccr-23-2326.pdf",
       "enriched": true
@@ -5818,7 +5818,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 230,
+      "cited_by_count": 231,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -13189,7 +13189,7 @@
       "doi": "10.1093/annonc/mdw665",
       "url": "https://doi.org/10.1093/annonc/mdw665",
       "doi_source": "zotero",
-      "cited_by_count": 105,
+      "cited_by_count": 106,
       "is_oa": true,
       "oa_url": "https://www.research.ed.ac.uk/en/publications/4f051b61-4bf3-449c-b41b-64e867934f39",
       "enriched": true
@@ -13999,7 +13999,7 @@
       "doi": "10.1056/nejmoa1514493",
       "url": "https://doi.org/10.1056/nejmoa1514493",
       "doi_source": "zotero",
-      "cited_by_count": 638,
+      "cited_by_count": 639,
       "is_oa": true,
       "oa_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1514493?articleTools=true",
       "enriched": true
