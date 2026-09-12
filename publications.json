@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-11T11:37:20+00:00",
+  "generated_at": "2026-09-12T11:01:04+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -2823,7 +2823,7 @@
       "doi": "10.1001/jama.2024.23898",
       "url": "https://doi.org/10.1001/jama.2024.23898",
       "doi_source": "zotero",
-      "cited_by_count": 33,
+      "cited_by_count": 34,
       "is_oa": true,
       "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/11603374/bin/jama-e2423898-s001.pdf",
       "enriched": true
@@ -9090,7 +9090,7 @@
       "doi": "10.1001/jamaoncol.2021.0848",
       "url": "https://doi.org/10.1001/jamaoncol.2021.0848",
       "doi_source": "zotero",
-      "cited_by_count": 198,
+      "cited_by_count": 199,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2780033/jamaoncology_hall_2021_oi_210009_1624469496.87358.pdf",
       "enriched": true
@@ -10502,7 +10502,7 @@
       "doi_source": "zotero",
       "cited_by_count": 22,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/da5507d3-bc59-484b-b32e-e6a8deff9949",
+      "oa_url": "https://www.research.ed.ac.uk/files/152210848/Distinguishing_between_direct_and_indirect_consequences_of_covid_19.pdf",
       "enriched": true
     },
     {
@@ -12519,8 +12519,8 @@
       "url": "https://doi.org/10.1016/j.trecan.2018.07.006",
       "doi_source": "zotero",
       "cited_by_count": 10,
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://linkinghub.elsevier.com/retrieve/pii/S2405803318301729",
       "enriched": true
     },
     {
@@ -12579,7 +12579,7 @@
       "doi_source": "zotero",
       "cited_by_count": 66,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/c1eece36-1019-40ff-8a9b-0c6d8378ed97",
+      "oa_url": "https://www.research.ed.ac.uk/files/74745820/P_Hall_paper.pdf",
       "enriched": true
     },
     {
@@ -13191,7 +13191,7 @@
       "doi_source": "zotero",
       "cited_by_count": 106,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/4f051b61-4bf3-449c-b41b-64e867934f39",
+      "oa_url": "https://www.research.ed.ac.uk/files/29421148/P_Hall_D_Cameron_annals_of_onc.pdf",
       "enriched": true
     },
     {
@@ -13521,7 +13521,7 @@
       "doi_source": "zotero",
       "cited_by_count": 48,
       "is_oa": true,
-      "oa_url": "http://eprints.whiterose.ac.uk/115723/",
+      "oa_url": "https://research.birmingham.ac.uk/en/publications/daa60c5c-b62b-48b6-a91d-9d35b90ce39d",
       "enriched": true
     },
     {
