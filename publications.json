@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-13T12:10:28+00:00",
+  "generated_at": "2026-09-14T13:07:05+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -435,7 +435,7 @@
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/files/535171890/Anaemia_management_with_red_Blood_WALSH_DOA27062025_AAM.pdf",
+      "oa_url": "https://figshare.com/articles/journal_contribution/Anaemia_management_with_red_Blood_Cell_transfusion_to_improve_post-intensive_care_disability_protocol_for_the_ABC_post-ICU_randomised_controlled_trial/30294415",
       "enriched": true
     },
     {
@@ -4257,7 +4257,7 @@
       "doi": "10.1097/ccm.0000000000006348",
       "url": "https://doi.org/10.1097/ccm.0000000000006348",
       "doi_source": "zotero",
-      "cited_by_count": 23,
+      "cited_by_count": 25,
       "is_oa": false,
       "oa_url": null,
       "enriched": true
@@ -6966,7 +6966,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 203,
+      "cited_by_count": 204,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -9309,7 +9309,7 @@
       "doi": "10.1158/2159-8290.cd-20-1647",
       "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
       "doi_source": "zotero",
-      "cited_by_count": 185,
+      "cited_by_count": 186,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
       "enriched": true
@@ -10500,7 +10500,7 @@
       "doi": "10.1136/bmj.m2377",
       "url": "https://doi.org/10.1136/bmj.m2377",
       "doi_source": "zotero",
-      "cited_by_count": 22,
+      "cited_by_count": 21,
       "is_oa": true,
       "oa_url": "https://www.research.ed.ac.uk/files/152210848/Distinguishing_between_direct_and_indirect_consequences_of_covid_19.pdf",
       "enriched": true
@@ -11299,7 +11299,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 288,
+      "cited_by_count": 287,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
@@ -12162,7 +12162,7 @@
       "doi": "10.1373/clinchem.2018.300954",
       "url": "https://doi.org/10.1373/clinchem.2018.300954",
       "doi_source": "zotero",
-      "cited_by_count": 40,
+      "cited_by_count": 41,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/clinchem/article-pdf/65/11/1363/33851257/clinchem1363.pdf",
       "enriched": true
