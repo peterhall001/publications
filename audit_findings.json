@@ -1,0 +1,5305 @@
+{
+  "generated_at": "2026-09-15T20:41:36+00:00",
+  "query_template": "(<author term>) AND (Edinburgh[Affiliation]) AND (<since_year>:<this year>[PDAT])",
+  "indexed": {
+    "Web-Publications": 184,
+    "Rejected": 171
+  },
+  "counts": {
+    "missing": 45,
+    "version_update": 2,
+    "present": 159
+  },
+  "zotero_write": {
+    "enabled": false,
+    "added": 0,
+    "message": "not written (AUDIT_WRITE_ZOTERO is not 1). Dry run."
+  },
+  "per_author": {
+    "Peter Hall": {
+      "term": "Hall P[Author]",
+      "query": "(Hall P[Author]) AND (Edinburgh[Affiliation]) AND (2015:2026[PDAT])",
+      "since_year": 2015,
+      "hits": 207,
+      "bound": 141,
+      "present": 124,
+      "version_update": 1,
+      "missing": 16
+    },
+    "Mark Stares": {
+      "term": "Stares M[Author]",
+      "query": "(Stares M[Author]) AND (Edinburgh[Affiliation]) AND (2020:2026[PDAT])",
+      "since_year": 2020,
+      "hits": 29,
+      "bound": 28,
+      "present": 23,
+      "version_update": 0,
+      "missing": 5
+    },
+    "Elizabeth Lemmon": {
+      "term": "Lemmon E[Author]",
+      "query": "(Lemmon E[Author]) AND (Edinburgh[Affiliation]) AND (2015:2026[PDAT])",
+      "since_year": 2015,
+      "hits": 11,
+      "bound": 10,
+      "present": 8,
+      "version_update": 0,
+      "missing": 2
+    },
+    "Azadeh Abravan": {
+      "term": "Abravan A[Author]",
+      "query": "(Abravan A[Author]) AND (Edinburgh[Affiliation]) AND (2026:2026[PDAT])",
+      "since_year": 2026,
+      "hits": 5,
+      "bound": 5,
+      "present": 5,
+      "version_update": 0,
+      "missing": 0
+    },
+    "Sam McInerney": {
+      "term": "McInerney S[Author]",
+      "query": "(McInerney S[Author]) AND (Edinburgh[Affiliation]) AND (2025:2026[PDAT])",
+      "since_year": 2025,
+      "hits": 3,
+      "bound": 3,
+      "present": 1,
+      "version_update": 0,
+      "missing": 2
+    },
+    "Giovanni Tramonti": {
+      "term": "Tramonti G[Author]",
+      "query": "(Tramonti G[Author]) AND (Edinburgh[Affiliation]) AND (2015:2026[PDAT])",
+      "since_year": 2015,
+      "hits": 7,
+      "bound": 7,
+      "present": 4,
+      "version_update": 0,
+      "missing": 3
+    },
+    "Piyumanga Karunaratne": {
+      "term": "Karunaratne P[Author]",
+      "query": "(Karunaratne P[Author]) AND (Edinburgh[Affiliation]) AND (2020:2026[PDAT])",
+      "since_year": 2020,
+      "hits": 1,
+      "bound": 1,
+      "present": 0,
+      "version_update": 0,
+      "missing": 1
+    },
+    "Sean Foley": {
+      "term": "Foley S[Author]",
+      "query": "(Foley S[Author]) AND (Edinburgh[Affiliation]) AND (2026:2026[PDAT])",
+      "since_year": 2026,
+      "hits": 0,
+      "bound": 0,
+      "present": 0,
+      "version_update": 0,
+      "missing": 0
+    },
+    "Colin McLean": {
+      "term": "McLean C[Author]",
+      "query": "(McLean C[Author]) AND (Edinburgh[Affiliation]) AND (2021:2026[PDAT])",
+      "since_year": 2021,
+      "hits": 15,
+      "bound": 10,
+      "present": 7,
+      "version_update": 0,
+      "missing": 3
+    },
+    "Maxine de Araujo": {
+      "term": "de Araujo M[Author]",
+      "query": "(de Araujo M[Author]) AND (Edinburgh[Affiliation]) AND (2023:2026[PDAT])",
+      "since_year": 2023,
+      "hits": 1,
+      "bound": 0,
+      "present": 0,
+      "version_update": 0,
+      "missing": 0
+    },
+    "Oliver Llewellyn": {
+      "term": "Llewellyn O[Author]",
+      "query": "(Llewellyn O[Author]) AND (Edinburgh[Affiliation]) AND (2026:2026[PDAT])",
+      "since_year": 2026,
+      "hits": 1,
+      "bound": 1,
+      "present": 0,
+      "version_update": 0,
+      "missing": 1
+    },
+    "Laura Hewitt": {
+      "term": "Hewitt L[Author]",
+      "query": "(Hewitt L[Author]) AND (Edinburgh[Affiliation]) AND (2026:2026[PDAT])",
+      "since_year": 2026,
+      "hits": 0,
+      "bound": 0,
+      "present": 0,
+      "version_update": 0,
+      "missing": 0
+    },
+    "Nicola Symmers": {
+      "term": "Symmers N[Author]",
+      "query": "(Symmers N[Author]) AND (Edinburgh[Affiliation]) AND (2019:2026[PDAT])",
+      "since_year": 2019,
+      "hits": 1,
+      "bound": 1,
+      "present": 1,
+      "version_update": 0,
+      "missing": 0
+    },
+    "Lauren Ng": {
+      "term": "Ng L[Author]",
+      "query": "(Ng L[Author]) AND (Edinburgh[Affiliation]) AND (2026:2026[PDAT])",
+      "since_year": 2026,
+      "hits": 6,
+      "bound": 5,
+      "present": 0,
+      "version_update": 0,
+      "missing": 5
+    },
+    "Maheva Vallet": {
+      "term": "Vallet M[Author]",
+      "query": "(Vallet M[Author]) AND (Edinburgh[Affiliation]) AND (2019:2026[PDAT])",
+      "since_year": 2019,
+      "hits": 12,
+      "bound": 11,
+      "present": 9,
+      "version_update": 1,
+      "missing": 1
+    },
+    "Marek Atter": {
+      "term": "Atter M[Author]",
+      "query": "(Atter M[Author]) AND (Edinburgh[Affiliation]) AND (2020:2026[PDAT])",
+      "since_year": 2020,
+      "hits": 9,
+      "bound": 8,
+      "present": 4,
+      "version_update": 1,
+      "missing": 3
+    },
+    "Elliot Erskine": {
+      "term": "Erskine E[Author]",
+      "query": "(Erskine E[Author]) AND (Edinburgh[Affiliation]) AND (2025:2026[PDAT])",
+      "since_year": 2025,
+      "hits": 0,
+      "bound": 0,
+      "present": 0,
+      "version_update": 0,
+      "missing": 0
+    },
+    "Nick Fethers": {
+      "term": "Fethers N[Author]",
+      "query": "(Fethers N[Author]) AND (Edinburgh[Affiliation]) AND (2025:2026[PDAT])",
+      "since_year": 2025,
+      "hits": 0,
+      "bound": 0,
+      "present": 0,
+      "version_update": 0,
+      "missing": 0
+    },
+    "Iain Phillips": {
+      "term": "Phillips I[Author]",
+      "query": "(Phillips I[Author]) AND (Edinburgh[Affiliation]) AND (2020:2026[PDAT])",
+      "since_year": 2020,
+      "hits": 32,
+      "bound": 30,
+      "present": 14,
+      "version_update": 0,
+      "missing": 16
+    }
+  },
+  "findings": [
+    {
+      "pmid": "42710809",
+      "doi": "10.1016/j.jcpo.2026.100797",
+      "title": "Use of routine quality metrics to describe disparities in cancer care: A narrative review & thematic analysis",
+      "year": 2026,
+      "date": "2026 Sep 08",
+      "venue": "Journal of cancer policy",
+      "volume": "50",
+      "issue": "",
+      "pages": "100797",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41062247",
+      "doi": "10.3399/bjgpo.2025.0103",
+      "title": "The work of the consultation in general practice: a comparison of affluent and deprived areas of Scotland using a novel consultation workload index",
+      "year": 2026,
+      "date": "2026 Jul",
+      "venue": "BJGP open",
+      "volume": "10",
+      "issue": "2",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Lauren Ng"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42593771",
+      "doi": "10.1001/jamaoncol.2026.2833",
+      "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer",
+      "year": 2026,
+      "date": "2026 Aug 13",
+      "venue": "JAMA oncology",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42563022",
+      "doi": "10.1007/s40273-026-01646-9",
+      "title": "The End of 'Pay-and-Hope': Managing Accelerated Approvals with Outcomes-Based Reimbursement in the Era of Routinely Collected Health Data",
+      "year": 2026,
+      "date": "2026 Aug 06",
+      "venue": "PharmacoEconomics",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42502457",
+      "doi": "10.1016/j.ctro.2026.101232",
+      "title": "Real-world outcomes of stage III non-small cell lung cancer in the durvalumab era: insights from a socioeconomically deprived population",
+      "year": 2026,
+      "date": "2026 Sep",
+      "venue": "Clinical and translational radiation oncology",
+      "volume": "60",
+      "issue": "",
+      "pages": "101232",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42323734",
+      "doi": "10.1002/pon.70529",
+      "title": "Mental Health Outcomes Among Long-Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population-Based Cohort Study",
+      "year": 2026,
+      "date": "2026 Jun",
+      "venue": "Psycho-oncology",
+      "volume": "35",
+      "issue": "6",
+      "pages": "e70529",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Colin McLean"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42209025",
+      "doi": "10.1136/bcr-2025-271346",
+      "title": "ABPM secondary to Saccharomyces cerevisiae mimicking lung cancer in an immunocompetent patient",
+      "year": 2026,
+      "date": "2026 May 27",
+      "venue": "BMJ case reports",
+      "volume": "19",
+      "issue": "5",
+      "pages": "",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42159577",
+      "doi": "10.1093/oncolo/oyag203",
+      "title": "Refining prognosis in advanced renal cell carcinoma: international real-world validation of the Meet-URO score in first-line immunotherapy combinations",
+      "year": 2026,
+      "date": "2026 Jun 06",
+      "venue": "The oncologist",
+      "volume": "31",
+      "issue": "7",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42116552",
+      "doi": "10.3310/gjjd0722",
+      "title": "Mammographic surveillance in breast cancer patients aged 50 years or older: a synopsis of the Mammo-50 RCT",
+      "year": 2026,
+      "date": "2026 May",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "30",
+      "issue": "38",
+      "pages": "1-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42104920",
+      "doi": "10.3310/gjmf3819",
+      "title": "Comparing the effectiveness, cost-effectiveness and implementation of low-dose oral modified release morphine in people with chronic breathlessness: a synopsis of a RCT and process evaluation",
+      "year": 2026,
+      "date": "2026 May",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "30",
+      "issue": "37",
+      "pages": "1-30",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Marek Atter"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41136238",
+      "doi": "10.3399/bjgp.2025.0475",
+      "title": "Role of GP empathy on patient-reported outcomes in telephone consultations: a cross-sectional study with validation of the Consultation and Relational Empathy (CARE) Measure",
+      "year": 2026,
+      "date": "2026 May 01",
+      "venue": "The British journal of general practice : the journal of the Royal College of General Practitioners",
+      "volume": "76",
+      "issue": "766",
+      "pages": "e408-e414",
+      "publication_types": [
+        "Journal Article",
+        "Validation Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Lauren Ng"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "40903204",
+      "doi": "10.3399/bjgpo.2025.0055",
+      "title": "Has the new Scottish GP contract improved GPs' working lives in deprived areas? A secondary analysis of two cross-sectional national surveys of GPs' views in 2018 and 2023",
+      "year": 2026,
+      "date": "2026 Apr",
+      "venue": "BJGP open",
+      "volume": "10",
+      "issue": "1",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Lauren Ng"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "40903205",
+      "doi": "10.3399/bjgpo.2025.0085",
+      "title": "Challenges in reducing the 10-item CARE Measure to a two-item version: comparison of patients' preferences with psychometric evaluation in a cross-sectional survey in Scotland",
+      "year": 2026,
+      "date": "2026 Apr",
+      "venue": "BJGP open",
+      "volume": "10",
+      "issue": "1",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Lauren Ng"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42005428",
+      "doi": "10.1136/bmjmed-2025-002400",
+      "title": "Primary care and community interventions for multimorbidity involving depression or anxiety: systematic review with meta-analysis",
+      "year": 2026,
+      "date": "2026",
+      "venue": "BMJ medicine",
+      "volume": "5",
+      "issue": "1",
+      "pages": "e002400",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Lauren Ng"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41772236",
+      "doi": "10.1002/wjs.70294",
+      "title": "How Is Colorectal Cancer Care Impacted by Global Crisis in Contrasting Healthcare Systems?-A Descriptive Study From Scotland and Switzerland During the COVID-19 Pandemic",
+      "year": 2026,
+      "date": "2026 Apr",
+      "venue": "World journal of surgery",
+      "volume": "50",
+      "issue": "4",
+      "pages": "818-828",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Piyumanga Karunaratne"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41731962",
+      "doi": "10.3310/gjhp2321",
+      "title": "Intravenous lidocaine for gastrointestinal recovery after colorectal surgery: the ALLEGRO placebo-controlled randomised trial and cost-effectiveness analysis",
+      "year": 2026,
+      "date": "2026 Feb",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "30",
+      "issue": "19",
+      "pages": "1-51",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Pragmatic Clinical Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Marek Atter"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41628931",
+      "doi": "10.1136/bmjopen-2025-104408",
+      "title": "Protocol for the PROSECCA study: a new approach for predicting radiotherapy outcome using artificial intelligence and electronic population-based healthcare data",
+      "year": 2026,
+      "date": "2026 Feb 02",
+      "venue": "BMJ open",
+      "volume": "16",
+      "issue": "2",
+      "pages": "e104408",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41560507",
+      "doi": "10.21037/apm-25-103",
+      "title": "The evolving role of radiotherapy in advanced non-small cell lung cancer: beyond symptom control",
+      "year": 2026,
+      "date": "2026 Jan",
+      "venue": "Annals of palliative medicine",
+      "volume": "15",
+      "issue": "1",
+      "pages": "9",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41558909",
+      "doi": "10.1016/j.crad.2025.107185",
+      "title": "IO1-UK: a cross-sectional study to re-evaluate the provision of interventional oncology services across the United Kingdom",
+      "year": 2026,
+      "date": "2026 Mar",
+      "venue": "Clinical radiology",
+      "volume": "94",
+      "issue": "",
+      "pages": "107185",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "matched_authors": [
+        "Oliver Llewellyn"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "41646217",
+      "doi": "10.1016/j.esmorw.2025.100158",
+      "title": "Association between neoadjuvant paclitaxel dose intensity and outcomes in early triple-negative and HER2-positive breast cancer: a real-world data analysis",
+      "year": 2025,
+      "date": "2025 Sep",
+      "venue": "ESMO real world data and digital oncology",
+      "volume": "9",
+      "issue": "",
+      "pages": "100158",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti",
+        "Maheva Vallet"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "40380594",
+      "doi": "10.3233/shti250486",
+      "title": "Evaluating LLMs' Potential to Identify Rare Patient Identifiers in Patient Health Records",
+      "year": 2025,
+      "date": "2025 May 15",
+      "venue": "Studies in health technology and informatics",
+      "volume": "327",
+      "issue": "",
+      "pages": "874-875",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Sam McInerney"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "40380602",
+      "doi": "10.3233/shti250494",
+      "title": "AI Chatbot for Cancer Patient Support: Development and Evaluation Using Llama 3.1, Mistral 7B, and PHI 3B",
+      "year": 2025,
+      "date": "2025 May 15",
+      "venue": "Studies in health technology and informatics",
+      "volume": "327",
+      "issue": "",
+      "pages": "890-891",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Sam McInerney"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "40065459",
+      "doi": "10.1002/jcsm.13756",
+      "title": "Oncological and Survival Endpoints in Cancer Cachexia Clinical Trials: Systematic Review 6 of the Cachexia Endpoints Series",
+      "year": 2025,
+      "date": "2025 Apr",
+      "venue": "Journal of cachexia, sarcopenia and muscle",
+      "volume": "16",
+      "issue": "2",
+      "pages": "e13756",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "39455366",
+      "doi": "10.1016/j.jgo.2024.102133",
+      "title": "The care of older patients with cancer across the United Kingdom in 2024: A narrative review by the International Society of Geriatric Oncology UK Country Group",
+      "year": 2025,
+      "date": "2025 Jan",
+      "venue": "Journal of geriatric oncology",
+      "volume": "16",
+      "issue": "1",
+      "pages": "102133",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "38788551",
+      "doi": "10.1016/j.lungcan.2024.107822",
+      "title": "Optimal management of radiation pneumonitis: Findings of an international Delphi consensus study",
+      "year": 2024,
+      "date": "2024 Jun",
+      "venue": "Lung cancer (Amsterdam, Netherlands)",
+      "volume": "192",
+      "issue": "",
+      "pages": "107822",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "38738581",
+      "doi": "10.1002/jcsm.13478",
+      "title": "Body weight and composition endpoints in cancer cachexia clinical trials: Systematic Review 4 of the cachexia endpoints series",
+      "year": 2024,
+      "date": "2024 Jun",
+      "venue": "Journal of cachexia, sarcopenia and muscle",
+      "volume": "15",
+      "issue": "3",
+      "pages": "816-852",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "38648995",
+      "doi": "10.1016/j.radonc.2024.110288",
+      "title": "Systematic review of the efficacy of stereotactic ablative radiotherapy for oligoprogressive disease in metastatic cancer",
+      "year": 2024,
+      "date": "2024 Jul",
+      "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "volume": "196",
+      "issue": "",
+      "pages": "110288",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "38672590",
+      "doi": "10.3390/cancers16081508",
+      "title": "Prognostic Biomarkers of Systemic Inflammation in Non-Small Cell Lung Cancer: A Narrative Review of Challenges and Opportunities",
+      "year": 2024,
+      "date": "2024 Apr 15",
+      "venue": "Cancers",
+      "volume": "16",
+      "issue": "8",
+      "pages": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "38749806",
+      "doi": "10.1016/j.clon.2024.03.016",
+      "title": "Prehabilitation Reduces Hospital Admissions for Patients With Advanced Lung Cancer",
+      "year": 2024,
+      "date": "2024 Jul",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "36",
+      "issue": "7",
+      "pages": "e242-e243",
+      "publication_types": [
+        "Letter"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "35045981",
+      "doi": "10.1136/bmjspcare-2021-003487",
+      "title": "Early dietitian referral in lung cancer: use of machine learning",
+      "year": 2024,
+      "date": "2024 Feb 21",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "14",
+      "issue": "1",
+      "pages": "56-59",
+      "publication_types": [
+        "Observational Study",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "38310262",
+      "doi": "10.1186/s12885-024-11905-7",
+      "title": "Single vs. multiple fraction non-inferiority trial of stereotactic ablative radiotherapy for the comprehensive treatment of oligo-metastases/progression: SIMPLIFY-SABR-COMET",
+      "year": 2024,
+      "date": "2024 Feb 03",
+      "venue": "BMC cancer",
+      "volume": "24",
+      "issue": "1",
+      "pages": "171",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "37715095",
+      "doi": "10.1007/s11606-023-08405-y",
+      "title": "Evaluation of Digitalisation in Healthcare and the Quantification of the \"Unmeasurable\"",
+      "year": 2023,
+      "date": "2023 Dec",
+      "venue": "Journal of general internal medicine",
+      "volume": "38",
+      "issue": "16",
+      "pages": "3610-3615",
+      "publication_types": [
+        "Editorial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "matched_authors": [
+        "Marek Atter"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "36925346",
+      "doi": "10.1016/j.clon.2023.02.013",
+      "title": "Comment on: Prehabilitation and Rehabilitation for Patients with Lung Cancer: A Review of Where We are Today",
+      "year": 2023,
+      "date": "2023 Jun",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "35",
+      "issue": "6",
+      "pages": "e410",
+      "publication_types": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't",
+        "Comment"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "33563774",
+      "doi": "10.1136/bmjspcare-2020-002838",
+      "title": "Nutritional status and symptom burden in advanced non-small cell lung cancer: results of the dietetic assessment and intervention in lung cancer (DAIL) trial",
+      "year": 2023,
+      "date": "2023 Oct",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "13",
+      "issue": "e1",
+      "pages": "e213-e219",
+      "publication_types": [
+        "Observational Study",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "35148914",
+      "doi": "10.1016/j.clon.2022.01.041",
+      "title": "In Response to: 'Should We be Offering our Patients with Oligometastases Stereotactic Ablative Body Radiotherapy?' by Ostler et al. and 'Should We be Offering our Patients with Oligometastases Stereotactic Ablative Body Radiotherapy - No' by Macbeth and Hughes-Davies",
+      "year": 2022,
+      "date": "2022 Apr",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "34",
+      "issue": "4",
+      "pages": "e169-e170",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "34902335",
+      "doi": "10.1016/s1470-2045(21)00589-1",
+      "title": "Residual cancer burden after neoadjuvant chemotherapy and long-term survival outcomes in breast cancer: a multicentre pooled analysis of 5161 patients",
+      "year": 2022,
+      "date": "2022 Jan",
+      "venue": "The Lancet. Oncology",
+      "volume": "23",
+      "issue": "1",
+      "pages": "149-160",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "34848134",
+      "doi": "10.1016/j.clon.2021.11.009",
+      "title": "Defining Biochemical Cure After Low Dose Rate Prostate Brachytherapy: External Validation of 4-year Prostate-specific Antigen Nadir as a Predictor of 10- and 15-year Disease-free Survival",
+      "year": 2022,
+      "date": "2022 Jan",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "34",
+      "issue": "1",
+      "pages": "42-49",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Giovanni Tramonti"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "34162377",
+      "doi": "10.1186/s12904-021-00782-7",
+      "title": "Evidence on the economic value of end-of-life and palliative care interventions: a narrative review of reviews",
+      "year": 2021,
+      "date": "2021 Jun 23",
+      "venue": "BMC palliative care",
+      "volume": "20",
+      "issue": "1",
+      "pages": "89",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "34152043",
+      "doi": "10.1111/ecc.13477",
+      "title": "Health economic studies of colorectal cancer and the contribution of administrative data: A systematic review",
+      "year": 2021,
+      "date": "2021 Sep",
+      "venue": "European journal of cancer care",
+      "volume": "30",
+      "issue": "5",
+      "pages": "e13477",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "33976238",
+      "doi": "10.1038/s41598-021-88945-7",
+      "title": "A unified resource and configurable model of the synapse proteome and its role in disease",
+      "year": 2021,
+      "date": "2021 May 11",
+      "venue": "Scientific reports",
+      "volume": "11",
+      "issue": "1",
+      "pages": "9967",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "33471991",
+      "doi": "10.1056/nejmoa1913948",
+      "title": "Breast Cancer Risk Genes - Association Analysis in More than 113,000 Women",
+      "year": 2021,
+      "date": "2021 Feb 04",
+      "venue": "The New England journal of medicine",
+      "volume": "384",
+      "issue": "5",
+      "pages": "428-439",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Colin McLean"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "33181607",
+      "doi": "10.1097/spc.0000000000000525",
+      "title": "Optimising patient fitness: strategies to reduce the effects of cancer cachexia in patients with advanced lung cancer",
+      "year": 2020,
+      "date": "2020 Dec",
+      "venue": "Current opinion in supportive and palliative care",
+      "volume": "14",
+      "issue": "4",
+      "pages": "304-308",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "30219092",
+      "doi": "10.1186/s13643-018-0803-9",
+      "title": "Survival estimates stratified by the Nottingham Prognostic Index for early breast cancer: a systematic review and meta-analysis of observational studies",
+      "year": 2018,
+      "date": "2018 Sep 15",
+      "venue": "Systematic reviews",
+      "volume": "7",
+      "issue": "1",
+      "pages": "142",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "31095132",
+      "doi": "10.1186/s41512-017-0011-4",
+      "title": "Erratum to: Methods for evaluating medical tests and biomarkers",
+      "year": 2017,
+      "date": "2017",
+      "venue": "Diagnostic and prognostic research",
+      "volume": "1",
+      "issue": "",
+      "pages": "11",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "27269948",
+      "doi": "10.1200/jco.2016.66.5844",
+      "title": "Age- and Tumor Subtype-Specific Breast Cancer Risk Estimates for CHEK2*1100delC Carriers",
+      "year": 2016,
+      "date": "2016 Aug 10",
+      "venue": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "volume": "34",
+      "issue": "23",
+      "pages": "2750-60",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "missing"
+    },
+    {
+      "pmid": "42727066",
+      "doi": "10.2196/100505",
+      "title": "Cost-Effectiveness of Electronic Patient-Reported Outcome Measure Interventions in Cancer: Systematic Review and Parameter Extraction for Economic Modeling",
+      "year": 2026,
+      "date": "2026 Sep 11",
+      "venue": "Journal of medical Internet research",
+      "volume": "28",
+      "issue": "",
+      "pages": "e100505",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Marek Atter"
+      ],
+      "status": "version_update",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "T7VDAF4T",
+        "doi": "10.2196/preprints.100505",
+        "title": "Cost-Effectiveness of Electronic Patient-Reported Outcome Measure Interventions in Cancer: A Systematic Review and Parameter Extraction for Economic Modelling (Preprint)"
+      },
+      "title_score": 0.99
+    },
+    {
+      "pmid": "33871686",
+      "doi": "10.1007/s00223-021-00849-w",
+      "title": "Correction to: Targeted Inactivation of Rin3 Increases Trabecular Bone Mass by Reducing Bone Resorption and Favouring Bone Formation",
+      "year": 2021,
+      "date": "2021 Jul",
+      "venue": "Calcified tissue international",
+      "volume": "109",
+      "issue": "1",
+      "pages": "103",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "matched_authors": [
+        "Maheva Vallet"
+      ],
+      "status": "version_update",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "MVV8IFRI",
+        "doi": "10.1007/s00223-021-00827-2",
+        "title": "Targeted Inactivation of Rin3 Increases Trabecular Bone Mass by Reducing Bone Resorption and Favouring Bone Formation"
+      },
+      "title_score": 0.944
+    },
+    {
+      "pmid": "42600943",
+      "doi": "10.1016/j.radonc.2026.111722",
+      "title": "Understanding retention in radiation oncology: qualitative findings from an international workforce survey",
+      "year": 2026,
+      "date": "2026 Aug 14",
+      "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "volume": "",
+      "issue": "",
+      "pages": "111722",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "PJDNSN4K",
+        "doi": "10.1016/j.radonc.2026.111722",
+        "title": "Understanding retention in radiation oncology: qualitative findings from an international workforce survey"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42554307",
+      "doi": "10.1080/14737159.2026.2709442",
+      "title": "The 21-gene recurrence score assay as a tool for predicting recurrence risk and guiding adjuvant treatment selection in early breast cancer",
+      "year": 2026,
+      "date": "2026 Sep",
+      "venue": "Expert review of molecular diagnostics",
+      "volume": "26",
+      "issue": "9",
+      "pages": "723-732",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ERIMDWQM",
+        "doi": "10.1080/14737159.2026.2709442",
+        "title": "The 21-gene recurrence score assay as a tool for predicting recurrence risk and guiding adjuvant treatment selection in early breast cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42556619",
+      "doi": "10.1016/j.radonc.2026.111721",
+      "title": "Understanding retention in radiation oncology: quantitative findings from the retention survey by the ESTRO Early Career Committee",
+      "year": 2026,
+      "date": "2026 Aug 05",
+      "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "volume": "",
+      "issue": "",
+      "pages": "111721",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "KVW782B3",
+        "doi": "10.1016/j.radonc.2026.111721",
+        "title": "Understanding retention in radiation oncology: quantitative findings from the retention survey by the ESTRO Early Career Committee"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42477427",
+      "doi": "10.1038/s41416-026-03519-6",
+      "title": "A prospective national precision medicine trial evaluating the feasibility of blood-based molecular profiling in patients with Cancer of Unknown Primary (CUP-COMP)",
+      "year": 2026,
+      "date": "2026 Jul 20",
+      "venue": "British journal of cancer",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "T25HM7JC",
+        "doi": "10.1038/s41416-026-03519-6",
+        "title": "A prospective national precision medicine trial evaluating the feasibility of blood-based molecular profiling in patients with Cancer of Unknown Primary (CUP-COMP)"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42570607",
+      "doi": "10.1016/j.clon.2026.104300",
+      "title": "Assessing the Benefit of Adjuvant Chemotherapy in Rectal Cancer: An International Real-World Analysis",
+      "year": 2026,
+      "date": "2026 Sep",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "57",
+      "issue": "",
+      "pages": "104300",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "GB7N9JB3",
+        "doi": "10.1016/j.clon.2026.104300",
+        "title": "Assessing the benefit of adjuvant chemotherapy in rectal cancer: an international real-world analysis"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42421369",
+      "doi": "10.1097/spc.0000000000000818",
+      "title": "Identifying markers of cachexia and nutritional deficit on radical radiotherapy outcomes in lung and head and neck cancer",
+      "year": 2026,
+      "date": "2026 Sep 01",
+      "venue": "Current opinion in supportive and palliative care",
+      "volume": "20",
+      "issue": "3",
+      "pages": "191-197",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "77NIWEWH",
+        "doi": "10.1097/spc.0000000000000818",
+        "title": "Identifying markers of cachexia and nutritional deficit on radical radiotherapy outcomes in lung and head and neck cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42383194",
+      "doi": "10.1016/j.esmorw.2026.100723",
+      "title": "Large language models in oncology: promise, pitfalls, and the path to real-world adoption",
+      "year": 2026,
+      "date": "2026 Sep",
+      "venue": "ESMO real world data and digital oncology",
+      "volume": "13",
+      "issue": "",
+      "pages": "100723",
+      "publication_types": [
+        "Editorial"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Sam McInerney"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "EPFBSGVP",
+        "doi": "10.1016/j.esmorw.2026.100723",
+        "title": "Large language models in oncology: promise, pitfalls, and the path to real-world adoption"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42032201",
+      "doi": "10.1038/s41416-026-03412-2",
+      "title": "Modelled impact of a multi-cancer early detection screening programme on cancer treatment in England",
+      "year": 2026,
+      "date": "2026 Jul",
+      "venue": "British journal of cancer",
+      "volume": "135",
+      "issue": "2",
+      "pages": "265-272",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "KMBZEJ9V",
+        "doi": "10.1038/s41416-026-03412-2",
+        "title": "Modelled impact of a multi-cancer early detection screening programme on cancer treatment in England"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42034002",
+      "doi": "10.1016/j.ejca.2026.116751",
+      "title": "From bench to byte: A UK perspective on data-driven cancer research",
+      "year": 2026,
+      "date": "2026 Jun 03",
+      "venue": "European journal of cancer (Oxford, England : 1990)",
+      "volume": "240",
+      "issue": "",
+      "pages": "116751",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "3Q3NSXJE",
+        "doi": "10.1016/j.ejca.2026.116751",
+        "title": "From bench to byte: A UK perspective on data-driven cancer research"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41785905",
+      "doi": "10.1016/s1470-2045(25)00660-6",
+      "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy",
+      "year": 2026,
+      "date": "2026 Mar",
+      "venue": "The Lancet. Oncology",
+      "volume": "27",
+      "issue": "3",
+      "pages": "e150-e159",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement",
+        "Review"
+      ],
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "HJZMSXG9",
+        "doi": "10.1016/s1470-2045(25)00660-6",
+        "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41687721",
+      "doi": "10.1016/j.radonc.2026.111440",
+      "title": "Limitations and future directions in identifying risk factors for radiotherapy related pelvic insufficiency fractures in gynecological cancers: A scoping review",
+      "year": 2026,
+      "date": "2026 Apr",
+      "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "volume": "217",
+      "issue": "",
+      "pages": "111440",
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review"
+      ],
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "JR2V3V3W",
+        "doi": "10.1016/j.radonc.2026.111440",
+        "title": "Limitations and future directions in identifying risk factors for radiotherapy related pelvic insufficiency fractures in gynecological cancers: A scoping review"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41644059",
+      "doi": "10.1016/j.radonc.2026.111408",
+      "title": "Environmental determinants of cancer outcomes: a scoping review",
+      "year": 2026,
+      "date": "2026 Apr",
+      "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "volume": "217",
+      "issue": "",
+      "pages": "111408",
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review"
+      ],
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ZTZGJAT3",
+        "doi": "10.1016/j.radonc.2026.111408",
+        "title": "Environmental determinants of cancer outcomes: a scoping review"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41631168",
+      "doi": "10.1016/j.lanepe.2025.101585",
+      "title": "Comorbidities, medication use, and overall survival in eight cancers: a multinational cohort study of 1.7 million patients across Europe",
+      "year": 2026,
+      "date": "2026 Apr",
+      "venue": "The Lancet regional health. Europe",
+      "volume": "63",
+      "issue": "",
+      "pages": "101585",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Colin McLean",
+        "Nicola Symmers",
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "JF99PF8R",
+        "doi": "10.1016/j.lanepe.2025.101585",
+        "title": "Comorbidities, medication use, and overall survival in eight cancers: a multinational cohort study of 1.7 million patients across Europe"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41244217",
+      "doi": "10.1177/17511437251374884",
+      "title": "Anaemia management with red blood cell transfusion to improve post-intensive care disability: Protocol for the ABC post-ICU randomised controlled trial",
+      "year": 2026,
+      "date": "2026 Feb",
+      "venue": "Journal of the Intensive Care Society",
+      "volume": "27",
+      "issue": "1",
+      "pages": "98-106",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "AA4B3PXX",
+        "doi": "10.1177/17511437251374884",
+        "title": "Anaemia management with red blood cell transfusion to improve post-intensive care disability: Protocol for the ABC post-ICU randomised controlled trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41198866",
+      "doi": "10.1038/s41416-025-03248-2",
+      "title": "Annual versus less frequent mammographic surveillance in people with breast cancer aged 50 years and older in the UK (Mammo-50): cost-effectiveness and budget impact analysis",
+      "year": 2026,
+      "date": "2026 Jan",
+      "venue": "British journal of cancer",
+      "volume": "134",
+      "issue": "2",
+      "pages": "252-258",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ERBNS8IE",
+        "doi": "10.1038/s41416-025-03248-2",
+        "title": "Annual versus less frequent mammographic surveillance in people with breast cancer aged 50 years and older in the UK (Mammo-50): cost-effectiveness and budget impact analysis"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40490652",
+      "doi": "10.1007/s10198-025-01800-8",
+      "title": "Long-term costs associated with healthcare use of people with cancer in Scotland",
+      "year": 2026,
+      "date": "2026 Feb",
+      "venue": "The European journal of health economics : HEPAC : health economics in prevention and care",
+      "volume": "27",
+      "issue": "1",
+      "pages": "1-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "MQKPTVW4",
+        "doi": "10.1007/s10198-025-01800-8",
+        "title": "Long-term costs associated with healthcare use of people with cancer in Scotland"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41193216",
+      "doi": "10.1136/bmjopen-2025-102124",
+      "title": "Morphine for chronic breathlessness (MABEL) in the UK: a health economic evaluation of a multisite, parallel-group, dose titration, double-blind, randomised, placebo-controlled trial",
+      "year": 2025,
+      "date": "2025 Nov 04",
+      "venue": "BMJ open",
+      "volume": "15",
+      "issue": "11",
+      "pages": "e102124",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Marek Atter"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "X9HPB56A",
+        "doi": "10.1136/bmjopen-2025-102124",
+        "title": "Morphine for chronic breathlessness (MABEL) in the UK: a health economic evaluation of a multisite, parallel-group, dose titration, double-blind, randomised, placebo-controlled trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41154388",
+      "doi": "10.3390/cancers17203329",
+      "title": "Multidisciplinary Prehabilitation Reduces Hospitalization Time and Suggests Improved Survival in Patients with Radiologically Diagnosed Lung Cancer",
+      "year": 2025,
+      "date": "2025 Oct 15",
+      "venue": "Cancers",
+      "volume": "17",
+      "issue": "20",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ZGDA2AHQ",
+        "doi": "10.3390/cancers17203329",
+        "title": "Multidisciplinary Prehabilitation Reduces Hospitalization Time and Suggests Improved Survival in Patients with Radiologically Diagnosed Lung Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41089270",
+      "doi": "10.3389/fdgth.2025.1637195",
+      "title": "Leveraging knowledge for explainable AI in personalized cancer treatment: challenges and future directions",
+      "year": 2025,
+      "date": "2025",
+      "venue": "Frontiers in digital health",
+      "volume": "7",
+      "issue": "",
+      "pages": "1637195",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "X2QZF5V9",
+        "doi": "10.3389/fdgth.2025.1637195",
+        "title": "Leveraging knowledge for explainable AI in personalized cancer treatment: challenges and future directions"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41033333",
+      "doi": "10.1016/s2213-2600(25)00205-x",
+      "title": "Morphine for chronic breathlessness (MABEL) in the UK: a multi-site, parallel-group, dose titration, double-blind, randomised, placebo-controlled trial",
+      "year": 2025,
+      "date": "2025 Nov",
+      "venue": "The Lancet. Respiratory medicine",
+      "volume": "13",
+      "issue": "11",
+      "pages": "967-977",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Marek Atter"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "8FZQTUCJ",
+        "doi": "10.1016/s2213-2600(25)00205-x",
+        "title": "Morphine for chronic breathlessness (MABEL) in the UK: a multi-site, parallel-group, dose titration, double-blind, randomised, placebo-controlled trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40820590",
+      "doi": "10.3310/gjrs5321",
+      "title": "Medical management and intervention (using neurosurgical resection or stereotactic radiosurgery) versus medical management alone for symptomatic brain cavernoma: the CARE pilot RCT",
+      "year": 2025,
+      "date": "2025 Aug",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "29",
+      "issue": "38",
+      "pages": "1-24",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FZX67VB9",
+        "doi": "10.3310/gjrs5321",
+        "title": "Medical management and intervention (using neurosurgical resection or stereotactic radiosurgery) versus medical management alone for symptomatic brain cavernoma: the CARE pilot RCT"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40810716",
+      "doi": "10.1016/j.jaccao.2025.06.003",
+      "title": "Anthracycline Dose, Myocardial Injury, and Change in Left Ventricular Function in the Cardiac CARE Trial",
+      "year": 2025,
+      "date": "2025 Oct",
+      "venue": "JACC. CardioOncology",
+      "volume": "7",
+      "issue": "6",
+      "pages": "725-735",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "UKK7FTDW",
+        "doi": "10.1016/j.jaccao.2025.06.003",
+        "title": "Anthracycline Dose, Myocardial Injury, and Change in Left Ventricular Function in the Cardiac CARE Trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40679919",
+      "doi": "10.1097/spc.0000000000000772",
+      "title": "Assessing the impact of early palliative care intervention in patients with lung cancer, cachexia and weight loss",
+      "year": 2025,
+      "date": "2025 Sep 01",
+      "venue": "Current opinion in supportive and palliative care",
+      "volume": "19",
+      "issue": "3",
+      "pages": "192-197",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "I4CCE869",
+        "doi": "10.1097/spc.0000000000000772",
+        "title": "Assessing the impact of early palliative care intervention in patients with lung cancer, cachexia and weight loss"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40681529",
+      "doi": "10.1038/s41598-025-08785-7",
+      "title": "Breast cancer survival and mortality among women with type 2 diabetes: a retrospective cohort study",
+      "year": 2025,
+      "date": "2025 Jul 18",
+      "venue": "Scientific reports",
+      "volume": "15",
+      "issue": "1",
+      "pages": "26144",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "CN9A99ZD",
+        "doi": "10.1038/s41598-025-08785-7",
+        "title": "Breast cancer survival and mortality among women with type 2 diabetes: a retrospective cohort study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40603694",
+      "doi": "10.1186/s41687-025-00898-x",
+      "title": "KERMIT: Performance indicators in electronic patient reported outcome measures: a modified Delphi",
+      "year": 2025,
+      "date": "2025 Jul 02",
+      "venue": "Journal of patient-reported outcomes",
+      "volume": "9",
+      "issue": "1",
+      "pages": "81",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "CU69JMRU",
+        "doi": "10.1186/s41687-025-00898-x",
+        "title": "KERMIT: Performance indicators in electronic patient reported outcome measures: a modified Delphi"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40313120",
+      "doi": "10.1158/2159-8290.cd-25-0099",
+      "title": "MANIFEST: Multiomic Platform for Cancer Immunotherapy",
+      "year": 2025,
+      "date": "2025 May 02",
+      "venue": "Cancer discovery",
+      "volume": "15",
+      "issue": "5",
+      "pages": "878-883",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "P5BKPTJK",
+        "doi": "10.1158/2159-8290.cd-25-0099",
+        "title": "MANIFEST: Multiomic Platform for Cancer Immunotherapy"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40264161",
+      "doi": "10.1186/s13058-025-02012-x",
+      "title": "Breast cancer-specific survival by molecular subtype in different age groups of women in Scotland",
+      "year": 2025,
+      "date": "2025 Apr 22",
+      "venue": "Breast cancer research : BCR",
+      "volume": "27",
+      "issue": "1",
+      "pages": "59",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "HB4M54UT",
+        "doi": "10.1186/s13058-025-02012-x",
+        "title": "Breast cancer-specific survival by molecular subtype in different age groups of women in Scotland"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40198522",
+      "doi": "10.1007/s12325-025-03164-0",
+      "title": "A Cost-Effectiveness Analysis of Abemaciclib in Combination with Adjuvant Endocrine Therapy for HR+, HER2-, Node-Positive, High-Risk Early Breast Cancer",
+      "year": 2025,
+      "date": "2025 Jun",
+      "venue": "Advances in therapy",
+      "volume": "42",
+      "issue": "6",
+      "pages": "2767-2781",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FXST9GH5",
+        "doi": "10.1007/s12325-025-03164-0",
+        "title": "A Cost-Effectiveness Analysis of Abemaciclib in Combination with Adjuvant Endocrine Therapy for HR+, HER2–, Node-Positive, High-Risk Early Breast Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40086693",
+      "doi": "10.1016/j.clnesp.2025.03.007",
+      "title": "Dissecting the global leadership initiative on malnutrition criteria in advanced cancer: Reduced intake vs. inflammation",
+      "year": 2025,
+      "date": "2025 Jun",
+      "venue": "Clinical nutrition ESPEN",
+      "volume": "67",
+      "issue": "",
+      "pages": "114-121",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "8Q9B4736",
+        "doi": "10.1016/j.clnesp.2025.03.007",
+        "title": "Dissecting the global leadership initiative on malnutrition criteria in advanced cancer: Reduced intake vs. inflammation"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40000075",
+      "doi": "10.1136/bmjopen-2024-088298",
+      "title": "Intravenous lidocaine for gut function recovery in colonic surgery: a health economic evaluation of the ALLEGRO randomised clinical trial",
+      "year": 2025,
+      "date": "2025 Feb 25",
+      "venue": "BMJ open",
+      "volume": "15",
+      "issue": "2",
+      "pages": "e088298",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "matched_authors": [
+        "Marek Atter"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "F6G9RJ44",
+        "doi": "10.1136/bmjopen-2024-088298",
+        "title": "Intravenous lidocaine for gut function recovery in colonic surgery: a health economic evaluation of the ALLEGRO randomised clinical trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39948079",
+      "doi": "10.1038/s41523-025-00720-3",
+      "title": "A pooled analysis evaluating prognostic significance of Residual Cancer Burden in invasive lobular breast cancer",
+      "year": 2025,
+      "date": "2025 Feb 13",
+      "venue": "NPJ breast cancer",
+      "volume": "11",
+      "issue": "1",
+      "pages": "14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "64MRSXUG",
+        "doi": "10.1038/s41523-025-00720-3",
+        "title": "A pooled analysis evaluating prognostic significance of Residual Cancer Burden in invasive lobular breast cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "40002196",
+      "doi": "10.3390/cancers17040601",
+      "title": "N-Terminal Pro-B-Type Natriuretic Peptide (NT-proBNP)-A Prognostic Biomarker in Older and/or Frail Adults with Advanced Gastroesophageal Cancer: A Post Hoc Analysis of the GO2 Clinical Trial",
+      "year": 2025,
+      "date": "2025 Feb 10",
+      "venue": "Cancers",
+      "volume": "17",
+      "issue": "4",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "AIFFQMXJ",
+        "doi": "10.3390/cancers17040601",
+        "title": "N-Terminal Pro-B-Type Natriuretic Peptide (NT-proBNP)—A Prognostic Biomarker in Older and/or Frail Adults with Advanced Gastroesophageal Cancer: A Post Hoc Analysis of the GO2 Clinical Trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39892911",
+      "doi": "10.1016/s0140-6736(24)02715-6",
+      "title": "Annual versus less frequent mammographic surveillance in people with breast cancer aged 50 years and older in the UK (Mammo-50): a multicentre, randomised, phase 3, non-inferiority trial",
+      "year": 2025,
+      "date": "2025 Feb 01",
+      "venue": "Lancet (London, England)",
+      "volume": "405",
+      "issue": "10476",
+      "pages": "396-407",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "WTEBEF3J",
+        "doi": "10.1016/s0140-6736(24)02715-6",
+        "title": "Annual versus less frequent mammographic surveillance in people with breast cancer aged 50 years and older in the UK (Mammo-50): a multicentre, randomised, phase 3, non-inferiority trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39843512",
+      "doi": "10.1038/s41536-025-00393-3",
+      "title": "Cryopreserved human alternatively activated macrophages promote resolution of acetaminophen-induced liver injury in mouse",
+      "year": 2025,
+      "date": "2025 Jan 22",
+      "venue": "NPJ Regenerative medicine",
+      "volume": "10",
+      "issue": "1",
+      "pages": "5",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "ETKDKI53",
+        "doi": "10.1038/s41536-025-00393-3",
+        "title": "Cryopreserved human alternatively activated macrophages promote resolution of acetaminophen-induced liver injury in mouse"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39828982",
+      "doi": "10.1002/path.6377",
+      "title": "Oronasal mucosal melanoma is defined by two transcriptional subtypes in humans and dogs with implications for diagnosis and therapy",
+      "year": 2025,
+      "date": "2025 Mar",
+      "venue": "The Journal of pathology",
+      "volume": "265",
+      "issue": "3",
+      "pages": "245-259",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "HGC6TTFR",
+        "doi": "10.1002/path.6377",
+        "title": "Oronasal mucosal melanoma is defined by two transcriptional subtypes in humans and dogs with implications for diagnosis and therapy"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39602290",
+      "doi": "10.1001/jama.2024.23898",
+      "title": "Intravenous Lidocaine for Gut Function Recovery in Colonic Surgery: A Randomized Clinical Trial",
+      "year": 2025,
+      "date": "2025 Jan 07",
+      "venue": "JAMA",
+      "volume": "333",
+      "issue": "1",
+      "pages": "39-48",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Marek Atter"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "4826HVNX",
+        "doi": "10.1001/jama.2024.23898",
+        "title": "Intravenous Lidocaine for Gut Function Recovery in Colonic Surgery"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39427280",
+      "doi": "10.1007/s10549-024-07506-4",
+      "title": "Attrition between lines of therapy and real-world outcomes of patients with HER2-positive metastatic breast cancer in Europe: a cohort study leveraging electronic medical records",
+      "year": 2025,
+      "date": "2025 Jan",
+      "venue": "Breast cancer research and treatment",
+      "volume": "209",
+      "issue": "2",
+      "pages": "419-430",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Multicenter Study"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "H4CXC8IE",
+        "doi": "10.1007/s10549-024-07506-4",
+        "title": "Attrition between lines of therapy and real-world outcomes of patients with HER2-positive metastatic breast cancer in Europe: a cohort study leveraging electronic medical records"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39731065",
+      "doi": "10.1186/s12872-024-04320-0",
+      "title": "Self-monitoring of blood pressure following a stroke or transient ischaemic attack (TASMIN5S): a randomised controlled trial",
+      "year": 2024,
+      "date": "2024 Dec 27",
+      "venue": "BMC cardiovascular disorders",
+      "volume": "24",
+      "issue": "1",
+      "pages": "746",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "VQS83UVT",
+        "doi": "10.1186/s12872-024-04320-0",
+        "title": "Self-monitoring of blood pressure following a stroke or transient ischaemic attack (TASMIN5S): a randomised controlled trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38631891",
+      "doi": "10.1136/spcare-2024-004869",
+      "title": "Early prehabilitation reduces admissions and time in hospital in patients with newly diagnosed lung cancer",
+      "year": 2024,
+      "date": "2024 Dec 25",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "15",
+      "issue": "1",
+      "pages": "125-129",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Mark Stares",
+        "Maheva Vallet",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "CXPJPV3G",
+        "doi": "10.1136/spcare-2024-004869",
+        "title": "Early prehabilitation reduces admissions and time in hospital in patients with newly diagnosed lung cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34130998",
+      "doi": "10.1136/bmjspcare-2021-003025",
+      "title": "Metastatic bone disease: new quality performance indicator development",
+      "year": 2024,
+      "date": "2024 Dec 19",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "14",
+      "issue": "e3",
+      "pages": "e2619-e2631",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ME5SKWDI",
+        "doi": "10.1136/bmjspcare-2021-003025",
+        "title": "Metastatic bone disease: new quality performance indicator development"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39594788",
+      "doi": "10.3390/cancers16223833",
+      "title": "Validation of the Scottish Inflammatory Prognostic Score (SIPS) in NSCLC Patients Treated with First-Line Pembrolizumab",
+      "year": 2024,
+      "date": "2024 Nov 14",
+      "venue": "Cancers",
+      "volume": "16",
+      "issue": "22",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "76K3BWHN",
+        "doi": "10.3390/cancers16223833",
+        "title": "Validation of the Scottish Inflammatory Prognostic Score (SIPS) in NSCLC Patients Treated with First-Line Pembrolizumab"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39088825",
+      "doi": "10.1097/spc.0000000000000716",
+      "title": "A traffic light approach for treatment and supportive care stratification in lung cancer",
+      "year": 2024,
+      "date": "2024 Sep 01",
+      "venue": "Current opinion in supportive and palliative care",
+      "volume": "18",
+      "issue": "3",
+      "pages": "154-160",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ABJMXCM6",
+        "doi": "10.1097/spc.0000000000000716",
+        "title": "A traffic light approach for treatment and supportive care stratification in lung cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "39011042",
+      "doi": "10.3389/fimmu.2024.1412211",
+      "title": "EBV T-cell immunotherapy generated by peptide selection has enhanced effector functionality compared to LCL stimulation",
+      "year": 2024,
+      "date": "2024",
+      "venue": "Frontiers in immunology",
+      "volume": "15",
+      "issue": "",
+      "pages": "1412211",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "NQ2URFRH",
+        "doi": "10.3389/fimmu.2024.1412211",
+        "title": "EBV T-cell immunotherapy generated by peptide selection has enhanced effector functionality compared to LCL stimulation"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38912884",
+      "doi": "10.1097/ccm.0000000000006348",
+      "title": "Albumin Versus Balanced Crystalloid for the Early Resuscitation of Sepsis: An Open Parallel-Group Randomized Feasibility Trial- The ABC-Sepsis Trial",
+      "year": 2024,
+      "date": "2024 Oct 01",
+      "venue": "Critical care medicine",
+      "volume": "52",
+      "issue": "10",
+      "pages": "1520-1532",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "PFH83RI4",
+        "doi": "10.1097/ccm.0000000000006348",
+        "title": "Albumin Versus Balanced Crystalloid for the Early Resuscitation of Sepsis: An Open Parallel-Group Randomized Feasibility Trial— The ABC-Sepsis Trial*"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38805577",
+      "doi": "10.1161/circulationaha.124.069375",
+      "title": "Response by Henriksen et al Regarding Article, \"Multicenter, Prospective, Randomized Controlled Trial of High-Sensitivity Cardiac Troponin I-Guided Combination Angiotensin Receptor Blockade and Beta-Blocker Therapy to Prevent Anthracycline Cardiotoxicity: The Cardiac CARE Trial\"",
+      "year": 2024,
+      "date": "2024 May 28",
+      "venue": "Circulation",
+      "volume": "149",
+      "issue": "22",
+      "pages": "e1221-e1222",
+      "publication_types": [
+        "Letter"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "IEFWQGEF",
+        "doi": "10.1161/circulationaha.124.069375",
+        "title": "Response by Henriksen et al Regarding Article, “Multicenter, Prospective, Randomized Controlled Trial of High-Sensitivity Cardiac Troponin I–Guided Combination Angiotensin Receptor Blockade and Beta-Blocker Therapy to Prevent Anthracycline Cardiotoxicity: The Cardiac CARE Trial”"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38744099",
+      "doi": "10.1016/j.esmoop.2024.103450",
+      "title": "An investigation of the clinical impact and therapeutic relevance of a DNA damage immune response (DDIR) signature in patients with advanced gastroesophageal adenocarcinoma",
+      "year": 2024,
+      "date": "2024 May",
+      "venue": "ESMO open",
+      "volume": "9",
+      "issue": "5",
+      "pages": "103450",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "EW7E2QQ2",
+        "doi": "10.1016/j.esmoop.2024.103450",
+        "title": "An investigation of the clinical impact and therapeutic relevance of a DNA damage immune response (DDIR) signature in patients with advanced gastroesophageal adenocarcinoma"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38684245",
+      "doi": "10.1136/bmjopen-2023-076798",
+      "title": "Trade-offs between overall survival and side effects in the treatment of metastatic breast cancer: eliciting preferences of patients with primary and metastatic breast cancer using a discrete choice experiment",
+      "year": 2024,
+      "date": "2024 Apr 28",
+      "venue": "BMJ open",
+      "volume": "14",
+      "issue": "4",
+      "pages": "e076798",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "JIUZZ4WK",
+        "doi": "10.1136/bmjopen-2023-076798",
+        "title": "Trade-offs between overall survival and side effects in the treatment of metastatic breast cancer: eliciting preferences of patients with primary and metastatic breast cancer using a discrete choice experiment"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38657322",
+      "doi": "10.1016/j.breast.2024.103728",
+      "title": "Enhancing clinical decision support with genomic tools in breast cancer: A Scottish perspective",
+      "year": 2024,
+      "date": "2024 Jun",
+      "venue": "Breast (Edinburgh, Scotland)",
+      "volume": "75",
+      "issue": "",
+      "pages": "103728",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "QUCNKS4V",
+        "doi": "10.1016/j.breast.2024.103728",
+        "title": "Enhancing clinical decision support with genomic tools in breast cancer: A Scottish perspective"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38538034",
+      "doi": "10.1136/spcare-2023-004698",
+      "title": "New quality outcome indicators for bone metastases: expert consensus analysis of patients, their families and specialist healthcare professionals",
+      "year": 2024,
+      "date": "2024 Mar 27",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "PFZMZH5H",
+        "doi": "10.1136/spcare-2023-004698",
+        "title": "New quality outcome indicators for bone metastases: expert consensus analysis of patients, their families and specialist healthcare professionals"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38404120",
+      "doi": "10.1002/cam4.6988",
+      "title": "Biomarkers of systemic inflammation provide additional prognostic stratification in cancers of unknown primary",
+      "year": 2024,
+      "date": "2024 Feb",
+      "venue": "Cancer medicine",
+      "volume": "13",
+      "issue": "3",
+      "pages": "e6988",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "U22QKITX",
+        "doi": "10.1002/cam4.6988",
+        "title": "Biomarkers of systemic inflammation provide additional prognostic stratification in cancers of unknown primary"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38476269",
+      "doi": "10.23889/ijpds.v6i1.2179",
+      "title": "Variation in colorectal cancer treatment and outcomes in Scotland: real world evidence from national linked administrative health data",
+      "year": 2024,
+      "date": "2024",
+      "venue": "International journal of population data science",
+      "volume": "9",
+      "issue": "1",
+      "pages": "2179",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "2XITU8IU",
+        "doi": "10.23889/ijpds.v6i1.2179",
+        "title": "Variation in colorectal cancer treatment and outcomes in Scotland: real world evidence from national linked administrative health data."
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38410107",
+      "doi": "10.3389/fonc.2024.1330271",
+      "title": "Case report: A rare case of immunotherapy induced isolated left CN VI palsy in a patient with unresectable melanoma",
+      "year": 2024,
+      "date": "2024",
+      "venue": "Frontiers in oncology",
+      "volume": "14",
+      "issue": "",
+      "pages": "1330271",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "A57C5X4J",
+        "doi": "10.3389/fonc.2024.1330271",
+        "title": "Case report: A rare case of immunotherapy induced isolated left CN VI palsy in a patient with unresectable melanoma"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38295631",
+      "doi": "10.1016/j.lungcan.2024.107497",
+      "title": "Prognostic value of the Scottish Inflammatory prognostic Score in patients with NSCLC expressing PD-L1 ≥ 50 % progressing on first-line pembrolizumab",
+      "year": 2024,
+      "date": "2024 Mar",
+      "venue": "Lung cancer (Amsterdam, Netherlands)",
+      "volume": "189",
+      "issue": "",
+      "pages": "107497",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "FCXR8HEC",
+        "doi": "10.1016/j.lungcan.2024.107497",
+        "title": "Prognostic value of the Scottish Inflammatory prognostic Score in patients with NSCLC expressing PD-L1 ≥ 50 % progressing on first-line pembrolizumab"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37236649",
+      "doi": "10.1136/spcare-2022-003547",
+      "title": "Cancer pain assessment and management: does an institutional approach individualise and reduce cost of care?",
+      "year": 2024,
+      "date": "2024 Jan 08",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "13",
+      "issue": "e3",
+      "pages": "e1258-e1264",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "22X39UND",
+        "doi": "10.1136/spcare-2022-003547",
+        "title": "Cancer pain assessment and management: does an institutional approach individualise and reduce cost of care?"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37495261",
+      "doi": "10.1136/spcare-2023-004349",
+      "title": "Early prehabilitation in suspected locally advanced and metastatic lung cancer",
+      "year": 2024,
+      "date": "2024 Jan 08",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "13",
+      "issue": "e3",
+      "pages": "e908-e911",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Maheva Vallet",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FCDTEVI6",
+        "doi": "10.1136/spcare-2023-004349",
+        "title": "Early prehabilitation in suspected locally advanced and metastatic lung cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38078899",
+      "doi": "10.1158/1078-0432.ccr-23-2326",
+      "title": "Comparison of Circulating Tumor DNA Assays for Molecular Residual Disease Detection in Early-Stage Triple-Negative Breast Cancer",
+      "year": 2024,
+      "date": "2024 Feb 16",
+      "venue": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "volume": "30",
+      "issue": "4",
+      "pages": "895-903",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "9V79Q9MB",
+        "doi": "10.1158/1078-0432.ccr-23-2326",
+        "title": "Comparison of Circulating Tumor DNA Assays for Molecular Residual Disease Detection in Early-Stage Triple-Negative Breast Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38050642",
+      "doi": "10.1002/cpz1.940",
+      "title": "Computational Pipeline for Analysis of Biomedical Networks with BioNAR",
+      "year": 2023,
+      "date": "2023 Dec",
+      "venue": "Current protocols",
+      "volume": "3",
+      "issue": "12",
+      "pages": "e940",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FE959FV8",
+        "doi": "10.1002/cpz1.940",
+        "title": "Computational Pipeline for Analysis of Biomedical Networks with BioNAR"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38030258",
+      "doi": "10.1136/bmjopen-2023-077427",
+      "title": "Randomised, placebo-controlled, phase 3 trial of the effect of the omega-3 polyunsaturated fatty acid eicosapentaenoic acid (EPA) on colorectal cancer recurrence and survival after surgery for resectable liver metastases: EPA for Metastasis Trial 2 (EMT2) study protocol",
+      "year": 2023,
+      "date": "2023 Nov 29",
+      "venue": "BMJ open",
+      "volume": "13",
+      "issue": "11",
+      "pages": "e077427",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FPA48EEB",
+        "doi": "10.1136/bmjopen-2023-077427",
+        "title": "Randomised, placebo-controlled, phase 3 trial of the effect of the omega-3 polyunsaturated fatty acid eicosapentaenoic acid (EPA) on colorectal cancer recurrence and survival after surgery for resectable liver metastases: EPA for Metastasis Trial 2 (EMT2) study protocol"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41647770",
+      "doi": "10.1016/j.esmorw.2023.10.001",
+      "title": "ESMO Guidance for Reporting Oncology real-World evidence (GROW)",
+      "year": 2023,
+      "date": "2023 Nov",
+      "venue": "ESMO real world data and digital oncology",
+      "volume": "1",
+      "issue": "",
+      "pages": "100003",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "WCRKG7I4",
+        "doi": "10.1016/j.esmorw.2023.10.001",
+        "title": "ESMO Guidance for Reporting Oncology real-World evidence (GROW)"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "38067207",
+      "doi": "10.3390/cancers15235502",
+      "title": "Immune-Related Adverse Events, Biomarkers of Systemic Inflammation, and Survival Outcomes in Patients Receiving Pembrolizumab for Non-Small-Cell Lung Cancer",
+      "year": 2023,
+      "date": "2023 Nov 21",
+      "venue": "Cancers",
+      "volume": "15",
+      "issue": "23",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "H2QC7AUB",
+        "doi": "10.3390/cancers15235502",
+        "title": "Immune-Related Adverse Events, Biomarkers of Systemic Inflammation, and Survival Outcomes in Patients Receiving Pembrolizumab for Non-Small-Cell Lung Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37848160",
+      "doi": "10.1016/j.annonc.2023.10.001",
+      "title": "ESMO Guidance for Reporting Oncology real-World evidence (GROW)",
+      "year": 2023,
+      "date": "2023 Dec",
+      "venue": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "volume": "34",
+      "issue": "12",
+      "pages": "1097-1112",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "UEZPUPRF",
+        "doi": "10.1016/j.annonc.2023.10.001",
+        "title": "ESMO Guidance for Reporting Oncology real-World evidence (GROW)"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37784154",
+      "doi": "10.1186/s13058-023-01704-6",
+      "title": "Evaluation of the association of area-level socioeconomic deprivation and breast cancer recurrence by oestrogen receptor subtypes in Scotland",
+      "year": 2023,
+      "date": "2023 Oct 03",
+      "venue": "Breast cancer research : BCR",
+      "volume": "25",
+      "issue": "1",
+      "pages": "106",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "299IQDTG",
+        "doi": "10.1186/s13058-023-01704-6",
+        "title": "Evaluation of the association of area-level socioeconomic deprivation and breast cancer recurrence by oestrogen receptor subtypes in Scotland"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37860105",
+      "doi": "10.1093/bioadv/vbad137",
+      "title": "BioNAR: an integrated biological network analysis package in bioconductor",
+      "year": 2023,
+      "date": "2023",
+      "venue": "Bioinformatics advances",
+      "volume": "3",
+      "issue": "1",
+      "pages": "vbad137",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "H8T2I5WA",
+        "doi": "10.1093/bioadv/vbad137",
+        "title": "BioNAR: an integrated biological network analysis package in bioconductor"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37746692",
+      "doi": "10.1161/circulationaha.123.064274",
+      "title": "Multicenter, Prospective, Randomized Controlled Trial of High-Sensitivity Cardiac Troponin I-Guided Combination Angiotensin Receptor Blockade and Beta-Blocker Therapy to Prevent Anthracycline Cardiotoxicity: The Cardiac CARE Trial",
+      "year": 2023,
+      "date": "2023 Nov 21",
+      "venue": "Circulation",
+      "volume": "148",
+      "issue": "21",
+      "pages": "1680-1690",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "BUC4ZUBI",
+        "doi": "10.1161/circulationaha.123.064274",
+        "title": "Multicenter, Prospective, Randomized Controlled Trial of High-Sensitivity Cardiac Troponin I–Guided Combination Angiotensin Receptor Blockade and Beta-Blocker Therapy to Prevent Anthracycline Cardiotoxicity: The Cardiac CARE Trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37583966",
+      "doi": "10.1183/23120541.00167-2023",
+      "title": "Modified-release morphine or placebo for chronic breathlessness: the MABEL trial protocol",
+      "year": 2023,
+      "date": "2023 Jul",
+      "venue": "ERJ open research",
+      "volume": "9",
+      "issue": "4",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "9AI9P6JH",
+        "doi": "10.1183/23120541.00167-2023",
+        "title": "Modified-release morphine or placebo for chronic breathlessness: the MABEL trial protocol"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37558454",
+      "doi": "10.1136/bmjopen-2023-075187",
+      "title": "Feasibility of comparing medical management and surgery (with neurosurgery or stereotactic radiosurgery) with medical management alone in people with symptomatic brain cavernoma - protocol for the Cavernomas: A Randomised Effectiveness (CARE) pilot trial",
+      "year": 2023,
+      "date": "2023 Aug 09",
+      "venue": "BMJ open",
+      "volume": "13",
+      "issue": "8",
+      "pages": "e075187",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "WHZRU9TM",
+        "doi": "10.1136/bmjopen-2023-075187",
+        "title": "Feasibility of comparing medical management and surgery (with neurosurgery or stereotactic radiosurgery) with medical management alone in people with symptomatic brain cavernoma – protocol for the Cavernomas: A Randomised Effectiveness (CARE) pilot trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37734976",
+      "doi": "10.1016/j.crad.2023.07.010",
+      "title": "Value of ultrasound in assessing response to neoadjuvant chemotherapy in breast cancer",
+      "year": 2023,
+      "date": "2023 Dec",
+      "venue": "Clinical radiology",
+      "volume": "78",
+      "issue": "12",
+      "pages": "912-918",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "4V5KCDKA",
+        "doi": "10.1016/j.crad.2023.07.010",
+        "title": "Value of ultrasound in assessing response to neoadjuvant chemotherapy in breast cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37174057",
+      "doi": "10.3390/cancers15092591",
+      "title": "Female Sex but Not Oestrogen Receptor Expression Predicts Survival in Advanced Gastroesophageal Adenocarcinoma-A Post-hoc Analysis of the GO2 Trial",
+      "year": 2023,
+      "date": "2023 May 03",
+      "venue": "Cancers",
+      "volume": "15",
+      "issue": "9",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "UHT3V5RI",
+        "doi": "10.3390/cancers15092591",
+        "title": "Female Sex but Not Oestrogen Receptor Expression Predicts Survival in Advanced Gastroesophageal Adenocarcinoma—A Post-hoc Analysis of the GO2 Trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36900224",
+      "doi": "10.3390/cancers15051431",
+      "title": "Real-World Impact of SABR on Stage I Non-Small-Cell Lung Cancer Outcomes at a Scottish Cancer Centre",
+      "year": 2023,
+      "date": "2023 Feb 23",
+      "venue": "Cancers",
+      "volume": "15",
+      "issue": "5",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Mark Stares",
+        "Giovanni Tramonti",
+        "Maheva Vallet",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "NQ7SXP6Z",
+        "doi": "10.3390/cancers15051431",
+        "title": "Real-World Impact of SABR on Stage I Non-Small-Cell Lung Cancer Outcomes at a Scottish Cancer Centre"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36719033",
+      "doi": "10.1093/oncolo/oyac257",
+      "title": "The Scottish COVID Cancer Immunity Prevalence Study: A Longitudinal Study of SARS-CoV-2 Immune Response in Patients Receiving Anti-Cancer Treatment",
+      "year": 2023,
+      "date": "2023 Mar 17",
+      "venue": "The oncologist",
+      "volume": "28",
+      "issue": "3",
+      "pages": "e145-e155",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "2VPBPANX",
+        "doi": "10.1093/oncolo/oyac257",
+        "title": "The Scottish COVID Cancer Immunity Prevalence Study: A Longitudinal Study of SARS-CoV-2 Immune Response in Patients Receiving Anti–Cancer Treatment"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36786103",
+      "doi": "10.21037/apm-22-1416",
+      "title": "Clinical impact of cachexia biomarkers in advanced cancer",
+      "year": 2023,
+      "date": "2023 Mar",
+      "venue": "Annals of palliative medicine",
+      "volume": "12",
+      "issue": "2",
+      "pages": "262-264",
+      "publication_types": [
+        "Editorial"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "VTUBMAZV",
+        "doi": "10.21037/apm-22-1416",
+        "title": "Clinical impact of cachexia biomarkers in advanced cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36821111",
+      "doi": "10.1001/jamanetworkopen.2023.0490",
+      "title": "Multinational Analysis of Estimated Health Care Costs Related to Extended-Interval Fixed Dosing of Checkpoint Inhibitors",
+      "year": 2023,
+      "date": "2023 Feb 01",
+      "venue": "JAMA network open",
+      "volume": "6",
+      "issue": "2",
+      "pages": "e230490",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "C35SXJXV",
+        "doi": "10.1001/jamanetworkopen.2023.0490",
+        "title": "Multinational Analysis of Estimated Health Care Costs Related to Extended-Interval Fixed Dosing of Checkpoint Inhibitors"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36721848",
+      "doi": "10.23889/ijpds.v8i1.1768",
+      "title": "Variation in hospital cost trajectories at the end of life by age, multimorbidity and cancer type",
+      "year": 2023,
+      "date": "2023",
+      "venue": "International journal of population data science",
+      "volume": "8",
+      "issue": "1",
+      "pages": "1768",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon",
+        "Giovanni Tramonti"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "AG4VZGSW",
+        "doi": "10.23889/ijpds.v8i1.1768",
+        "title": "Variation in hospital cost trajectories at the end of life by age, multimorbidity and cancer type"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36549127",
+      "doi": "10.1016/j.esmoop.2022.100642",
+      "title": "FOxTROT2: innovative trial design to evaluate the role of neoadjuvant chemotherapy for treating locally advanced colon cancer in older adults or those with frailty",
+      "year": 2023,
+      "date": "2023 Feb",
+      "venue": "ESMO open",
+      "volume": "8",
+      "issue": "1",
+      "pages": "100642",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "JBRHT6D9",
+        "doi": "10.1016/j.esmoop.2022.100642",
+        "title": "FOxTROT2: innovative trial design to evaluate the role of neoadjuvant chemotherapy for treating locally advanced colon cancer in older adults or those with frailty"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36423745",
+      "doi": "10.1016/j.annonc.2022.11.005",
+      "title": "Results of the c-TRAK TN trial: a clinical trial utilising ctDNA mutation tracking to detect molecular residual disease and trigger intervention in patients with moderate- and high-risk early-stage triple-negative breast cancer",
+      "year": 2023,
+      "date": "2023 Feb",
+      "venue": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "volume": "34",
+      "issue": "2",
+      "pages": "200-211",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "UGVAUSPG",
+        "doi": "10.1016/j.annonc.2022.11.005",
+        "title": "Results of the c-TRAK TN trial: a clinical trial utilising ctDNA mutation tracking to detect molecular residual disease and trigger intervention in patients with moderate- and high-risk early-stage triple-negative breast cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36207803",
+      "doi": "10.1002/cam4.5330",
+      "title": "Initial active surveillance for patients with metastatic renal cell carcinoma: 10 years' experience at a regional cancer Centre",
+      "year": 2023,
+      "date": "2023 Mar",
+      "venue": "Cancer medicine",
+      "volume": "12",
+      "issue": "5",
+      "pages": "5255-5264",
+      "publication_types": [
+        "Observational Study",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "SVZMIB7H",
+        "doi": "10.1002/cam4.5330",
+        "title": "Initial active surveillance for patients with metastatic renal cell carcinoma: 10 years' experience at a regional cancer Centre"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36860553",
+      "doi": "10.1177/17511437221103692",
+      "title": "Albumin versus balanced crystalloid for resuscitation in the treatment of sepsis: A protocol for a randomised controlled feasibility study, \"ABC-Sepsis\"",
+      "year": 2023,
+      "date": "2023 Feb",
+      "venue": "Journal of the Intensive Care Society",
+      "volume": "24",
+      "issue": "1",
+      "pages": "78-84",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "V6AG35Z9",
+        "doi": "10.1177/17511437221103692",
+        "title": "Albumin versus balanced crystalloid for resuscitation in the treatment of sepsis: A protocol for a randomised controlled feasibility study, “ABC-Sepsis”"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36414402",
+      "doi": "10.1136/spcare-2022-003996",
+      "title": "Early palliative care in newly diagnosed cancer in Ethiopia: feasibility randomised controlled trial and cost analysis",
+      "year": 2022,
+      "date": "2022 Nov 22",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "PVPURQV7",
+        "doi": "10.1136/spcare-2022-003996",
+        "title": "Early palliative care in newly diagnosed cancer in Ethiopia: feasibility randomised controlled trial and cost analysis"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36356998",
+      "doi": "10.1136/bmjopen-2022-063271",
+      "title": "Studying the Long-term Impact of COVID-19 in Kids (SLICK). Healthcare use and costs in children and young people following community-acquired SARS-CoV-2 infection: protocol for an observational study using linked primary and secondary routinely collected healthcare data from England, Scotland and Wales",
+      "year": 2022,
+      "date": "2022 Nov 10",
+      "venue": "BMJ open",
+      "volume": "12",
+      "issue": "11",
+      "pages": "e063271",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "WZWUXW6I",
+        "doi": "10.1136/bmjopen-2022-063271",
+        "title": "Studying the Long-term Impact of COVID-19 in Kids (SLICK). Healthcare use and costs in children and young people following community-acquired SARS-CoV-2 infection: protocol for an observational study using linked primary and secondary routinely collected healthcare data from England, Scotland and Wales"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36116093",
+      "doi": "10.1007/s10549-022-06721-1",
+      "title": "Reproductive history differs by molecular subtypes of breast cancer among women aged ≤ 50 years in Scotland diagnosed 2009-2016: a cross-sectional study",
+      "year": 2022,
+      "date": "2022 Nov",
+      "venue": "Breast cancer research and treatment",
+      "volume": "196",
+      "issue": "2",
+      "pages": "379-387",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "E4B5H7PH",
+        "doi": "10.1007/s10549-022-06721-1",
+        "title": "Reproductive history differs by molecular subtypes of breast cancer among women aged ≤ 50 years in Scotland diagnosed 2009–2016: a cross-sectional study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "36055465",
+      "doi": "10.1016/j.annonc.2022.08.083",
+      "title": "An international, open-label, randomised trial comparing a two-step approach versus the standard three-step approach of the WHO analgesic ladder in patients with cancer",
+      "year": 2022,
+      "date": "2022 Dec",
+      "venue": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "volume": "33",
+      "issue": "12",
+      "pages": "1296-1303",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "4RAK4VFD",
+        "doi": "10.1016/j.annonc.2022.08.083",
+        "title": "An international, open-label, randomised trial comparing a two-step approach versus the standard three-step approach of the WHO analgesic ladder in patients with cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35868140",
+      "doi": "10.1016/j.ejca.2022.06.048",
+      "title": "Survival after breast cancer in women with a subsequent live birth: Influence of age at diagnosis and interval to subsequent pregnancy",
+      "year": 2022,
+      "date": "2022 Sep",
+      "venue": "European journal of cancer (Oxford, England : 1990)",
+      "volume": "173",
+      "issue": "",
+      "pages": "113-122",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "8IIVU487",
+        "doi": "10.1016/j.ejca.2022.06.048",
+        "title": "Survival after breast cancer in women with a subsequent live birth: Influence of age at diagnosis and interval to subsequent pregnancy"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35766037",
+      "doi": "10.1161/circheartfailure.121.009445",
+      "title": "Rationale and Design of the Cardiac CARE Trial: A Randomized Trial of Troponin-Guided Neurohormonal Blockade for the Prevention of Anthracycline Cardiotoxicity",
+      "year": 2022,
+      "date": "2022 Jul",
+      "venue": "Circulation. Heart failure",
+      "volume": "15",
+      "issue": "7",
+      "pages": "e009445",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "SEH2USR3",
+        "doi": "10.1161/circheartfailure.121.009445",
+        "title": "Rationale and Design of the Cardiac CARE Trial: A Randomized Trial of Troponin-Guided Neurohormonal Blockade for the Prevention of Anthracycline Cardiotoxicity"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35648299",
+      "doi": "10.1007/s10549-022-06632-1",
+      "title": "Breast cancer incidence and survival in Scotland by socio-economic deprivation and tumour subtype",
+      "year": 2022,
+      "date": "2022 Jul",
+      "venue": "Breast cancer research and treatment",
+      "volume": "194",
+      "issue": "2",
+      "pages": "463-473",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "RR43DUCA",
+        "doi": "10.1007/s10549-022-06632-1",
+        "title": "Breast cancer incidence and survival in Scotland by socio-economic deprivation and tumour subtype"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35545681",
+      "doi": "10.1038/s41416-022-01828-0",
+      "title": "Intensity of care in cancer patients in the last year of life: a retrospective data linkage study",
+      "year": 2022,
+      "date": "2022 Sep",
+      "venue": "British journal of cancer",
+      "volume": "127",
+      "issue": "4",
+      "pages": "712-719",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "I8W8J374",
+        "doi": "10.1038/s41416-022-01828-0",
+        "title": "Intensity of care in cancer patients in the last year of life: a retrospective data linkage study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35468688",
+      "doi": "10.31083/j.fbl2704129",
+      "title": "Optimising Outcomes in Non Small Cell Lung Cancer: Targeting Cancer Cachexia",
+      "year": 2022,
+      "date": "2022 Apr 18",
+      "venue": "Frontiers in bioscience (Landmark edition)",
+      "volume": "27",
+      "issue": "4",
+      "pages": "129",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "5Q4IRVAQ",
+        "doi": "10.31083/j.fbl2704129",
+        "title": "Optimising Outcomes in Non Small Cell Lung Cancer: Targeting Cancer Cachexia"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35416089",
+      "doi": "10.1080/13696998.2022.2066399",
+      "title": "Cost-effectiveness analysis of the Oncotype DX Breast Recurrence Score test in node-positive early breast cancer",
+      "year": 2022,
+      "date": "2022",
+      "venue": "Journal of medical economics",
+      "volume": "25",
+      "issue": "1",
+      "pages": "591-604",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "9TVVACBF",
+        "doi": "10.1080/13696998.2022.2066399",
+        "title": "Cost-effectiveness analysis of the Oncotype DX Breast Recurrence Score test in node-positive early breast cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35398717",
+      "doi": "10.1016/j.esmoop.2022.100445",
+      "title": "Biomarkers of systemic inflammation predict survival with first-line immune checkpoint inhibitors in non-small-cell lung cancer",
+      "year": 2022,
+      "date": "2022 Apr",
+      "venue": "ESMO open",
+      "volume": "7",
+      "issue": "2",
+      "pages": "100445",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "EU5MRCZV",
+        "doi": "10.1016/j.esmoop.2022.100445",
+        "title": "Biomarkers of systemic inflammation predict survival with first-line immune checkpoint inhibitors in non-small-cell lung cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "35370039",
+      "doi": "10.1016/j.clon.2022.03.012",
+      "title": "Cancer Trial Impact: Understanding Implementation of the Short Course Oncology Treatment (SCOT) Trial Findings in colorectal cancer at a National Level",
+      "year": 2022,
+      "date": "2022 Sep",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "34",
+      "issue": "9",
+      "pages": "554-560",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "XIP3WF8U",
+        "doi": "10.1016/j.clon.2022.03.012",
+        "title": "Cancer Trial Impact: Understanding Implementation of the Short Course Oncology Treatment (SCOT) Trial Findings in colorectal cancer at a National Level"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34955446",
+      "doi": "10.1016/j.jgo.2021.12.009",
+      "title": "Frailty and treatment outcome in advanced gastro-oesophageal cancer: An exploratory analysis of the GO2 trial",
+      "year": 2022,
+      "date": "2022 Apr",
+      "venue": "Journal of geriatric oncology",
+      "volume": "13",
+      "issue": "3",
+      "pages": "287-293",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "CK7Q4JNI",
+        "doi": "10.1016/j.jgo.2021.12.009",
+        "title": "Frailty and treatment outcome in advanced gastro-oesophageal cancer: An exploratory analysis of the GO2 trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34890735",
+      "doi": "10.1016/j.radonc.2021.11.035",
+      "title": "Variable and fixed costs in NHS radiotherapy; consequences for increasing hypo fractionation",
+      "year": 2022,
+      "date": "2022 Jan",
+      "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "volume": "166",
+      "issue": "",
+      "pages": "180-188",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "7E2TUWAX",
+        "doi": "10.1016/j.radonc.2021.11.035",
+        "title": "Variable and fixed costs in NHS radiotherapy; consequences for increasing hypo fractionation"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34865872",
+      "doi": "10.1016/j.vaccine.2021.11.017",
+      "title": "How can early stage economic evaluation help guide research for future vaccines?",
+      "year": 2022,
+      "date": "2022 Jan 21",
+      "venue": "Vaccine",
+      "volume": "40",
+      "issue": "2",
+      "pages": "175-177",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "H9ZPAGZJ",
+        "doi": "10.1016/j.vaccine.2021.11.017",
+        "title": "How can early stage economic evaluation help guide research for future vaccines?"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34864502",
+      "doi": "10.1016/j.esmoop.2021.100331",
+      "title": "Variation in chemotherapy prescribing rates and mortality in early breast cancer over two decades: a national data linkage study",
+      "year": 2021,
+      "date": "2021 Dec",
+      "venue": "ESMO open",
+      "volume": "6",
+      "issue": "6",
+      "pages": "100331",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "K4VWNQW4",
+        "doi": "10.1016/j.esmoop.2021.100331",
+        "title": "Variation in chemotherapy prescribing rates and mortality in early breast cancer over two decades: a national data linkage study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34612012",
+      "doi": "10.1002/jcsm.12806",
+      "title": "A randomized, feasibility trial of an exercise and nutrition-based rehabilitation programme (ENeRgy) in people with cancer",
+      "year": 2021,
+      "date": "2021 Dec",
+      "venue": "Journal of cachexia, sarcopenia and muscle",
+      "volume": "12",
+      "issue": "6",
+      "pages": "2034-2044",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ZJAA4UP2",
+        "doi": "10.1002/jcsm.12806",
+        "title": "A randomized, feasibility trial of an exercise and nutrition‐based rehabilitation programme (ENeRgy) in people with cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34660664",
+      "doi": "10.3389/fnut.2021.734735",
+      "title": "Hypoalbuminaemia as a Prognostic Biomarker of First-Line Treatment Resistance in Metastatic Non-small Cell Lung Cancer",
+      "year": 2021,
+      "date": "2021",
+      "venue": "Frontiers in nutrition",
+      "volume": "8",
+      "issue": "",
+      "pages": "734735",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "F3FP4QRE",
+        "doi": "10.3389/fnut.2021.734735",
+        "title": "Hypoalbuminaemia as a Prognostic Biomarker of First-Line Treatment Resistance in Metastatic Non-small Cell Lung Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34542420",
+      "doi": "10.2196/31976",
+      "title": "The Finding My Way UK Clinical Trial: Adaptation Report and Protocol for a Replication Randomized Controlled Efficacy Trial of a Web-Based Psychological Program to Support Cancer Survivors",
+      "year": 2021,
+      "date": "2021 Sep 20",
+      "venue": "JMIR research protocols",
+      "volume": "10",
+      "issue": "9",
+      "pages": "e31976",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "9AC789BJ",
+        "doi": "10.2196/31976",
+        "title": "The Finding My Way UK Clinical Trial: Adaptation Report and Protocol for a Replication Randomized Controlled Efficacy Trial of a Web-Based Psychological Program to Support Cancer Survivors"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34489587",
+      "doi": "10.1038/s41416-021-01544-1",
+      "title": "Characterisation and outcomes of patients referred to a regional cancer of unknown primary team: a 10-year analysis",
+      "year": 2021,
+      "date": "2021 Nov",
+      "venue": "British journal of cancer",
+      "volume": "125",
+      "issue": "11",
+      "pages": "1503-1510",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "NG7TSZBD",
+        "doi": "10.1038/s41416-021-01544-1",
+        "title": "Characterisation and outcomes of patients referred to a regional cancer of unknown primary team: a 10-year analysis"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34473203",
+      "doi": "10.1001/jamaoncol.2021.4010",
+      "title": "Quantifying and Interpreting Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Cancer Control for Advanced Gastroesophageal Cancer Among an Older Population-Reply",
+      "year": 2021,
+      "date": "2021 Nov 01",
+      "venue": "JAMA oncology",
+      "volume": "7",
+      "issue": "11",
+      "pages": "1725",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "RIJZSTHG",
+        "doi": "10.1001/jamaoncol.2021.4010",
+        "title": "Quantifying and Interpreting Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Cancer Control for Advanced Gastroesophageal Cancer Among an Older Population—Reply"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34349214",
+      "doi": "10.1038/s41598-021-95608-0",
+      "title": "Author Correction: A unified resource and configurable model of the synapse proteome and its role in disease",
+      "year": 2021,
+      "date": "2021 Aug 04",
+      "venue": "Scientific reports",
+      "volume": "11",
+      "issue": "1",
+      "pages": "16240",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "H2SF2UJF",
+        "doi": "10.1038/s41598-021-95608-0",
+        "title": "Author Correction: A unified resource and configurable model of the synapse proteome and its role in disease"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34255059",
+      "doi": "10.1093/ije/dyab122",
+      "title": "Data Resource Profile: The COloRECTal cancer data repository (CORECT-R)",
+      "year": 2021,
+      "date": "2021 Nov 10",
+      "venue": "International journal of epidemiology",
+      "volume": "50",
+      "issue": "5",
+      "pages": "1418-1418k",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "6FFBMKZX",
+        "doi": "10.1093/ije/dyab122",
+        "title": "Data Resource Profile: The COloRECTal cancer data repository (CORECT-R)"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34228096",
+      "doi": "10.1093/bjsopen/zrab056",
+      "title": "Risk of missing colorectal cancer with a COVID-adapted diagnostic pathway using quantitative faecal immunochemical testing",
+      "year": 2021,
+      "date": "2021 Jul 06",
+      "venue": "BJS open",
+      "volume": "5",
+      "issue": "4",
+      "pages": "",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "TN5AEUZE",
+        "doi": "10.1093/bjsopen/zrab056",
+        "title": "Risk of missing colorectal cancer with a COVID-adapted diagnostic pathway using quantitative faecal immunochemical testing"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34183353",
+      "doi": "10.1158/2159-8290.cd-20-1647",
+      "title": "Genomic and Transcriptomic Analyses of Breast Cancer Primaries and Matched Metastases in AURORA, the Breast International Group (BIG) Molecular Screening Initiative",
+      "year": 2021,
+      "date": "2021 Nov",
+      "venue": "Cancer discovery",
+      "volume": "11",
+      "issue": "11",
+      "pages": "2796-2811",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "QJK366IK",
+        "doi": "10.1158/2159-8290.cd-20-1647",
+        "title": "Genomic and Transcriptomic Analyses of Breast Cancer Primaries and Matched Metastases in AURORA, the Breast International Group (BIG) Molecular Screening Initiative"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33983395",
+      "doi": "10.1001/jamaoncol.2021.0848",
+      "title": "Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Quality of Life and Cancer Control Among Older and Frail Patients With Advanced Gastroesophageal Cancer: The GO2 Phase 3 Randomized Clinical Trial",
+      "year": 2021,
+      "date": "2021 Jun 01",
+      "venue": "JAMA oncology",
+      "volume": "7",
+      "issue": "6",
+      "pages": "869-877",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Equivalence Trial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "6MU3PQCB",
+        "doi": "10.1001/jamaoncol.2021.0848",
+        "title": "Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Quality of Life and Cancer Control Among Older and Frail Patients With Advanced Gastroesophageal Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34007905",
+      "doi": "10.23889/ijpds.v6i1.1654",
+      "title": "Creation of the first national linked colorectal cancer dataset in Scotland: prospects for future research and a reflection on lessons learned",
+      "year": 2021,
+      "date": "2021 Mar 31",
+      "venue": "International journal of population data science",
+      "volume": "6",
+      "issue": "1",
+      "pages": "1654",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "JXGENJ7T",
+        "doi": "10.23889/ijpds.v6i1.1654",
+        "title": "Creation of the first national linked colorectal cancer dataset in Scotland: prospects for future research and a reflection on lessons learned"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33760115",
+      "doi": "10.3892/ijo.2021.5202",
+      "title": "Real‑world challenge for clinicians treating advanced gastroesophageal adenocarcinoma (Review)",
+      "year": 2021,
+      "date": "2021 May",
+      "venue": "International journal of oncology",
+      "volume": "58",
+      "issue": "5",
+      "pages": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "A9PIE28X",
+        "doi": "10.3892/ijo.2021.5202",
+        "title": "Real‑world challenge for clinicians treating advanced gastroesophageal adenocarcinoma (Review)"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33723400",
+      "doi": "10.1038/s41416-021-01298-w",
+      "title": "Correction to: The impact of COVID-19 on systemic anticancer treatment delivery in Scotland",
+      "year": 2021,
+      "date": "2021 May",
+      "venue": "British journal of cancer",
+      "volume": "124",
+      "issue": "10",
+      "pages": "1745",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "AVVR5A4J",
+        "doi": "10.1038/s41416-021-01298-w",
+        "title": "Correction to: The impact of COVID-19 on systemic anticancer treatment delivery in Scotland"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33725152",
+      "doi": "10.1007/s00223-021-00827-2",
+      "title": "Targeted Inactivation of Rin3 Increases Trabecular Bone Mass by Reducing Bone Resorption and Favouring Bone Formation",
+      "year": 2021,
+      "date": "2021 Jul",
+      "venue": "Calcified tissue international",
+      "volume": "109",
+      "issue": "1",
+      "pages": "92-102",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "MVV8IFRI",
+        "doi": "10.1007/s00223-021-00827-2",
+        "title": "Targeted Inactivation of Rin3 Increases Trabecular Bone Mass by Reducing Bone Resorption and Favouring Bone Formation"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33685946",
+      "doi": "10.1136/bmjspcare-2020-002388",
+      "title": "Incompatible: end-of-life care and health economics",
+      "year": 2021,
+      "date": "2021 Sep",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "11",
+      "issue": "3",
+      "pages": "296-298",
+      "publication_types": [
+        "Editorial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "IAKNI9C8",
+        "doi": "10.1136/bmjspcare-2020-002388",
+        "title": "Incompatible: end-of-life care and health economics"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33579797",
+      "doi": "10.1136/bmjspcare-2020-002708",
+      "title": "Healthcare use and costs in the last year of life: a national population data linkage study",
+      "year": 2021,
+      "date": "2021 Feb 12",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Elizabeth Lemmon"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "5QWBVA9T",
+        "doi": "10.1136/bmjspcare-2020-002708",
+        "title": "Healthcare use and costs in the last year of life: a national population data linkage study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33526866",
+      "doi": "10.1038/s41416-021-01262-8",
+      "title": "The impact of COVID-19 on systemic anticancer treatment delivery in Scotland",
+      "year": 2021,
+      "date": "2021 Apr",
+      "venue": "British journal of cancer",
+      "volume": "124",
+      "issue": "8",
+      "pages": "1353-1356",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "9GCMVNF6",
+        "doi": "10.1038/s41416-021-01262-8",
+        "title": "The impact of COVID-19 on systemic anticancer treatment delivery in Scotland"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33225423",
+      "doi": "10.1007/s40273-020-00983-7",
+      "title": "Probabilistic One-Way Sensitivity Analysis with Multiple Comparators: The Conditional Net Benefit Frontier",
+      "year": 2021,
+      "date": "2021 Jan",
+      "venue": "PharmacoEconomics",
+      "volume": "39",
+      "issue": "1",
+      "pages": "19-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "PU9P3GD4",
+        "doi": "10.1007/s40273-020-00983-7",
+        "title": "Probabilistic One-Way Sensitivity Analysis with Multiple Comparators: The Conditional Net Benefit Frontier"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32978683",
+      "doi": "10.1007/s00223-020-00758-4",
+      "title": "Pattern of SQSTM1 Gene Variants in a Hungarian Cohort of Paget's Disease of Bone",
+      "year": 2021,
+      "date": "2021 Feb",
+      "venue": "Calcified tissue international",
+      "volume": "108",
+      "issue": "2",
+      "pages": "159-164",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "DJEJ6PF3",
+        "doi": "10.1007/s00223-020-00758-4",
+        "title": "Pattern of SQSTM1 Gene Variants in a Hungarian Cohort of Paget’s Disease of Bone"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32723485",
+      "doi": "10.1016/j.clon.2020.07.006",
+      "title": "Optimising the Duration of Adjuvant Trastuzumab in Early Breast Cancer in the UK",
+      "year": 2021,
+      "date": "2021 Jan",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "33",
+      "issue": "1",
+      "pages": "15-19",
+      "publication_types": [
+        "Editorial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "5B3CMCKU",
+        "doi": "10.1016/j.clon.2020.07.006",
+        "title": "Optimising the Duration of Adjuvant Trastuzumab in Early Breast Cancer in the UK"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33268473",
+      "doi": "10.1136/bmjspcare-2020-002630",
+      "title": "Healthcare trajectories and costs in the last year of life: a retrospective primary care and hospital analysis",
+      "year": 2020,
+      "date": "2020 Dec 02",
+      "venue": "BMJ supportive & palliative care",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "864C59XQ",
+        "doi": "10.1136/bmjspcare-2020-002630",
+        "title": "Healthcare trajectories and costs in the last year of life: a retrospective primary care and hospital analysis"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32616595",
+      "doi": "10.1183/13993003.00118-2020",
+      "title": "SABRTooth: a randomised controlled feasibility study of stereotactic ablative radiotherapy (SABR) with surgery in patients with peripheral stage I nonsmall cell lung cancer considered to be at higher risk of complications from surgical resection",
+      "year": 2020,
+      "date": "2020 Nov",
+      "venue": "The European respiratory journal",
+      "volume": "56",
+      "issue": "5",
+      "pages": "",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "2FVVS2H5",
+        "doi": "10.1183/13993003.00118-2020",
+        "title": "SABRTooth: a randomised controlled feasibility study of stereotactic ablative radiotherapy (SABR) with surgery in patients with peripheral stage I nonsmall cell lung cancer considered to be at higher risk of complications from surgical resection"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32947141",
+      "doi": "10.1016/j.ejca.2020.07.036",
+      "title": "A biobank analysis of prognostic biomarkers of the systemic inflammatory response in patients presenting with malignancy of undefined primary origin",
+      "year": 2020,
+      "date": "2020 Nov",
+      "venue": "European journal of cancer (Oxford, England : 1990)",
+      "volume": "139",
+      "issue": "",
+      "pages": "1-9",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "4UZ5RZ9K",
+        "doi": "10.1016/j.ejca.2020.07.036",
+        "title": "A biobank analysis of prognostic biomarkers of the systemic inflammatory response in patients presenting with malignancy of undefined primary origin"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32880572",
+      "doi": "10.3310/hta24400",
+      "title": "Six versus 12 months' adjuvant trastuzumab in patients with HER2-positive early breast cancer: the PERSEPHONE non-inferiority RCT",
+      "year": 2020,
+      "date": "2020 Aug",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "24",
+      "issue": "40",
+      "pages": "1-190",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Equivalence Trial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "Q3ZFEUGE",
+        "doi": "10.3310/hta24400",
+        "title": "Six versus 12 months’ adjuvant trastuzumab in patients with HER2-positive early breast cancer: the PERSEPHONE non-inferiority RCT"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32555534",
+      "doi": "10.1038/s41416-020-0938-z",
+      "title": "Distinct temporal trends in breast cancer incidence from 1997 to 2016 by molecular subtypes: a population-based study of Scottish cancer registry data",
+      "year": 2020,
+      "date": "2020 Sep",
+      "venue": "British journal of cancer",
+      "volume": "123",
+      "issue": "5",
+      "pages": "852-859",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "GI4FS3SC",
+        "doi": "10.1038/s41416-020-0938-z",
+        "title": "Distinct temporal trends in breast cancer incidence from 1997 to 2016 by molecular subtypes: a population-based study of Scottish cancer registry data"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32540857",
+      "doi": "10.1136/bmj.m2377",
+      "title": "Distinguishing between direct and indirect consequences of covid-19",
+      "year": 2020,
+      "date": "2020 Jun 15",
+      "venue": "BMJ (Clinical research ed.)",
+      "volume": "369",
+      "issue": "",
+      "pages": "m2377",
+      "publication_types": [
+        "Letter"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "NNKNX94P",
+        "doi": "10.1136/bmj.m2377",
+        "title": "Distinguishing between direct and indirect consequences of covid-19"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32309673",
+      "doi": "10.1016/j.conctc.2020.100564",
+      "title": "Rationale and study design: A randomized controlled trial of early palliative care in newly diagnosed cancer patients in Addis Ababa, Ethiopia",
+      "year": 2020,
+      "date": "2020 Jun",
+      "venue": "Contemporary clinical trials communications",
+      "volume": "18",
+      "issue": "",
+      "pages": "100564",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "GH2XNPFI",
+        "doi": "10.1016/j.conctc.2020.100564",
+        "title": "Rationale and study design: A randomized controlled trial of early palliative care in newly diagnosed cancer patients in Addis Ababa, Ethiopia"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32089356",
+      "doi": "10.1016/j.clon.2020.01.029",
+      "title": "Strategies to Improve Recruitment to a De-escalation Trial: A Mixed-Methods Study of the OPTIMA Prelim Trial in Early Breast Cancer",
+      "year": 2020,
+      "date": "2020 Jun",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "32",
+      "issue": "6",
+      "pages": "382-389",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ZXV9C6M2",
+        "doi": "10.1016/j.clon.2020.01.029",
+        "title": "Strategies to Improve Recruitment to a De-escalation Trial: A Mixed-Methods Study of the OPTIMA Prelim Trial in Early Breast Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31840216",
+      "doi": "10.1007/s40273-019-00869-3",
+      "title": "One-Way Sensitivity Analysis for Probabilistic Cost-Effectiveness Analysis: Conditional Expected Incremental Net Benefit",
+      "year": 2020,
+      "date": "2020 Feb",
+      "venue": "PharmacoEconomics",
+      "volume": "38",
+      "issue": "2",
+      "pages": "135-141",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "33C4RDWM",
+        "doi": "10.1007/s40273-019-00869-3",
+        "title": "One-Way Sensitivity Analysis for Probabilistic Cost-Effectiveness Analysis: Conditional Expected Incremental Net Benefit"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31841354",
+      "doi": "10.1200/jco.19.00368",
+      "title": "Capivasertib Plus Paclitaxel Versus Placebo Plus Paclitaxel As First-Line Therapy for Metastatic Triple-Negative Breast Cancer: The PAKT Trial",
+      "year": 2020,
+      "date": "2020 Feb 10",
+      "venue": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "volume": "38",
+      "issue": "5",
+      "pages": "423-433",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "6WXRM8US",
+        "doi": "10.1200/jco.19.00368",
+        "title": "Capivasertib Plus Paclitaxel Versus Placebo Plus Paclitaxel As First-Line Therapy for Metastatic Triple-Negative Breast Cancer: The PAKT Trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31813662",
+      "doi": "10.1016/j.clon.2019.11.008",
+      "title": "Dynamic Changes in High-Sensitivity Cardiac Troponin I in Response to Anthracycline-Based Chemotherapy",
+      "year": 2020,
+      "date": "2020 May",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "32",
+      "issue": "5",
+      "pages": "292-297",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "W7KDQZPM",
+        "doi": "10.1016/j.clon.2019.11.008",
+        "title": "Dynamic Changes in High-Sensitivity Cardiac Troponin I in Response to Anthracycline-Based Chemotherapy"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "32082550",
+      "doi": "10.1093/ckj/sfz036",
+      "title": "The investigative burden of membranous nephropathy in the UK",
+      "year": 2020,
+      "date": "2020 Feb",
+      "venue": "Clinical kidney journal",
+      "volume": "13",
+      "issue": "1",
+      "pages": "27-34",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "AHQ47Q3B",
+        "doi": "10.1093/ckj/sfz036",
+        "title": "The investigative burden of membranous nephropathy in the UK"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31891574",
+      "doi": "10.1371/journal.pmed.1003006",
+      "title": "Chemotherapy effectiveness in trial-underrepresented groups with early breast cancer: A retrospective cohort study",
+      "year": 2019,
+      "date": "2019 Dec",
+      "venue": "PLoS medicine",
+      "volume": "16",
+      "issue": "12",
+      "pages": "e1003006",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "R3GWZMVS",
+        "doi": "10.1371/journal.pmed.1003006",
+        "title": "Chemotherapy effectiveness in trial-underrepresented groups with early breast cancer: A retrospective cohort study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31619300",
+      "doi": "10.1017/ice.2019.273",
+      "title": "The impact of surgical site infections on hospital contribution margin-a European prospective observational cohort study",
+      "year": 2019,
+      "date": "2019 Dec",
+      "venue": "Infection control and hospital epidemiology",
+      "volume": "40",
+      "issue": "12",
+      "pages": "1374-1379",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "AXDWV5T9",
+        "doi": "10.1017/ice.2019.273",
+        "title": "The impact of surgical site infections on hospital contribution margin—a European prospective observational cohort study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31556806",
+      "doi": "10.1177/0272989x19866415",
+      "title": "Early Economic Evaluation of Diagnostic Technologies: Experiences of the NIHR Diagnostic Evidence Co-operatives",
+      "year": 2019,
+      "date": "2019 Oct",
+      "venue": "Medical decision making : an international journal of the Society for Medical Decision Making",
+      "volume": "39",
+      "issue": "7",
+      "pages": "857-866",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "JPNWUMV6",
+        "doi": "10.1177/0272989x19866415",
+        "title": "Early Economic Evaluation of Diagnostic Technologies: Experiences of the NIHR Diagnostic Evidence Co-operatives"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31444309",
+      "doi": "10.1373/clinchem.2018.300954",
+      "title": "Toward a Framework for Outcome-Based Analytical Performance Specifications: A Methodology Review of Indirect Methods for Evaluating the Impact of Measurement Uncertainty on Clinical Outcomes",
+      "year": 2019,
+      "date": "2019 Nov",
+      "venue": "Clinical chemistry",
+      "volume": "65",
+      "issue": "11",
+      "pages": "1363-1374",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "8GC4Z4NQ",
+        "doi": "10.1373/clinchem.2018.300954",
+        "title": "Toward a Framework for Outcome-Based Analytical Performance Specifications: A Methodology Review of Indirect Methods for Evaluating the Impact of Measurement Uncertainty on Clinical Outcomes"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31397263",
+      "doi": "10.3310/hta23400",
+      "title": "The 4 'A's test for detecting delirium in acute medical patients: a diagnostic accuracy study",
+      "year": 2019,
+      "date": "2019 Aug",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "23",
+      "issue": "40",
+      "pages": "1-194",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ZTRZEVZU",
+        "doi": "10.3310/hta23400",
+        "title": "The 4 ‘A’s test for detecting delirium in acute medical patients: a diagnostic accuracy study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31344434",
+      "doi": "10.1016/j.ijrobp.2019.07.009",
+      "title": "Net Pain Relief After Palliative Radiation Therapy for Painful Bone Metastases: A Useful Measure to Reflect Response Duration? A Further Analysis of the Dutch Bone Metastasis Study",
+      "year": 2019,
+      "date": "2019 Nov 01",
+      "venue": "International journal of radiation oncology, biology, physics",
+      "volume": "105",
+      "issue": "3",
+      "pages": "559-566",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "APTW7ZES",
+        "doi": "10.1016/j.ijrobp.2019.07.009",
+        "title": "Net Pain Relief After Palliative Radiation Therapy for Painful Bone Metastases: A Useful Measure to Reflect Response Duration? A Further Analysis of the Dutch Bone Metastasis Study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "31178152",
+      "doi": "10.1016/s0140-6736(19)30650-6",
+      "title": "6 versus 12 months of adjuvant trastuzumab for HER2-positive early breast cancer (PERSEPHONE): 4-year disease-free survival results of a randomised phase 3 non-inferiority trial",
+      "year": 2019,
+      "date": "2019 Jun 29",
+      "venue": "Lancet (London, England)",
+      "volume": "393",
+      "issue": "10191",
+      "pages": "2599-2612",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "WFKKEFQJ",
+        "doi": "10.1016/s0140-6736(19)30650-6",
+        "title": "6 versus 12 months of adjuvant trastuzumab for HER2-positive early breast cancer (PERSEPHONE): 4-year disease-free survival results of a randomised phase 3 non-inferiority trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "30867655",
+      "doi": "10.1186/s12962-019-0174-7",
+      "title": "Cost effectiveness and affordability of trastuzumab in sub-Saharan Africa for early stage HER2-positive breast cancer",
+      "year": 2019,
+      "date": "2019",
+      "venue": "Cost effectiveness and resource allocation : C/E",
+      "volume": "17",
+      "issue": "",
+      "pages": "5",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "D3XFCRN9",
+        "doi": "10.1186/s12962-019-0174-7",
+        "title": "Cost effectiveness and affordability of trastuzumab in sub-Saharan Africa for early stage HER2-positive breast cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "30711490",
+      "doi": "10.1016/j.jclinepi.2019.01.006",
+      "title": "Real-world evidence was feasible for estimating effectiveness of chemotherapy in breast cancer: a cohort study",
+      "year": 2019,
+      "date": "2019 May",
+      "venue": "Journal of clinical epidemiology",
+      "volume": "109",
+      "issue": "",
+      "pages": "125-132",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "C52FXRNU",
+        "doi": "10.1016/j.jclinepi.2019.01.006",
+        "title": "Real-world evidence was feasible for estimating effectiveness of chemotherapy in breast cancer: a cohort study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "30607255",
+      "doi": "10.1186/s40814-018-0381-6",
+      "title": "A randomised, phase II, unblinded trial of an Exercise and Nutrition-based Rehabilitation programme (ENeRgy) versus standard care in patients with cancer: feasibility trial protocol",
+      "year": 2018,
+      "date": "2018",
+      "venue": "Pilot and feasibility studies",
+      "volume": "4",
+      "issue": "",
+      "pages": "192",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "6KG9QWKV",
+        "doi": "10.1186/s40814-018-0381-6",
+        "title": "A randomised, phase II, unblinded trial of an Exercise and Nutrition-based Rehabilitation programme (ENeRgy) versus standard care in patients with cancer: feasibility trial protocol"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "30220705",
+      "doi": "10.1038/s41416-018-0256-x",
+      "title": "Independent validation of the PREDICT breast cancer prognosis prediction tool in 45,789 patients using Scottish Cancer Registry data",
+      "year": 2018,
+      "date": "2018 Oct",
+      "venue": "British journal of cancer",
+      "volume": "119",
+      "issue": "7",
+      "pages": "808-814",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "CARVBZX7",
+        "doi": "10.1038/s41416-018-0256-x",
+        "title": "Independent validation of the PREDICT breast cancer prognosis prediction tool in 45,789 patients using Scottish Cancer Registry data"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "30149879",
+      "doi": "10.1016/j.trecan.2018.07.006",
+      "title": "Balancing the Economics and Ethics of Personalised Oncology",
+      "year": 2018,
+      "date": "2018 Sep",
+      "venue": "Trends in cancer",
+      "volume": "4",
+      "issue": "9",
+      "pages": "608-615",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FFKINA8F",
+        "doi": "10.1016/j.trecan.2018.07.006",
+        "title": "Balancing the Economics and Ethics of Personalised Oncology"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29954201",
+      "doi": "10.1302/0301-620x.100b7.bjj-2018-0623",
+      "title": "Infographic: Trauma Triage Clinic reduces unnecessary fracture clinic attendances and costs with comparable clinical outcomes",
+      "year": 2018,
+      "date": "2018 Jul",
+      "venue": "The bone & joint journal",
+      "volume": "100-B",
+      "issue": "7",
+      "pages": "957-958",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "8R3W6CV2",
+        "doi": "10.1302/0301-620x.100b7.bjj-2018-0623",
+        "title": "Infographic: Trauma Triage Clinic reduces unnecessary fracture clinic attendances and costs with comparable clinical outcomes"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29954208",
+      "doi": "10.1302/0301-620x.100b7.bjj-2017-1388.r2",
+      "title": "Discharged but not dissatisfied: outcomes and satisfaction of patients discharged from the Edinburgh Trauma Triage Clinic",
+      "year": 2018,
+      "date": "2018 Jul",
+      "venue": "The bone & joint journal",
+      "volume": "100-B",
+      "issue": "7",
+      "pages": "959-965",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "6DTIR7KB",
+        "doi": "10.1302/0301-620x.100b7.bjj-2017-1388.r2",
+        "title": "Discharged but not dissatisfied: outcomes and satisfaction of patients discharged from the Edinburgh Trauma Triage Clinic"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29862965",
+      "doi": "10.3310/hta22320",
+      "title": "The future for diagnostic tests of acute kidney injury in critical care: evidence synthesis, care pathway analysis and research prioritisation",
+      "year": 2018,
+      "date": "2018 May",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "22",
+      "issue": "32",
+      "pages": "1-274",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "MC3BU6B8",
+        "doi": "10.3310/hta22320",
+        "title": "The future for diagnostic tests of acute kidney injury in critical care: evidence synthesis, care pathway analysis and research prioritisation"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29617715",
+      "doi": "10.1093/ageing/afy024",
+      "title": "New horizons in systemic anti-cancer therapy in older people",
+      "year": 2018,
+      "date": "2018 May 01",
+      "venue": "Age and ageing",
+      "volume": "47",
+      "issue": "3",
+      "pages": "340-348",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "HW2AZ4DM",
+        "doi": "10.1093/ageing/afy024",
+        "title": "New horizons in systemic anti-cancer therapy in older people"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29576265",
+      "doi": "10.1016/j.eururo.2018.03.006",
+      "title": "Cost-effectiveness of Pembrolizumab in Second-line Advanced Bladder Cancer",
+      "year": 2018,
+      "date": "2018 Jul",
+      "venue": "European urology",
+      "volume": "74",
+      "issue": "1",
+      "pages": "57-62",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ET434AJS",
+        "doi": "10.1016/j.eururo.2018.03.006",
+        "title": "Cost-effectiveness of Pembrolizumab in Second-line Advanced Bladder Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29502176",
+      "doi": "10.1007/s40273-018-0638-1",
+      "title": "The Role of Measurement Uncertainty in Health Technology Assessments (HTAs) of In Vitro Tests",
+      "year": 2018,
+      "date": "2018 Jul",
+      "venue": "PharmacoEconomics",
+      "volume": "36",
+      "issue": "7",
+      "pages": "823-835",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "BICJVJIS",
+        "doi": "10.1007/s40273-018-0638-1",
+        "title": "The Role of Measurement Uncertainty in Health Technology Assessments (HTAs) of In Vitro Tests"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29170976",
+      "doi": "10.1007/s10549-017-4567-z",
+      "title": "Real-world treatment in patients with HER2+ metastatic breast cancer : Treatment decisions in HER2+ mBC",
+      "year": 2018,
+      "date": "2018 Feb",
+      "venue": "Breast cancer research and treatment",
+      "volume": "168",
+      "issue": "1",
+      "pages": "197-205",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "KHXTPKM2",
+        "doi": "10.1007/s10549-017-4567-z",
+        "title": "Real-world treatment in patients with HER2+ metastatic breast cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "28881249",
+      "doi": "10.1016/j.ejca.2017.07.054",
+      "title": "Cost-effectiveness analysis of PET-CT-guided management for locally advanced head and neck cancer",
+      "year": 2017,
+      "date": "2017 Nov",
+      "venue": "European journal of cancer (Oxford, England : 1990)",
+      "volume": "85",
+      "issue": "",
+      "pages": "6-14",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "5SXWB8VN",
+        "doi": "10.1016/j.ejca.2017.07.054",
+        "title": "Cost-effectiveness analysis of PET-CT-guided management for locally advanced head and neck cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "29241890",
+      "doi": "10.1016/j.jval.2017.04.021",
+      "title": "Value of Information Analysis of Multiparameter Tests for Chemotherapy in Early Breast Cancer: The OPTIMA Prelim Trial",
+      "year": 2017,
+      "date": "2017 Dec",
+      "venue": "Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research",
+      "volume": "20",
+      "issue": "10",
+      "pages": "1311-1318",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "3ZTU9UP5",
+        "doi": "10.1016/j.jval.2017.04.021",
+        "title": "Value of Information Analysis of Multiparameter Tests for Chemotherapy in Early Breast Cancer: The OPTIMA Prelim Trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "28592621",
+      "doi": "10.1634/theoncologist.2016-0455",
+      "title": "Bevacizumab for Metastatic Colorectal Cancer: A Global Cost-Effectiveness Analysis",
+      "year": 2017,
+      "date": "2017 Jun",
+      "venue": "The oncologist",
+      "volume": "22",
+      "issue": "6",
+      "pages": "694-699",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FMIF5XVH",
+        "doi": "10.1634/theoncologist.2016-0455",
+        "title": "Bevacizumab for Metastatic Colorectal Cancer: A Global Cost-Effectiveness Analysis"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "28522211",
+      "doi": "10.1016/j.ejca.2017.04.003",
+      "title": "Real-world data for efficient health technology assessment",
+      "year": 2017,
+      "date": "2017 Jul",
+      "venue": "European journal of cancer (Oxford, England : 1990)",
+      "volume": "79",
+      "issue": "",
+      "pages": "235-237",
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "776MZQJX",
+        "doi": "10.1016/j.ejca.2017.04.003",
+        "title": "Real-world data for efficient health technology assessment"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "28472902",
+      "doi": "10.2217/imt-2016-0150",
+      "title": "PD-L1 expression as a predictive biomarker in advanced non-small-cell lung cancer: updated survival data",
+      "year": 2017,
+      "date": "2017 May",
+      "venue": "Immunotherapy",
+      "volume": "9",
+      "issue": "6",
+      "pages": "499-506",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "FPPV5I47",
+        "doi": "10.2217/imt-2016-0150",
+        "title": "PD-L1 Expression as a Predictive Biomarker in Advanced Non-Small-Cell Lung Cancer: Updated Survival Data"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "28559762",
+      "doi": "10.1159/000475656",
+      "title": "Accurate Measurement of Financial Toxicity Is a Prerequisite to Finding a Remedy",
+      "year": 2017,
+      "date": "2017 May",
+      "venue": "Breast care (Basel, Switzerland)",
+      "volume": "12",
+      "issue": "2",
+      "pages": "78-80",
+      "publication_types": [
+        "Editorial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "AVWRCDC2",
+        "doi": "10.1159/000475656",
+        "title": "Accurate Measurement of Financial Toxicity Is a Prerequisite to Finding a Remedy"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "28137919",
+      "doi": "10.1136/thoraxjnl-2016-209616",
+      "title": "Secondary-care costs associated with lung cancer diagnosed at emergency hospitalisation in the United Kingdom",
+      "year": 2017,
+      "date": "2017 Oct",
+      "venue": "Thorax",
+      "volume": "72",
+      "issue": "10",
+      "pages": "950-952",
+      "publication_types": [
+        "Letter"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "I6ICW3Q6",
+        "doi": "10.1136/thoraxjnl-2016-209616",
+        "title": "Secondary-care costs associated with lung cancer diagnosed at emergency hospitalisation in the United Kingdom"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "28095397",
+      "doi": "10.1038/bjc.2016.442",
+      "title": "A randomised phase II trial and feasibility study of palliative chemotherapy in frail or elderly patients with advanced gastroesophageal cancer (321GO)",
+      "year": 2017,
+      "date": "2017 Feb 14",
+      "venue": "British journal of cancer",
+      "volume": "116",
+      "issue": "4",
+      "pages": "472-478",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "QSDIKTVZ",
+        "doi": "10.1038/bjc.2016.442",
+        "title": "A randomised phase II trial and feasibility study of palliative chemotherapy in frail or elderly patients with advanced gastroesophageal cancer (321GO)"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "27525106",
+      "doi": "10.1186/s40560-016-0178-8",
+      "title": "One-year resource utilisation, costs and quality of life in patients with acute respiratory distress syndrome (ARDS): secondary analysis of a randomised controlled trial",
+      "year": 2016,
+      "date": "2016",
+      "venue": "Journal of intensive care",
+      "volume": "4",
+      "issue": "",
+      "pages": "56",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "F3Z9EVIQ",
+        "doi": "10.1186/s40560-016-0178-8",
+        "title": "One-year resource utilisation, costs and quality of life in patients with acute respiratory distress syndrome (ARDS): secondary analysis of a randomised controlled trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "27130929",
+      "doi": "10.1093/jnci/djw050",
+      "title": "Comparing Breast Cancer Multiparameter Tests in the OPTIMA Prelim Trial: No Test Is More Equal Than the Others",
+      "year": 2016,
+      "date": "2016 Sep",
+      "venue": "Journal of the National Cancer Institute",
+      "volume": "108",
+      "issue": "9",
+      "pages": "",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "7TKK863F",
+        "doi": "10.1093/jnci/djw050",
+        "title": "Comparing Breast Cancer Multiparameter Tests in the OPTIMA Prelim Trial: No Test Is More Equal Than the Others"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "27237021",
+      "doi": "10.1016/j.lungcan.2016.04.009",
+      "title": "Factors affecting hospital costs in lung cancer patients in the United Kingdom",
+      "year": 2016,
+      "date": "2016 Jul",
+      "venue": "Lung cancer (Amsterdam, Netherlands)",
+      "volume": "97",
+      "issue": "",
+      "pages": "8-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "JVDG7CIZ",
+        "doi": "10.1016/j.lungcan.2016.04.009",
+        "title": "Factors affecting hospital costs in lung cancer patients in the United Kingdom"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "27007578",
+      "doi": "10.1056/nejmoa1514493",
+      "title": "PET-CT Surveillance versus Neck Dissection in Advanced Head and Neck Cancer",
+      "year": 2016,
+      "date": "2016 Apr 14",
+      "venue": "The New England journal of medicine",
+      "volume": "374",
+      "issue": "15",
+      "pages": "1444-54",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "9UTUGIW2",
+        "doi": "10.1056/nejmoa1514493",
+        "title": "PET-CT Surveillance versus Neck Dissection in Advanced Head and Neck Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "26897737",
+      "doi": "10.1007/s40273-016-0391-2",
+      "title": "Can Clinical Guidelines Afford to Ignore Cost Effectiveness? An Ethical Perspective",
+      "year": 2016,
+      "date": "2016 Jun",
+      "venue": "PharmacoEconomics",
+      "volume": "34",
+      "issue": "6",
+      "pages": "529-31",
+      "publication_types": [
+        "Editorial"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "RNXH26SA",
+        "doi": "10.1007/s40273-016-0391-2",
+        "title": "Can Clinical Guidelines Afford to Ignore Cost Effectiveness? An Ethical Perspective"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "26087260",
+      "doi": "10.1002/pon.3877",
+      "title": "The economic burden of cancer in the UK: a study of survivors treated with curative intent",
+      "year": 2016,
+      "date": "2016 Jan",
+      "venue": "Psycho-oncology",
+      "volume": "25",
+      "issue": "1",
+      "pages": "77-83",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "9ZXMDV34",
+        "doi": "10.1002/pon.3877",
+        "title": "The economic burden of cancer in the UK: a study of survivors treated with curative intent"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "26135352",
+      "doi": "10.3109/07357907.2015.1047504",
+      "title": "Can D-Dimer Measurement Reduce the Frequency of Radiological Assessment in Patients Receiving Palliative Imatinib for Gastrointestinal Stromal Tumor (GIST)?",
+      "year": 2015,
+      "date": "2015",
+      "venue": "Cancer investigation",
+      "volume": "33",
+      "issue": "8",
+      "pages": "347-53",
+      "publication_types": [
+        "Clinical Study",
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "25IJ8INW",
+        "doi": "10.3109/07357907.2015.1047504",
+        "title": "Can D-Dimer Measurement Reduce the Frequency of Radiological Assessment in Patients Receiving Palliative Imatinib for Gastrointestinal Stromal Tumor (GIST)?"
+      },
+      "title_score": 1.0
+    }
+  ]
+}
