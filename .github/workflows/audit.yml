@@ -1,0 +1,66 @@
+name: PubMed audit
+
+on:
+  schedule:
+    - cron: "0 7 1 * *"   # monthly, 07:00 UTC on the 1st (after the daily build)
+  workflow_dispatch:
+    inputs:
+      write_zotero:
+        description: "File missing items into the Zotero Review collection"
+        type: boolean
+        default: false
+      max_add:
+        description: "Maximum items to file into Review in one run"
+        type: string
+        default: "25"
+
+permissions:
+  contents: write
+
+# Shares the build's group so the two never push at the same time.
+concurrency:
+  group: build-publications
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    env:
+      ZOTERO_GROUP_ID: "4536042"
+      ZOTERO_COLLECTION_ID: ${{ secrets.ZOTERO_COLLECTION_ID }}
+      ZOTERO_REVIEW_COLLECTION_ID: ${{ secrets.ZOTERO_REVIEW_COLLECTION_ID }}
+      ZOTERO_REJECTED_COLLECTION_ID: ${{ secrets.ZOTERO_REJECTED_COLLECTION_ID }}
+      ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+      OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+      NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+      # Scheduled runs never write; only a dispatch with write_zotero ticked does.
+      AUDIT_WRITE_ZOTERO: ${{ github.event_name == 'workflow_dispatch' && inputs.write_zotero && '1' || '' }}
+      AUDIT_MAX_ADD: ${{ inputs.max_add || '25' }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyzotero
+
+      - name: Audit team papers against PubMed
+        run: python scripts/audit_pubmed.py
+
+      - name: Write summary
+        run: head -n 40 audit_for_review.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit reports if changed
+        run: |
+          git config user.name  "eci-publications-bot"
+          git config user.email "eci-publications-bot@users.noreply.github.com"
+          git add audit_findings.json audit_for_review.md
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update PubMed audit ($(date -u +%Y-%m-%d))"
+            git pull --rebase
+            git push
+          fi

@@ -17,7 +17,13 @@ https://cancer-data.ecrc.ed.ac.uk/.
    the Zotero Review collection plus `candidates_for_review.md` — your vetting
    queue.
 4. `.github/workflows/build.yml` runs both daily and commits the results.
-5. WordPress reads the committed `publications.json` and renders the page.
+   `candidates_for_review.md` ends with a per-author table; a row of zeros means
+   discovery cannot see that person (see `AGENTS.md`).
+5. `scripts/audit_pubmed.py` independently searches PubMed for the same people
+   and reports papers missing from every Zotero collection in
+   `audit_for_review.md`. `.github/workflows/audit.yml` runs it monthly as a dry
+   run; dispatch it with `write_zotero` ticked to file missing items into Review.
+6. WordPress reads the committed `publications.json` and renders the page.
 
 ## Vetting workflow
 
@@ -57,4 +63,5 @@ author matching can include false positives, so Review remains the safety gate.
 |----------------------|--------------------------------|
 | ZOTERO_COLLECTION_ID | X3G67CXM                       |
 | ZOTERO_API_KEY       | a read key (optional, group is public) |
-| OPENALEX_MAILTO      | email, for the polite pool |
+| OPENALEX_MAILTO      | email, for the polite pool and NCBI contact |
+| NCBI_API_KEY         | optional, faster PubMed audit  |

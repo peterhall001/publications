@@ -1,12 +1,14 @@
 {
-  "_comment": "Team members to scan for new publications. Add one entry per researcher. ORCID is preferred; openalex_id is an optional fallback.",
+  "_comment": "Team members to scan for new publications. Add one entry per researcher. ORCID is preferred. Optional fields: since_year (int, start of the scan window, default 2015); openalex_id (string) or openalex_ids (list), OpenAlex author entity IDs queried in addition to the ORCID, for people whose OpenAlex entity has no ORCID linked; pubmed_term (string, e.g. \"Hall P[Author]\"), overrides the PubMed audit's derived author term of surname plus first initials; _note (free text).",
   "authors": [
     { "name": "Peter Hall", "orcid": "0000-0001-6015-7841" },
     { "name": "Mark Stares", "orcid": "0000-0002-5943-8440", "since_year": 2020 },
     { "name": "Elizabeth Lemmon", "orcid": "0000-0002-3564-6106" },
     { "name": "Azadeh Abravan", "orcid": "0000-0003-4839-6705", "since_year": 2026 },
     { "name": "Sam McInerney", "orcid": "0009-0003-7543-7450", "since_year": 2025 },
-    { "name": "Giovanni Tramonti", "orcid": "0000-0003-4117-9855", "since_year": 2015 },
+    { "name": "Giovanni Tramonti", "orcid": "0000-0003-4117-9855",
+      "openalex_id": "A5019431269", "since_year": 2015,
+      "_note": "Checked 15 Sep 2026: A5019431269 is the Edinburgh Tramonti, 17 works. Its orcid field is null, so the ORCID filter returns nothing for him. Remove openalex_id once OpenAlex links the ORCID." },
     { "name": "Piyumanga Karunaratne", "orcid": "0009-0001-7894-8075", "since_year": 2020 },
     { "name": "Sean Foley", "orcid": "0009-0006-2348-0301", "since_year": 2026 },
     { "name": "Colin McLean", "orcid": "0000-0002-8937-0619", "since_year": 2021 },
