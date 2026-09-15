@@ -1,6 +1,8 @@
 name: PubMed audit
 
 on:
+  push:
+    branches: [pubmed-audit]   # TEMPORARY: test runs from the branch. Remove before merging.
   schedule:
     - cron: "0 7 1 * *"   # monthly, 07:00 UTC on the 1st (after the daily build)
   workflow_dispatch:
