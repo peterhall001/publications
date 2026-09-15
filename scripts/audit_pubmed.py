@@ -430,9 +430,11 @@ def main():
         authors = json.load(f)["authors"]
 
     zot = zotero.Zotero(GROUP_ID, "group", API_KEY or None)
-    entries = {name: collection_entries(zot, key, name) for name, key in (
-        ("Web-Publications", APPROVED_COLL), ("Review", REVIEW_COLL), ("Rejected", REJECTED_COLL))}
-    indexed = {name: len(e) for name, e in entries.items() if e}
+    collections = [(name, key) for name, key in (
+        ("Web-Publications", APPROVED_COLL), ("Review", REVIEW_COLL), ("Rejected", REJECTED_COLL)) if key]
+    entries = {name: collection_entries(zot, key, name) for name, key in collections}
+    # Every configured collection is listed, even when empty, so a missing secret shows up.
+    indexed = {name: len(e) for name, e in entries.items()}
     filed = FiledIndex([e for es in entries.values() for e in es])
     print("Indexed " + ", ".join(f"{n} {c}" for c, n in indexed.items()) + " Zotero items.")
 
