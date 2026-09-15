@@ -22,19 +22,43 @@ through the Zotero vetting step.
   pages), backfills missing DOIs by confident title match, and writes
   `publications.json`. Standard library only, no dependencies.
 - `scripts/discover_candidates.py`: queries OpenAlex by ORCID for each author in
-  `authors.json`, removes anything already filed in Zotero, enriches each
+  `authors.json`, then by any configured OpenAlex author entity IDs, removes
+  anything already filed in Zotero (by DOI, then by normalised title), enriches each
   candidate DOI from Crossref first and OpenAlex `biblio` as fallback, and adds
   the rest to the Review collection for a human to triage. It writes richer
   Zotero Review items including publication title, volume, issue, pages, date,
-  DOI, URL and authors where available. Also writes `candidates.json` and
-  `candidates_for_review.md` as logs. Requires `pyzotero`.
-- `authors.json`: the team. One entry per person with an `orcid`, plus an
-  optional `since_year` to narrow that person's scan window (the default is 2015).
+  DOI, URL and authors where available. A work whose title matches a filed item
+  under a different DOI (usually a preprint now published) is held back and
+  listed as a version update. Also writes `candidates.json` and
+  `candidates_for_review.md` as logs, with a per-author table of works returned
+  per identifier and a warning for anyone whose identifiers returned nothing.
+  Requires `pyzotero`.
+- `scripts/audit_pubmed.py`: an independent check on discovery. Searches PubMed
+  per author for `(<term>) AND (Edinburgh[Affiliation]) AND (<since_year>:<this
+  year>[PDAT])`, keeps only hits where Edinburgh is on that author's own
+  `Author` element, and classifies each against all three collections as
+  `present`, `version_update` or `missing`. Writes `audit_findings.json` and
+  `audit_for_review.md`. Files `missing` items into Review, tagged
+  `source-pubmed-audit`, only when `AUDIT_WRITE_ZOTERO=1`, capped by
+  `AUDIT_MAX_ADD` (default 25). Never writes version updates. Requires
+  `pyzotero`. Its small helpers are deliberately duplicated, not shared, so
+  the build stays dependency-free.
+- `authors.json`: the team. One entry per person with an `orcid`, plus optional
+  fields: `since_year` narrows that person's scan window (the default is 2015);
+  `openalex_id` (string) or `openalex_ids` (list) add OpenAlex author entity IDs
+  to query alongside the ORCID; `pubmed_term` overrides the audit's derived
+  author term (surname plus first initials), for example `"Hall PS[Author]"`;
+  `_note` is free text for why an override exists.
 - `.github/workflows/build.yml`: runs both scripts daily and on demand, updates
   the standing GitHub Review issue when new candidates are found, then commits
   the outputs.
-- `publications.json`, `candidates.json`, `candidates_for_review.md`: generated
-  and committed outputs. Do not edit by hand.
+- `.github/workflows/audit.yml`: runs the PubMed audit monthly on the 1st and on
+  demand. Dispatch inputs `write_zotero` (boolean, default false) and `max_add`.
+  Scheduled runs never write to Zotero. Commits the two reports and writes the
+  top of the markdown to the run summary.
+- `publications.json`, `candidates.json`, `candidates_for_review.md`,
+  `audit_findings.json`, `audit_for_review.md`: generated and committed outputs.
+  Do not edit by hand.
 - The WordPress plugin is not in this repo. It lives on the WordPress server and
   only reads `publications.json`.
 
@@ -57,7 +81,11 @@ All configuration is via GitHub Actions secrets, never in code:
 - `ZOTERO_COLLECTION_ID` = `X3G67CXM`
 - `ZOTERO_REVIEW_COLLECTION_ID` = `69RXNW6D`
 - `ZOTERO_REJECTED_COLLECTION_ID` = `5DCC26JV`
-- `OPENALEX_MAILTO`: an email address, for the OpenAlex polite pool.
+- `OPENALEX_MAILTO`: an email address, for the OpenAlex polite pool. The audit
+  also sends it to NCBI E-utilities as the contact address.
+- `NCBI_API_KEY` (optional): raises the E-utilities rate limit from 3 to 10
+  requests per second for the audit. Create one under Account settings at
+  https://account.ncbi.nlm.nih.gov/.
 
 The group ID `4536042` is public and is set directly in the workflow and scripts.
 The workflow also uses the built-in GitHub Actions `GITHUB_TOKEN` with
@@ -90,7 +118,19 @@ OPENALEX_MAILTO=you@example.org ZOTERO_COLLECTION_ID=X3G67CXM \
 ```
 
 Use a recent `SINCE_YEAR` when testing so you do not pull the whole
-back-catalogue into Review.
+back-catalogue into Review. To test discovery without writing, leave
+`ZOTERO_API_KEY` unset but keep `ZOTERO_REVIEW_COLLECTION_ID` set, so that
+items already in Review are still deduplicated.
+
+Audit (dry run unless `AUDIT_WRITE_ZOTERO=1`):
+
+```
+OPENALEX_MAILTO=you@example.org ZOTERO_COLLECTION_ID=X3G67CXM \
+  ZOTERO_REVIEW_COLLECTION_ID=69RXNW6D ZOTERO_REJECTED_COLLECTION_ID=5DCC26JV \
+  python scripts/audit_pubmed.py
+```
+
+Read `audit_for_review.md` before ever turning writing on.
 
 ## Fresh Review rebuilds
 
@@ -121,7 +161,29 @@ Each publication: `zotero_key`, `item_type`, `title`, `authors` (a list of
 
 - Dedup must match on title as well as DOI. Some Zotero items have no DOI, and a
   DOI-only check re-adds them from OpenAlex as duplicates. This has already
-  happened once and produced a large number of duplicate records.
+  happened once and produced a large number of duplicate records. Discovery and
+  the audit both match on normalised title (exact, then difflib at 0.92).
+- An ORCID in `authors.json` guarantees nothing. OpenAlex's `author.orcid`
+  filter matches the ORCID on its own author entity, not the ORCID in the
+  Crossref deposit or the person's ORCID record. If OpenAlex attaches a paper to
+  an entity with a null `orcid`, discovery never sees it and no error is raised.
+  A blind run and a quiet month look identical. To diagnose a missing paper,
+  fetch the work from OpenAlex and check the `orcid` of each author entity in
+  its `authorships`. The fix for a correct but unlinked entity is an
+  `openalex_id`. Do not add orphan split entities (for example a stray "P Hall")
+  without checking them; they are volatile and can be conflated with namesakes.
+  The PubMed audit is the safety net for splits.
+- After any change to discovery or `authors.json`, read the per-author table at
+  the foot of `candidates_for_review.md`. A row of zeros means discovery is
+  blind for that person.
+- A 429 from OpenAlex can mean a spent daily budget, not a rate limit. OpenAlex
+  meters access and says so in the 429 body. Discovery raises
+  `OpenAlexBudgetExhausted` and fails the run rather than backing off and
+  reporting nothing.
+- The PubMed audit uses broad author terms on purpose. Single initials pull in
+  namesakes (a different L Ng, for example), but narrowing Peter Hall to
+  `Hall PS` would lose more of his own papers than it saves. Triage the report
+  by hand and give obvious offenders an explicit `pubmed_term`.
 - OpenAlex author clustering is unreliable. It mixes our Peter Hall with an
   unrelated urban planner of the same name. This is why discovery feeds a human
   review step rather than the page directly. Never wire OpenAlex straight to the
