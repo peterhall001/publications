@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-16T11:52:44+00:00",
+  "generated_at": "2026-09-17T11:55:49+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3507"
+    "zotero_library_version": "3514"
   },
-  "count": 184,
+  "count": 185,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -774,7 +774,7 @@
       "doi": "10.1007/s11136-025-04103-w",
       "url": "https://doi.org/10.1007/s11136-025-04103-w",
       "doi_source": "zotero",
-      "cited_by_count": 0,
+      "cited_by_count": 1,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s11136-025-04103-w.pdf",
       "enriched": true
@@ -1739,6 +1739,33 @@
       "enriched": true
     },
     {
+      "zotero_key": "KJPF4RFB",
+      "item_type": "journalArticle",
+      "title": "The End of ‘Pay-and-Hope’: Managing Accelerated Approvals with Outcomes-Based Reimbursement in the Era of Routinely Collected Health Data",
+      "authors": [
+        {
+          "family": "Tramonti",
+          "given": "Giovanni"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        }
+      ],
+      "year": "2026",
+      "venue": "PharmacoEconomics",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1007/s40273-026-01646-9",
+      "url": "https://doi.org/10.1007/s40273-026-01646-9",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-026-01646-9.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "PJDNSN4K",
       "item_type": "journalArticle",
       "title": "Understanding retention in radiation oncology: qualitative findings from an international workforce survey",
@@ -2200,7 +2227,7 @@
       "doi": "10.1016/j.jaccao.2025.06.003",
       "url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "enriched": true
@@ -2408,7 +2435,7 @@
       "doi": "10.1186/s13058-025-02012-x",
       "url": "https://doi.org/10.1186/s13058-025-02012-x",
       "doi_source": "zotero",
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "is_oa": true,
       "oa_url": "https://breast-cancer-research.biomedcentral.com/counter/pdf/10.1186/s13058-025-02012-x",
       "enriched": true
@@ -5818,7 +5845,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 231,
+      "cited_by_count": 232,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -6562,7 +6589,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 84,
+      "cited_by_count": 85,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -9090,7 +9117,7 @@
       "doi": "10.1001/jamaoncol.2021.0848",
       "url": "https://doi.org/10.1001/jamaoncol.2021.0848",
       "doi_source": "zotero",
-      "cited_by_count": 199,
+      "cited_by_count": 201,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2780033/jamaoncology_hall_2021_oi_210009_1624469496.87358.pdf",
       "enriched": true
@@ -9388,7 +9415,7 @@
       "doi": "10.3389/fnut.2021.734735",
       "url": "https://doi.org/10.3389/fnut.2021.734735",
       "doi_source": "zotero",
-      "cited_by_count": 53,
+      "cited_by_count": 54,
       "is_oa": true,
       "oa_url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.734735/pdf",
       "enriched": true
@@ -13191,7 +13218,7 @@
       "doi_source": "zotero",
       "cited_by_count": 106,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/files/29421148/P_Hall_D_Cameron_annals_of_onc.pdf",
+      "oa_url": "https://doi.org/10.1093/annonc/mdw665",
       "enriched": true
     },
     {
@@ -13521,7 +13548,7 @@
       "doi_source": "zotero",
       "cited_by_count": 48,
       "is_oa": true,
-      "oa_url": "https://research.birmingham.ac.uk/en/publications/daa60c5c-b62b-48b6-a91d-9d35b90ce39d",
+      "oa_url": "https://doi.org/10.1016/j.jval.2017.04.021",
       "enriched": true
     },
     {
@@ -13999,7 +14026,7 @@
       "doi": "10.1056/nejmoa1514493",
       "url": "https://doi.org/10.1056/nejmoa1514493",
       "doi_source": "zotero",
-      "cited_by_count": 639,
+      "cited_by_count": 640,
       "is_oa": true,
       "oa_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1514493?articleTools=true",
       "enriched": true

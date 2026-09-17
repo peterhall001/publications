@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:53:02+00:00",
+  "generated_at": "2026-09-17T11:56:09+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,195 +22,8 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 3,
-  "candidates": [
-    {
-      "doi": "10.1007/s40273-026-01646-9",
-      "title": "The End of ‘Pay-and-Hope’: Managing Accelerated Approvals with Outcomes-Based Reimbursement in the Era of Routinely Collected Health Data",
-      "year": 2026,
-      "venue": "PharmacoEconomics",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "cited_by_count": 0,
-      "authors": [
-        "Giovanni Tramonti",
-        "P Hall"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Giovanni Tramonti"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Giovanni",
-          "lastName": "Tramonti"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        }
-      ]
-    },
-    {
-      "doi": "10.1016/j.annonc.2025.08.789",
-      "title": "363P UK real-world risk of recurrence by nodal status in patients with node-positive HR+, HER2- early breast cancer (EBC)",
-      "year": 2025,
-      "venue": "Annals of Oncology",
-      "volume": "36",
-      "issue": "",
-      "pages": "S334-S335",
-      "cited_by_count": 0,
-      "authors": [
-        "P.S. Hall",
-        "M. Vallet",
-        "Giovanni Tramonti",
-        "Rachel Jarvis",
-        "W. Badreldin",
-        "K.A. Luttropp",
-        "Carol A. Casey",
-        "E. Bolton",
-        "Sarah H. Cheeseman"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Giovanni Tramonti"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "P.S.",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M.",
-          "lastName": "Vallet"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "G.",
-          "lastName": "Tramonti"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "R.S.",
-          "lastName": "Jarvis"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "W.",
-          "lastName": "Badreldin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "K.A.",
-          "lastName": "Luttropp"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Casey"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "E.",
-          "lastName": "Bolton"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S.",
-          "lastName": "Cheeseman"
-        }
-      ]
-    },
-    {
-      "doi": "10.1016/j.clon.2021.11.009",
-      "title": "Defining Biochemical Cure After Low Dose Rate Prostate Brachytherapy: External Validation of 4-year Prostate-specific Antigen Nadir as a Predictor of 10- and 15-year Disease-free Survival",
-      "year": 2022,
-      "venue": "Clinical Oncology",
-      "volume": "34",
-      "issue": "1",
-      "pages": "42-49",
-      "cited_by_count": 9,
-      "authors": [
-        "David J. Noble",
-        "Elizabeth A. Doyle",
-        "Giovanni Tramonti",
-        "A. Law",
-        "Aravindhan Sundaramurthy",
-        "J Brush",
-        "Julian Keanie",
-        "Christopher Wood",
-        "P. Drewell",
-        "W. Keough",
-        "Duncan B. McLaren"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Giovanni Tramonti"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "D.J.",
-          "lastName": "Noble"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "E.",
-          "lastName": "Doyle"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "G.",
-          "lastName": "Tramonti"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A.B.",
-          "lastName": "Law"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A.",
-          "lastName": "Sundaramurthy"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.P.",
-          "lastName": "Brush"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.",
-          "lastName": "Keanie"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Wood"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P.",
-          "lastName": "Drewell"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "W.",
-          "lastName": "Keough"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "D.B.",
-          "lastName": "McLaren"
-        }
-      ]
-    }
-  ],
+  "count": 0,
+  "candidates": [],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -276,8 +89,8 @@
         "orcid": 0,
         "openalex_id:A5019431269": 9
       },
-      "already_filed": 6,
-      "new_candidates": 3,
+      "already_filed": 9,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Piyumanga Karunaratne": {
