@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-17T11:55:49+00:00",
+  "generated_at": "2026-09-18T11:32:52+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -4722,7 +4722,7 @@
       "doi": "10.1136/bmjspcare-2020-002630",
       "url": "https://doi.org/10.1136/bmjspcare-2020-002630",
       "doi_source": "zotero",
-      "cited_by_count": 58,
+      "cited_by_count": 59,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2020/12/01/bmjspcare-2020-002630.full.pdf",
       "enriched": true
@@ -13731,7 +13731,7 @@
       "doi": "10.1093/jnci/djw050",
       "url": "https://doi.org/10.1093/jnci/djw050",
       "doi_source": "zotero",
-      "cited_by_count": 216,
+      "cited_by_count": 217,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/jnci/article-pdf/108/9/djw050/24366498/djw050.pdf",
       "enriched": true
