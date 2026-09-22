@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-21T13:04:59+00:00",
+  "generated_at": "2026-09-22T11:54:35+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -5845,7 +5845,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 232,
+      "cited_by_count": 233,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -7665,7 +7665,7 @@
       "doi": "10.1016/j.vaccine.2021.11.017",
       "url": "https://doi.org/10.1016/j.vaccine.2021.11.017",
       "doi_source": "zotero",
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "http://hdl.handle.net/10072/411254",
       "enriched": true
@@ -12189,7 +12189,7 @@
       "doi": "10.1373/clinchem.2018.300954",
       "url": "https://doi.org/10.1373/clinchem.2018.300954",
       "doi_source": "zotero",
-      "cited_by_count": 41,
+      "cited_by_count": 42,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/clinchem/article-pdf/65/11/1363/33851257/clinchem1363.pdf",
       "enriched": true
