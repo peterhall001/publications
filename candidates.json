@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:55:00+00:00",
+  "generated_at": "2026-09-23T11:54:36+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,929 +22,23 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 18,
+  "count": 2,
   "candidates": [
     {
-      "doi": "10.3310/gjhp2321",
-      "title": "Intravenous lidocaine for gastrointestinal recovery after colorectal surgery: the ALLEGRO placebo-controlled randomised trial and cost-effectiveness analysis",
+      "doi": "10.1002/pon.70529",
+      "title": "Mental Health Outcomes Among Long‐Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population‐Based Cohort Study",
       "year": 2026,
-      "venue": "Health Technology Assessment",
-      "volume": "30",
-      "issue": "19",
-      "pages": "1-51",
-      "cited_by_count": 1,
-      "authors": [
-        "Hugh Paterson",
-        "Thenmalar Vadiveloo",
-        "Karen Innes",
-        "Angie Balfour",
-        "Marek Atter",
-        "Andrew Stoddart",
-        "Seonaidh C. Cotton",
-        "Robert Arnott",
-        "Lorna S. Aucott",
-        "Zoe Batham",
-        "Irwin T.H. Foo",
-        "Graeme MacLennan",
-        "Susan M. Nimmo",
-        "Doug Speake",
-        "John D. Norrie"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Marek Atter"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Hugh",
-          "lastName": "Paterson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Thenmalar",
-          "lastName": "Vadiveloo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Karen",
-          "lastName": "Innes"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Angie",
-          "lastName": "Balfour"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Marek",
-          "lastName": "Atter"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew",
-          "lastName": "Stoddart"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Seonaidh",
-          "lastName": "Cotton"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Robert",
-          "lastName": "Arnott"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lorna",
-          "lastName": "Aucott"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Zoe",
-          "lastName": "Batham"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Irwin",
-          "lastName": "Foo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Graeme",
-          "lastName": "MacLennan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Susan",
-          "lastName": "Nimmo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Doug",
-          "lastName": "Speake"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "John",
-          "lastName": "Norrie"
-        }
-      ]
-    },
-    {
-      "doi": "10.1093/annweh/wxag024.121",
-      "title": "135 Chrysotile asbestos accelerates tumour development in mouse models of mesothelioma and lung cancer",
-      "year": 2026,
-      "venue": "Annals of Work Exposures and Health",
-      "volume": "70",
-      "issue": "Supplement_1",
-      "pages": "wxag024.121",
+      "venue": "Psycho-Oncology",
+      "volume": "35",
+      "issue": "6",
+      "pages": "e70529",
       "cited_by_count": 0,
       "authors": [
-        "Pooyeh Farahmand",
-        "Sarah Laing",
-        "Jennifer Doig",
-        "Danielle McKinven",
-        "Shahnawaz Ali",
-        "Peter Hall",
-        "Rodger Duffin",
-        "Daniel J. Murphy"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Pooyeh",
-          "lastName": "Farahmand"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sarah",
-          "lastName": "Laing"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jennifer",
-          "lastName": "Doig"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Danielle",
-          "lastName": "McKinven"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Shahnawaz",
-          "lastName": "Ali"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Rodger",
-          "lastName": "Duffin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel J",
-          "lastName": "Murphy"
-        }
-      ]
-    },
-    {
-      "doi": "10.3310/gjmf3819",
-      "title": "Comparing the effectiveness, cost-effectiveness and implementation of low-dose oral modified release morphine in people with chronic breathlessness: a synopsis of a RCT and process evaluation",
-      "year": 2026,
-      "venue": "Health Technology Assessment",
-      "volume": "30",
-      "issue": "37",
-      "pages": "1-30",
-      "cited_by_count": 0,
-      "authors": [
-        "Miriam J Johnson",
-        "Bronwen Williams",
-        "Catriona Keerie",
-        "Sharon Tuck",
-        "Simon P Hart",
-        "Sabrina Bajwah",
-        "Nazia Chaudhuri",
-        "Mark Pearson",
-        "Judith Cohen",
-        "Rachael A Evans",
-        "David C Currow",
-        "Irene J Higginson",
-        "Peter S. Hall",
-        "Marek Atter",
-        "John D. Norrie",
-        "Charlotte Thompson",
-        "Chao Huang",
-        "Lukáš Pitel",
-        "Annie Jones",
-        "Gareth Stewart",
-        "Marie Fallon"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall",
-        "Marek Atter"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Miriam J",
-          "lastName": "Johnson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Bronwen",
-          "lastName": "Williams"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Catriona",
-          "lastName": "Keerie"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sharon",
-          "lastName": "Tuck"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Simon P",
-          "lastName": "Hart"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sabrina",
-          "lastName": "Bajwah"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Nazia",
-          "lastName": "Chaudhuri"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mark",
-          "lastName": "Pearson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Judith",
-          "lastName": "Cohen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Rachael A",
-          "lastName": "Evans"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "David C",
-          "lastName": "Currow"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Irene J",
-          "lastName": "Higginson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter S",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Marek",
-          "lastName": "Atter"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "John",
-          "lastName": "Norrie"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Charlotte",
-          "lastName": "Thompson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Chao",
-          "lastName": "Huang"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lukas",
-          "lastName": "Pitel"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Annie",
-          "lastName": "Jones"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Gareth",
-          "lastName": "Stewart"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Marie T",
-          "lastName": "Fallon"
-        }
-      ]
-    },
-    {
-      "doi": "10.3310/gjjd0722",
-      "title": "Mammographic surveillance in breast cancer patients aged 50 years or older: a synopsis of the Mammo-50 RCT",
-      "year": 2026,
-      "venue": "Health Technology Assessment",
-      "volume": "30",
-      "issue": "38",
-      "pages": "1-15",
-      "cited_by_count": 0,
-      "authors": [
-        "Janet Dunn",
-        "Peter Donnelly",
-        "Andrea Marshall",
-        "Nada Elbeltagi",
-        "Amy Hopkins",
-        "Maria Ramirez",
-        "Alastair Thompson",
-        "Riccardo Audisio",
-        "Sarah Pinder",
-        "David Cameron",
-        "Sue Hartup",
-        "Maggie Wilcox",
-        "Lesley Turner",
-        "Annie Young",
-        "Helen Higgins",
-        "Eila Watson",
-        "Sophie Gasson",
-        "Peter J. Barrett-Lee",
-        "Claire Hulme",
-        "Bethany Shinkins",
-        "Peter Hall",
-        "Andrew Evans"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Janet",
-          "lastName": "Dunn"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter",
-          "lastName": "Donnelly"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrea",
-          "lastName": "Marshall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Nada",
-          "lastName": "Elbeltagi"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Amy",
-          "lastName": "Hopkins"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Maria",
-          "lastName": "Ramirez"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Alastair",
-          "lastName": "Thompson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Riccardo",
-          "lastName": "Audisio"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sarah",
-          "lastName": "Pinder"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "David",
-          "lastName": "Cameron"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sue",
-          "lastName": "Hartup"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Maggie",
-          "lastName": "Wilcox"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lesley",
-          "lastName": "Turner"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Annie",
-          "lastName": "Young"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Helen",
-          "lastName": "Higgins"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Eila",
-          "lastName": "Watson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sophie",
-          "lastName": "Gasson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter",
-          "lastName": "Barrett-Lee"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Claire",
-          "lastName": "Hulme"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Bethany",
-          "lastName": "Shinkins"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew",
-          "lastName": "Evans"
-        }
-      ]
-    },
-    {
-      "doi": "10.1016/j.esmoop.2026.107197",
-      "title": "243P Real world data: Study of neoadjuvant endocrine therapy for early ER+ breast cancer: Clinical response rates, clinical predictors of response and median 15-year long-term outcomes following breast conserving surgery",
-      "year": 2026,
-      "venue": "ESMO Open",
-      "volume": "11",
-      "issue": "",
-      "pages": "107197",
-      "cited_by_count": 0,
-      "authors": [
-        "A. Turnbull",
-        "C. Kay",
-        "C. Martinez-perez",
-        "R. Swan",
-        "Peter S. Hall",
-        "L. Renshaw",
-        "J. Michael Dixon"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "A.",
-          "lastName": "Turnbull"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Kay"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Martinez-perez"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "R.",
-          "lastName": "Swan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P.S.",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "L.",
-          "lastName": "Renshaw"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.M.",
-          "lastName": "Dixon"
-        }
-      ]
-    },
-    {
-      "doi": "10.1001/jamaoncol.2026.2833",
-      "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer",
-      "year": 2026,
-      "venue": "JAMA Oncology",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "cited_by_count": 0,
-      "authors": [
-        "Niamh Cunningham",
-        "Rosalind J. Cutts",
-        "Claire Swift",
-        "Maria Coakley",
-        "Prithika Sritharan",
-        "Kathryn Dunne",
-        "Monisha Dewan",
-        "Lucy Kilburn",
-        "Katie Goddard",
-        "Peter Hall",
-        "CATHERINE HARPER-WYNNE",
-        "Iain R. Macpherson",
-        "Alicia Okines",
-        "Andrew Wardley",
-        "Simon Waters",
-        "Carlo Palmieri",
-        "Matthew Winter",
-        "Judith Bliss",
-        "Isaac García-Murillas",
-        "Nicholas C. Turner"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Niamh",
-          "lastName": "Cunningham"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Rosalind J.",
-          "lastName": "Cutts"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Claire",
-          "lastName": "Swift"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Maria",
-          "lastName": "Coakley"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Prithika",
-          "lastName": "Sritharan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Kathryn",
-          "lastName": "Dunne"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Monisha",
-          "lastName": "Dewan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lucy",
-          "lastName": "Kilburn"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Katie",
-          "lastName": "Goddard"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Catherine",
-          "lastName": "Harper-Wynne"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Iain R.",
-          "lastName": "Macpherson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Alicia",
-          "lastName": "Okines"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew",
-          "lastName": "Wardley"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Simon",
-          "lastName": "Waters"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Carlo",
-          "lastName": "Palmieri"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Matthew",
-          "lastName": "Winter"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Judith",
-          "lastName": "Bliss"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Isaac",
-          "lastName": "Garcia-Murillas"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Nicholas C.",
-          "lastName": "Turner"
-        }
-      ]
-    },
-    {
-      "doi": "10.5281/zenodo.19605439",
-      "title": "MRC Biomedical Data Science Leadership Awards Brochure",
-      "year": 2026,
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "cited_by_count": 0,
-      "authors": [
-        "Biomedical Data Science Leadership Awards Cluster Project",
-        "Claudio Angione",
-        "Denise Bianco",
-        "Cath Brooksbank",
-        "Eva Caamaño‐Gutiérrez",
-        "Sarah Cadman",
-        "Tanita Casci",
-        "Simon Cockell",
-        "Luisa Cutillo",
-        "Paul Davies",
-        "Beth Deja",
-        "Alastair Droop",
-        "Mark Dunning",
-        "Rachel E. Etherington",
-        "Anthony Evans",
-        "David Gavaghan",
-        "Charlotte George",
-        "Kim Gurwitz",
-        "Marlous Hall",
-        "Jane Hillston",
-        "David Hughes",
-        "Mark Iles",
-        "Al Ivens",
-        "Emily Johnson",
-        "Andy Jones",
-        "Emma Karoune",
-        "Ava Khamseh",
-        "Eirini Koutsouroupa",
-        "Alison Marsh",
-        "Vera Matser",
-        "Christina McDonald",
-        "Colin Mclean",
-        "Suparna Mitra",
-        "Hollydawn Murray",
-        "Andrew Naracott",
-        "Kylie Norman",
-        "Chris Paul Ponting",
-        "Samuel Relton",
-        "Jessica Shilton",
-        "David Sims",
-        "Daria Sokolova",
-        "Giulia Tomba",
-        "Rosie Wakeham",
-        "David R. Westhead",
-        "Kim Wright",
-        "Inna Yaneva-Toraman",
-        "Amonida Zadissa"
-      ],
-      "metadata_source": "openalex",
-      "matched_authors": [
-        "Colin McLean"
-      ]
-    },
-    {
-      "doi": "10.5281/zenodo.19605440",
-      "title": "MRC Biomedical Data Science Leadership Awards Brochure",
-      "year": 2026,
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "cited_by_count": 0,
-      "authors": [
-        "Biomedical Data Science Leadership Awards Cluster Project",
-        "Claudio Angione",
-        "Denise Bianco",
-        "Cath Brooksbank",
-        "Eva Caamaño‐Gutiérrez",
-        "Sarah Cadman",
-        "Tanita Casci",
-        "Simon Cockell",
-        "Luisa Cutillo",
-        "Paul Davies",
-        "Beth Deja",
-        "Alastair Droop",
-        "Mark Dunning",
-        "Rachel E. Etherington",
-        "Anthony Evans",
-        "David Gavaghan",
-        "Charlotte George",
-        "Kim Gurwitz",
-        "Marlous Hall",
-        "Jane Hillston",
-        "David Hughes",
-        "Mark Iles",
-        "Al Ivens",
-        "Emily Johnson",
-        "Andy Jones",
-        "Emma Karoune",
-        "Ava Khamseh",
-        "Eirini Koutsouroupa",
-        "Alison Marsh",
-        "Vera Matser",
-        "Christina McDonald",
-        "Colin Mclean",
-        "Suparna Mitra",
-        "Hollydawn Murray",
-        "Andrew Naracott",
-        "Kylie Norman",
-        "Chris Paul Ponting",
-        "Samuel Relton",
-        "Jessica Shilton",
-        "David Sims",
-        "Daria Sokolova",
-        "Giulia Tomba",
-        "Rosie Wakeham",
-        "David R. Westhead",
-        "Kim Wright",
-        "Inna Yaneva-Toraman",
-        "Amonida Zadissa"
-      ],
-      "metadata_source": "openalex",
-      "matched_authors": [
-        "Colin McLean"
-      ]
-    },
-    {
-      "doi": "10.1093/eurheartj/ehaf784.348",
-      "title": "Cardiac fibroblast activation in anthracycline related cardiac injury",
-      "year": 2025,
-      "venue": "European Heart Journal",
-      "volume": "46",
-      "issue": "Supplement_1",
-      "pages": "ehaf784.348",
-      "cited_by_count": 0,
-      "authors": [
-        "T Ramtoola",
-        "Krithika Loganath",
-        "N Craig",
-        "Menaka Mahendran",
-        "Anna Kate Barton",
-        "S Joshi",
-        "Andrew David Morgan",
-        "E Van De Beek",
-        "K Gibson",
-        "Peter S. Hall",
-        "O Oikinomidou",
-        "Piotr J Slomka",
-        "Peter A. Henriksen",
-        "D E Newby",
-        "Marc Richard Dweck"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "T",
-          "lastName": "Ramtoola"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "K",
-          "lastName": "Loganath"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "N",
-          "lastName": "Craig"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M",
-          "lastName": "Mahendran"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A",
-          "lastName": "Barton"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S",
-          "lastName": "Joshi"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A",
-          "lastName": "Morgan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "E",
-          "lastName": "Van De Beek"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "K",
-          "lastName": "Gibson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "O",
-          "lastName": "Oikinomidou"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P",
-          "lastName": "Slomka"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P",
-          "lastName": "Henriksen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "D E",
-          "lastName": "Newby"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M",
-          "lastName": "Dweck"
-        }
-      ]
-    },
-    {
-      "doi": "10.1038/s41598-021-88945-7",
-      "title": "A unified resource and configurable model of the synapse proteome and its role in disease",
-      "year": 2021,
-      "venue": "Scientific Reports",
-      "volume": "11",
-      "issue": "1",
-      "pages": "9967",
-      "cited_by_count": 52,
-      "authors": [
-        "Oksana Sorokina",
-        "Colin Mclean",
-        "Mike D. R. Croning",
-        "Katharina F. Heil",
-        "Emilia Wysocka",
-        "Xin He",
-        "David C. Sterratt",
-        "Seth G. N. Grant",
-        "T. Ian Simpson",
-        "J. Douglas Armstrong"
+        "Emanuela Molinari",
+        "Colin McLean",
+        "Ines Mesa‐Eguiagaray",
+        "SH Wild",
+        "Peter S. Hall"
       ],
       "metadata_source": "crossref+openalex",
       "matched_authors": [
@@ -953,419 +47,166 @@
       "creators": [
         {
           "creatorType": "author",
-          "firstName": "Oksana",
-          "lastName": "Sorokina"
+          "firstName": "Emanuela",
+          "lastName": "Molinari"
         },
         {
           "creatorType": "author",
           "firstName": "Colin",
-          "lastName": "Mclean"
+          "lastName": "McLean"
         },
         {
           "creatorType": "author",
-          "firstName": "Mike D. R.",
-          "lastName": "Croning"
+          "firstName": "Ines",
+          "lastName": "Mesa‐Eguiagaray"
         },
         {
           "creatorType": "author",
-          "firstName": "Katharina F.",
-          "lastName": "Heil"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Emilia",
-          "lastName": "Wysocka"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Xin",
-          "lastName": "He"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "David",
-          "lastName": "Sterratt"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Seth G. N.",
-          "lastName": "Grant"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "T. Ian",
-          "lastName": "Simpson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J. Douglas",
-          "lastName": "Armstrong"
-        }
-      ]
-    },
-    {
-      "doi": "10.1109/tap.2017.2740969",
-      "title": "Wideband Frequency-Domain and Space-Domain Pattern Reconfigurable Circular Antenna Array",
-      "year": 2017,
-      "venue": "IEEE Transactions on Antennas and Propagation",
-      "volume": "65",
-      "issue": "10",
-      "pages": "5179-5189",
-      "cited_by_count": 32,
-      "authors": [
-        "Zhengpeng Wang",
-        "Peter S Hall",
-        "James Robert Kelly",
-        "Peter Gardner"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Zhengpeng",
-          "lastName": "Wang"
+          "firstName": "Sarah H.",
+          "lastName": "Wild"
         },
         {
           "creatorType": "author",
           "firstName": "Peter S.",
           "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "James R.",
-          "lastName": "Kelly"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter",
-          "lastName": "Gardner"
         }
       ]
     },
     {
-      "doi": "10.1007/s00339-016-9914-0",
-      "title": "Planar textile antennas with artificial magnetic conductor for body-centric communications",
-      "year": 2016,
-      "venue": "Applied Physics A",
-      "volume": "122",
-      "issue": "4",
-      "pages": "363",
-      "cited_by_count": 32,
-      "authors": [
-        "Kamilia Kamardin",
-        "M. K. A. Rahim",
-        "Peter S Hall",
-        "Noor Asmawati Samsuri",
-        "Tarik Abdul Latef",
-        "Mohammad Habib Ullah"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Kamilia",
-          "lastName": "Kamardin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mohamad Kamal A.",
-          "lastName": "Rahim"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Noor Asmawati",
-          "lastName": "Samsuri"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tarik Abdul",
-          "lastName": "Latef"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mohammad Habib",
-          "lastName": "Ullah"
-        }
-      ]
-    },
-    {
-      "doi": "10.1007/s00339-016-9912-2",
-      "title": "Textile artificial magnetic conductor jacket for transmission enhancement between antennas under bending and wetness measurements",
-      "year": 2016,
-      "venue": "Applied Physics A",
-      "volume": "122",
-      "issue": "4",
-      "pages": "423",
-      "cited_by_count": 10,
-      "authors": [
-        "Kamilia Kamardin",
-        "M. K. A. Rahim",
-        "Peter S Hall",
-        "Noor Asmawati Samsuri",
-        "Tarik Abdul Latef",
-        "Mohammad Habib Ullah"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Kamilia",
-          "lastName": "Kamardin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mohamad Kamal A.",
-          "lastName": "Rahim"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Noor Asmawati",
-          "lastName": "Samsuri"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tarik Abdul",
-          "lastName": "Latef"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mohammad Habib",
-          "lastName": "Ullah"
-        }
-      ]
-    },
-    {
-      "doi": "10.1109/tap.2014.2387871",
-      "title": "Miniaturized Double-Layer EBG Structures for Broadband Mutual Coupling Reduction Between UWB Monopoles",
-      "year": 2015,
-      "venue": "IEEE Transactions on Antennas and Propagation",
-      "volume": "63",
+      "doi": "10.1016/j.ijrobp.2022.07.1490",
+      "title": "Final Results of an International Delphi Consensus Study Regarding the Optimal Management of Radiation Pneumonitis",
+      "year": 2022,
+      "venue": "International Journal of Radiation Oncology*Biology*Physics",
+      "volume": "114",
       "issue": "3",
-      "pages": "1168-1171",
-      "cited_by_count": 210,
+      "pages": "e364-e365",
+      "cited_by_count": 0,
       "authors": [
-        "Qian Li",
-        "Alexandros P. Feresidis",
-        "Marina Mavridou",
-        "Peter S Hall"
+        "Indu S. Voruganti",
+        "C.A.E. Cunningham",
+        "L. McLeod",
+        "N. Chaudhuri",
+        "K.L.M. Chua",
+        "M. Evison",
+        "C. Faivre-Finn",
+        "K.N. Franks",
+        "S. Harden",
+        "J. Kruser",
+        "T. Kruser",
+        "P. Lee",
+        "C. Peedell",
+        "I. Phillips",
+        "C.G. Robinson",
+        "S. Senan",
+        "G.M. Videtic",
+        "A. Wright",
+        "S. Harrow",
+        "A.V. Louie"
       ],
       "metadata_source": "crossref+openalex",
       "matched_authors": [
-        "Peter Hall"
+        "Iain Phillips"
       ],
       "creators": [
         {
           "creatorType": "author",
-          "firstName": "Qian",
-          "lastName": "Li"
+          "firstName": "I.S.",
+          "lastName": "Voruganti"
         },
         {
           "creatorType": "author",
-          "firstName": "Alexandros P.",
-          "lastName": "Feresidis"
+          "firstName": "C.A.E.",
+          "lastName": "Cunningham"
         },
         {
           "creatorType": "author",
-          "firstName": "Marina",
-          "lastName": "Mavridou"
+          "firstName": "L.",
+          "lastName": "McLeod"
         },
         {
           "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        }
-      ]
-    },
-    {
-      "doi": "10.1049/iet-map.2014.0530",
-      "title": "Dual‐slot feeding technique for broadband Fabry–Perot cavity antennas",
-      "year": 2015,
-      "venue": "IET Microwaves, Antennas &amp; Propagation",
-      "volume": "9",
-      "issue": "9",
-      "pages": "861-866",
-      "cited_by_count": 22,
-      "authors": [
-        "Konstantinos Konstantinidis",
-        "Alexandros P. Feresidis",
-        "Peter S Hall"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Konstantinos",
-          "lastName": "Konstantinidis"
+          "firstName": "N.",
+          "lastName": "Chaudhuri"
         },
         {
           "creatorType": "author",
-          "firstName": "Alexandros P.",
-          "lastName": "Feresidis"
+          "firstName": "K.L.M.",
+          "lastName": "Chua"
         },
         {
           "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        }
-      ]
-    },
-    {
-      "doi": "10.1109/tap.2015.2465856",
-      "title": "Interuser Interference in Adjacent Wireless Body Area Networks",
-      "year": 2015,
-      "venue": "IEEE Transactions on Antennas and Propagation",
-      "volume": "63",
-      "issue": "10",
-      "pages": "4496-4504",
-      "cited_by_count": 21,
-      "authors": [
-        "Xianyue Wu",
-        "Y.I. Nechayev",
-        "Costas Constantinou",
-        "Peter S Hall"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Xianyue",
-          "lastName": "Wu"
+          "firstName": "M.",
+          "lastName": "Evison"
         },
         {
           "creatorType": "author",
-          "firstName": "Yuriy I.",
-          "lastName": "Nechayev"
+          "firstName": "C.",
+          "lastName": "Faivre-Finn"
         },
         {
           "creatorType": "author",
-          "firstName": "Costas C.",
-          "lastName": "Constantinou"
+          "firstName": "K.N.",
+          "lastName": "Franks"
         },
         {
           "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        }
-      ]
-    },
-    {
-      "doi": "10.13164/re.2015.0729",
-      "title": "Textile Diamond Dipole and Artificial Magnetic Conductor Performance under Bending, Wetness and Specific Absorption Rate Measurements",
-      "year": 2015,
-      "venue": "Radioengineering",
-      "volume": "24",
-      "issue": "3",
-      "pages": "729-738",
-      "cited_by_count": 14,
-      "authors": [
-        "Kamilia Kamardin",
-        "M. K. A. Rahim",
-        "Peter S Hall",
-        "Noor Asmawati Samsuri",
-        "M. E. Jalil",
-        "Mohd Fareq Abd Malek"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "K.",
-          "lastName": "Kamardin"
+          "firstName": "S.",
+          "lastName": "Harden"
         },
         {
           "creatorType": "author",
-          "firstName": "M. K. A.",
-          "lastName": "Rahim"
+          "firstName": "J.",
+          "lastName": "Kruser"
         },
         {
           "creatorType": "author",
-          "firstName": "P. S.",
-          "lastName": "Hall"
+          "firstName": "T.",
+          "lastName": "Kruser"
         },
         {
           "creatorType": "author",
-          "firstName": "N. A.",
-          "lastName": "Samsuri"
+          "firstName": "P.",
+          "lastName": "Lee"
         },
         {
           "creatorType": "author",
-          "firstName": "M. E.",
-          "lastName": "Jalil"
+          "firstName": "C.",
+          "lastName": "Peedell"
         },
         {
           "creatorType": "author",
-          "firstName": "M. F.",
-          "lastName": "Abd Malek"
-        }
-      ]
-    },
-    {
-      "doi": "10.1049/el.2014.3955",
-      "title": "Vertical and horizontal transmission enhancement between antennas using textile artificial magnetic conductor waveguide sheet",
-      "year": 2015,
-      "venue": "Electronics Letters",
-      "volume": "51",
-      "issue": "9",
-      "pages": "671-673",
-      "cited_by_count": 7,
-      "authors": [
-        "Kamilia Kamardin",
-        "M. K. A. Rahim",
-        "Peter S Hall",
-        "Noor Asmawati Samsuri"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "K.",
-          "lastName": "Kamardin"
+          "firstName": "I.",
+          "lastName": "Phillips"
         },
         {
           "creatorType": "author",
-          "firstName": "M.K.A.",
-          "lastName": "Rahim"
+          "firstName": "C.G.",
+          "lastName": "Robinson"
         },
         {
           "creatorType": "author",
-          "firstName": "P.S.",
-          "lastName": "Hall"
+          "firstName": "S.",
+          "lastName": "Senan"
         },
         {
           "creatorType": "author",
-          "firstName": "N.A.",
-          "lastName": "Samsuri"
+          "firstName": "G.M.",
+          "lastName": "Videtic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Wright"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.V.",
+          "lastName": "Louie"
         }
       ]
     }
@@ -1388,8 +229,8 @@
       "works_by_identifier": {
         "orcid": 204
       },
-      "already_filed": 190,
-      "new_candidates": 14,
+      "already_filed": 204,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Mark Stares": {
@@ -1459,10 +300,10 @@
     "Colin McLean": {
       "since_year": 2021,
       "works_by_identifier": {
-        "orcid": 15
+        "orcid": 16
       },
-      "already_filed": 12,
-      "new_candidates": 3,
+      "already_filed": 15,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Maxine de Araujo": {
@@ -1524,8 +365,8 @@
       "works_by_identifier": {
         "orcid": 9
       },
-      "already_filed": 7,
-      "new_candidates": 2,
+      "already_filed": 9,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Elliot Erskine": {
@@ -1549,10 +390,10 @@
     "Iain Phillips": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 1
+        "orcid": 2
       },
       "already_filed": 1,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     }
   }

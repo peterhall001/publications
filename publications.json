@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-22T11:54:35+00:00",
+  "generated_at": "2026-09-23T11:54:12+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3514"
+    "zotero_library_version": "3570"
   },
-  "count": 185,
+  "count": 191,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -983,6 +983,109 @@
       "enriched": true
     },
     {
+      "zotero_key": "8T3MB6N6",
+      "item_type": "journalArticle",
+      "title": "Comparing the effectiveness, cost-effectiveness and implementation of low-dose oral modified release morphine in people with chronic breathlessness: a synopsis of a RCT and process evaluation",
+      "authors": [
+        {
+          "family": "Johnson",
+          "given": "Miriam J"
+        },
+        {
+          "family": "Williams",
+          "given": "Bronwen"
+        },
+        {
+          "family": "Keerie",
+          "given": "Catriona"
+        },
+        {
+          "family": "Tuck",
+          "given": "Sharon"
+        },
+        {
+          "family": "Hart",
+          "given": "Simon P"
+        },
+        {
+          "family": "Bajwah",
+          "given": "Sabrina"
+        },
+        {
+          "family": "Chaudhuri",
+          "given": "Nazia"
+        },
+        {
+          "family": "Pearson",
+          "given": "Mark"
+        },
+        {
+          "family": "Cohen",
+          "given": "Judith"
+        },
+        {
+          "family": "Evans",
+          "given": "Rachael A"
+        },
+        {
+          "family": "Currow",
+          "given": "David C"
+        },
+        {
+          "family": "Higginson",
+          "given": "Irene J"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Norrie",
+          "given": "John"
+        },
+        {
+          "family": "Thompson",
+          "given": "Charlotte"
+        },
+        {
+          "family": "Huang",
+          "given": "Chao"
+        },
+        {
+          "family": "Pitel",
+          "given": "Lukas"
+        },
+        {
+          "family": "Jones",
+          "given": "Annie"
+        },
+        {
+          "family": "Stewart",
+          "given": "Gareth"
+        },
+        {
+          "family": "Fallon",
+          "given": "Marie T"
+        }
+      ],
+      "year": "2026",
+      "venue": "Health Technology Assessment",
+      "volume": "30",
+      "issue": "37",
+      "pages": "1-30",
+      "doi": "10.3310/gjmf3819",
+      "url": "https://doi.org/10.3310/gjmf3819",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.3310/gjmf3819",
+      "enriched": true
+    },
+    {
       "zotero_key": "T7VDAF4T",
       "item_type": "journalArticle",
       "title": "Cost-Effectiveness of Electronic Patient-Reported Outcome Measure Interventions in Cancer: A Systematic Review and Parameter Extraction for Economic Modelling (Preprint)",
@@ -1143,6 +1246,85 @@
       "enriched": true
     },
     {
+      "zotero_key": "6FAUC7UK",
+      "item_type": "journalArticle",
+      "title": "Intravenous lidocaine for gastrointestinal recovery after colorectal surgery: the ALLEGRO placebo-controlled randomised trial and cost-effectiveness analysis",
+      "authors": [
+        {
+          "family": "Paterson",
+          "given": "Hugh"
+        },
+        {
+          "family": "Vadiveloo",
+          "given": "Thenmalar"
+        },
+        {
+          "family": "Innes",
+          "given": "Karen"
+        },
+        {
+          "family": "Balfour",
+          "given": "Angie"
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Stoddart",
+          "given": "Andrew"
+        },
+        {
+          "family": "Cotton",
+          "given": "Seonaidh"
+        },
+        {
+          "family": "Arnott",
+          "given": "Robert"
+        },
+        {
+          "family": "Aucott",
+          "given": "Lorna"
+        },
+        {
+          "family": "Batham",
+          "given": "Zoe"
+        },
+        {
+          "family": "Foo",
+          "given": "Irwin"
+        },
+        {
+          "family": "MacLennan",
+          "given": "Graeme"
+        },
+        {
+          "family": "Nimmo",
+          "given": "Susan"
+        },
+        {
+          "family": "Speake",
+          "given": "Doug"
+        },
+        {
+          "family": "Norrie",
+          "given": "John"
+        }
+      ],
+      "year": "2026",
+      "venue": "Health Technology Assessment",
+      "volume": "30",
+      "issue": "19",
+      "pages": "1-51",
+      "doi": "10.3310/gjhp2321",
+      "url": "https://doi.org/10.3310/gjhp2321",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.3310/gjhp2321",
+      "enriched": true
+    },
+    {
       "zotero_key": "EPFBSGVP",
       "item_type": "journalArticle",
       "title": "Large language models in oncology: promise, pitfalls, and the path to real-world adoption",
@@ -1245,6 +1427,113 @@
       "cited_by_count": 0,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s10198-025-01800-8.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "QEIXE8FZ",
+      "item_type": "journalArticle",
+      "title": "Mammographic surveillance in breast cancer patients aged 50 years or older: a synopsis of the Mammo-50 RCT",
+      "authors": [
+        {
+          "family": "Dunn",
+          "given": "Janet"
+        },
+        {
+          "family": "Donnelly",
+          "given": "Peter"
+        },
+        {
+          "family": "Marshall",
+          "given": "Andrea"
+        },
+        {
+          "family": "Elbeltagi",
+          "given": "Nada"
+        },
+        {
+          "family": "Hopkins",
+          "given": "Amy"
+        },
+        {
+          "family": "Ramirez",
+          "given": "Maria"
+        },
+        {
+          "family": "Thompson",
+          "given": "Alastair"
+        },
+        {
+          "family": "Audisio",
+          "given": "Riccardo"
+        },
+        {
+          "family": "Pinder",
+          "given": "Sarah"
+        },
+        {
+          "family": "Cameron",
+          "given": "David"
+        },
+        {
+          "family": "Hartup",
+          "given": "Sue"
+        },
+        {
+          "family": "Wilcox",
+          "given": "Maggie"
+        },
+        {
+          "family": "Turner",
+          "given": "Lesley"
+        },
+        {
+          "family": "Young",
+          "given": "Annie"
+        },
+        {
+          "family": "Higgins",
+          "given": "Helen"
+        },
+        {
+          "family": "Watson",
+          "given": "Eila"
+        },
+        {
+          "family": "Gasson",
+          "given": "Sophie"
+        },
+        {
+          "family": "Barrett-Lee",
+          "given": "Peter"
+        },
+        {
+          "family": "Hulme",
+          "given": "Claire"
+        },
+        {
+          "family": "Shinkins",
+          "given": "Bethany"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Evans",
+          "given": "Andrew"
+        }
+      ],
+      "year": "2026",
+      "venue": "Health Technology Assessment",
+      "volume": "30",
+      "issue": "38",
+      "pages": "1-15",
+      "doi": "10.3310/gjjd0722",
+      "url": "https://doi.org/10.3310/gjjd0722",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.3310/gjjd0722",
       "enriched": true
     },
     {
@@ -1763,6 +2052,105 @@
       "cited_by_count": 0,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-026-01646-9.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "TSTRN5PP",
+      "item_type": "journalArticle",
+      "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer",
+      "authors": [
+        {
+          "family": "Cunningham",
+          "given": "Niamh"
+        },
+        {
+          "family": "Cutts",
+          "given": "Rosalind J."
+        },
+        {
+          "family": "Swift",
+          "given": "Claire"
+        },
+        {
+          "family": "Coakley",
+          "given": "Maria"
+        },
+        {
+          "family": "Sritharan",
+          "given": "Prithika"
+        },
+        {
+          "family": "Dunne",
+          "given": "Kathryn"
+        },
+        {
+          "family": "Dewan",
+          "given": "Monisha"
+        },
+        {
+          "family": "Kilburn",
+          "given": "Lucy"
+        },
+        {
+          "family": "Goddard",
+          "given": "Katie"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Harper-Wynne",
+          "given": "Catherine"
+        },
+        {
+          "family": "Macpherson",
+          "given": "Iain R."
+        },
+        {
+          "family": "Okines",
+          "given": "Alicia"
+        },
+        {
+          "family": "Wardley",
+          "given": "Andrew"
+        },
+        {
+          "family": "Waters",
+          "given": "Simon"
+        },
+        {
+          "family": "Palmieri",
+          "given": "Carlo"
+        },
+        {
+          "family": "Winter",
+          "given": "Matthew"
+        },
+        {
+          "family": "Bliss",
+          "given": "Judith"
+        },
+        {
+          "family": "Garcia-Murillas",
+          "given": "Isaac"
+        },
+        {
+          "family": "Turner",
+          "given": "Nicholas C."
+        }
+      ],
+      "year": "2026",
+      "venue": "JAMA Oncology",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.1001/jamaoncol.2026.2833",
+      "url": "https://doi.org/10.1001/jamaoncol.2026.2833",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1001/jamaoncol.2026.2833",
       "enriched": true
     },
     {
@@ -2534,7 +2922,7 @@
       "doi": "10.1016/j.esmoop.2025.104744",
       "url": "https://doi.org/10.1016/j.esmoop.2025.104744",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.esmoop.2025.104744",
       "enriched": true
@@ -3797,7 +4185,7 @@
       "doi": "10.3390/cancers17040601",
       "url": "https://doi.org/10.3390/cancers17040601",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/17/4/601/pdf?version=1739353656",
       "enriched": true
@@ -6589,7 +6977,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 85,
+      "cited_by_count": 86,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -6993,7 +7381,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 205,
+      "cited_by_count": 206,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -7526,6 +7914,69 @@
       "enriched": true
     },
     {
+      "zotero_key": "SEWRGII4",
+      "item_type": "journalArticle",
+      "title": "Defining Biochemical Cure After Low Dose Rate Prostate Brachytherapy: External Validation of 4-year Prostate-specific Antigen Nadir as a Predictor of 10- and 15-year Disease-free Survival",
+      "authors": [
+        {
+          "family": "Noble",
+          "given": "D.J."
+        },
+        {
+          "family": "Doyle",
+          "given": "E."
+        },
+        {
+          "family": "Tramonti",
+          "given": "G."
+        },
+        {
+          "family": "Law",
+          "given": "A.B."
+        },
+        {
+          "family": "Sundaramurthy",
+          "given": "A."
+        },
+        {
+          "family": "Brush",
+          "given": "J.P."
+        },
+        {
+          "family": "Keanie",
+          "given": "J."
+        },
+        {
+          "family": "Wood",
+          "given": "C."
+        },
+        {
+          "family": "Drewell",
+          "given": "P."
+        },
+        {
+          "family": "Keough",
+          "given": "W."
+        },
+        {
+          "family": "McLaren",
+          "given": "D.B."
+        }
+      ],
+      "year": "2022",
+      "venue": "Clinical Oncology",
+      "volume": "34",
+      "issue": "1",
+      "pages": "42-49",
+      "doi": "10.1016/j.clon.2021.11.009",
+      "url": "https://doi.org/10.1016/j.clon.2021.11.009",
+      "doi_source": "zotero",
+      "cited_by_count": 9,
+      "is_oa": true,
+      "oa_url": "https://hdl.handle.net/20.500.11820/189786ce-bc14-4502-9252-c1dc743cdb08",
+      "enriched": true
+    },
+    {
       "zotero_key": "AVC8GTUV",
       "item_type": "journalArticle",
       "title": "Early integrated palliative care in patients newly diagnosed with cancer in Ethiopia: a randomised controlled trial and cost–consequence analysis",
@@ -7626,7 +8077,7 @@
       "doi": "10.1016/j.jgo.2021.12.009",
       "url": "https://doi.org/10.1016/j.jgo.2021.12.009",
       "doi_source": "zotero",
-      "cited_by_count": 18,
+      "cited_by_count": 19,
       "is_oa": true,
       "oa_url": "http://www.geriatriconcology.net/article/S1879406821002733/pdf",
       "enriched": true
@@ -8231,7 +8682,7 @@
       "doi": "10.1136/bmjopen-2022-063271",
       "url": "https://doi.org/10.1136/bmjopen-2022-063271",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://bmjopen.bmj.com/content/bmjopen/12/11/e063271.full.pdf",
       "enriched": true
@@ -8505,6 +8956,65 @@
       "cited_by_count": 44,
       "is_oa": true,
       "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcsm.12806",
+      "enriched": true
+    },
+    {
+      "zotero_key": "V9VEE5AG",
+      "item_type": "journalArticle",
+      "title": "A unified resource and configurable model of the synapse proteome and its role in disease",
+      "authors": [
+        {
+          "family": "Sorokina",
+          "given": "Oksana"
+        },
+        {
+          "family": "Mclean",
+          "given": "Colin"
+        },
+        {
+          "family": "Croning",
+          "given": "Mike D. R."
+        },
+        {
+          "family": "Heil",
+          "given": "Katharina F."
+        },
+        {
+          "family": "Wysocka",
+          "given": "Emilia"
+        },
+        {
+          "family": "He",
+          "given": "Xin"
+        },
+        {
+          "family": "Sterratt",
+          "given": "David"
+        },
+        {
+          "family": "Grant",
+          "given": "Seth G. N."
+        },
+        {
+          "family": "Simpson",
+          "given": "T. Ian"
+        },
+        {
+          "family": "Armstrong",
+          "given": "J. Douglas"
+        }
+      ],
+      "year": "2021",
+      "venue": "Scientific Reports",
+      "volume": "11",
+      "issue": "1",
+      "pages": "9967",
+      "doi": "10.1038/s41598-021-88945-7",
+      "url": "https://doi.org/10.1038/s41598-021-88945-7",
+      "doi_source": "zotero",
+      "cited_by_count": 52,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41598-021-88945-7.pdf",
       "enriched": true
     },
     {
@@ -9336,7 +9846,7 @@
       "doi": "10.1158/2159-8290.cd-20-1647",
       "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
       "doi_source": "zotero",
-      "cited_by_count": 186,
+      "cited_by_count": 187,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
       "enriched": true
@@ -10182,7 +10692,7 @@
       "doi": "10.1200/jco.19.00368",
       "url": "https://doi.org/10.1200/jco.19.00368",
       "doi_source": "zotero",
-      "cited_by_count": 396,
+      "cited_by_count": 397,
       "is_oa": true,
       "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
       "enriched": true
@@ -11443,7 +11953,7 @@
       "doi": "10.1186/s12962-019-0174-7",
       "url": "https://doi.org/10.1186/s12962-019-0174-7",
       "doi_source": "zotero",
-      "cited_by_count": 61,
+      "cited_by_count": 63,
       "is_oa": true,
       "oa_url": "https://resource-allocation.biomedcentral.com/track/pdf/10.1186/s12962-019-0174-7",
       "enriched": true
@@ -11781,7 +12291,7 @@
       "doi": "10.3310/hta23400",
       "url": "https://doi.org/10.3310/hta23400",
       "doi_source": "zotero",
-      "cited_by_count": 131,
+      "cited_by_count": 132,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2029922",
       "enriched": true
@@ -12150,7 +12660,7 @@
       "doi": "10.1016/s2468-2667(19)30185-9",
       "url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "doi_source": "zotero",
-      "cited_by_count": 56,
+      "cited_by_count": 57,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "enriched": true
