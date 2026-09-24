@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:54:36+00:00",
+  "generated_at": "2026-09-24T12:02:00+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,195 +22,8 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 2,
-  "candidates": [
-    {
-      "doi": "10.1002/pon.70529",
-      "title": "Mental Health Outcomes Among Long‐Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population‐Based Cohort Study",
-      "year": 2026,
-      "venue": "Psycho-Oncology",
-      "volume": "35",
-      "issue": "6",
-      "pages": "e70529",
-      "cited_by_count": 0,
-      "authors": [
-        "Emanuela Molinari",
-        "Colin McLean",
-        "Ines Mesa‐Eguiagaray",
-        "SH Wild",
-        "Peter S. Hall"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Colin McLean"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Emanuela",
-          "lastName": "Molinari"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Colin",
-          "lastName": "McLean"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ines",
-          "lastName": "Mesa‐Eguiagaray"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sarah H.",
-          "lastName": "Wild"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        }
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2022.07.1490",
-      "title": "Final Results of an International Delphi Consensus Study Regarding the Optimal Management of Radiation Pneumonitis",
-      "year": 2022,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "volume": "114",
-      "issue": "3",
-      "pages": "e364-e365",
-      "cited_by_count": 0,
-      "authors": [
-        "Indu S. Voruganti",
-        "C.A.E. Cunningham",
-        "L. McLeod",
-        "N. Chaudhuri",
-        "K.L.M. Chua",
-        "M. Evison",
-        "C. Faivre-Finn",
-        "K.N. Franks",
-        "S. Harden",
-        "J. Kruser",
-        "T. Kruser",
-        "P. Lee",
-        "C. Peedell",
-        "I. Phillips",
-        "C.G. Robinson",
-        "S. Senan",
-        "G.M. Videtic",
-        "A. Wright",
-        "S. Harrow",
-        "A.V. Louie"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "I.S.",
-          "lastName": "Voruganti"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.A.E.",
-          "lastName": "Cunningham"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "L.",
-          "lastName": "McLeod"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "N.",
-          "lastName": "Chaudhuri"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "K.L.M.",
-          "lastName": "Chua"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M.",
-          "lastName": "Evison"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Faivre-Finn"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "K.N.",
-          "lastName": "Franks"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S.",
-          "lastName": "Harden"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.",
-          "lastName": "Kruser"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "T.",
-          "lastName": "Kruser"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P.",
-          "lastName": "Lee"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Peedell"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "I.",
-          "lastName": "Phillips"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.G.",
-          "lastName": "Robinson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S.",
-          "lastName": "Senan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "G.M.",
-          "lastName": "Videtic"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A.",
-          "lastName": "Wright"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S.",
-          "lastName": "Harrow"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A.V.",
-          "lastName": "Louie"
-        }
-      ]
-    }
-  ],
+  "count": 0,
+  "candidates": [],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -227,9 +40,9 @@
     "Peter Hall": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 204
+        "orcid": 207
       },
-      "already_filed": 204,
+      "already_filed": 207,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -302,8 +115,8 @@
       "works_by_identifier": {
         "orcid": 16
       },
-      "already_filed": 15,
-      "new_candidates": 1,
+      "already_filed": 16,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Maxine de Araujo": {
@@ -392,8 +205,8 @@
       "works_by_identifier": {
         "orcid": 2
       },
-      "already_filed": 1,
-      "new_candidates": 1,
+      "already_filed": 2,
+      "new_candidates": 0,
       "version_updates": 0
     }
   }
