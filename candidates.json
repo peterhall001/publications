@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:02:00+00:00",
+  "generated_at": "2026-09-25T12:02:33+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,8 +22,807 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 0,
-  "candidates": [],
+  "count": 4,
+  "candidates": [
+    {
+      "doi": "10.1093/oncolo/oyag203",
+      "title": "Refining prognosis in advanced renal cell carcinoma: international real-world validation of the Meet-URO score in first-line immunotherapy combinations",
+      "year": 2026,
+      "venue": "The Oncologist",
+      "volume": "31",
+      "issue": "7",
+      "pages": "oyag203",
+      "cited_by_count": 1,
+      "authors": [
+        "Sara Elena Rebuzzi",
+        "Aruni Ghose",
+        "Sarah Rudman",
+        "Balaji Venugopal",
+        "Kate Young",
+        "Ricky Dylan Frazer",
+        "Olubukola Ayodele",
+        "Mark  D. Stares",
+        "Brent O’Carrigan",
+        "Waqas I Ali",
+        "John McGrane",
+        "Ankit Jain",
+        "Ondrej Fiala",
+        "Vishwani Chauhan",
+        "Agnieszka Michael",
+        "Anjali Zarkar",
+        "Gaurav Kapur",
+        "Natalie Charnley",
+        "Mehran Afshar",
+        "Salil Vengalil",
+        "Caroline Forde",
+        "Janet Brown",
+        "Yüksel Urun",
+        "Diletta Bianchini",
+        "Amit Bahl",
+        "Narayanan Nair Srihari",
+        "Fabrizio Di Costanzo",
+        "Benjamin Smalley",
+        "Joanne Parkes",
+        "Simon Crabb",
+        "Naveen S Vasudev",
+        "Alexandr Poprach",
+        "Nicholas Brown",
+        "Lijo James",
+        "Sophia Haywood",
+        "José Carlos Tapia",
+        "Anupama Vijay",
+        "J L Parry",
+        "Michael Cheung",
+        "Ishika Mahajan",
+        "Niall O. Moon",
+        "Ritika Abrol",
+        "Michaela Tkadlecová",
+        "Yamin Shwe Yee Soe",
+        "Anum Zargham",
+        "MJ Smith",
+        "S. W. Ashley",
+        "Orla Hardy",
+        "Grisma Patel",
+        "Kyaw Kyaw Tun"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sara Elena",
+          "lastName": "Rebuzzi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aruni",
+          "lastName": "Ghose"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Rudman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Balaji",
+          "lastName": "Venugopal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kate",
+          "lastName": "Young"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ricky Dylan",
+          "lastName": "Frazer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Olubukola",
+          "lastName": "Ayodele"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brent",
+          "lastName": "O’Carrigan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Waqas",
+          "lastName": "Ali"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "McGrane"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ankit",
+          "lastName": "Jain"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ondrej",
+          "lastName": "Fiala"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vishwani",
+          "lastName": "Chauhan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Agnieszka",
+          "lastName": "Michael"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anjali",
+          "lastName": "Zarkar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gaurav",
+          "lastName": "Kapur"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Natalie",
+          "lastName": "Charnley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mehran",
+          "lastName": "Afshar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Salil",
+          "lastName": "Vengalil"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Caroline",
+          "lastName": "Forde"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Janet",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yüksel",
+          "lastName": "Ürün"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diletta",
+          "lastName": "Bianchini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amit",
+          "lastName": "Bahl"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Narayanan",
+          "lastName": "Srihari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fabrizio",
+          "lastName": "Di Costanzo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Smalley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joanne",
+          "lastName": "Parkes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Crabb"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Naveen",
+          "lastName": "Vasudev"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandr",
+          "lastName": "Poprach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lijo",
+          "lastName": "James"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sophia",
+          "lastName": "Haywood"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jose",
+          "lastName": "Tapia"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anupama",
+          "lastName": "Vijay"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Parry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Cheung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ishika",
+          "lastName": "Mahajan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Niall O",
+          "lastName": "Moon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ritika",
+          "lastName": "Abrol"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michaela",
+          "lastName": "Tkadlecová"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yamin Shwe Yee",
+          "lastName": "Soe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anum",
+          "lastName": "Zargham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michelle",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sophie",
+          "lastName": "Ashley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Orla",
+          "lastName": "Hardy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Grisma",
+          "lastName": "Patel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kyaw Kyaw",
+          "lastName": "Tun"
+        }
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-69754-w",
+      "title": "Multiomics characterization of acute child illness and mortality in Africa and South Asia",
+      "year": 2026,
+      "venue": "Nature Communications",
+      "volume": "17",
+      "issue": "1",
+      "pages": "5171",
+      "cited_by_count": 0,
+      "authors": [
+        "Camilo A. Espinosa",
+        "James M. Njunge",
+        "Kirkby Daniel Tickell",
+        "Abdoulaye Hama Diallo",
+        "Abu Sadat Mohammad Sayeem Bin Shahid",
+        "Md Amran Gazi",
+        "Zaubina Kazi",
+        "Emily Yoshioka",
+        "Caroline Tigoi",
+        "Moses Mburu",
+        "Moses M. Ngari",
+        "Narshion Ngao",
+        "Elisha Omer",
+        "Wilson Gumbi",
+        "Bonface M. Gichuki",
+        "Anna Mitchel",
+        "Jessica Williams",
+        "Joseph Gogain",
+        "Nebojša Janjić",
+        "Rupasri Mandal",
+        "Benjamin Jenkins",
+        "Hilary P. Browne",
+        "Yan Shao",
+        "Timothy J. Rozday",
+        "Mark  D. Stares",
+        "Nicholas Dawson",
+        "Eloïse Berson",
+        "Alan L. Chang",
+        "Yeasul Kim",
+        "Samson J. Mataraso",
+        "Chi-Hung Shu",
+        "Thanaphong Phongpreecha",
+        "Lei Xue",
+        "Ali Faisal Saleem",
+        "Benson  O. Singa",
+        "Tahmeed Ahmed",
+        "Wieger P. Voskuijl",
+        "David S. Wishart",
+        "Eric R. Houpt",
+        "Jie Liu",
+        "Asad Ali",
+        "Ezekiel Mupere",
+        "Mohammod Jobayer Chisti",
+        "Robert Bandsma",
+        "Trevor D. Lawley",
+        "Albert Koulman",
+        "Christina Lancioni",
+        "Nima Aghaeepour",
+        "James Alexander Berkley",
+        "Judd L. Walson"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Camilo A.",
+          "lastName": "Espinosa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James M.",
+          "lastName": "Njunge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirkby D.",
+          "lastName": "Tickell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abdoulaye Hama",
+          "lastName": "Diallo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abu Sadat Mohammad",
+          "lastName": "Sayeem Bin Shahid"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Md Amran",
+          "lastName": "Gazi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zaubina",
+          "lastName": "Kazi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emily",
+          "lastName": "Yoshioka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Caroline",
+          "lastName": "Tigoi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Moses",
+          "lastName": "Mburu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Moses",
+          "lastName": "Ngari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Narshion",
+          "lastName": "Ngao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisha",
+          "lastName": "Omer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wilson",
+          "lastName": "Gumbi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bonface M.",
+          "lastName": "Gichuki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Mitchel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jessica",
+          "lastName": "Williams"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph",
+          "lastName": "Gogain"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nebojsa",
+          "lastName": "Janjic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rupasri",
+          "lastName": "Mandal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Jenkins"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hilary P.",
+          "lastName": "Browne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yan",
+          "lastName": "Shao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Timothy",
+          "lastName": "Rozday"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark D.",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas J. R.",
+          "lastName": "Dawson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eloise",
+          "lastName": "Berson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "Chang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yeasul",
+          "lastName": "Kim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samson J.",
+          "lastName": "Mataraso"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chi-Hung",
+          "lastName": "Shu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thanaphong",
+          "lastName": "Phongpreecha"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lei",
+          "lastName": "Xue"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ali",
+          "lastName": "Saleem"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benson",
+          "lastName": "Singa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tahmeed",
+          "lastName": "Ahmed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wieger P.",
+          "lastName": "Voskuijl"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David S.",
+          "lastName": "Wishart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eric R.",
+          "lastName": "Houpt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jie",
+          "lastName": "Liu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Asad",
+          "lastName": "Ali"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ezekiel",
+          "lastName": "Mupere"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mohammod Jobayer",
+          "lastName": "Chisti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert H. J.",
+          "lastName": "Bandsma"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trevor D.",
+          "lastName": "Lawley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Albert",
+          "lastName": "Koulman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christina L.",
+          "lastName": "Lancioni"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nima",
+          "lastName": "Aghaeepour"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James A.",
+          "lastName": "Berkley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Judd L.",
+          "lastName": "Walson"
+        }
+      ]
+    },
+    {
+      "doi": "10.17863/cam.129929",
+      "title": "Multiomics characterization of acute child illness and mortality in Africa and South Asia.",
+      "year": 2026,
+      "venue": "Apollo (University of Cambridge)",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "cited_by_count": 0,
+      "authors": [
+        "Camilo A. Espinosa",
+        "James M. Njunge",
+        "Kirkby Daniel Tickell",
+        "Abdoulaye Hama Diallo",
+        "Abu Sadat Mohammad Sayeem Bin Shahid",
+        "Md Amran Gazi",
+        "Zaubina Kazi",
+        "Emily Yoshioka",
+        "Caroline Tigoi",
+        "Moses Mburu",
+        "Moses M. Ngari",
+        "Narshion Ngao",
+        "Elisha Omer",
+        "Wilson Gumbi",
+        "Bonface M. Gichuki",
+        "Anna Mitchel",
+        "Jessica Williams",
+        "Joseph Gogain",
+        "Nebojša Janjić",
+        "Rupasri Mandal",
+        "Benjamin Jenkins",
+        "Hilary P Browne",
+        "Yan Shao",
+        "Timothy J. Rozday",
+        "Mark  D. Stares",
+        "Nicholas J. R. Dawson",
+        "Eloïse Berson",
+        "Alan L. Chang",
+        "Yeasul Kim",
+        "Samson J. Mataraso",
+        "Chi-Hung Shu",
+        "Thanaphong Phongpreecha",
+        "Lei Xue",
+        "Ali Saleem",
+        "Benson Singa",
+        "Tahmeed Ahmed",
+        "Wieger P Voskuijl",
+        "David S. Wishart",
+        "Eric R. Houpt",
+        "Jie Liu",
+        "Asad Ali",
+        "Ezekiel Mupere",
+        "Mohammod Jobayer Chisti",
+        "Robert Bandsma",
+        "Trevor D. Lawley",
+        "Albert Koulman",
+        "Christina Lancioni",
+        "Nima Aghaeepour",
+        "James A Berkley",
+        "Judd L Walson"
+      ],
+      "metadata_source": "openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ]
+    },
+    {
+      "doi": "10.1016/j.ctro.2026.101232",
+      "title": "Real-world outcomes of stage III non-small cell lung cancer in the durvalumab era: insights from a socioeconomically deprived population",
+      "year": 2026,
+      "venue": "Clinical and Translational Radiation Oncology",
+      "volume": "60",
+      "issue": "",
+      "pages": "101232",
+      "cited_by_count": 0,
+      "authors": [
+        "Adam L. Peters",
+        "Harrison  Douglas Stubbs",
+        "Sean  F. Duncan",
+        "Audrey Shaw",
+        "Karen Moore",
+        "Erin McGarry",
+        "Selina Tsim",
+        "G. Lumsden",
+        "Mark  D. Stares",
+        "Iain Phillips",
+        "David Y. Lewis",
+        "Kevin G. Blyth",
+        "John D. Maclay"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Adam L.",
+          "lastName": "Peters"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Harrison Douglas",
+          "lastName": "Stubbs"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sean F.",
+          "lastName": "Duncan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Audrey",
+          "lastName": "Shaw"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen",
+          "lastName": "Moore"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Erin",
+          "lastName": "McGarry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Selina",
+          "lastName": "Tsim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Graeme",
+          "lastName": "Lumsden"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Stares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David Y.",
+          "lastName": "Lewis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin G.",
+          "lastName": "Blyth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John D.",
+          "lastName": "Maclay"
+        }
+      ]
+    }
+  ],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -49,10 +848,10 @@
     "Mark Stares": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 52
+        "orcid": 56
       },
       "already_filed": 52,
-      "new_candidates": 0,
+      "new_candidates": 4,
       "version_updates": 0
     },
     "Elizabeth Lemmon": {
