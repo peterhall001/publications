@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-25T12:02:14+00:00",
+  "generated_at": "2026-09-26T11:36:53+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3572"
+    "zotero_library_version": "3588"
   },
-  "count": 191,
+  "count": 195,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -1537,6 +1537,45 @@
       "enriched": true
     },
     {
+      "zotero_key": "ZB2GPBST",
+      "item_type": "journalArticle",
+      "title": "Mental Health Outcomes Among Long‐Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population‐Based Cohort Study",
+      "authors": [
+        {
+          "family": "Molinari",
+          "given": "Emanuela"
+        },
+        {
+          "family": "McLean",
+          "given": "Colin"
+        },
+        {
+          "family": "Mesa‐Eguiagaray",
+          "given": "Ines"
+        },
+        {
+          "family": "Wild",
+          "given": "Sarah H."
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S."
+        }
+      ],
+      "year": "2026",
+      "venue": "Psycho-Oncology",
+      "volume": "35",
+      "issue": "6",
+      "pages": "e70529",
+      "doi": "10.1002/pon.70529",
+      "url": "https://doi.org/10.1002/pon.70529",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1002/pon.70529",
+      "enriched": true
+    },
+    {
       "zotero_key": "KMBZEJ9V",
       "item_type": "journalArticle",
       "title": "Modelled impact of a multi-cancer early detection screening programme on cancer treatment in England",
@@ -1981,6 +2020,296 @@
       "enriched": true
     },
     {
+      "zotero_key": "HQHEI7J7",
+      "item_type": "journalArticle",
+      "title": "Real-world outcomes of stage III non-small cell lung cancer in the durvalumab era: insights from a socioeconomically deprived population",
+      "authors": [
+        {
+          "family": "Peters",
+          "given": "Adam L."
+        },
+        {
+          "family": "Stubbs",
+          "given": "Harrison Douglas"
+        },
+        {
+          "family": "Duncan",
+          "given": "Sean F."
+        },
+        {
+          "family": "Shaw",
+          "given": "Audrey"
+        },
+        {
+          "family": "Moore",
+          "given": "Karen"
+        },
+        {
+          "family": "McGarry",
+          "given": "Erin"
+        },
+        {
+          "family": "Tsim",
+          "given": "Selina"
+        },
+        {
+          "family": "Lumsden",
+          "given": "Graeme"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "Lewis",
+          "given": "David Y."
+        },
+        {
+          "family": "Blyth",
+          "given": "Kevin G."
+        },
+        {
+          "family": "Maclay",
+          "given": "John D."
+        }
+      ],
+      "year": "2026",
+      "venue": "Clinical and Translational Radiation Oncology",
+      "volume": "60",
+      "issue": "",
+      "pages": "101232",
+      "doi": "10.1016/j.ctro.2026.101232",
+      "url": "https://doi.org/10.1016/j.ctro.2026.101232",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://www.ctro.science/article/S2405-6308(26)00127-8/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "IEAJ93I2",
+      "item_type": "journalArticle",
+      "title": "Refining prognosis in advanced renal cell carcinoma: international real-world validation of the Meet-URO score in first-line immunotherapy combinations",
+      "authors": [
+        {
+          "family": "Rebuzzi",
+          "given": "Sara Elena"
+        },
+        {
+          "family": "Ghose",
+          "given": "Aruni"
+        },
+        {
+          "family": "Rudman",
+          "given": "Sarah"
+        },
+        {
+          "family": "Venugopal",
+          "given": "Balaji"
+        },
+        {
+          "family": "Young",
+          "given": "Kate"
+        },
+        {
+          "family": "Frazer",
+          "given": "Ricky Dylan"
+        },
+        {
+          "family": "Ayodele",
+          "given": "Olubukola"
+        },
+        {
+          "family": "Stares",
+          "given": "Mark"
+        },
+        {
+          "family": "O’Carrigan",
+          "given": "Brent"
+        },
+        {
+          "family": "Ali",
+          "given": "Waqas"
+        },
+        {
+          "family": "McGrane",
+          "given": "John"
+        },
+        {
+          "family": "Jain",
+          "given": "Ankit"
+        },
+        {
+          "family": "Fiala",
+          "given": "Ondrej"
+        },
+        {
+          "family": "Chauhan",
+          "given": "Vishwani"
+        },
+        {
+          "family": "Michael",
+          "given": "Agnieszka"
+        },
+        {
+          "family": "Zarkar",
+          "given": "Anjali"
+        },
+        {
+          "family": "Kapur",
+          "given": "Gaurav"
+        },
+        {
+          "family": "Charnley",
+          "given": "Natalie"
+        },
+        {
+          "family": "Afshar",
+          "given": "Mehran"
+        },
+        {
+          "family": "Vengalil",
+          "given": "Salil"
+        },
+        {
+          "family": "Forde",
+          "given": "Caroline"
+        },
+        {
+          "family": "Brown",
+          "given": "Janet"
+        },
+        {
+          "family": "Ürün",
+          "given": "Yüksel"
+        },
+        {
+          "family": "Bianchini",
+          "given": "Diletta"
+        },
+        {
+          "family": "Bahl",
+          "given": "Amit"
+        },
+        {
+          "family": "Srihari",
+          "given": "Narayanan"
+        },
+        {
+          "family": "Di Costanzo",
+          "given": "Fabrizio"
+        },
+        {
+          "family": "Smalley",
+          "given": "Benjamin"
+        },
+        {
+          "family": "Parkes",
+          "given": "Joanne"
+        },
+        {
+          "family": "Crabb",
+          "given": "Simon"
+        },
+        {
+          "family": "Vasudev",
+          "given": "Naveen"
+        },
+        {
+          "family": "Poprach",
+          "given": "Alexandr"
+        },
+        {
+          "family": "Brown",
+          "given": "Nicholas"
+        },
+        {
+          "family": "James",
+          "given": "Lijo"
+        },
+        {
+          "family": "Haywood",
+          "given": "Sophia"
+        },
+        {
+          "family": "Tapia",
+          "given": "Jose"
+        },
+        {
+          "family": "Vijay",
+          "given": "Anupama"
+        },
+        {
+          "family": "Parry",
+          "given": "Jane"
+        },
+        {
+          "family": "Cheung",
+          "given": "Michael"
+        },
+        {
+          "family": "Mahajan",
+          "given": "Ishika"
+        },
+        {
+          "family": "Moon",
+          "given": "Niall O"
+        },
+        {
+          "family": "Abrol",
+          "given": "Ritika"
+        },
+        {
+          "family": "Tkadlecová",
+          "given": "Michaela"
+        },
+        {
+          "family": "Soe",
+          "given": "Yamin Shwe Yee"
+        },
+        {
+          "family": "Zargham",
+          "given": "Anum"
+        },
+        {
+          "family": "Smith",
+          "given": "Michelle"
+        },
+        {
+          "family": "Ashley",
+          "given": "Sophie"
+        },
+        {
+          "family": "Hardy",
+          "given": "Orla"
+        },
+        {
+          "family": "Patel",
+          "given": "Grisma"
+        },
+        {
+          "family": "Tun",
+          "given": "Kyaw Kyaw"
+        }
+      ],
+      "year": "2026",
+      "venue": "The Oncologist",
+      "volume": "31",
+      "issue": "7",
+      "pages": "oyag203",
+      "doi": "10.1093/oncolo/oyag203",
+      "url": "https://doi.org/10.1093/oncolo/oyag203",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1093/oncolo/oyag203",
+      "enriched": true
+    },
+    {
       "zotero_key": "ERIMDWQM",
       "item_type": "journalArticle",
       "title": "The 21-gene recurrence score assay as a tool for predicting recurrence risk and guiding adjuvant treatment selection in early breast cancer",
@@ -2043,9 +2372,9 @@
       ],
       "year": "2026",
       "venue": "PharmacoEconomics",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "44",
+      "issue": "10",
+      "pages": "1157–1160",
       "doi": "10.1007/s40273-026-01646-9",
       "url": "https://doi.org/10.1007/s40273-026-01646-9",
       "doi_source": "zotero",
@@ -6233,7 +6562,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 233,
+      "cited_by_count": 234,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -6704,7 +7033,7 @@
       "doi": "10.3390/cancers15235502",
       "url": "https://doi.org/10.3390/cancers15235502",
       "doi_source": "zotero",
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/15/23/5502/pdf?version=1700564980",
       "enriched": true
@@ -8025,6 +8354,105 @@
       "cited_by_count": 1,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2214-109x(22)00142-5",
+      "enriched": true
+    },
+    {
+      "zotero_key": "P5FCGZJC",
+      "item_type": "journalArticle",
+      "title": "Final Results of an International Delphi Consensus Study Regarding the Optimal Management of Radiation Pneumonitis",
+      "authors": [
+        {
+          "family": "Voruganti",
+          "given": "I.S."
+        },
+        {
+          "family": "Cunningham",
+          "given": "C.A.E."
+        },
+        {
+          "family": "McLeod",
+          "given": "L."
+        },
+        {
+          "family": "Chaudhuri",
+          "given": "N."
+        },
+        {
+          "family": "Chua",
+          "given": "K.L.M."
+        },
+        {
+          "family": "Evison",
+          "given": "M."
+        },
+        {
+          "family": "Faivre-Finn",
+          "given": "C."
+        },
+        {
+          "family": "Franks",
+          "given": "K.N."
+        },
+        {
+          "family": "Harden",
+          "given": "S."
+        },
+        {
+          "family": "Kruser",
+          "given": "J."
+        },
+        {
+          "family": "Kruser",
+          "given": "T."
+        },
+        {
+          "family": "Lee",
+          "given": "P."
+        },
+        {
+          "family": "Peedell",
+          "given": "C."
+        },
+        {
+          "family": "Phillips",
+          "given": "I."
+        },
+        {
+          "family": "Robinson",
+          "given": "C.G."
+        },
+        {
+          "family": "Senan",
+          "given": "S."
+        },
+        {
+          "family": "Videtic",
+          "given": "G.M."
+        },
+        {
+          "family": "Wright",
+          "given": "A."
+        },
+        {
+          "family": "Harrow",
+          "given": "S."
+        },
+        {
+          "family": "Louie",
+          "given": "A.V."
+        }
+      ],
+      "year": "2022",
+      "venue": "International Journal of Radiation Oncology*Biology*Physics",
+      "volume": "114",
+      "issue": "3",
+      "pages": "e364-e365",
+      "doi": "10.1016/j.ijrobp.2022.07.1490",
+      "url": "https://doi.org/10.1016/j.ijrobp.2022.07.1490",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://www.redjournal.org/article/S0360-3016(22)02211-8/pdf",
       "enriched": true
     },
     {
@@ -9408,7 +9836,7 @@
       "doi": "10.1016/s1474-4422(21)00264-7",
       "url": "https://doi.org/10.1016/s1474-4422(21)00264-7",
       "doi_source": "zotero",
-      "cited_by_count": 113,
+      "cited_by_count": 114,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1474442221002647/pdf",
       "enriched": true
@@ -9627,7 +10055,7 @@
       "doi": "10.1001/jamaoncol.2021.0848",
       "url": "https://doi.org/10.1001/jamaoncol.2021.0848",
       "doi_source": "zotero",
-      "cited_by_count": 202,
+      "cited_by_count": 203,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2780033/jamaoncology_hall_2021_oi_210009_1624469496.87358.pdf",
       "enriched": true
@@ -13286,7 +13714,7 @@
       "doi": "10.1007/s10549-017-4567-z",
       "url": "https://doi.org/10.1007/s10549-017-4567-z",
       "doi_source": "zotero",
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s10549-017-4567-z.pdf",
       "enriched": true
