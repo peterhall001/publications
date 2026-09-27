@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-26T11:36:53+00:00",
+  "generated_at": "2026-09-27T12:15:46+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -7551,7 +7551,7 @@
       "doi": "10.3390/cancers15051431",
       "url": "https://doi.org/10.3390/cancers15051431",
       "doi_source": "zotero",
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/15/5/1431/pdf?version=1677567575",
       "enriched": true
