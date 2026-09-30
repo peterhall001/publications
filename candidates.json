@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T13:11:17+00:00",
+  "generated_at": "2026-09-30T12:51:42+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,8 +22,89 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 0,
-  "candidates": [],
+  "count": 1,
+  "candidates": [
+    {
+      "doi": "10.1093/noajnl/vdag230",
+      "title": "Does earlier diagnosis and treatment of brain tumours matter? Time-to-treatment intervals and tumour size at detection; impact on survival and other patient outcomes",
+      "year": 2026,
+      "venue": "Neuro-Oncology Advances",
+      "volume": "",
+      "issue": "",
+      "pages": "vdag230",
+      "cited_by_count": 0,
+      "authors": [
+        "Ewan Gray",
+        "James Cameron",
+        "Abigail Lishman",
+        "Peter Hall",
+        "Piyumanga Karunaratne",
+        "Giovanni Tramonti",
+        "Mahéva Vallet",
+        "Luke Pike",
+        "Matthew Baker",
+        "Paul Martin Brennan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti",
+        "Maheva Vallet"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ewan",
+          "lastName": "Gray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Cameron"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abigail",
+          "lastName": "Lishman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Piyumanga",
+          "lastName": "Karunaratne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Giovanni",
+          "lastName": "Tramonti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maheva",
+          "lastName": "Vallet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luke",
+          "lastName": "Pike"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Baker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul M",
+          "lastName": "Brennan"
+        }
+      ]
+    }
+  ],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -40,10 +121,10 @@
     "Peter Hall": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 205
+        "orcid": 206
       },
       "already_filed": 205,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Mark Stares": {
@@ -85,11 +166,11 @@
     "Giovanni Tramonti": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 8,
-        "openalex_id:A5019431269": 8
+        "orcid": 9,
+        "openalex_id:A5019431269": 9
       },
       "already_filed": 8,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Piyumanga Karunaratne": {
@@ -167,10 +248,10 @@
     "Maheva Vallet": {
       "since_year": 2019,
       "works_by_identifier": {
-        "orcid": 12
+        "orcid": 13
       },
       "already_filed": 12,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Marek Atter": {
