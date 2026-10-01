@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-09-15T20:41:36+00:00",
+  "generated_at": "2026-10-01T14:20:07+00:00",
   "query_template": "(<author term>) AND (Edinburgh[Affiliation]) AND (<since_year>:<this year>[PDAT])",
   "indexed": {
-    "Web-Publications": 184,
-    "Rejected": 171
+    "Web-Publications": 195,
+    "Review": 1,
+    "Rejected": 187
   },
   "counts": {
-    "missing": 45,
+    "missing": 35,
     "version_update": 2,
-    "present": 159
+    "present": 169
   },
   "zotero_write": {
     "enabled": false,
@@ -22,9 +23,9 @@
       "since_year": 2015,
       "hits": 207,
       "bound": 141,
-      "present": 124,
+      "present": 129,
       "version_update": 1,
-      "missing": 16
+      "missing": 11
     },
     "Mark Stares": {
       "term": "Stares M[Author]",
@@ -32,9 +33,9 @@
       "since_year": 2020,
       "hits": 29,
       "bound": 28,
-      "present": 23,
+      "present": 25,
       "version_update": 0,
-      "missing": 5
+      "missing": 3
     },
     "Elizabeth Lemmon": {
       "term": "Lemmon E[Author]",
@@ -72,9 +73,9 @@
       "since_year": 2015,
       "hits": 7,
       "bound": 7,
-      "present": 4,
+      "present": 6,
       "version_update": 0,
-      "missing": 3
+      "missing": 1
     },
     "Piyumanga Karunaratne": {
       "term": "Karunaratne P[Author]",
@@ -90,7 +91,7 @@
       "term": "Foley S[Author]",
       "query": "(Foley S[Author]) AND (Edinburgh[Affiliation]) AND (2026:2026[PDAT])",
       "since_year": 2026,
-      "hits": 0,
+      "hits": 1,
       "bound": 0,
       "present": 0,
       "version_update": 0,
@@ -102,9 +103,9 @@
       "since_year": 2021,
       "hits": 15,
       "bound": 10,
-      "present": 7,
+      "present": 9,
       "version_update": 0,
-      "missing": 3
+      "missing": 1
     },
     "Maxine de Araujo": {
       "term": "de Araujo M[Author]",
@@ -172,9 +173,9 @@
       "since_year": 2020,
       "hits": 9,
       "bound": 8,
-      "present": 4,
+      "present": 6,
       "version_update": 1,
-      "missing": 3
+      "missing": 1
     },
     "Elliot Erskine": {
       "term": "Erskine E[Author]",
@@ -202,9 +203,9 @@
       "since_year": 2020,
       "hits": 32,
       "bound": 30,
-      "present": 14,
+      "present": 15,
       "version_update": 0,
-      "missing": 16
+      "missing": 15
     }
   },
   "findings": [
@@ -247,81 +248,6 @@
       "status": "missing"
     },
     {
-      "pmid": "42593771",
-      "doi": "10.1001/jamaoncol.2026.2833",
-      "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer",
-      "year": 2026,
-      "date": "2026 Aug 13",
-      "venue": "JAMA oncology",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "42563022",
-      "doi": "10.1007/s40273-026-01646-9",
-      "title": "The End of 'Pay-and-Hope': Managing Accelerated Approvals with Outcomes-Based Reimbursement in the Era of Routinely Collected Health Data",
-      "year": 2026,
-      "date": "2026 Aug 06",
-      "venue": "PharmacoEconomics",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "publication_types": [
-        "Editorial"
-      ],
-      "matched_authors": [
-        "Peter Hall",
-        "Giovanni Tramonti"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "42502457",
-      "doi": "10.1016/j.ctro.2026.101232",
-      "title": "Real-world outcomes of stage III non-small cell lung cancer in the durvalumab era: insights from a socioeconomically deprived population",
-      "year": 2026,
-      "date": "2026 Sep",
-      "venue": "Clinical and translational radiation oncology",
-      "volume": "60",
-      "issue": "",
-      "pages": "101232",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "42323734",
-      "doi": "10.1002/pon.70529",
-      "title": "Mental Health Outcomes Among Long-Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population-Based Cohort Study",
-      "year": 2026,
-      "date": "2026 Jun",
-      "venue": "Psycho-oncology",
-      "volume": "35",
-      "issue": "6",
-      "pages": "e70529",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Peter Hall",
-        "Colin McLean"
-      ],
-      "status": "missing"
-    },
-    {
       "pmid": "42209025",
       "doi": "10.1136/bcr-2025-271346",
       "title": "ABPM secondary to Saccharomyces cerevisiae mimicking lung cancer in an immunocompetent patient",
@@ -337,66 +263,6 @@
       ],
       "matched_authors": [
         "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "42159577",
-      "doi": "10.1093/oncolo/oyag203",
-      "title": "Refining prognosis in advanced renal cell carcinoma: international real-world validation of the Meet-URO score in first-line immunotherapy combinations",
-      "year": 2026,
-      "date": "2026 Jun 06",
-      "venue": "The oncologist",
-      "volume": "31",
-      "issue": "7",
-      "pages": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Mark Stares"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "42116552",
-      "doi": "10.3310/gjjd0722",
-      "title": "Mammographic surveillance in breast cancer patients aged 50 years or older: a synopsis of the Mammo-50 RCT",
-      "year": 2026,
-      "date": "2026 May",
-      "venue": "Health technology assessment (Winchester, England)",
-      "volume": "30",
-      "issue": "38",
-      "pages": "1-15",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study",
-        "Clinical Trial, Phase III"
-      ],
-      "matched_authors": [
-        "Peter Hall"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "42104920",
-      "doi": "10.3310/gjmf3819",
-      "title": "Comparing the effectiveness, cost-effectiveness and implementation of low-dose oral modified release morphine in people with chronic breathlessness: a synopsis of a RCT and process evaluation",
-      "year": 2026,
-      "date": "2026 May",
-      "venue": "Health technology assessment (Winchester, England)",
-      "volume": "30",
-      "issue": "37",
-      "pages": "1-30",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "matched_authors": [
-        "Peter Hall",
-        "Marek Atter"
       ],
       "status": "missing"
     },
@@ -491,28 +357,6 @@
       "matched_authors": [
         "Peter Hall",
         "Piyumanga Karunaratne"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "41731962",
-      "doi": "10.3310/gjhp2321",
-      "title": "Intravenous lidocaine for gastrointestinal recovery after colorectal surgery: the ALLEGRO placebo-controlled randomised trial and cost-effectiveness analysis",
-      "year": 2026,
-      "date": "2026 Feb",
-      "venue": "Health technology assessment (Winchester, England)",
-      "volume": "30",
-      "issue": "19",
-      "pages": "1-51",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Pragmatic Clinical Trial",
-        "Multicenter Study",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "matched_authors": [
-        "Marek Atter"
       ],
       "status": "missing"
     },
@@ -901,24 +745,6 @@
       "status": "missing"
     },
     {
-      "pmid": "34848134",
-      "doi": "10.1016/j.clon.2021.11.009",
-      "title": "Defining Biochemical Cure After Low Dose Rate Prostate Brachytherapy: External Validation of 4-year Prostate-specific Antigen Nadir as a Predictor of 10- and 15-year Disease-free Survival",
-      "year": 2022,
-      "date": "2022 Jan",
-      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
-      "volume": "34",
-      "issue": "1",
-      "pages": "42-49",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Giovanni Tramonti"
-      ],
-      "status": "missing"
-    },
-    {
       "pmid": "34162377",
       "doi": "10.1186/s12904-021-00782-7",
       "title": "Evidence on the economic value of end-of-life and palliative care interventions: a narrative review of reviews",
@@ -954,25 +780,6 @@
       "matched_authors": [
         "Peter Hall",
         "Elizabeth Lemmon"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "33976238",
-      "doi": "10.1038/s41598-021-88945-7",
-      "title": "A unified resource and configurable model of the synapse proteome and its role in disease",
-      "year": 2021,
-      "date": "2021 May 11",
-      "venue": "Scientific reports",
-      "volume": "11",
-      "issue": "1",
-      "pages": "9967",
-      "publication_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "matched_authors": [
-        "Colin McLean"
       ],
       "status": "missing"
     },
@@ -1089,8 +896,7 @@
       "pages": "e100505",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Systematic Review"
       ],
       "matched_authors": [
         "Peter Hall",
@@ -1152,6 +958,57 @@
         "key": "PJDNSN4K",
         "doi": "10.1016/j.radonc.2026.111722",
         "title": "Understanding retention in radiation oncology: qualitative findings from an international workforce survey"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42593771",
+      "doi": "10.1001/jamaoncol.2026.2833",
+      "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer",
+      "year": 2026,
+      "date": "2026 Aug 13",
+      "venue": "JAMA oncology",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "TSTRN5PP",
+        "doi": "10.1001/jamaoncol.2026.2833",
+        "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42563022",
+      "doi": "10.1007/s40273-026-01646-9",
+      "title": "The End of 'Pay-and-Hope': Managing Accelerated Approvals with Outcomes-Based Reimbursement in the Era of Routinely Collected Health Data",
+      "year": 2026,
+      "date": "2026 Oct",
+      "venue": "PharmacoEconomics",
+      "volume": "44",
+      "issue": "10",
+      "pages": "1157-1160",
+      "publication_types": [
+        "Editorial"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "KJPF4RFB",
+        "doi": "10.1007/s40273-026-01646-9",
+        "title": "The End of ‘Pay-and-Hope’: Managing Accelerated Approvals with Outcomes-Based Reimbursement in the Era of Routinely Collected Health Data"
       },
       "title_score": 1.0
     },
@@ -1259,6 +1116,32 @@
       "title_score": 1.0
     },
     {
+      "pmid": "42502457",
+      "doi": "10.1016/j.ctro.2026.101232",
+      "title": "Real-world outcomes of stage III non-small cell lung cancer in the durvalumab era: insights from a socioeconomically deprived population",
+      "year": 2026,
+      "date": "2026 Sep",
+      "venue": "Clinical and translational radiation oncology",
+      "volume": "60",
+      "issue": "",
+      "pages": "101232",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "HQHEI7J7",
+        "doi": "10.1016/j.ctro.2026.101232",
+        "title": "Real-world outcomes of stage III non-small cell lung cancer in the durvalumab era: insights from a socioeconomically deprived population"
+      },
+      "title_score": 1.0
+    },
+    {
       "pmid": "42421369",
       "doi": "10.1097/spc.0000000000000818",
       "title": "Identifying markers of cachexia and nutritional deficit on radical radiotherapy outcomes in lung and head and neck cancer",
@@ -1308,6 +1191,113 @@
         "key": "EPFBSGVP",
         "doi": "10.1016/j.esmorw.2026.100723",
         "title": "Large language models in oncology: promise, pitfalls, and the path to real-world adoption"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42323734",
+      "doi": "10.1002/pon.70529",
+      "title": "Mental Health Outcomes Among Long-Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population-Based Cohort Study",
+      "year": 2026,
+      "date": "2026 Jun",
+      "venue": "Psycho-oncology",
+      "volume": "35",
+      "issue": "6",
+      "pages": "e70529",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "ZB2GPBST",
+        "doi": "10.1002/pon.70529",
+        "title": "Mental Health Outcomes Among Long‐Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population‐Based Cohort Study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42159577",
+      "doi": "10.1093/oncolo/oyag203",
+      "title": "Refining prognosis in advanced renal cell carcinoma: international real-world validation of the Meet-URO score in first-line immunotherapy combinations",
+      "year": 2026,
+      "date": "2026 Jun 06",
+      "venue": "The oncologist",
+      "volume": "31",
+      "issue": "7",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Mark Stares"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "IEAJ93I2",
+        "doi": "10.1093/oncolo/oyag203",
+        "title": "Refining prognosis in advanced renal cell carcinoma: international real-world validation of the Meet-URO score in first-line immunotherapy combinations"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42116552",
+      "doi": "10.3310/gjjd0722",
+      "title": "Mammographic surveillance in breast cancer patients aged 50 years or older: a synopsis of the Mammo-50 RCT",
+      "year": 2026,
+      "date": "2026 May",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "30",
+      "issue": "38",
+      "pages": "1-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "QEIXE8FZ",
+        "doi": "10.3310/gjjd0722",
+        "title": "Mammographic surveillance in breast cancer patients aged 50 years or older: a synopsis of the Mammo-50 RCT"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42104920",
+      "doi": "10.3310/gjmf3819",
+      "title": "Comparing the effectiveness, cost-effectiveness and implementation of low-dose oral modified release morphine in people with chronic breathlessness: a synopsis of a RCT and process evaluation",
+      "year": 2026,
+      "date": "2026 May",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "30",
+      "issue": "37",
+      "pages": "1-30",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Marek Atter"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "8T3MB6N6",
+        "doi": "10.3310/gjmf3819",
+        "title": "Comparing the effectiveness, cost-effectiveness and implementation of low-dose oral modified release morphine in people with chronic breathlessness: a synopsis of a RCT and process evaluation"
       },
       "title_score": 1.0
     },
@@ -1385,6 +1375,35 @@
         "key": "HJZMSXG9",
         "doi": "10.1016/s1470-2045(25)00660-6",
         "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41731962",
+      "doi": "10.3310/gjhp2321",
+      "title": "Intravenous lidocaine for gastrointestinal recovery after colorectal surgery: the ALLEGRO placebo-controlled randomised trial and cost-effectiveness analysis",
+      "year": 2026,
+      "date": "2026 Feb",
+      "venue": "Health technology assessment (Winchester, England)",
+      "volume": "30",
+      "issue": "19",
+      "pages": "1-51",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Pragmatic Clinical Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Marek Atter"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "6FAUC7UK",
+        "doi": "10.3310/gjhp2321",
+        "title": "Intravenous lidocaine for gastrointestinal recovery after colorectal surgery: the ALLEGRO placebo-controlled randomised trial and cost-effectiveness analysis"
       },
       "title_score": 1.0
     },
@@ -3539,6 +3558,31 @@
       "title_score": 1.0
     },
     {
+      "pmid": "34848134",
+      "doi": "10.1016/j.clon.2021.11.009",
+      "title": "Defining Biochemical Cure After Low Dose Rate Prostate Brachytherapy: External Validation of 4-year Prostate-specific Antigen Nadir as a Predictor of 10- and 15-year Disease-free Survival",
+      "year": 2022,
+      "date": "2022 Jan",
+      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+      "volume": "34",
+      "issue": "1",
+      "pages": "42-49",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Giovanni Tramonti"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "SEWRGII4",
+        "doi": "10.1016/j.clon.2021.11.009",
+        "title": "Defining Biochemical Cure After Low Dose Rate Prostate Brachytherapy: External Validation of 4-year Prostate-specific Antigen Nadir as a Predictor of 10- and 15-year Disease-free Survival"
+      },
+      "title_score": 1.0
+    },
+    {
       "pmid": "34864502",
       "doi": "10.1016/j.esmoop.2021.100331",
       "title": "Variation in chemotherapy prescribing rates and mortality in early breast cancer over two decades: a national data linkage study",
@@ -3824,6 +3868,32 @@
         "key": "6MU3PQCB",
         "doi": "10.1001/jamaoncol.2021.0848",
         "title": "Efficacy of Reduced-Intensity Chemotherapy With Oxaliplatin and Capecitabine on Quality of Life and Cancer Control Among Older and Frail Patients With Advanced Gastroesophageal Cancer"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "33976238",
+      "doi": "10.1038/s41598-021-88945-7",
+      "title": "A unified resource and configurable model of the synapse proteome and its role in disease",
+      "year": 2021,
+      "date": "2021 May 11",
+      "venue": "Scientific reports",
+      "volume": "11",
+      "issue": "1",
+      "pages": "9967",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Colin McLean"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "V9VEE5AG",
+        "doi": "10.1038/s41598-021-88945-7",
+        "title": "A unified resource and configurable model of the synapse proteome and its role in disease"
       },
       "title_score": 1.0
     },
