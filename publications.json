@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T13:38:10+00:00",
+  "generated_at": "2026-10-02T12:55:54+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -2304,7 +2304,7 @@
       "doi": "10.1093/oncolo/oyag203",
       "url": "https://doi.org/10.1093/oncolo/oyag203",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1093/oncolo/oyag203",
       "enriched": true
@@ -7710,7 +7710,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 206,
+      "cited_by_count": 207,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -8300,7 +8300,7 @@
       "doi": "10.1016/j.clon.2021.11.009",
       "url": "https://doi.org/10.1016/j.clon.2021.11.009",
       "doi_source": "zotero",
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "is_oa": true,
       "oa_url": "https://hdl.handle.net/20.500.11820/189786ce-bc14-4502-9252-c1dc743cdb08",
       "enriched": true
@@ -13127,7 +13127,7 @@
       "doi": "10.1373/clinchem.2018.300954",
       "url": "https://doi.org/10.1373/clinchem.2018.300954",
       "doi_source": "zotero",
-      "cited_by_count": 42,
+      "cited_by_count": 43,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/clinchem/article-pdf/65/11/1363/33851257/clinchem1363.pdf",
       "enriched": true
@@ -14731,7 +14731,7 @@
       "doi": "10.1007/s40273-016-0384-1",
       "url": "https://doi.org/10.1007/s40273-016-0384-1",
       "doi_source": "zotero",
-      "cited_by_count": 18,
+      "cited_by_count": 19,
       "is_oa": true,
       "oa_url": "http://hdl.handle.net/20.500.11820/5778657f-59bd-49d4-b3d3-40203e2d690f",
       "enriched": true
