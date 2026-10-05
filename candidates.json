@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:38:36+00:00",
+  "generated_at": "2026-10-05T15:04:24+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,39 +22,8 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2020
   },
-  "count": 1,
-  "candidates": [
-    {
-      "doi": "10.1017/nie.2026.10105",
-      "title": "AGEING AND THE POLITICAL ECONOMY OF CARE",
-      "year": 2026,
-      "venue": "National Institute Economic Review",
-      "volume": "",
-      "issue": "",
-      "pages": "1-17",
-      "cited_by_count": 0,
-      "authors": [
-        "David Bell",
-        "Elizabeth Lemmon"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Elizabeth Lemmon"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "David Nevin Fraser",
-          "lastName": "Bell"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Elizabeth",
-          "lastName": "Lemmon"
-        }
-      ]
-    }
-  ],
+  "count": 0,
+  "candidates": [],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -91,8 +60,8 @@
       "works_by_identifier": {
         "orcid": 17
       },
-      "already_filed": 16,
-      "new_candidates": 1,
+      "already_filed": 17,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Azadeh Abravan": {
