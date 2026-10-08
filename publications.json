@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T13:40:12+00:00",
+  "generated_at": "2026-10-08T13:48:20+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -5439,7 +5439,7 @@
       "doi": "10.1136/bmjspcare-2020-002630",
       "url": "https://doi.org/10.1136/bmjspcare-2020-002630",
       "doi_source": "zotero",
-      "cited_by_count": 58,
+      "cited_by_count": 57,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2020/12/01/bmjspcare-2020-002630.full.pdf",
       "enriched": true
@@ -6562,7 +6562,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 235,
+      "cited_by_count": 233,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -8587,7 +8587,7 @@
       "doi": "10.1038/s41416-022-01828-0",
       "url": "https://doi.org/10.1038/s41416-022-01828-0",
       "doi_source": "zotero",
-      "cited_by_count": 31,
+      "cited_by_count": 28,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41416-022-01828-0.pdf",
       "enriched": true
@@ -10274,7 +10274,7 @@
       "doi": "10.1158/2159-8290.cd-20-1647",
       "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
       "doi_source": "zotero",
-      "cited_by_count": 189,
+      "cited_by_count": 190,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
       "enriched": true
@@ -12618,7 +12618,7 @@
       "doi_source": "zotero",
       "cited_by_count": 6,
       "is_oa": true,
-      "oa_url": "https://linkinghub.elsevier.com/retrieve/pii/S0895435618308138",
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/6c875ae1-32cc-422a-b4dd-c55c163b99b6",
       "enriched": true
     },
     {
@@ -12719,7 +12719,7 @@
       "doi": "10.3310/hta23400",
       "url": "https://doi.org/10.3310/hta23400",
       "doi_source": "zotero",
-      "cited_by_count": 133,
+      "cited_by_count": 134,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2029922",
       "enriched": true
