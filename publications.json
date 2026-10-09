@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-08T13:48:20+00:00",
+  "generated_at": "2026-10-09T13:32:58+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -101,9 +101,9 @@
       ],
       "year": "2026",
       "venue": "British Journal of Cancer",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "135",
+      "issue": "8",
+      "pages": "1255–1266",
       "doi": "10.1038/s41416-026-03519-6",
       "url": "https://doi.org/10.1038/s41416-026-03519-6",
       "doi_source": "zotero",
@@ -1115,10 +1115,10 @@
       "doi": "10.2196/preprints.100505",
       "url": "https://doi.org/10.2196/preprints.100505",
       "doi_source": "zotero",
-      "cited_by_count": 0,
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.2196/preprints.100505",
-      "enriched": true
+      "cited_by_count": null,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": false
     },
     {
       "zotero_key": "ZTZGJAT3",
@@ -2944,7 +2944,7 @@
       "doi": "10.1016/j.jaccao.2025.06.003",
       "url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "doi_source": "zotero",
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "enriched": true
@@ -4123,7 +4123,7 @@
       "doi": "10.1158/2159-8290.cd-25-0099",
       "url": "https://doi.org/10.1158/2159-8290.cd-25-0099",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://research.manchester.ac.uk/en/publications/418e78c0-2216-45c0-8ef4-5ea54f842cc4",
       "enriched": true
@@ -5494,7 +5494,7 @@
       "doi": "10.1136/bmjspcare-2020-002708",
       "url": "https://doi.org/10.1136/bmjspcare-2020-002708",
       "doi_source": "zotero",
-      "cited_by_count": 43,
+      "cited_by_count": 40,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2021/02/11/bmjspcare-2020-002708.full.pdf",
       "enriched": true
@@ -7306,7 +7306,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 86,
+      "cited_by_count": 87,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -7468,7 +7468,7 @@
       "doi": "10.1136/bmjopen-2023-077427",
       "url": "https://doi.org/10.1136/bmjopen-2023-077427",
       "doi_source": "zotero",
-      "cited_by_count": 8,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://bmjopen.bmj.com/content/bmjopen/13/11/e077427.full.pdf",
       "enriched": true
@@ -7551,7 +7551,7 @@
       "doi": "10.3390/cancers15051431",
       "url": "https://doi.org/10.3390/cancers15051431",
       "doi_source": "zotero",
-      "cited_by_count": 10,
+      "cited_by_count": 9,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/15/5/1431/pdf?version=1677567575",
       "enriched": true
@@ -7710,7 +7710,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 207,
+      "cited_by_count": 206,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -8041,7 +8041,7 @@
       "doi": "10.1016/j.annonc.2022.08.083",
       "url": "https://doi.org/10.1016/j.annonc.2022.08.083",
       "doi_source": "zotero",
-      "cited_by_count": 50,
+      "cited_by_count": 49,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422039643/pdf",
       "enriched": true
@@ -8127,7 +8127,7 @@
       "doi": "10.1007/s10549-022-06632-1",
       "url": "https://doi.org/10.1007/s10549-022-06632-1",
       "doi_source": "zotero",
-      "cited_by_count": 16,
+      "cited_by_count": 13,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s10549-022-06632-1.pdf",
       "enriched": true
@@ -8237,7 +8237,7 @@
       "doi": "10.1080/13696998.2022.2066399",
       "url": "https://doi.org/10.1080/13696998.2022.2066399",
       "doi_source": "zotero",
-      "cited_by_count": 22,
+      "cited_by_count": 21,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1080/13696998.2022.2066399",
       "enriched": true
@@ -8300,7 +8300,7 @@
       "doi": "10.1016/j.clon.2021.11.009",
       "url": "https://doi.org/10.1016/j.clon.2021.11.009",
       "doi_source": "zotero",
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "is_oa": true,
       "oa_url": "https://hdl.handle.net/20.500.11820/189786ce-bc14-4502-9252-c1dc743cdb08",
       "enriched": true
@@ -8948,7 +8948,7 @@
       "doi": "10.1161/circheartfailure.121.009445",
       "url": "https://doi.org/10.1161/circheartfailure.121.009445",
       "doi_source": "zotero",
-      "cited_by_count": 12,
+      "cited_by_count": 11,
       "is_oa": true,
       "oa_url": "https://eprints.gla.ac.uk/273813/2/273813.pdf",
       "enriched": true
@@ -9440,7 +9440,7 @@
       "doi": "10.1038/s41598-021-88945-7",
       "url": "https://doi.org/10.1038/s41598-021-88945-7",
       "doi_source": "zotero",
-      "cited_by_count": 52,
+      "cited_by_count": 45,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41598-021-88945-7.pdf",
       "enriched": true
@@ -9562,7 +9562,7 @@
       "doi": "10.23889/ijpds.v6i1.1654",
       "url": "https://doi.org/10.23889/ijpds.v6i1.1654",
       "doi_source": "zotero",
-      "cited_by_count": 10,
+      "cited_by_count": 8,
       "is_oa": true,
       "oa_url": "https://ijpds.org/article/download/1654/3117",
       "enriched": true
@@ -9617,7 +9617,7 @@
       "doi": "10.1093/ije/dyab122",
       "url": "https://doi.org/10.1093/ije/dyab122",
       "doi_source": "zotero",
-      "cited_by_count": 20,
+      "cited_by_count": 19,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/ije/article-pdf/50/5/1418/41120563/dyab122.pdf",
       "enriched": true
@@ -10055,7 +10055,7 @@
       "doi": "10.1001/jamaoncol.2021.0848",
       "url": "https://doi.org/10.1001/jamaoncol.2021.0848",
       "doi_source": "zotero",
-      "cited_by_count": 203,
+      "cited_by_count": 193,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2780033/jamaoncology_hall_2021_oi_210009_1624469496.87358.pdf",
       "enriched": true
@@ -10274,7 +10274,7 @@
       "doi": "10.1158/2159-8290.cd-20-1647",
       "url": "https://doi.org/10.1158/2159-8290.cd-20-1647",
       "doi_source": "zotero",
-      "cited_by_count": 190,
+      "cited_by_count": 179,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/11/11/2796/3201919/2796.pdf",
       "enriched": true
@@ -10353,7 +10353,7 @@
       "doi": "10.3389/fnut.2021.734735",
       "url": "https://doi.org/10.3389/fnut.2021.734735",
       "doi_source": "zotero",
-      "cited_by_count": 54,
+      "cited_by_count": 49,
       "is_oa": true,
       "oa_url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.734735/pdf",
       "enriched": true
@@ -10883,7 +10883,7 @@
       "doi": "10.1038/s41416-021-01262-8",
       "url": "https://doi.org/10.1038/s41416-021-01262-8",
       "doi_source": "zotero",
-      "cited_by_count": 43,
+      "cited_by_count": 41,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41416-021-01262-8.pdf",
       "enriched": true
@@ -10930,7 +10930,7 @@
       "doi": "10.1016/j.esmoop.2021.100331",
       "url": "https://doi.org/10.1016/j.esmoop.2021.100331",
       "doi_source": "zotero",
-      "cited_by_count": 15,
+      "cited_by_count": 12,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.esmoop.2021.100331",
       "enriched": true
@@ -11120,7 +11120,7 @@
       "doi": "10.1200/jco.19.00368",
       "url": "https://doi.org/10.1200/jco.19.00368",
       "doi_source": "zotero",
-      "cited_by_count": 400,
+      "cited_by_count": 392,
       "is_oa": true,
       "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.19.00368",
       "enriched": true
@@ -11339,7 +11339,7 @@
       "doi": "10.1016/s1470-2045(20)30442-3",
       "url": "https://doi.org/10.1016/s1470-2045(20)30442-3",
       "doi_source": "zotero",
-      "cited_by_count": 601,
+      "cited_by_count": 577,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1470204520304423/pdf",
       "enriched": true
@@ -11394,7 +11394,7 @@
       "doi": "10.1038/s41416-020-0938-z",
       "url": "https://doi.org/10.1038/s41416-020-0938-z",
       "doi_source": "zotero",
-      "cited_by_count": 54,
+      "cited_by_count": 53,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41416-020-0938-z.pdf",
       "enriched": true
@@ -11465,9 +11465,9 @@
       "doi": "10.1136/bmj.m2377",
       "url": "https://doi.org/10.1136/bmj.m2377",
       "doi_source": "zotero",
-      "cited_by_count": 21,
+      "cited_by_count": 25,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/files/152210848/Distinguishing_between_direct_and_indirect_consequences_of_covid_19.pdf",
+      "oa_url": "https://www.medrxiv.org/content/medrxiv/early/2020/05/06/2020.05.02.20086231.full.pdf",
       "enriched": true
     },
     {
@@ -11532,7 +11532,7 @@
       "doi": "10.1016/j.clon.2019.11.008",
       "url": "https://doi.org/10.1016/j.clon.2019.11.008",
       "doi_source": "zotero",
-      "cited_by_count": 42,
+      "cited_by_count": 37,
       "is_oa": true,
       "oa_url": "http://www.clinicaloncologyonline.net/article/S0936655519304960/pdf",
       "enriched": true
@@ -11571,7 +11571,7 @@
       "doi": "10.1007/s40273-019-00869-3",
       "url": "https://doi.org/10.1007/s40273-019-00869-3",
       "doi_source": "zotero",
-      "cited_by_count": 70,
+      "cited_by_count": 63,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-019-00869-3.pdf",
       "enriched": true
@@ -11622,7 +11622,7 @@
       "doi": "10.1016/j.conctc.2020.100564",
       "url": "https://doi.org/10.1016/j.conctc.2020.100564",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 5,
       "is_oa": true,
       "oa_url": "https://www.sciencedirect.com/science/article/pii/S245186542030048X/pdf",
       "enriched": true
@@ -11864,7 +11864,7 @@
       "doi": "10.3310/hta24400",
       "url": "https://doi.org/10.3310/hta24400",
       "doi_source": "zotero",
-      "cited_by_count": 23,
+      "cited_by_count": 22,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2033711",
       "enriched": true
@@ -12264,7 +12264,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 288,
+      "cited_by_count": 286,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
@@ -12346,7 +12346,7 @@
       "doi": "10.1371/journal.pmed.1003006",
       "url": "https://doi.org/10.1371/journal.pmed.1003006",
       "doi_source": "zotero",
-      "cited_by_count": 23,
+      "cited_by_count": 22,
       "is_oa": true,
       "oa_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1003006&type=printable",
       "enriched": true
@@ -12573,7 +12573,7 @@
       "doi": "10.1016/j.ijrobp.2019.07.009",
       "url": "https://doi.org/10.1016/j.ijrobp.2019.07.009",
       "doi_source": "zotero",
-      "cited_by_count": 30,
+      "cited_by_count": 27,
       "is_oa": true,
       "oa_url": "http://www.redjournal.org/article/S0360301619334583/pdf",
       "enriched": true
@@ -12719,7 +12719,7 @@
       "doi": "10.3310/hta23400",
       "url": "https://doi.org/10.3310/hta23400",
       "doi_source": "zotero",
-      "cited_by_count": 134,
+      "cited_by_count": 128,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2029922",
       "enriched": true
@@ -13005,7 +13005,7 @@
       "doi": "10.1016/j.jclinepi.2018.10.004",
       "url": "https://doi.org/10.1016/j.jclinepi.2018.10.004",
       "doi_source": "zotero",
-      "cited_by_count": 98,
+      "cited_by_count": 92,
       "is_oa": true,
       "oa_url": "http://www.jclinepi.com/article/S0895435618306280/pdf",
       "enriched": true
@@ -13088,7 +13088,7 @@
       "doi": "10.1016/s2468-2667(19)30185-9",
       "url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "doi_source": "zotero",
-      "cited_by_count": 57,
+      "cited_by_count": 54,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "enriched": true
@@ -13452,7 +13452,7 @@
       "doi": "10.1016/j.jclinepi.2018.02.018",
       "url": "https://doi.org/10.1016/j.jclinepi.2018.02.018",
       "doi_source": "zotero",
-      "cited_by_count": 68,
+      "cited_by_count": 53,
       "is_oa": true,
       "oa_url": "http://www.jclinepi.com/article/S0895435617312787/pdf",
       "enriched": true
@@ -13542,7 +13542,7 @@
       "doi": "10.1016/j.eururo.2018.03.006",
       "url": "https://doi.org/10.1016/j.eururo.2018.03.006",
       "doi_source": "zotero",
-      "cited_by_count": 66,
+      "cited_by_count": 63,
       "is_oa": true,
       "oa_url": "https://www.research.ed.ac.uk/files/74745820/P_Hall_paper.pdf",
       "enriched": true
@@ -13636,7 +13636,7 @@
       "doi": "10.1038/s41416-018-0256-x",
       "url": "https://doi.org/10.1038/s41416-018-0256-x",
       "doi_source": "zotero",
-      "cited_by_count": 70,
+      "cited_by_count": 67,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41416-018-0256-x.pdf",
       "enriched": true
@@ -13781,7 +13781,7 @@
       "doi": "10.3310/hta22320",
       "url": "https://doi.org/10.3310/hta22320",
       "doi_source": "zotero",
-      "cited_by_count": 39,
+      "cited_by_count": 38,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2014510",
       "enriched": true
@@ -14154,7 +14154,7 @@
       "doi": "10.1093/annonc/mdw665",
       "url": "https://doi.org/10.1093/annonc/mdw665",
       "doi_source": "zotero",
-      "cited_by_count": 107,
+      "cited_by_count": 108,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1093/annonc/mdw665",
       "enriched": true
@@ -14260,7 +14260,7 @@
       "doi": "10.2217/imt-2016-0150",
       "url": "https://doi.org/10.2217/imt-2016-0150",
       "doi_source": "zotero",
-      "cited_by_count": 207,
+      "cited_by_count": 198,
       "is_oa": true,
       "oa_url": "http://hdl.handle.net/10400.1/13131",
       "enriched": true
@@ -14339,7 +14339,7 @@
       "doi": "10.3310/hta21170",
       "url": "https://doi.org/10.3310/hta21170",
       "doi_source": "zotero",
-      "cited_by_count": 94,
+      "cited_by_count": 90,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2010350",
       "enriched": true
@@ -14484,7 +14484,7 @@
       "doi": "10.1016/j.jval.2017.04.021",
       "url": "https://doi.org/10.1016/j.jval.2017.04.021",
       "doi_source": "zotero",
-      "cited_by_count": 49,
+      "cited_by_count": 47,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.jval.2017.04.021",
       "enriched": true
@@ -14669,7 +14669,7 @@
       "doi": "10.1093/jnci/djw050",
       "url": "https://doi.org/10.1093/jnci/djw050",
       "doi_source": "zotero",
-      "cited_by_count": 218,
+      "cited_by_count": 215,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/jnci/article-pdf/108/9/djw050/24366498/djw050.pdf",
       "enriched": true
@@ -14786,7 +14786,7 @@
       "doi": "10.1186/s40560-016-0178-8",
       "url": "https://doi.org/10.1186/s40560-016-0178-8",
       "doi_source": "zotero",
-      "cited_by_count": 71,
+      "cited_by_count": 68,
       "is_oa": true,
       "oa_url": "https://jintensivecare.biomedcentral.com/track/pdf/10.1186/s40560-016-0178-8",
       "enriched": true
@@ -14873,7 +14873,7 @@
       "doi": "10.3310/hta20100",
       "url": "https://doi.org/10.3310/hta20100",
       "doi_source": "zotero",
-      "cited_by_count": 80,
+      "cited_by_count": 79,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2003391",
       "enriched": true
@@ -14964,7 +14964,7 @@
       "doi": "10.1056/nejmoa1514493",
       "url": "https://doi.org/10.1056/nejmoa1514493",
       "doi_source": "zotero",
-      "cited_by_count": 643,
+      "cited_by_count": 632,
       "is_oa": true,
       "oa_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1514493?articleTools=true",
       "enriched": true
@@ -15133,7 +15133,7 @@
       "doi": "10.1038/bjc.2014.644",
       "url": "https://doi.org/10.1038/bjc.2014.644",
       "doi_source": "zotero",
-      "cited_by_count": 67,
+      "cited_by_count": 64,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/bjc2014644.pdf",
       "enriched": true

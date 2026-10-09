@@ -2,7 +2,7 @@
 
 > **Warning: no works returned for Piyumanga Karunaratne, Sean Foley, Maxine de Araujo, Oliver Llewellyn, Laura Hewitt, Lauren Ng, Elliot Erskine, Nick Fethers.** Every configured identifier for these people returned nothing from OpenAlex. That usually means their OpenAlex author entity has no ORCID linked, not that they have not published. Check the authorships of a recent paper in OpenAlex and add an `openalex_id`.
 
-Generated 2026-10-08 13:48 UTC. 0 new this run, 0 possible version updates held back.
+Generated 2026-10-09 13:33 UTC. 0 new this run, 0 possible version updates held back.
 
 Windows scanned: Peter Hall from 2015, Mark Stares from 2020, Elizabeth Lemmon from 2015, Azadeh Abravan from 2026, Sam McInerney from 2025, Giovanni Tramonti from 2015, Piyumanga Karunaratne from 2020, Sean Foley from 2026, Colin McLean from 2021, Maxine de Araujo from 2023, Oliver Llewellyn from 2026, Laura Hewitt from 2026, Nicola Symmers from 2019, Lauren Ng from 2026, Maheva Vallet from 2019, Marek Atter from 2020, Elliot Erskine from 2025, Nick Fethers from 2025, Iain Phillips from 2020.
 
@@ -14,7 +14,7 @@ Works returned by OpenAlex for each identifier in the scan window. A zero agains
 | Author | From | Works per identifier | Already filed | New candidates | Version updates |
 |---|---|---|---|---|---|
 | Peter Hall | 2015 | orcid: 206 | 206 | 0 | 0 |
-| Mark Stares | 2020 | orcid: 56 | 56 | 0 | 0 |
+| Mark Stares | 2020 | orcid: 55 | 55 | 0 | 0 |
 | Elizabeth Lemmon | 2015 | orcid: 17 | 17 | 0 | 0 |
 | Azadeh Abravan | 2026 | orcid: 7 | 7 | 0 | 0 |
 | Sam McInerney | 2025 | orcid: 1 | 1 | 0 | 0 |

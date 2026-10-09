@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:48:51+00:00",
+  "generated_at": "2026-10-09T13:33:28+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -49,9 +49,9 @@
     "Mark Stares": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 56
+        "orcid": 55
       },
-      "already_filed": 56,
+      "already_filed": 55,
       "new_candidates": 0,
       "version_updates": 0
     },
