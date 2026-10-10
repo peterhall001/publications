@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T13:32:58+00:00",
+  "generated_at": "2026-10-10T12:47:37+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -3437,7 +3437,7 @@
       "doi": "10.1136/spcare-2024-004869",
       "url": "https://doi.org/10.1136/spcare-2024-004869",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://www.research.ed.ac.uk/en/publications/da212012-7504-421b-9932-6c7dcc1452f7",
       "enriched": true
@@ -4910,7 +4910,7 @@
       "doi": "10.1097/spc.0000000000000716",
       "url": "https://doi.org/10.1097/spc.0000000000000716",
       "doi_source": "zotero",
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "is_oa": false,
       "oa_url": null,
       "enriched": true
@@ -7033,7 +7033,7 @@
       "doi": "10.3390/cancers15235502",
       "url": "https://doi.org/10.3390/cancers15235502",
       "doi_source": "zotero",
-      "cited_by_count": 15,
+      "cited_by_count": 16,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/15/23/5502/pdf?version=1700564980",
       "enriched": true
@@ -7710,7 +7710,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 206,
+      "cited_by_count": 207,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -9440,7 +9440,7 @@
       "doi": "10.1038/s41598-021-88945-7",
       "url": "https://doi.org/10.1038/s41598-021-88945-7",
       "doi_source": "zotero",
-      "cited_by_count": 45,
+      "cited_by_count": 44,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41598-021-88945-7.pdf",
       "enriched": true
@@ -10055,7 +10055,7 @@
       "doi": "10.1001/jamaoncol.2021.0848",
       "url": "https://doi.org/10.1001/jamaoncol.2021.0848",
       "doi_source": "zotero",
-      "cited_by_count": 193,
+      "cited_by_count": 195,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2780033/jamaoncology_hall_2021_oi_210009_1624469496.87358.pdf",
       "enriched": true
