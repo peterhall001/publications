@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-12T15:49:52+00:00",
+  "generated_at": "2026-10-13T14:26:32+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3590"
+    "zotero_library_version": "3596"
   },
   "count": 195,
   "doi_backfilled": 0,
@@ -2514,7 +2514,7 @@
       ],
       "year": "2026",
       "venue": "Radiotherapy and Oncology",
-      "volume": "",
+      "volume": "224",
       "issue": "",
       "pages": "111722",
       "doi": "10.1016/j.radonc.2026.111722",
@@ -4514,7 +4514,7 @@
       "doi": "10.3390/cancers17040601",
       "url": "https://doi.org/10.3390/cancers17040601",
       "doi_source": "zotero",
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/17/4/601/pdf?version=1739353656",
       "enriched": true
@@ -7710,7 +7710,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 207,
+      "cited_by_count": 208,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -12719,7 +12719,7 @@
       "doi": "10.3310/hta23400",
       "url": "https://doi.org/10.3310/hta23400",
       "doi_source": "zotero",
-      "cited_by_count": 128,
+      "cited_by_count": 129,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2029922",
       "enriched": true
