@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:08:57+00:00",
+  "generated_at": "2026-10-15T13:44:19+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -20,14 +20,1561 @@
     "Marek Atter": 2020,
     "Elliot Erskine": 2025,
     "Nick Fethers": 2025,
-    "Iain Phillips": 2020
+    "Iain Phillips": 2025
   },
-  "count": 0,
-  "candidates": [],
+  "count": 14,
+  "candidates": [
+    {
+      "doi": "10.21037/apm-25-103",
+      "title": "The evolving role of radiotherapy in advanced non-small cell lung cancer: beyond symptom control",
+      "year": 2026,
+      "venue": "Annals of Palliative Medicine",
+      "volume": "15",
+      "issue": "1",
+      "pages": "9-9",
+      "cited_by_count": 1,
+      "authors": [
+        "Margherita Vianello",
+        "Karin R. Purshouse",
+        "Ian Fraser",
+        "Iain Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Margherita",
+          "lastName": "Vianello"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karin",
+          "lastName": "Purshouse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ian",
+          "lastName": "Fraser"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "doi": "10.1136/bmjopen-2025-104408",
+      "title": "Protocol for the PROSECCA study: a new approach for predicting radiotherapy outcome using artificial intelligence and electronic population-based healthcare data",
+      "year": 2026,
+      "venue": "BMJ Open",
+      "volume": "16",
+      "issue": "2",
+      "pages": "e104408",
+      "cited_by_count": 0,
+      "authors": [
+        "William Henry Nailon",
+        "David J. Noble",
+        "Ewen M Harrison",
+        "Zhuolin Yang",
+        "Sarah Elliot",
+        "Archie Macnair",
+        "George Beckett",
+        "Antony Hallam",
+        "Aziz Sheikh",
+        "Nicholas L. Mills",
+        "Roger Halliday",
+        "David Stewart Morrison",
+        "Anthony J. Chalmers",
+        "David Cameron",
+        "Charlie Gourley",
+        "Peter Edward Hall",
+        "Christina Lilley",
+        "L. Carruthers",
+        "Michael Trainer",
+        "Donna Burns",
+        "Fiona Dee",
+        "Sankar Andiappa",
+        "Adrian Lonsdale",
+        "Megan B. Couper",
+        "Kirsty Farnan",
+        "John McLellan",
+        "Andrew Miller",
+        "Jacqueline Ogg",
+        "Jillian Moses",
+        "Steve Colligan",
+        "Graham MacDonald",
+        "Neil McPhail",
+        "Paddy G Niblock",
+        "Nicholas James MacLeod",
+        "Mike E. Davies",
+        "Dave I Laurenson",
+        "James R. Hopgood",
+        "Dorothy Boyle",
+        "Claire Paterson",
+        "Derek B. Grose",
+        "Iain Phillips",
+        "Stephen Harrow",
+        "Thomas Berger",
+        "Leila E.A. Shelley",
+        "Ian Sanders",
+        "Shelley A. Henderson",
+        "Aileen Duffton",
+        "Joanne Mitchell",
+        "Alasdair Rutherford",
+        "Duncan B. McLaren"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William H",
+          "lastName": "Nailon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David J",
+          "lastName": "Noble"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ewen",
+          "lastName": "Harrison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zhuolin",
+          "lastName": "Yang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Elliot"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Archie",
+          "lastName": "MacNair"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Beckett"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Antony",
+          "lastName": "Hallam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aziz",
+          "lastName": "Sheikh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Mills"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roger",
+          "lastName": "Halliday"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Morrison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anthony",
+          "lastName": "Chalmers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Cameron"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charlie",
+          "lastName": "Gourley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christina",
+          "lastName": "Lilley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Linda J",
+          "lastName": "Carruthers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Trainer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donna",
+          "lastName": "Burns"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fiona",
+          "lastName": "Dee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sankar",
+          "lastName": "Andiappa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adrian",
+          "lastName": "Lonsdale"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Megan",
+          "lastName": "Couper"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "Farnan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "McLellan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew",
+          "lastName": "Miller"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jacqueline",
+          "lastName": "Ogg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jillian",
+          "lastName": "Moses"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Colligan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Graham",
+          "lastName": "MacDonald"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Neil",
+          "lastName": "McPhail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paddy",
+          "lastName": "Niblock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "MacLeod"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mike E",
+          "lastName": "Davies"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dave I",
+          "lastName": "Laurenson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James R",
+          "lastName": "Hopgood"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dorothy",
+          "lastName": "Boyle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Paterson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Derek",
+          "lastName": "Grose"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Berger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leila E A",
+          "lastName": "Shelley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ian",
+          "lastName": "Sanders"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shelley",
+          "lastName": "Henderson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aileen",
+          "lastName": "Duffton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joanne",
+          "lastName": "Mitchell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alasdair",
+          "lastName": "Rutherford"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Duncan B",
+          "lastName": "McLaren"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109141",
+      "title": "193 National contouring workshop for lung SABR",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109141",
+      "cited_by_count": 0,
+      "authors": [
+        "Iain Phillips",
+        "Ceri J. Powell",
+        "Patricia Díez",
+        "Fiona McDonald"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ceri",
+          "lastName": "Powell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patricia",
+          "lastName": "Diez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fiona",
+          "lastName": "McDonald"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109223",
+      "title": "275 Pneumocystis jirovecii pneumonia and Thoracic Malignancy: risk factors and need for prophylaxis",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109223",
+      "cited_by_count": 0,
+      "authors": [
+        "Grace Ann Ball",
+        "Amy Cooper",
+        "Adam Sharif",
+        "Dhruv Abhi",
+        "Naomi Bulteel",
+        "Sorcha Campbell",
+        "Kirsty Maclennan",
+        "Iain Phillips",
+        "Stephen Harrow",
+        "Colin Barrie",
+        "Jane Perry",
+        "Almudena Cascales"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Grace Ann",
+          "lastName": "Ball"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amy",
+          "lastName": "Cooper"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Sharif"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dhruv",
+          "lastName": "Abhi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Naomi",
+          "lastName": "Bulteel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sorcha",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsty",
+          "lastName": "MacLennan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Perry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Almudena",
+          "lastName": "Cascales"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109092",
+      "title": "143 mSIPS-dNLR identifies patients unlikely to respond to first-line pembrolizumab for advanced non-small cell lung cancer",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109092",
+      "cited_by_count": 0,
+      "authors": [
+        "Benjamin Jia Liang Lim",
+        "Elliot Erskine",
+        "Nicholas Fethers",
+        "Jenny Lamb",
+        "Irfaan Mohangee",
+        "Karim Hussien El-Shakankery",
+        "Jack Leach",
+        "Barry J. A. Laird",
+        "Christina Lilley",
+        "Sally Clive",
+        "Colin Barrie",
+        "Jane L. Parry",
+        "Almudena Cascales",
+        "Michael S. Yule",
+        "Leo R. Brown",
+        "Marie Fallon",
+        "Joanna Bowden",
+        "Iain Phillips",
+        "Stares Mark"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin Jia Liang",
+          "lastName": "Lim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elliot",
+          "lastName": "Erskine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Fethers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jenny",
+          "lastName": "Lamb"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Irfaan",
+          "lastName": "Mohangee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karim H.",
+          "lastName": "El-Shakankery"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jack",
+          "lastName": "Leach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barry J.A.",
+          "lastName": "Laird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christina",
+          "lastName": "Lilley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sally",
+          "lastName": "Clive"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Parry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Almudena",
+          "lastName": "Cascales"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Yule"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leo R.",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie",
+          "lastName": "Fallon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jo",
+          "lastName": "Bowden"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stares",
+          "lastName": "Mark"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109093",
+      "title": "144 SIPS-NLR Predicts Overall Survival in Patients with Advanced NSCLC Receiving First-Line Chemo-Immunotherapy",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109093",
+      "cited_by_count": 0,
+      "authors": [
+        "Benjamin Jia Liang Lim",
+        "Irfaan Mohangee",
+        "Emma Walker",
+        "Jenny Lamb",
+        "Jack Leach",
+        "Karim Hussien El-Shakankery",
+        "Elliot Erskine",
+        "Nicholas Fethers",
+        "Colin Barrie",
+        "Jane L. Parry",
+        "Almudena Cascales",
+        "Iain Phillips",
+        "Stares Mark"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin Jia Liang",
+          "lastName": "Lim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Irfaan",
+          "lastName": "Mohangee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emma",
+          "lastName": "Walker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jenny",
+          "lastName": "Lamb"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jack",
+          "lastName": "Leach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karim H.",
+          "lastName": "El-Shakankery"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elliot",
+          "lastName": "Erskine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Fethers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Parry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Almudena",
+          "lastName": "Cascales"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stares",
+          "lastName": "Mark"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.lungcan.2026.109211",
+      "title": "263 The DAHRTS Study- Durvalumab after concurrent chemotherapy and accelerated high-dose twice-daily thoracic radiotherapy in Limited-Stage Small Cell Lung Cancer (LS-SCLC)",
+      "year": 2026,
+      "venue": "Lung Cancer",
+      "volume": "212",
+      "issue": "",
+      "pages": "109211",
+      "cited_by_count": 0,
+      "authors": [
+        "Iain Phillips",
+        "Hannah Bainbridge",
+        "S. Brown",
+        "Corinne Faivre Finn",
+        "K. Franks",
+        "Ian Fraser",
+        "Matthew Q F Hatton",
+        "Johnathan Hicks",
+        "Crispin T. Hiley",
+        "Claire Stilwell",
+        "Kamal Thippu Jayaprakash",
+        "Bjørn Henning Grønberg"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hannah",
+          "lastName": "Bainbridge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sean",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Corinne",
+          "lastName": "Faivre-Finn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Franks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ian",
+          "lastName": "Fraser"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Hatton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Johnathan",
+          "lastName": "Hicks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Crispin",
+          "lastName": "Hiley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Stilwell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kamal",
+          "lastName": "Thippu Jayaprakash"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bjørn Henning",
+          "lastName": "Grønberg"
+        }
+      ]
+    },
+    {
+      "doi": "10.1136/bcr-2025-271346",
+      "title": "ABPM secondary to\n                    <i>Saccharomyces cerevisiae</i>\n                    mimicking lung cancer in an immunocompetent patient",
+      "year": 2026,
+      "venue": "BMJ Case Reports",
+      "volume": "19",
+      "issue": "5",
+      "pages": "e271346",
+      "cited_by_count": 0,
+      "authors": [
+        "Euan McGuigan",
+        "Harriet Hubbard",
+        "Olivia Anderson",
+        "Fraser R. Millar",
+        "Malcolm Will",
+        "Santiago Giavedoni",
+        "Rachel Bramah",
+        "Iain Phillips",
+        "Tracie Plant"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Euan",
+          "lastName": "McGuigan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Harriet",
+          "lastName": "Hubbard"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Olivia",
+          "lastName": "Anderson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fraser",
+          "lastName": "Millar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Malcolm",
+          "lastName": "Will"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Santiago",
+          "lastName": "Giavedoni"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rachel",
+          "lastName": "Bramah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tracie",
+          "lastName": "Plant"
+        }
+      ]
+    },
+    {
+      "doi": "10.1007/s00520-026-11211-x",
+      "title": "PRiSM project: e-Delphi study on the role of specialist palliative care services in the care of people with stable locally advanced or metastatic cancer",
+      "year": 2026,
+      "venue": "Supportive Care in Cancer",
+      "volume": "34",
+      "issue": "10",
+      "pages": "982",
+      "cited_by_count": 0,
+      "authors": [
+        "Amy Grace Stephanie Taylor",
+        "Andrew Neil Davies",
+        "PRiSM e-Delphi Group",
+        "Jurgen Abela",
+        "Sam Hjelmeland Ahmedzai",
+        "Andrea Antonuzzo",
+        "Michele Aquilano",
+        "M. Arantzamendi-Solabarrieta",
+        "Corali Arends",
+        "Jann Arends",
+        "Anne‐Marie Baird",
+        "Lucy Balding",
+        "Marika Bana",
+        "E. Barallat Gimeno",
+        "Caroline Barry",
+        "Jenny Bergqvist",
+        "Jason Boland",
+        "Lauren Boland",
+        "Carole Bouleuc",
+        "Bernadette Brady",
+        "Iwona Bryniarska",
+        "Laurent Yves Calvel",
+        "Heather Calver",
+        "Andreia Capela",
+        "Guido Cavaletti",
+        "Carlos Centeno Cortés",
+        "Andreas Charalambous",
+        "Karen Charnley",
+        "Konstantinos Christofyllakis",
+        "Dave Chuter",
+        "Michael Connolly",
+        "Michael Cushen",
+        "P. Debourdeau",
+        "Karie Dennehy",
+        "Andrew Dickman",
+        "Amanda Drury",
+        "Tomasz Dzierżanowski",
+        "Maja Ebert Moltara",
+        "Guillaume Pierre Serge Economos",
+        "Kim Elliott",
+        "Frank Elsner",
+        "Catherine Evans",
+        "Norah Fagan",
+        "Dagny Faksvåg Haugen",
+        "Lara-Suzanne Farrugia",
+        "Ricardo Fernandes",
+        "Mapi Fleury",
+        "Jan Gärtner",
+        "Olaf P. Geerse",
+        "Alexandra Gilbert"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Amy",
+          "lastName": "Taylor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew",
+          "lastName": "Davies"
+        },
+        {
+          "creatorType": "author",
+          "name": "PRiSM e-Delphi Group"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jurgen",
+          "lastName": "Abela"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sam H",
+          "lastName": "Ahmedzai"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrea",
+          "lastName": "Antonuzzo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michele",
+          "lastName": "Aquilano"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "María Arantzamendi",
+          "lastName": "Solabarrieta"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Corali",
+          "lastName": "Arends"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jann",
+          "lastName": "Arends"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne-Marie",
+          "lastName": "Baird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lucy",
+          "lastName": "Balding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marika",
+          "lastName": "Bana"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eva Barallat",
+          "lastName": "Gimeno"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Caroline",
+          "lastName": "Barry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jenny",
+          "lastName": "Bergqvist"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jason",
+          "lastName": "Boland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lauren",
+          "lastName": "Boland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carole",
+          "lastName": "Bouleuc"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bernadette",
+          "lastName": "Brady"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iwona",
+          "lastName": "Bryniarska"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laurent",
+          "lastName": "Calvel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heather",
+          "lastName": "Calver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andreia",
+          "lastName": "Capela"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Guido",
+          "lastName": "Cavaletti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carlos Centeno",
+          "lastName": "Cortés"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andreas",
+          "lastName": "Charalambous"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen",
+          "lastName": "Charnley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Konstantinos",
+          "lastName": "Christofyllakis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dave",
+          "lastName": "Chuter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Connolly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Cushen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philippe",
+          "lastName": "Debourdeau"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karie",
+          "lastName": "Dennehy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew",
+          "lastName": "Dickman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amanda",
+          "lastName": "Drury"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tomasz",
+          "lastName": "Dzierżanowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maja Ebert",
+          "lastName": "Moltara"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Guillaume",
+          "lastName": "Economos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kim",
+          "lastName": "Elliott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank",
+          "lastName": "Elsner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Catherine",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Norah",
+          "lastName": "Fagan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dagny Renata Faksvåg",
+          "lastName": "Haugen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lara-Suzanne",
+          "lastName": "Farrugia"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ricardo",
+          "lastName": "Fernandes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mapi",
+          "lastName": "Fleury"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jan",
+          "lastName": "Gärtner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Olaf P",
+          "lastName": "Geerse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandra",
+          "lastName": "Gilbert"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.clon.2025.103812",
+      "title": "Early prehabilitation reduces admissions and time in hospital in patients with newly diagnosed lung cancer: patient experience survey",
+      "year": 2025,
+      "venue": "Clinical Oncology",
+      "volume": "40",
+      "issue": "",
+      "pages": "103812",
+      "cited_by_count": 1,
+      "authors": [
+        "Alexandra Davies",
+        "Iain Phillips",
+        "Colin Barrie",
+        "Fiona O’Brien",
+        "Abigail Walton",
+        "Julie Mencnarowski"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alexandra",
+          "lastName": "Davies"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "Barrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fiona",
+          "lastName": "O’Brien"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abigail",
+          "lastName": "Walton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julie",
+          "lastName": "Mencnarowski"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.esmoop.2025.104410",
+      "title": "97P VREAL: Use of virtual reality for emotional wellbeing of sarcoma patients - Preliminary results",
+      "year": 2025,
+      "venue": "ESMO Open",
+      "volume": "10",
+      "issue": "",
+      "pages": "104410",
+      "cited_by_count": 0,
+      "authors": [
+        "Ioanna Nixon",
+        "Samuel McInerney",
+        "A. Abraham",
+        "J. Scott",
+        "Ray Syed",
+        "K.J.M. Brooksbank"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Sam McInerney"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "I.",
+          "lastName": "Nixon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.J.",
+          "lastName": "McInerney"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Abraham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J.",
+          "lastName": "Scott"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R.",
+          "lastName": "Syed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K.J.M.",
+          "lastName": "Brooksbank"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(25)01080-1",
+      "title": "2471 Conventional Radiotherapy and Thoracic SABR for Synchronous Oligometastatic NSCLC: Acute Toxicity Findings from the SARON Thoracic Safety Sub-Study",
+      "year": 2025,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "206",
+      "issue": "",
+      "pages": "S1357-S1359",
+      "cited_by_count": 0,
+      "authors": [
+        "Ragu Ratnakumaran",
+        "Rushil Patel",
+        "Nicholas Counsell",
+        "Joanna C. Smith",
+        "Ka Man Mak",
+        "Gerard G. Hanna",
+        "John Conibear",
+        "Kevin N. Franks",
+        "Philip Mayles",
+        "Anthony Pope",
+        "Corinne Faivre Finn",
+        "Merina Ahmed",
+        "Sanjay Popat",
+        "S. Ahmad",
+        "Qamar Ghafoor",
+        "Charles Comins",
+        "Crispin T. Hiley",
+        "Martin David Forster",
+        "Alexander M. Martin",
+        "Stephen Harrow",
+        "Iain Phillips",
+        "Andrew Tom Bates",
+        "Philip James Atherton",
+        "David Landau",
+        "Fiona McDonald"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ragu",
+          "lastName": "Ratnakumaran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rushil",
+          "lastName": "Patel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Counsell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joanna",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ka Man",
+          "lastName": "Mak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gerard G.",
+          "lastName": "Hanna"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Conibear"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin N.",
+          "lastName": "Franks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip",
+          "lastName": "Mayles"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anthony",
+          "lastName": "Pope"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Corinne",
+          "lastName": "Faivre-Finn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Merina",
+          "lastName": "Ahmed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sanjay",
+          "lastName": "Popat"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shahreen",
+          "lastName": "Ahmad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Qamar",
+          "lastName": "Ghafoor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charles",
+          "lastName": "Comins"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Crispin",
+          "lastName": "Hiley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Martin",
+          "lastName": "Forster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexander",
+          "lastName": "Martin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Harrow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew",
+          "lastName": "Bates"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip",
+          "lastName": "Atherton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Landau"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fiona",
+          "lastName": "McDonald"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.mpdhp.2025.05.002",
+      "title": "Neoadjuvant chemo-immunotherapy in non-small cell lung cancer: clinical rationale and methods of pathological assessment",
+      "year": 2025,
+      "venue": "Diagnostic Histopathology",
+      "volume": "31",
+      "issue": "8",
+      "pages": "458-465",
+      "cited_by_count": 0,
+      "authors": [
+        "Carol Kwon",
+        "Karin R. Purshouse",
+        "Iain Phillips",
+        "David A. Dorward"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Carol",
+          "lastName": "Kwon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karin",
+          "lastName": "Purshouse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain D",
+          "lastName": "Phillips"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David A",
+          "lastName": "Dorward"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/j.jtho.2025.09.738",
+      "title": "P2.15.27 Symptom Screening Using the Patient-Generated Subjective Global Assessment Adds Value to Routine Clinical Review",
+      "year": 2025,
+      "venue": "Journal of Thoracic Oncology",
+      "volume": "20",
+      "issue": "10",
+      "pages": "S393",
+      "cited_by_count": 0,
+      "authors": [
+        "Cardinale B. Smith",
+        "Iain Phillips"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "I.",
+          "lastName": "Phillips"
+        }
+      ]
+    }
+  ],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
-    "Sam McInerney",
     "Piyumanga Karunaratne",
     "Sean Foley",
     "Maxine de Araujo",
@@ -35,8 +1582,7 @@
     "Laura Hewitt",
     "Lauren Ng",
     "Elliot Erskine",
-    "Nick Fethers",
-    "Iain Phillips"
+    "Nick Fethers"
   ],
   "per_author": {
     "Peter Hall": {
@@ -78,10 +1624,11 @@
     "Sam McInerney": {
       "since_year": 2025,
       "works_by_identifier": {
-        "orcid": 0
+        "orcid": 0,
+        "openalex_id:A5011143294": 2
       },
-      "already_filed": 0,
-      "new_candidates": 0,
+      "already_filed": 1,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Giovanni Tramonti": {
@@ -203,12 +1750,13 @@
       "version_updates": 0
     },
     "Iain Phillips": {
-      "since_year": 2020,
+      "since_year": 2025,
       "works_by_identifier": {
-        "orcid": 0
+        "orcid": 0,
+        "openalex_id:A5055439029": 21
       },
-      "already_filed": 0,
-      "new_candidates": 0,
+      "already_filed": 8,
+      "new_candidates": 13,
       "version_updates": 0
     }
   }
