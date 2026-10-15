@@ -23,6 +23,8 @@
     { "name": "Marek Atter", "orcid": "0000-0002-1628-7427", "since_year": 2020 },
     { "name": "Elliot Erskine", "orcid": "0009-0004-1336-971X", "since_year": 2025 },
     { "name": "Nick Fethers", "orcid": "0009-0007-6954-8612", "since_year": 2025 },
-    { "name": "Iain Phillips", "orcid": "0009-0000-9100-4012", "since_year":2020 }
+    { "name": "Iain Phillips", "orcid": "0009-0000-9100-4012",
+      "openalex_id": "A5055439029", "since_year": 2025,
+      "_note": "Checked 15 Oct 2026: OpenAlex links his papers to his second ORCID (0000-0001-7593-5722) on A5055439029, not to this ORCID (A5140306089, 0 articles). All 68 of A5055439029's articles since 2020 are Edinburgh lung cancer, radiotherapy or cachexia work. Window moved from 2020 to 2025 to keep 27 older unfiled items, mostly abstracts, out of Review." }
   ]
 }
