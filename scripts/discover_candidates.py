@@ -65,6 +65,13 @@ CROSSREF_BASE = "https://api.crossref.org"
 USER_AGENT = "eci-publications-builder/1.0 (mailto:%s)" % (OPENALEX_MAILTO or "unknown")
 MAX_CREATORS = 50
 
+# Basic paging (page=N), not cursor paging: as of October 2026 OpenAlex answers
+# cursor requests past the first page with 401 unless an API key is sent.
+# Basic paging needs no key and reaches the first 10,000 results; 200 is the
+# largest page OpenAlex allows, which keeps the run within the keyless budget.
+OPENALEX_PER_PAGE = 200
+OPENALEX_BASIC_PAGING_LIMIT = 10000
+
 # Same threshold as build_publications.py's title-match fallback.
 TITLE_MATCH_THRESHOLD = 0.92
 
@@ -129,6 +136,14 @@ def get_json(url, retries=4):
             if e.code in (429, 500, 502, 503, 504) and attempt < retries - 1:
                 time.sleep(2 ** attempt * 2)
                 continue
+            if e.code in (401, 403):
+                try:
+                    body = e.read().decode("utf-8", "replace")
+                except Exception:
+                    body = ""
+                raise RuntimeError(
+                    f"HTTP {e.code} from {urllib.parse.urlsplit(url).netloc}: "
+                    f"{body.strip()[:300]}") from e
             raise
 
 
@@ -161,17 +176,21 @@ def author_filters(author):
 
 def works_for_filter(author_filter, since_year):
     mailto = ("&mailto=" + urllib.parse.quote(OPENALEX_MAILTO)) if OPENALEX_MAILTO else ""
-    cursor = "*"
     found = []
-    while cursor:
+    returned = 0
+    page = 1
+    while True:
         url = (
             f"{OPENALEX_BASE}/works"
             f"?filter={author_filter},from_publication_date:{since_year}-01-01,type:article"
             f"&select=doi,display_name,publication_year,cited_by_count,authorships,primary_location,biblio"
-            f"&per-page=100&cursor={cursor}{mailto}"
+            f"&per-page={OPENALEX_PER_PAGE}&page={page}{mailto}"
         )
         data = get_json(url)
-        for w in data.get("results", []):
+        results = data.get("results") or []
+        total = (data.get("meta") or {}).get("count") or 0
+        returned += len(results)
+        for w in results:
             doi = normalise_doi(w.get("doi"))
             if not doi:
                 continue
@@ -194,8 +213,16 @@ def works_for_filter(author_filter, since_year):
                 "authors": [a for a in authors if a][:MAX_CREATORS],
                 "metadata_source": "openalex",
             })
-        cursor = data.get("meta", {}).get("next_cursor")
+        if not results or returned >= total:
+            break
+        if page * OPENALEX_PER_PAGE >= OPENALEX_BASIC_PAGING_LIMIT:
+            print(f"WARNING: {author_filter} matches {total} works, more than basic paging "
+                  f"can reach ({OPENALEX_BASIC_PAGING_LIMIT}). Narrow since_year.")
+            break
+        page += 1
         time.sleep(0.2)
+    if returned < total:
+        print(f"WARNING: {author_filter} returned {returned} of {total} works.")
     return found
 
 
