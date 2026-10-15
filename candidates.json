@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:11:51+00:00",
+  "generated_at": "2026-10-15T13:08:57+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -27,6 +27,7 @@
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
+    "Sam McInerney",
     "Piyumanga Karunaratne",
     "Sean Foley",
     "Maxine de Araujo",
@@ -34,7 +35,8 @@
     "Laura Hewitt",
     "Lauren Ng",
     "Elliot Erskine",
-    "Nick Fethers"
+    "Nick Fethers",
+    "Iain Phillips"
   ],
   "per_author": {
     "Peter Hall": {
@@ -76,9 +78,9 @@
     "Sam McInerney": {
       "since_year": 2025,
       "works_by_identifier": {
-        "orcid": 1
+        "orcid": 0
       },
-      "already_filed": 1,
+      "already_filed": 0,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -203,9 +205,9 @@
     "Iain Phillips": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 2
+        "orcid": 0
       },
-      "already_filed": 2,
+      "already_filed": 0,
       "new_candidates": 0,
       "version_updates": 0
     }
