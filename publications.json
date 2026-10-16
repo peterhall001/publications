@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T13:43:59+00:00",
+  "generated_at": "2026-10-16T11:42:07+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3596"
+    "zotero_library_version": "3654"
   },
-  "count": 195,
+  "count": 204,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -329,6 +329,33 @@
       "cited_by_count": 0,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s00520-026-10509-0.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "4DDIIJQR",
+      "item_type": "journalArticle",
+      "title": "AGEING AND THE POLITICAL ECONOMY OF CARE",
+      "authors": [
+        {
+          "family": "Bell",
+          "given": "David Nevin Fraser"
+        },
+        {
+          "family": "Lemmon",
+          "given": "Elizabeth"
+        }
+      ],
+      "year": "2026",
+      "venue": "National Institute Economic Review",
+      "volume": "",
+      "issue": "",
+      "pages": "1-17",
+      "doi": "10.1017/nie.2026.10105",
+      "url": "https://doi.org/10.1017/nie.2026.10105",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F716FDCD4FA06472CDB8CFB5378A725D/S0027950126101057a.pdf/div-class-title-ageing-and-the-political-economy-of-care-div.pdf",
       "enriched": true
     },
     {
@@ -1121,6 +1148,65 @@
       "enriched": false
     },
     {
+      "zotero_key": "XEDA5H3H",
+      "item_type": "journalArticle",
+      "title": "Does earlier diagnosis and treatment of brain tumours matter? Time-to-treatment intervals and tumour size at detection; impact on survival and other patient outcomes",
+      "authors": [
+        {
+          "family": "Gray",
+          "given": "Ewan"
+        },
+        {
+          "family": "Cameron",
+          "given": "James"
+        },
+        {
+          "family": "Lishman",
+          "given": "Abigail"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Karunaratne",
+          "given": "Piyumanga"
+        },
+        {
+          "family": "Tramonti",
+          "given": "Giovanni"
+        },
+        {
+          "family": "Vallet",
+          "given": "Maheva"
+        },
+        {
+          "family": "Pike",
+          "given": "Luke"
+        },
+        {
+          "family": "Baker",
+          "given": "Matthew"
+        },
+        {
+          "family": "Brennan",
+          "given": "Paul M"
+        }
+      ],
+      "year": "2026",
+      "venue": "Neuro-Oncology Advances",
+      "volume": "8",
+      "issue": "1",
+      "pages": "vdag230",
+      "doi": "10.1093/noajnl/vdag230",
+      "url": "https://doi.org/10.1093/noajnl/vdag230",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/noa/advance-article-pdf/doi/10.1093/noajnl/vdag230/71438343/vdag230.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "ZTZGJAT3",
       "item_type": "journalArticle",
       "title": "Environmental determinants of cancer outcomes: a scoping review",
@@ -1854,6 +1940,444 @@
       "enriched": true
     },
     {
+      "zotero_key": "DDVMX2HD",
+      "item_type": "journalArticle",
+      "title": "PRiSM project: e-Delphi study on the role of specialist palliative care services in the care of people with stable locally advanced or metastatic cancer",
+      "authors": [
+        {
+          "family": "Taylor",
+          "given": "Amy"
+        },
+        {
+          "family": "Davies",
+          "given": "Andrew"
+        },
+        {
+          "family": "PRiSM e-Delphi Group",
+          "given": ""
+        },
+        {
+          "family": "Abela",
+          "given": "Jurgen"
+        },
+        {
+          "family": "Ahmedzai",
+          "given": "Sam H"
+        },
+        {
+          "family": "Antonuzzo",
+          "given": "Andrea"
+        },
+        {
+          "family": "Aquilano",
+          "given": "Michele"
+        },
+        {
+          "family": "Solabarrieta",
+          "given": "María Arantzamendi"
+        },
+        {
+          "family": "Arends",
+          "given": "Corali"
+        },
+        {
+          "family": "Arends",
+          "given": "Jann"
+        },
+        {
+          "family": "Baird",
+          "given": "Anne-Marie"
+        },
+        {
+          "family": "Balding",
+          "given": "Lucy"
+        },
+        {
+          "family": "Bana",
+          "given": "Marika"
+        },
+        {
+          "family": "Gimeno",
+          "given": "Eva Barallat"
+        },
+        {
+          "family": "Barry",
+          "given": "Caroline"
+        },
+        {
+          "family": "Bergqvist",
+          "given": "Jenny"
+        },
+        {
+          "family": "Boland",
+          "given": "Jason"
+        },
+        {
+          "family": "Boland",
+          "given": "Lauren"
+        },
+        {
+          "family": "Bouleuc",
+          "given": "Carole"
+        },
+        {
+          "family": "Brady",
+          "given": "Bernadette"
+        },
+        {
+          "family": "Bryniarska",
+          "given": "Iwona"
+        },
+        {
+          "family": "Calvel",
+          "given": "Laurent"
+        },
+        {
+          "family": "Calver",
+          "given": "Heather"
+        },
+        {
+          "family": "Capela",
+          "given": "Andreia"
+        },
+        {
+          "family": "Cavaletti",
+          "given": "Guido"
+        },
+        {
+          "family": "Cortés",
+          "given": "Carlos Centeno"
+        },
+        {
+          "family": "Charalambous",
+          "given": "Andreas"
+        },
+        {
+          "family": "Charnley",
+          "given": "Karen"
+        },
+        {
+          "family": "Christofyllakis",
+          "given": "Konstantinos"
+        },
+        {
+          "family": "Chuter",
+          "given": "Dave"
+        },
+        {
+          "family": "Connolly",
+          "given": "Michael"
+        },
+        {
+          "family": "Cushen",
+          "given": "Michael"
+        },
+        {
+          "family": "Debourdeau",
+          "given": "Philippe"
+        },
+        {
+          "family": "Dennehy",
+          "given": "Karie"
+        },
+        {
+          "family": "Dickman",
+          "given": "Andrew"
+        },
+        {
+          "family": "Drury",
+          "given": "Amanda"
+        },
+        {
+          "family": "Dzierżanowski",
+          "given": "Tomasz"
+        },
+        {
+          "family": "Moltara",
+          "given": "Maja Ebert"
+        },
+        {
+          "family": "Economos",
+          "given": "Guillaume"
+        },
+        {
+          "family": "Elliott",
+          "given": "Kim"
+        },
+        {
+          "family": "Elsner",
+          "given": "Frank"
+        },
+        {
+          "family": "Evans",
+          "given": "Catherine"
+        },
+        {
+          "family": "Fagan",
+          "given": "Norah"
+        },
+        {
+          "family": "Haugen",
+          "given": "Dagny Renata Faksvåg"
+        },
+        {
+          "family": "Farrugia",
+          "given": "Lara-Suzanne"
+        },
+        {
+          "family": "Fernandes",
+          "given": "Ricardo"
+        },
+        {
+          "family": "Fleury",
+          "given": "Mapi"
+        },
+        {
+          "family": "Gärtner",
+          "given": "Jan"
+        },
+        {
+          "family": "Geerse",
+          "given": "Olaf P"
+        },
+        {
+          "family": "Gilbert",
+          "given": "Alexandra"
+        }
+      ],
+      "year": "2026",
+      "venue": "Supportive Care in Cancer",
+      "volume": "34",
+      "issue": "10",
+      "pages": "982",
+      "doi": "10.1007/s00520-026-11211-x",
+      "url": "https://doi.org/10.1007/s00520-026-11211-x",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
+      "zotero_key": "N5KVUXRW",
+      "item_type": "journalArticle",
+      "title": "Protocol for the PROSECCA study: a new approach for predicting radiotherapy outcome using artificial intelligence and electronic population-based healthcare data",
+      "authors": [
+        {
+          "family": "Nailon",
+          "given": "William H"
+        },
+        {
+          "family": "Noble",
+          "given": "David J"
+        },
+        {
+          "family": "Harrison",
+          "given": "Ewen"
+        },
+        {
+          "family": "Yang",
+          "given": "Zhuolin"
+        },
+        {
+          "family": "Elliot",
+          "given": "Sarah"
+        },
+        {
+          "family": "MacNair",
+          "given": "Archie"
+        },
+        {
+          "family": "Beckett",
+          "given": "George"
+        },
+        {
+          "family": "Hallam",
+          "given": "Antony"
+        },
+        {
+          "family": "Sheikh",
+          "given": "Aziz"
+        },
+        {
+          "family": "Mills",
+          "given": "Nicholas"
+        },
+        {
+          "family": "Halliday",
+          "given": "Roger"
+        },
+        {
+          "family": "Morrison",
+          "given": "David"
+        },
+        {
+          "family": "Chalmers",
+          "given": "Anthony"
+        },
+        {
+          "family": "Cameron",
+          "given": "David"
+        },
+        {
+          "family": "Gourley",
+          "given": "Charlie"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter"
+        },
+        {
+          "family": "Lilley",
+          "given": "Christina"
+        },
+        {
+          "family": "Carruthers",
+          "given": "Linda J"
+        },
+        {
+          "family": "Trainer",
+          "given": "Michael"
+        },
+        {
+          "family": "Burns",
+          "given": "Donna"
+        },
+        {
+          "family": "Dee",
+          "given": "Fiona"
+        },
+        {
+          "family": "Andiappa",
+          "given": "Sankar"
+        },
+        {
+          "family": "Lonsdale",
+          "given": "Adrian"
+        },
+        {
+          "family": "Couper",
+          "given": "Megan"
+        },
+        {
+          "family": "Farnan",
+          "given": "Kirsty"
+        },
+        {
+          "family": "McLellan",
+          "given": "John"
+        },
+        {
+          "family": "Miller",
+          "given": "Andrew"
+        },
+        {
+          "family": "Ogg",
+          "given": "Jacqueline"
+        },
+        {
+          "family": "Moses",
+          "given": "Jillian"
+        },
+        {
+          "family": "Colligan",
+          "given": "Steve"
+        },
+        {
+          "family": "MacDonald",
+          "given": "Graham"
+        },
+        {
+          "family": "McPhail",
+          "given": "Neil"
+        },
+        {
+          "family": "Niblock",
+          "given": "Paddy"
+        },
+        {
+          "family": "MacLeod",
+          "given": "Nicholas"
+        },
+        {
+          "family": "Davies",
+          "given": "Mike E"
+        },
+        {
+          "family": "Laurenson",
+          "given": "Dave I"
+        },
+        {
+          "family": "Hopgood",
+          "given": "James R"
+        },
+        {
+          "family": "Boyle",
+          "given": "Dorothy"
+        },
+        {
+          "family": "Paterson",
+          "given": "Claire"
+        },
+        {
+          "family": "Grose",
+          "given": "Derek"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "Harrow",
+          "given": "Stephen"
+        },
+        {
+          "family": "Berger",
+          "given": "Thomas"
+        },
+        {
+          "family": "Shelley",
+          "given": "Leila E A"
+        },
+        {
+          "family": "Sanders",
+          "given": "Ian"
+        },
+        {
+          "family": "Henderson",
+          "given": "Shelley"
+        },
+        {
+          "family": "Duffton",
+          "given": "Aileen"
+        },
+        {
+          "family": "Mitchell",
+          "given": "Joanne"
+        },
+        {
+          "family": "Rutherford",
+          "given": "Alasdair"
+        },
+        {
+          "family": "McLaren",
+          "given": "Duncan B"
+        }
+      ],
+      "year": "2026",
+      "venue": "BMJ Open",
+      "volume": "16",
+      "issue": "2",
+      "pages": "e104408",
+      "doi": "10.1136/bmjopen-2025-104408",
+      "url": "https://doi.org/10.1136/bmjopen-2025-104408",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://bmjopen.bmj.com/content/bmjopen/16/2/e104408.full.pdf",
+      "enriched": true
+    },
+    {
       "zotero_key": "HJZMSXG9",
       "item_type": "journalArticle",
       "title": "Radiotherapy for more efficacious novel anticancer drugs: a position paper from the European Society for Radiotherapy and Oncology (ESTRO) focus group on novel systemic therapies and radiotherapy",
@@ -2384,6 +2908,41 @@
       "enriched": true
     },
     {
+      "zotero_key": "5F7AJ93Z",
+      "item_type": "journalArticle",
+      "title": "The evolving role of radiotherapy in advanced non-small cell lung cancer: beyond symptom control",
+      "authors": [
+        {
+          "family": "Vianello",
+          "given": "Margherita"
+        },
+        {
+          "family": "Purshouse",
+          "given": "Karin"
+        },
+        {
+          "family": "Fraser",
+          "given": "Ian"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        }
+      ],
+      "year": "2026",
+      "venue": "Annals of Palliative Medicine",
+      "volume": "15",
+      "issue": "1",
+      "pages": "9-9",
+      "doi": "10.21037/apm-25-103",
+      "url": "https://doi.org/10.21037/apm-25-103",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.21037/apm-25-103",
+      "enriched": true
+    },
+    {
       "zotero_key": "TSTRN5PP",
       "item_type": "journalArticle",
       "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer",
@@ -2471,9 +3030,9 @@
       ],
       "year": "2026",
       "venue": "JAMA Oncology",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "12",
+      "issue": "10",
+      "pages": "1098–1098",
       "doi": "10.1001/jamaoncol.2026.2833",
       "url": "https://doi.org/10.1001/jamaoncol.2026.2833",
       "doi_source": "zotero",
@@ -2981,6 +3540,117 @@
       "enriched": true
     },
     {
+      "zotero_key": "KHSGWCA7",
+      "item_type": "journalArticle",
+      "title": "Association between neoadjuvant paclitaxel dose intensity and outcomes in early triple-negative and HER2-positive breast cancer: a real-world data analysis",
+      "authors": [
+        {
+          "family": "van Marcke",
+          "given": "C."
+        },
+        {
+          "family": "Pogoda",
+          "given": "K."
+        },
+        {
+          "family": "Fenton",
+          "given": "H."
+        },
+        {
+          "family": "Vallet",
+          "given": "M."
+        },
+        {
+          "family": "Plavc",
+          "given": "G."
+        },
+        {
+          "family": "Borges",
+          "given": "M."
+        },
+        {
+          "family": "Yousuf",
+          "given": "H."
+        },
+        {
+          "family": "Dumas",
+          "given": "E."
+        },
+        {
+          "family": "Berliere",
+          "given": "M."
+        },
+        {
+          "family": "Ciliberto",
+          "given": "G."
+        },
+        {
+          "family": "Duhoux",
+          "given": "F.P."
+        },
+        {
+          "family": "Fano",
+          "given": "V."
+        },
+        {
+          "family": "Hall",
+          "given": "P."
+        },
+        {
+          "family": "Kolenc Mokotar",
+          "given": "K."
+        },
+        {
+          "family": "Lopes Conceicao",
+          "given": "L."
+        },
+        {
+          "family": "Pereira",
+          "given": "F."
+        },
+        {
+          "family": "Škoporc",
+          "given": "A."
+        },
+        {
+          "family": "Thomas",
+          "given": "A."
+        },
+        {
+          "family": "Tramonti",
+          "given": "G."
+        },
+        {
+          "family": "van Bockstal",
+          "given": "M.R."
+        },
+        {
+          "family": "Vici",
+          "given": "P."
+        },
+        {
+          "family": "Uher",
+          "given": "M."
+        },
+        {
+          "family": "Krasniqi",
+          "given": "E."
+        }
+      ],
+      "year": "2025",
+      "venue": "ESMO Real World Data and Digital Oncology",
+      "volume": "9",
+      "issue": "",
+      "pages": "100158",
+      "doi": "10.1016/j.esmorw.2025.100158",
+      "url": "https://doi.org/10.1016/j.esmorw.2025.100158",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_url": "https://www.esmorwd.org/action/showPdf?pii=S2949820125000475",
+      "enriched": true
+    },
+    {
       "zotero_key": "H4CXC8IE",
       "item_type": "journalArticle",
       "title": "Attrition between lines of therapy and real-world outcomes of patients with HER2-positive metastatic breast cancer in Europe: a cohort study leveraging electronic medical records",
@@ -3440,6 +4110,49 @@
       "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://www.research.ed.ac.uk/en/publications/da212012-7504-421b-9932-6c7dcc1452f7",
+      "enriched": true
+    },
+    {
+      "zotero_key": "9F4B8MBG",
+      "item_type": "journalArticle",
+      "title": "Early prehabilitation reduces admissions and time in hospital in patients with newly diagnosed lung cancer: patient experience survey",
+      "authors": [
+        {
+          "family": "Davies",
+          "given": "Alexandra"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain"
+        },
+        {
+          "family": "Barrie",
+          "given": "Colin"
+        },
+        {
+          "family": "O’Brien",
+          "given": "Fiona"
+        },
+        {
+          "family": "Walton",
+          "given": "Abigail"
+        },
+        {
+          "family": "Mencnarowski",
+          "given": "Julie"
+        }
+      ],
+      "year": "2025",
+      "venue": "Clinical Oncology",
+      "volume": "40",
+      "issue": "",
+      "pages": "103812",
+      "doi": "10.1016/j.clon.2025.103812",
+      "url": "https://doi.org/10.1016/j.clon.2025.103812",
+      "doi_source": "zotero",
+      "cited_by_count": 1,
+      "is_oa": false,
+      "oa_url": null,
       "enriched": true
     },
     {
@@ -4520,6 +5233,41 @@
       "enriched": true
     },
     {
+      "zotero_key": "8NXES68Z",
+      "item_type": "journalArticle",
+      "title": "Neoadjuvant chemo-immunotherapy in non-small cell lung cancer: clinical rationale and methods of pathological assessment",
+      "authors": [
+        {
+          "family": "Kwon",
+          "given": "Carol"
+        },
+        {
+          "family": "Purshouse",
+          "given": "Karin"
+        },
+        {
+          "family": "Phillips",
+          "given": "Iain D"
+        },
+        {
+          "family": "Dorward",
+          "given": "David A"
+        }
+      ],
+      "year": "2025",
+      "venue": "Diagnostic Histopathology",
+      "volume": "31",
+      "issue": "8",
+      "pages": "458-465",
+      "doi": "10.1016/j.mpdhp.2025.05.002",
+      "url": "https://doi.org/10.1016/j.mpdhp.2025.05.002",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": false,
+      "oa_url": null,
+      "enriched": true
+    },
+    {
       "zotero_key": "HGC6TTFR",
       "item_type": "journalArticle",
       "title": "Oronasal mucosal melanoma is defined by two transcriptional subtypes in humans and dogs with implications for diagnosis and therapy",
@@ -5439,7 +6187,7 @@
       "doi": "10.1136/bmjspcare-2020-002630",
       "url": "https://doi.org/10.1136/bmjspcare-2020-002630",
       "doi_source": "zotero",
-      "cited_by_count": 56,
+      "cited_by_count": 57,
       "is_oa": true,
       "oa_url": "https://spcare.bmj.com/content/bmjspcare/early/2020/12/01/bmjspcare-2020-002630.full.pdf",
       "enriched": true
@@ -6562,9 +7310,52 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 235,
+      "cited_by_count": 243,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "48UF94FP",
+      "item_type": "journalArticle",
+      "title": "Evaluation of Digitalisation in Healthcare and the Quantification of the “Unmeasurable”",
+      "authors": [
+        {
+          "family": "Cresswell",
+          "given": "Kathrin"
+        },
+        {
+          "family": "Anderson",
+          "given": "Stuart"
+        },
+        {
+          "family": "Montgomery",
+          "given": "Catherine"
+        },
+        {
+          "family": "Weir",
+          "given": "Christopher J."
+        },
+        {
+          "family": "Atter",
+          "given": "Marek"
+        },
+        {
+          "family": "Williams",
+          "given": "Robin"
+        }
+      ],
+      "year": "2023",
+      "venue": "Journal of General Internal Medicine",
+      "volume": "38",
+      "issue": "16",
+      "pages": "3610-3615",
+      "doi": "10.1007/s11606-023-08405-y",
+      "url": "https://doi.org/10.1007/s11606-023-08405-y",
+      "doi_source": "zotero",
+      "cited_by_count": 28,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11606-023-08405-y.pdf",
       "enriched": true
     },
     {
@@ -10055,7 +10846,7 @@
       "doi": "10.1001/jamaoncol.2021.0848",
       "url": "https://doi.org/10.1001/jamaoncol.2021.0848",
       "doi_source": "zotero",
-      "cited_by_count": 195,
+      "cited_by_count": 196,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2780033/jamaoncology_hall_2021_oi_210009_1624469496.87358.pdf",
       "enriched": true
@@ -11339,7 +12130,7 @@
       "doi": "10.1016/s1470-2045(20)30442-3",
       "url": "https://doi.org/10.1016/s1470-2045(20)30442-3",
       "doi_source": "zotero",
-      "cited_by_count": 574,
+      "cited_by_count": 576,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1470204520304423/pdf",
       "enriched": true
@@ -11571,7 +12362,7 @@
       "doi": "10.1007/s40273-019-00869-3",
       "url": "https://doi.org/10.1007/s40273-019-00869-3",
       "doi_source": "zotero",
-      "cited_by_count": 62,
+      "cited_by_count": 63,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40273-019-00869-3.pdf",
       "enriched": true
@@ -11737,7 +12528,7 @@
       "doi": "10.1183/13993003.00118-2020",
       "url": "https://doi.org/10.1183/13993003.00118-2020",
       "doi_source": "zotero",
-      "cited_by_count": 53,
+      "cited_by_count": 55,
       "is_oa": true,
       "oa_url": "https://erj.ersjournals.com/content/erj/56/5/2000118.full.pdf",
       "enriched": true
@@ -12719,7 +13510,7 @@
       "doi": "10.3310/hta23400",
       "url": "https://doi.org/10.3310/hta23400",
       "doi_source": "zotero",
-      "cited_by_count": 129,
+      "cited_by_count": 130,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2029922",
       "enriched": true
@@ -13127,7 +13918,7 @@
       "doi": "10.1373/clinchem.2018.300954",
       "url": "https://doi.org/10.1373/clinchem.2018.300954",
       "doi_source": "zotero",
-      "cited_by_count": 43,
+      "cited_by_count": 45,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/clinchem/article-pdf/65/11/1363/33851257/clinchem1363.pdf",
       "enriched": true
