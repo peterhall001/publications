@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T11:42:07+00:00",
+  "generated_at": "2026-10-17T11:01:23+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -3503,7 +3503,7 @@
       "doi": "10.1016/j.jaccao.2025.06.003",
       "url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "doi_source": "zotero",
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.jaccao.2025.06.003",
       "enriched": true
@@ -8097,7 +8097,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 87,
+      "cited_by_count": 88,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -8832,7 +8832,7 @@
       "doi": "10.1016/j.annonc.2022.08.083",
       "url": "https://doi.org/10.1016/j.annonc.2022.08.083",
       "doi_source": "zotero",
-      "cited_by_count": 49,
+      "cited_by_count": 50,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422039643/pdf",
       "enriched": true
@@ -13055,7 +13055,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 286,
+      "cited_by_count": 287,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
