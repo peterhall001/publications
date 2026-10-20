@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-19T13:44:51+00:00",
+  "generated_at": "2026-10-20T11:54:41+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -6721,7 +6721,7 @@
       "doi": "10.1186/s12872-024-04320-0",
       "url": "https://doi.org/10.1186/s12872-024-04320-0",
       "doi_source": "zotero",
-      "cited_by_count": 4,
+      "cited_by_count": 5,
       "is_oa": true,
       "oa_url": "https://bmccardiovascdisord.biomedcentral.com/counter/pdf/10.1186/s12872-024-04320-0",
       "enriched": true
@@ -10627,7 +10627,7 @@
       "doi": "10.1016/s1474-4422(21)00264-7",
       "url": "https://doi.org/10.1016/s1474-4422(21)00264-7",
       "doi_source": "zotero",
-      "cited_by_count": 114,
+      "cited_by_count": 115,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1474442221002647/pdf",
       "enriched": true
