@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-21T12:07:16+00:00",
+  "generated_at": "2026-10-22T12:11:20+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3654"
+    "zotero_library_version": "3655"
   },
   "count": 204,
   "doi_backfilled": 0,
@@ -3436,7 +3436,7 @@
       "doi": "10.1016/s0140-6736(24)02715-6",
       "url": "https://doi.org/10.1016/s0140-6736(24)02715-6",
       "doi_source": "zotero",
-      "cited_by_count": 24,
+      "cited_by_count": 25,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s0140-6736(24)02715-6",
       "enriched": true
@@ -7310,7 +7310,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 243,
+      "cited_by_count": 245,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -8501,7 +8501,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 210,
+      "cited_by_count": 211,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -8631,7 +8631,7 @@
       "doi": "10.1016/j.crad.2023.07.010",
       "url": "https://doi.org/10.1016/j.crad.2023.07.010",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "http://www.clinicalradiologyonline.net/article/S0009926023003124/pdf",
       "enriched": true

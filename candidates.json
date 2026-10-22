@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:07:35+00:00",
+  "generated_at": "2026-10-22T12:11:43+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,105 +22,8 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2025
   },
-  "count": 1,
-  "candidates": [
-    {
-      "doi": "10.3399/bjgpo.2026.0219",
-      "title": "Barriers and enablers to engagement with green social prescribing in primary care: a scoping review using the socio-ecological model",
-      "year": 2026,
-      "venue": "BJGP Open",
-      "volume": "",
-      "issue": "",
-      "pages": "BJGPO.2026.0219",
-      "cited_by_count": 0,
-      "authors": [
-        "Helen Frost",
-        "Bruce Mason",
-        "Tricia Tooman",
-        "Beth R Bareham",
-        "Lauren Ng",
-        "Holly Haines",
-        "Stella Arakelyan",
-        "Sue Lewis",
-        "Maria Klara Wolters",
-        "Katie Eirian Hawkins",
-        "Margaret Ogden",
-        "Helen Pain",
-        "Stewart William Mercer"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Lauren Ng"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Helen",
-          "lastName": "Frost"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Bruce",
-          "lastName": "Mason"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tricia R",
-          "lastName": "Tooman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Beth R",
-          "lastName": "Bareham"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lauren",
-          "lastName": "Ng"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Holly",
-          "lastName": "Haines"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Stella",
-          "lastName": "Arakelyan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sue",
-          "lastName": "Lewis"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Maria K",
-          "lastName": "Wolters"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Katie",
-          "lastName": "Hawkins"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Margaret E",
-          "lastName": "Ogden"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Helen G",
-          "lastName": "Pain"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Stewart W",
-          "lastName": "Mercer"
-        }
-      ]
-    }
-  ],
+  "count": 0,
+  "candidates": [],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -257,8 +160,8 @@
       "works_by_identifier": {
         "orcid": 1
       },
-      "already_filed": 0,
-      "new_candidates": 1,
+      "already_filed": 1,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Maheva Vallet": {
