@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T12:11:20+00:00",
+  "generated_at": "2026-10-23T11:53:11+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -2828,7 +2828,7 @@
       "doi": "10.1093/oncolo/oyag203",
       "url": "https://doi.org/10.1093/oncolo/oyag203",
       "doi_source": "zotero",
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1093/oncolo/oyag203",
       "enriched": true
@@ -10627,7 +10627,7 @@
       "doi": "10.1016/s1474-4422(21)00264-7",
       "url": "https://doi.org/10.1016/s1474-4422(21)00264-7",
       "doi_source": "zotero",
-      "cited_by_count": 115,
+      "cited_by_count": 118,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1474442221002647/pdf",
       "enriched": true
@@ -13409,7 +13409,7 @@
       "doi_source": "zotero",
       "cited_by_count": 6,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/6c875ae1-32cc-422a-b4dd-c55c163b99b6",
+      "oa_url": "https://hdl.handle.net/20.500.11820/6c875ae1-32cc-422a-b4dd-c55c163b99b6",
       "enriched": true
     },
     {
@@ -13879,7 +13879,7 @@
       "doi": "10.1016/s2468-2667(19)30185-9",
       "url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "doi_source": "zotero",
-      "cited_by_count": 54,
+      "cited_by_count": 55,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2468-2667(19)30185-9",
       "enriched": true
@@ -14945,7 +14945,7 @@
       "doi": "10.1093/annonc/mdw665",
       "url": "https://doi.org/10.1093/annonc/mdw665",
       "doi_source": "zotero",
-      "cited_by_count": 108,
+      "cited_by_count": 109,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1093/annonc/mdw665",
       "enriched": true
