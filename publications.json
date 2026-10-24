@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-23T11:53:11+00:00",
+  "generated_at": "2026-10-24T11:21:22+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -9983,7 +9983,7 @@
       "doi": "10.1016/j.ejca.2022.06.048",
       "url": "https://doi.org/10.1016/j.ejca.2022.06.048",
       "doi_source": "zotero",
-      "cited_by_count": 35,
+      "cited_by_count": 36,
       "is_oa": true,
       "oa_url": "http://www.ejcancer.com/article/S0959804922003999/pdf",
       "enriched": true
@@ -12528,7 +12528,7 @@
       "doi": "10.1183/13993003.00118-2020",
       "url": "https://doi.org/10.1183/13993003.00118-2020",
       "doi_source": "zotero",
-      "cited_by_count": 55,
+      "cited_by_count": 56,
       "is_oa": true,
       "oa_url": "https://erj.ersjournals.com/content/erj/56/5/2000118.full.pdf",
       "enriched": true
@@ -15130,7 +15130,7 @@
       "doi": "10.3310/hta21170",
       "url": "https://doi.org/10.3310/hta21170",
       "doi_source": "zotero",
-      "cited_by_count": 90,
+      "cited_by_count": 91,
       "is_oa": true,
       "oa_url": "https://njl-admin.nihr.ac.uk/document/download/2010350",
       "enriched": true
@@ -15755,7 +15755,7 @@
       "doi": "10.1056/nejmoa1514493",
       "url": "https://doi.org/10.1056/nejmoa1514493",
       "doi_source": "zotero",
-      "cited_by_count": 633,
+      "cited_by_count": 634,
       "is_oa": true,
       "oa_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1514493?articleTools=true",
       "enriched": true

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:53:35+00:00",
+  "generated_at": "2026-10-24T11:21:38+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -39,9 +39,9 @@
     "Peter Hall": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 204
+        "orcid": 203
       },
-      "already_filed": 204,
+      "already_filed": 203,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -176,9 +176,9 @@
     "Marek Atter": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 13
+        "orcid": 12
       },
-      "already_filed": 13,
+      "already_filed": 12,
       "new_candidates": 0,
       "version_updates": 0
     },
