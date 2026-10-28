@@ -2,10 +2,11 @@
 
 > **Warning: no works returned for Piyumanga Karunaratne, Sean Foley, Maxine de Araujo, Oliver Llewellyn, Laura Hewitt, Elliot Erskine, Nick Fethers.** Every configured identifier for these people returned nothing from OpenAlex. That usually means their OpenAlex author entity has no ORCID linked, not that they have not published. Check the authorships of a recent paper in OpenAlex and add an `openalex_id`.
 
-Generated 2026-10-27 12:30 UTC. 0 new this run, 0 possible version updates held back.
+Generated 2026-10-28 13:18 UTC. 1 new this run, 0 possible version updates held back.
 
 Windows scanned: Peter Hall from 2015, Mark Stares from 2020, Elizabeth Lemmon from 2015, Azadeh Abravan from 2026, Sam McInerney from 2025, Giovanni Tramonti from 2015, Piyumanga Karunaratne from 2020, Sean Foley from 2026, Colin McLean from 2021, Maxine de Araujo from 2023, Oliver Llewellyn from 2026, Laura Hewitt from 2026, Nicola Symmers from 2019, Lauren Ng from 2026, Maheva Vallet from 2019, Marek Atter from 2020, Elliot Erskine from 2025, Nick Fethers from 2025, Iain Phillips from 2025.
 
+- **2022** Residual cancer burden after neoadjuvant chemotherapy and long-term survival outcomes in breast cancer: a multicentre pooled analysis of 5161 patients — _The Lancet Oncology_ · 23, 1, 149-160 · [10.1016/s1470-2045(21)00589-1](https://doi.org/10.1016/s1470-2045(21)00589-1) · Peter Hall
 
 ## Per-author discovery
 
@@ -13,12 +14,12 @@ Works returned by OpenAlex for each identifier in the scan window. A zero agains
 
 | Author | From | Works per identifier | Already filed | New candidates | Version updates |
 |---|---|---|---|---|---|
-| Peter Hall | 2015 | orcid: 203 | 203 | 0 | 0 |
-| Mark Stares | 2020 | orcid: 55 | 55 | 0 | 0 |
+| Peter Hall | 2015 | orcid: 190 | 189 | 1 | 0 |
+| Mark Stares | 2020 | orcid: 50 | 50 | 0 | 0 |
 | Elizabeth Lemmon | 2015 | orcid: 16 | 16 | 0 | 0 |
-| Azadeh Abravan | 2026 | orcid: 6 | 6 | 0 | 0 |
+| Azadeh Abravan | 2026 | orcid: 4 | 4 | 0 | 0 |
 | Sam McInerney | 2025 | orcid: 2 · openalex_id:A5011143294: 2 | 2 | 0 | 0 |
-| Giovanni Tramonti | 2015 | orcid: 11 · openalex_id:A5019431269: 11 | 11 | 0 | 0 |
+| Giovanni Tramonti | 2015 | orcid: 9 · openalex_id:A5019431269: 9 | 9 | 0 | 0 |
 | Piyumanga Karunaratne | 2020 | orcid: 0 | 0 | 0 | 0 |
 | Sean Foley | 2026 | orcid: 0 | 0 | 0 | 0 |
 | Colin McLean | 2021 | orcid: 12 | 12 | 0 | 0 |
@@ -28,7 +29,7 @@ Works returned by OpenAlex for each identifier in the scan window. A zero agains
 | Nicola Symmers | 2019 | orcid: 1 | 1 | 0 | 0 |
 | Lauren Ng | 2026 | orcid: 1 | 1 | 0 | 0 |
 | Maheva Vallet | 2019 | orcid: 17 | 17 | 0 | 0 |
-| Marek Atter | 2020 | orcid: 12 | 12 | 0 | 0 |
+| Marek Atter | 2020 | orcid: 11 | 11 | 0 | 0 |
 | Elliot Erskine | 2025 | orcid: 0 | 0 | 0 | 0 |
 | Nick Fethers | 2025 | orcid: 0 | 0 | 0 | 0 |
-| Iain Phillips | 2025 | orcid: 21 · openalex_id:A5055439029: 21 | 21 | 0 | 0 |
+| Iain Phillips | 2025 | orcid: 19 · openalex_id:A5055439029: 19 | 19 | 0 | 0 |

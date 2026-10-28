@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:30:43+00:00",
+  "generated_at": "2026-10-28T13:18:34+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,8 +22,327 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2025
   },
-  "count": 0,
-  "candidates": [],
+  "count": 1,
+  "candidates": [
+    {
+      "doi": "10.1016/s1470-2045(21)00589-1",
+      "title": "Residual cancer burden after neoadjuvant chemotherapy and long-term survival outcomes in breast cancer: a multicentre pooled analysis of 5161 patients",
+      "year": 2022,
+      "venue": "The Lancet Oncology",
+      "volume": "23",
+      "issue": "1",
+      "pages": "149-160",
+      "cited_by_count": 466,
+      "authors": [
+        "Christina Yau",
+        "Marie Osdoit",
+        "Marieke van der Noordaa",
+        "Sonal Shad",
+        "Jane Wei",
+        "Diane De Croze",
+        "Anne‐Sophie Hamy",
+        "Marick E Lae",
+        "Fabien Reyal",
+        "Gabe S. Sonke",
+        "Tessa Gerjanne Steenbruggen",
+        "Maartje van Seijen",
+        "Wesseling Jelle",
+        "Miguel Martín",
+        "Marı́a del Monte-Millán",
+        "Sara López‐Tarruella",
+        "Kathi Adamson",
+        "Kathy S. Albain",
+        "Adam L. Asare",
+        "Smita M. Asare",
+        "Ron Balassanian",
+        "Heather Beckwith",
+        "Scott M. Berry",
+        "Donald A. Berry",
+        "Judy C. Boughey",
+        "Meredith Buxton",
+        "Yunn-Yi Chen",
+        "Beiyun Chen",
+        "A. Jo Chien",
+        "Stephen Y. Chui",
+        "Amy Sanders Clark",
+        "Julia L. Clennell",
+        "Brian Datnow",
+        "Angela M. DeMichele",
+        "Xiuzhen Duan",
+        "Kirsten K. Edmiston",
+        "ANTHONY D. ELIAS",
+        "Erin D. Ellis",
+        "Laura J. Esserman",
+        "David Euhus",
+        "Oluwole Fadare",
+        "Fang Fan",
+        "Michael D. Feldman",
+        "Andres Forero",
+        "Barbara Haley",
+        "Hyo S. Han",
+        "Shuko Harada",
+        "PATRICIA HAUGEN",
+        "Teresa Helsten",
+        "Gillian L. Hirst"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Christina",
+          "lastName": "Yau"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie",
+          "lastName": "Osdoit"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marieke",
+          "lastName": "van der Noordaa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sonal",
+          "lastName": "Shad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "Wei"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diane",
+          "lastName": "de Croze"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne-Sophie",
+          "lastName": "Hamy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marick",
+          "lastName": "Laé"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fabien",
+          "lastName": "Reyal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gabe S",
+          "lastName": "Sonke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tessa G",
+          "lastName": "Steenbruggen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maartje",
+          "lastName": "van Seijen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jelle",
+          "lastName": "Wesseling"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Miguel",
+          "lastName": "Martín"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maria",
+          "lastName": "del Monte-Millán"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sara",
+          "lastName": "López-Tarruella"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathi",
+          "lastName": "Adamson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathy S.",
+          "lastName": "Albain"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam L.",
+          "lastName": "Asare"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Smita M.",
+          "lastName": "Asare"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ron",
+          "lastName": "Balassanian"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heather",
+          "lastName": "Beckwith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Scott M.",
+          "lastName": "Berry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donald A.",
+          "lastName": "Berry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Judy C.",
+          "lastName": "Boughey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Meredith B.",
+          "lastName": "Buxton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yunn-Yi",
+          "lastName": "Chen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Beiyun",
+          "lastName": "Chen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A. Jo",
+          "lastName": "Chien"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen Y.",
+          "lastName": "Chui"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amy S.",
+          "lastName": "Clark"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julia L.",
+          "lastName": "Clennell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brian",
+          "lastName": "Datnow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Angela M.",
+          "lastName": "DeMichele"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiuzhen",
+          "lastName": "Duan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsten K.",
+          "lastName": "Edmiston"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anthony D.",
+          "lastName": "Elias"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Erin D.",
+          "lastName": "Ellis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura L.",
+          "lastName": "Esserman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David M.",
+          "lastName": "Euhus"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Oluwole",
+          "lastName": "Fadare"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fang",
+          "lastName": "Fan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael D",
+          "lastName": "Feldman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andres",
+          "lastName": "Forero-Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barbara B.",
+          "lastName": "Haley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hyo S.",
+          "lastName": "Han"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shuko",
+          "lastName": "Harada"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patricia",
+          "lastName": "Haugen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Teresa",
+          "lastName": "Helsten"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gillian L.",
+          "lastName": "Hirst"
+        }
+      ]
+    }
+  ],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -39,18 +358,18 @@
     "Peter Hall": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 203
+        "orcid": 190
       },
-      "already_filed": 203,
-      "new_candidates": 0,
+      "already_filed": 189,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Mark Stares": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 55
+        "orcid": 50
       },
-      "already_filed": 55,
+      "already_filed": 50,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -66,9 +385,9 @@
     "Azadeh Abravan": {
       "since_year": 2026,
       "works_by_identifier": {
-        "orcid": 6
+        "orcid": 4
       },
-      "already_filed": 6,
+      "already_filed": 4,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -85,10 +404,10 @@
     "Giovanni Tramonti": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 11,
-        "openalex_id:A5019431269": 11
+        "orcid": 9,
+        "openalex_id:A5019431269": 9
       },
-      "already_filed": 11,
+      "already_filed": 9,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -176,9 +495,9 @@
     "Marek Atter": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 12
+        "orcid": 11
       },
-      "already_filed": 12,
+      "already_filed": 11,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -203,10 +522,10 @@
     "Iain Phillips": {
       "since_year": 2025,
       "works_by_identifier": {
-        "orcid": 21,
-        "openalex_id:A5055439029": 21
+        "orcid": 19,
+        "openalex_id:A5055439029": 19
       },
-      "already_filed": 21,
+      "already_filed": 19,
       "new_candidates": 0,
       "version_updates": 0
     }
