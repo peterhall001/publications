@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T13:18:06+00:00",
+  "generated_at": "2026-10-29T13:26:20+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3655"
+    "zotero_library_version": "3660"
   },
-  "count": 204,
+  "count": 205,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -4282,7 +4282,7 @@
       "doi_source": "zotero",
       "cited_by_count": 36,
       "is_oa": true,
-      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11603374",
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/11603374/bin/jama-e2423898-s001.pdf",
       "enriched": true
     },
     {
@@ -9789,6 +9789,225 @@
       "cited_by_count": 3,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s10549-022-06721-1.pdf",
+      "enriched": true
+    },
+    {
+      "zotero_key": "F7NA954T",
+      "item_type": "journalArticle",
+      "title": "Residual cancer burden after neoadjuvant chemotherapy and long-term survival outcomes in breast cancer: a multicentre pooled analysis of 5161 patients",
+      "authors": [
+        {
+          "family": "Yau",
+          "given": "Christina"
+        },
+        {
+          "family": "Osdoit",
+          "given": "Marie"
+        },
+        {
+          "family": "van der Noordaa",
+          "given": "Marieke"
+        },
+        {
+          "family": "Shad",
+          "given": "Sonal"
+        },
+        {
+          "family": "Wei",
+          "given": "Jane"
+        },
+        {
+          "family": "de Croze",
+          "given": "Diane"
+        },
+        {
+          "family": "Hamy",
+          "given": "Anne-Sophie"
+        },
+        {
+          "family": "Laé",
+          "given": "Marick"
+        },
+        {
+          "family": "Reyal",
+          "given": "Fabien"
+        },
+        {
+          "family": "Sonke",
+          "given": "Gabe S"
+        },
+        {
+          "family": "Steenbruggen",
+          "given": "Tessa G"
+        },
+        {
+          "family": "van Seijen",
+          "given": "Maartje"
+        },
+        {
+          "family": "Wesseling",
+          "given": "Jelle"
+        },
+        {
+          "family": "Martín",
+          "given": "Miguel"
+        },
+        {
+          "family": "del Monte-Millán",
+          "given": "Maria"
+        },
+        {
+          "family": "López-Tarruella",
+          "given": "Sara"
+        },
+        {
+          "family": "Adamson",
+          "given": "Kathi"
+        },
+        {
+          "family": "Albain",
+          "given": "Kathy S."
+        },
+        {
+          "family": "Asare",
+          "given": "Adam L."
+        },
+        {
+          "family": "Asare",
+          "given": "Smita M."
+        },
+        {
+          "family": "Balassanian",
+          "given": "Ron"
+        },
+        {
+          "family": "Beckwith",
+          "given": "Heather"
+        },
+        {
+          "family": "Berry",
+          "given": "Scott M."
+        },
+        {
+          "family": "Berry",
+          "given": "Donald A."
+        },
+        {
+          "family": "Boughey",
+          "given": "Judy C."
+        },
+        {
+          "family": "Buxton",
+          "given": "Meredith B."
+        },
+        {
+          "family": "Chen",
+          "given": "Yunn-Yi"
+        },
+        {
+          "family": "Chen",
+          "given": "Beiyun"
+        },
+        {
+          "family": "Chien",
+          "given": "A. Jo"
+        },
+        {
+          "family": "Chui",
+          "given": "Stephen Y."
+        },
+        {
+          "family": "Clark",
+          "given": "Amy S."
+        },
+        {
+          "family": "Clennell",
+          "given": "Julia L."
+        },
+        {
+          "family": "Datnow",
+          "given": "Brian"
+        },
+        {
+          "family": "DeMichele",
+          "given": "Angela M."
+        },
+        {
+          "family": "Duan",
+          "given": "Xiuzhen"
+        },
+        {
+          "family": "Edmiston",
+          "given": "Kirsten K."
+        },
+        {
+          "family": "Elias",
+          "given": "Anthony D."
+        },
+        {
+          "family": "Ellis",
+          "given": "Erin D."
+        },
+        {
+          "family": "Esserman",
+          "given": "Laura L."
+        },
+        {
+          "family": "Euhus",
+          "given": "David M."
+        },
+        {
+          "family": "Fadare",
+          "given": "Oluwole"
+        },
+        {
+          "family": "Fan",
+          "given": "Fang"
+        },
+        {
+          "family": "Feldman",
+          "given": "Michael D"
+        },
+        {
+          "family": "Forero-Torres",
+          "given": "Andres"
+        },
+        {
+          "family": "Haley",
+          "given": "Barbara B."
+        },
+        {
+          "family": "Han",
+          "given": "Hyo S."
+        },
+        {
+          "family": "Harada",
+          "given": "Shuko"
+        },
+        {
+          "family": "Haugen",
+          "given": "Patricia"
+        },
+        {
+          "family": "Helsten",
+          "given": "Teresa"
+        },
+        {
+          "family": "Hirst",
+          "given": "Gillian L."
+        }
+      ],
+      "year": "2022",
+      "venue": "The Lancet Oncology",
+      "volume": "23",
+      "issue": "1",
+      "pages": "149-160",
+      "doi": "10.1016/s1470-2045(21)00589-1",
+      "url": "https://doi.org/10.1016/s1470-2045(21)00589-1",
+      "doi_source": "zotero",
+      "cited_by_count": 466,
+      "is_oa": true,
+      "oa_url": "http://www.thelancet.com/article/S1470204521005891/pdf",
       "enriched": true
     },
     {
