@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-01T14:20:07+00:00",
+  "generated_at": "2026-11-01T14:09:37+00:00",
   "query_template": "(<author term>) AND (Edinburgh[Affiliation]) AND (<since_year>:<this year>[PDAT])",
   "indexed": {
-    "Web-Publications": 195,
+    "Web-Publications": 205,
     "Review": 1,
-    "Rejected": 187
+    "Rejected": 201
   },
   "counts": {
-    "missing": 35,
+    "missing": 20,
     "version_update": 2,
-    "present": 169
+    "present": 177
   },
   "zotero_write": {
     "enabled": false,
@@ -21,11 +21,11 @@
       "term": "Hall P[Author]",
       "query": "(Hall P[Author]) AND (Edinburgh[Affiliation]) AND (2015:2026[PDAT])",
       "since_year": 2015,
-      "hits": 207,
-      "bound": 141,
-      "present": 129,
+      "hits": 209,
+      "bound": 142,
+      "present": 133,
       "version_update": 1,
-      "missing": 11
+      "missing": 8
     },
     "Mark Stares": {
       "term": "Stares M[Author]",
@@ -71,19 +71,19 @@
       "term": "Tramonti G[Author]",
       "query": "(Tramonti G[Author]) AND (Edinburgh[Affiliation]) AND (2015:2026[PDAT])",
       "since_year": 2015,
-      "hits": 7,
-      "bound": 7,
-      "present": 6,
+      "hits": 8,
+      "bound": 8,
+      "present": 8,
       "version_update": 0,
-      "missing": 1
+      "missing": 0
     },
     "Piyumanga Karunaratne": {
       "term": "Karunaratne P[Author]",
       "query": "(Karunaratne P[Author]) AND (Edinburgh[Affiliation]) AND (2020:2026[PDAT])",
       "since_year": 2020,
-      "hits": 1,
-      "bound": 1,
-      "present": 0,
+      "hits": 2,
+      "bound": 2,
+      "present": 1,
       "version_update": 0,
       "missing": 1
     },
@@ -151,9 +151,9 @@
       "term": "Ng L[Author]",
       "query": "(Ng L[Author]) AND (Edinburgh[Affiliation]) AND (2026:2026[PDAT])",
       "since_year": 2026,
-      "hits": 6,
-      "bound": 5,
-      "present": 0,
+      "hits": 7,
+      "bound": 6,
+      "present": 1,
       "version_update": 0,
       "missing": 5
     },
@@ -161,11 +161,11 @@
       "term": "Vallet M[Author]",
       "query": "(Vallet M[Author]) AND (Edinburgh[Affiliation]) AND (2019:2026[PDAT])",
       "since_year": 2019,
-      "hits": 12,
-      "bound": 11,
-      "present": 9,
+      "hits": 13,
+      "bound": 12,
+      "present": 11,
       "version_update": 1,
-      "missing": 1
+      "missing": 0
     },
     "Marek Atter": {
       "term": "Atter M[Author]",
@@ -173,9 +173,9 @@
       "since_year": 2020,
       "hits": 9,
       "bound": 8,
-      "present": 6,
+      "present": 7,
       "version_update": 1,
-      "missing": 1
+      "missing": 0
     },
     "Elliot Erskine": {
       "term": "Erskine E[Author]",
@@ -199,13 +199,13 @@
     },
     "Iain Phillips": {
       "term": "Phillips I[Author]",
-      "query": "(Phillips I[Author]) AND (Edinburgh[Affiliation]) AND (2020:2026[PDAT])",
-      "since_year": 2020,
-      "hits": 32,
-      "bound": 30,
-      "present": 15,
+      "query": "(Phillips I[Author]) AND (Edinburgh[Affiliation]) AND (2025:2026[PDAT])",
+      "since_year": 2025,
+      "hits": 9,
+      "bound": 9,
+      "present": 8,
       "version_update": 0,
-      "missing": 15
+      "missing": 1
     }
   },
   "findings": [
@@ -244,25 +244,6 @@
       ],
       "matched_authors": [
         "Lauren Ng"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "42209025",
-      "doi": "10.1136/bcr-2025-271346",
-      "title": "ABPM secondary to Saccharomyces cerevisiae mimicking lung cancer in an immunocompetent patient",
-      "year": 2026,
-      "date": "2026 May 27",
-      "venue": "BMJ case reports",
-      "volume": "19",
-      "issue": "5",
-      "pages": "",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
       ],
       "status": "missing"
     },
@@ -361,44 +342,6 @@
       "status": "missing"
     },
     {
-      "pmid": "41628931",
-      "doi": "10.1136/bmjopen-2025-104408",
-      "title": "Protocol for the PROSECCA study: a new approach for predicting radiotherapy outcome using artificial intelligence and electronic population-based healthcare data",
-      "year": 2026,
-      "date": "2026 Feb 02",
-      "venue": "BMJ open",
-      "volume": "16",
-      "issue": "2",
-      "pages": "e104408",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Peter Hall",
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "41560507",
-      "doi": "10.21037/apm-25-103",
-      "title": "The evolving role of radiotherapy in advanced non-small cell lung cancer: beyond symptom control",
-      "year": 2026,
-      "date": "2026 Jan",
-      "venue": "Annals of palliative medicine",
-      "volume": "15",
-      "issue": "1",
-      "pages": "9",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
       "pmid": "41558909",
       "doi": "10.1016/j.crad.2025.107185",
       "title": "IO1-UK: a cross-sectional study to re-evaluate the provision of interventional oncology services across the United Kingdom",
@@ -414,26 +357,6 @@
       ],
       "matched_authors": [
         "Oliver Llewellyn"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "41646217",
-      "doi": "10.1016/j.esmorw.2025.100158",
-      "title": "Association between neoadjuvant paclitaxel dose intensity and outcomes in early triple-negative and HER2-positive breast cancer: a real-world data analysis",
-      "year": 2025,
-      "date": "2025 Sep",
-      "venue": "ESMO real world data and digital oncology",
-      "volume": "9",
-      "issue": "",
-      "pages": "100158",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Peter Hall",
-        "Giovanni Tramonti",
-        "Maheva Vallet"
       ],
       "status": "missing"
     },
@@ -512,64 +435,6 @@
       "status": "missing"
     },
     {
-      "pmid": "38788551",
-      "doi": "10.1016/j.lungcan.2024.107822",
-      "title": "Optimal management of radiation pneumonitis: Findings of an international Delphi consensus study",
-      "year": 2024,
-      "date": "2024 Jun",
-      "venue": "Lung cancer (Amsterdam, Netherlands)",
-      "volume": "192",
-      "issue": "",
-      "pages": "107822",
-      "publication_types": [
-        "Journal Article",
-        "Consensus Statement"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "38738581",
-      "doi": "10.1002/jcsm.13478",
-      "title": "Body weight and composition endpoints in cancer cachexia clinical trials: Systematic Review 4 of the cachexia endpoints series",
-      "year": 2024,
-      "date": "2024 Jun",
-      "venue": "Journal of cachexia, sarcopenia and muscle",
-      "volume": "15",
-      "issue": "3",
-      "pages": "816-852",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "38648995",
-      "doi": "10.1016/j.radonc.2024.110288",
-      "title": "Systematic review of the efficacy of stereotactic ablative radiotherapy for oligoprogressive disease in metastatic cancer",
-      "year": 2024,
-      "date": "2024 Jul",
-      "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
-      "volume": "196",
-      "issue": "",
-      "pages": "110288",
-      "publication_types": [
-        "Systematic Review",
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
       "pmid": "38672590",
       "doi": "10.3390/cancers16081508",
       "title": "Prognostic Biomarkers of Systemic Inflammation in Non-Small Cell Lung Cancer: A Narrative Review of Challenges and Opportunities",
@@ -584,83 +449,7 @@
         "Review"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "38749806",
-      "doi": "10.1016/j.clon.2024.03.016",
-      "title": "Prehabilitation Reduces Hospital Admissions for Patients With Advanced Lung Cancer",
-      "year": 2024,
-      "date": "2024 Jul",
-      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
-      "volume": "36",
-      "issue": "7",
-      "pages": "e242-e243",
-      "publication_types": [
-        "Letter"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "35045981",
-      "doi": "10.1136/bmjspcare-2021-003487",
-      "title": "Early dietitian referral in lung cancer: use of machine learning",
-      "year": 2024,
-      "date": "2024 Feb 21",
-      "venue": "BMJ supportive & palliative care",
-      "volume": "14",
-      "issue": "1",
-      "pages": "56-59",
-      "publication_types": [
-        "Observational Study",
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "38310262",
-      "doi": "10.1186/s12885-024-11905-7",
-      "title": "Single vs. multiple fraction non-inferiority trial of stereotactic ablative radiotherapy for the comprehensive treatment of oligo-metastases/progression: SIMPLIFY-SABR-COMET",
-      "year": 2024,
-      "date": "2024 Feb 03",
-      "venue": "BMC cancer",
-      "volume": "24",
-      "issue": "1",
-      "pages": "171",
-      "publication_types": [
-        "Clinical Trial Protocol",
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "37715095",
-      "doi": "10.1007/s11606-023-08405-y",
-      "title": "Evaluation of Digitalisation in Healthcare and the Quantification of the \"Unmeasurable\"",
-      "year": 2023,
-      "date": "2023 Dec",
-      "venue": "Journal of general internal medicine",
-      "volume": "38",
-      "issue": "16",
-      "pages": "3610-3615",
-      "publication_types": [
-        "Editorial",
-        "Research Support, N.I.H., Extramural"
-      ],
-      "matched_authors": [
-        "Marek Atter"
+        "Mark Stares"
       ],
       "status": "missing"
     },
@@ -680,67 +469,7 @@
         "Comment"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "33563774",
-      "doi": "10.1136/bmjspcare-2020-002838",
-      "title": "Nutritional status and symptom burden in advanced non-small cell lung cancer: results of the dietetic assessment and intervention in lung cancer (DAIL) trial",
-      "year": 2023,
-      "date": "2023 Oct",
-      "venue": "BMJ supportive & palliative care",
-      "volume": "13",
-      "issue": "e1",
-      "pages": "e213-e219",
-      "publication_types": [
-        "Observational Study",
-        "Journal Article"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "35148914",
-      "doi": "10.1016/j.clon.2022.01.041",
-      "title": "In Response to: 'Should We be Offering our Patients with Oligometastases Stereotactic Ablative Body Radiotherapy?' by Ostler et al. and 'Should We be Offering our Patients with Oligometastases Stereotactic Ablative Body Radiotherapy - No' by Macbeth and Hughes-Davies",
-      "year": 2022,
-      "date": "2022 Apr",
-      "venue": "Clinical oncology (Royal College of Radiologists (Great Britain))",
-      "volume": "34",
-      "issue": "4",
-      "pages": "e169-e170",
-      "publication_types": [
-        "Letter",
-        "Comment"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "34902335",
-      "doi": "10.1016/s1470-2045(21)00589-1",
-      "title": "Residual cancer burden after neoadjuvant chemotherapy and long-term survival outcomes in breast cancer: a multicentre pooled analysis of 5161 patients",
-      "year": 2022,
-      "date": "2022 Jan",
-      "venue": "The Lancet. Oncology",
-      "volume": "23",
-      "issue": "1",
-      "pages": "149-160",
-      "publication_types": [
-        "Journal Article",
-        "Multicenter Study",
-        "Research Support, N.I.H., Extramural",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "matched_authors": [
-        "Peter Hall"
+        "Mark Stares"
       ],
       "status": "missing"
     },
@@ -801,26 +530,6 @@
       "matched_authors": [
         "Peter Hall",
         "Colin McLean"
-      ],
-      "status": "missing"
-    },
-    {
-      "pmid": "33181607",
-      "doi": "10.1097/spc.0000000000000525",
-      "title": "Optimising patient fitness: strategies to reduce the effects of cancer cachexia in patients with advanced lung cancer",
-      "year": 2020,
-      "date": "2020 Dec",
-      "venue": "Current opinion in supportive and palliative care",
-      "volume": "14",
-      "issue": "4",
-      "pages": "304-308",
-      "publication_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't",
-        "Review"
-      ],
-      "matched_authors": [
-        "Iain Phillips"
       ],
       "status": "missing"
     },
@@ -937,13 +646,66 @@
       "title_score": 0.944
     },
     {
+      "pmid": "42901538",
+      "doi": "10.3399/bjgpo.2026.0219",
+      "title": "Barriers and enablers to engagement with green social prescribing in primary care: a scoping review using the socio-ecological model",
+      "year": 2026,
+      "date": "2026 Oct 20",
+      "venue": "BJGP open",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Lauren Ng"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "CVD4RSMR",
+        "doi": "10.3399/bjgpo.2026.0219",
+        "title": "Barriers and enablers to engagement with green social prescribing in primary care: a scoping review using the socio-ecological model"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42890484",
+      "doi": "10.1093/noajnl/vdag230",
+      "title": "Does earlier diagnosis and treatment of brain tumors matter? Time-to-treatment intervals and tumor size at detection; impact on survival and other patient outcomes",
+      "year": 2026,
+      "date": "2026",
+      "venue": "Neuro-oncology advances",
+      "volume": "8",
+      "issue": "1",
+      "pages": "vdag230",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti",
+        "Piyumanga Karunaratne",
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "XEDA5H3H",
+        "doi": "10.1093/noajnl/vdag230",
+        "title": "Does earlier diagnosis and treatment of brain tumours matter? Time-to-treatment intervals and tumour size at detection; impact on survival and other patient outcomes"
+      },
+      "title_score": 1.0
+    },
+    {
       "pmid": "42600943",
       "doi": "10.1016/j.radonc.2026.111722",
-      "title": "Understanding retention in radiation oncology: qualitative findings from an international workforce survey",
+      "title": "Understanding retention in radiation oncology: qualitative findings from the Retention Survey by the ESTRO Early Career Committee",
       "year": 2026,
-      "date": "2026 Aug 14",
+      "date": "2026 Nov",
       "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
-      "volume": "",
+      "volume": "224",
       "issue": "",
       "pages": "111722",
       "publication_types": [
@@ -966,13 +728,17 @@
       "doi": "10.1001/jamaoncol.2026.2833",
       "title": "Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer",
       "year": 2026,
-      "date": "2026 Aug 13",
+      "date": "2026 Oct 01",
       "venue": "JAMA oncology",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "12",
+      "issue": "10",
+      "pages": "1098-1106",
       "publication_types": [
-        "Journal Article"
+        "Clinical Trial, Phase II",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
       ],
       "matched_authors": [
         "Peter Hall"
@@ -1044,9 +810,9 @@
       "doi": "10.1016/j.radonc.2026.111721",
       "title": "Understanding retention in radiation oncology: quantitative findings from the retention survey by the ESTRO Early Career Committee",
       "year": 2026,
-      "date": "2026 Aug 05",
+      "date": "2026 Nov",
       "venue": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
-      "volume": "",
+      "volume": "224",
       "issue": "",
       "pages": "111721",
       "publication_types": [
@@ -1069,13 +835,14 @@
       "doi": "10.1038/s41416-026-03519-6",
       "title": "A prospective national precision medicine trial evaluating the feasibility of blood-based molecular profiling in patients with Cancer of Unknown Primary (CUP-COMP)",
       "year": 2026,
-      "date": "2026 Jul 20",
+      "date": "2026 Oct",
       "venue": "British journal of cancer",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "volume": "135",
+      "issue": "8",
+      "pages": "1255-1266",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Multicenter Study"
       ],
       "matched_authors": [
         "Mark Stares"
@@ -1217,6 +984,32 @@
         "key": "ZB2GPBST",
         "doi": "10.1002/pon.70529",
         "title": "Mental Health Outcomes Among Long‐Term Survivors of Childhood, Adolescent and Young Adult Cancer: A Scottish Population‐Based Cohort Study"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "42209025",
+      "doi": "10.1136/bcr-2025-271346",
+      "title": "ABPM secondary to Saccharomyces cerevisiae mimicking lung cancer in an immunocompetent patient",
+      "year": 2026,
+      "date": "2026 May 27",
+      "venue": "BMJ case reports",
+      "volume": "19",
+      "issue": "5",
+      "pages": "",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Rejected",
+        "key": "VH4GSF7K",
+        "doi": "10.1136/bcr-2025-271346",
+        "title": "ABPM secondary to\n                    <i>Saccharomyces cerevisiae</i>\n                    mimicking lung cancer in an immunocompetent patient"
       },
       "title_score": 1.0
     },
@@ -1460,6 +1253,32 @@
       "title_score": 1.0
     },
     {
+      "pmid": "41628931",
+      "doi": "10.1136/bmjopen-2025-104408",
+      "title": "Protocol for the PROSECCA study: a new approach for predicting radiotherapy outcome using artificial intelligence and electronic population-based healthcare data",
+      "year": 2026,
+      "date": "2026 Feb 02",
+      "venue": "BMJ open",
+      "volume": "16",
+      "issue": "2",
+      "pages": "e104408",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "N5KVUXRW",
+        "doi": "10.1136/bmjopen-2025-104408",
+        "title": "Protocol for the PROSECCA study: a new approach for predicting radiotherapy outcome using artificial intelligence and electronic population-based healthcare data"
+      },
+      "title_score": 1.0
+    },
+    {
       "pmid": "41631168",
       "doi": "10.1016/j.lanepe.2025.101585",
       "title": "Comorbidities, medication use, and overall survival in eight cancers: a multinational cohort study of 1.7 million patients across Europe",
@@ -1484,6 +1303,32 @@
         "key": "JF99PF8R",
         "doi": "10.1016/j.lanepe.2025.101585",
         "title": "Comorbidities, medication use, and overall survival in eight cancers: a multinational cohort study of 1.7 million patients across Europe"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "41560507",
+      "doi": "10.21037/apm-25-103",
+      "title": "The evolving role of radiotherapy in advanced non-small cell lung cancer: beyond symptom control",
+      "year": 2026,
+      "date": "2026 Jan",
+      "venue": "Annals of palliative medicine",
+      "volume": "15",
+      "issue": "1",
+      "pages": "9",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "matched_authors": [
+        "Iain Phillips"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "5F7AJ93Z",
+        "doi": "10.21037/apm-25-103",
+        "title": "The evolving role of radiotherapy in advanced non-small cell lung cancer: beyond symptom control"
       },
       "title_score": 1.0
     },
@@ -1802,6 +1647,33 @@
       "title_score": 1.0
     },
     {
+      "pmid": "41646217",
+      "doi": "10.1016/j.esmorw.2025.100158",
+      "title": "Association between neoadjuvant paclitaxel dose intensity and outcomes in early triple-negative and HER2-positive breast cancer: a real-world data analysis",
+      "year": 2025,
+      "date": "2025 Sep",
+      "venue": "ESMO real world data and digital oncology",
+      "volume": "9",
+      "issue": "",
+      "pages": "100158",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "matched_authors": [
+        "Peter Hall",
+        "Giovanni Tramonti",
+        "Maheva Vallet"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "KHSGWCA7",
+        "doi": "10.1016/j.esmorw.2025.100158",
+        "title": "Association between neoadjuvant paclitaxel dose intensity and outcomes in early triple-negative and HER2-positive breast cancer: a real-world data analysis"
+      },
+      "title_score": 1.0
+    },
+    {
       "pmid": "40313120",
       "doi": "10.1158/2159-8290.cd-25-0099",
       "title": "MANIFEST: Multiomic Platform for Cancer Immunotherapy",
@@ -1837,7 +1709,8 @@
       "issue": "1",
       "pages": "59",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "matched_authors": [
         "Peter Hall"
@@ -2160,8 +2033,7 @@
       "matched_authors": [
         "Peter Hall",
         "Mark Stares",
-        "Maheva Vallet",
-        "Iain Phillips"
+        "Maheva Vallet"
       ],
       "status": "present",
       "filed": {
@@ -2211,8 +2083,7 @@
         "Journal Article"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
+        "Mark Stares"
       ],
       "status": "present",
       "filed": {
@@ -2238,8 +2109,7 @@
         "Review"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
+        "Mark Stares"
       ],
       "status": "present",
       "filed": {
@@ -2577,8 +2447,7 @@
       ],
       "matched_authors": [
         "Peter Hall",
-        "Maheva Vallet",
-        "Iain Phillips"
+        "Maheva Vallet"
       ],
       "status": "present",
       "filed": {
@@ -2707,8 +2576,7 @@
         "Journal Article"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
+        "Mark Stares"
       ],
       "status": "present",
       "filed": {
@@ -2822,6 +2690,32 @@
         "key": "BUC4ZUBI",
         "doi": "10.1161/circulationaha.123.064274",
         "title": "Multicenter, Prospective, Randomized Controlled Trial of High-Sensitivity Cardiac Troponin I–Guided Combination Angiotensin Receptor Blockade and Beta-Blocker Therapy to Prevent Anthracycline Cardiotoxicity: The Cardiac CARE Trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "37715095",
+      "doi": "10.1007/s11606-023-08405-y",
+      "title": "Evaluation of Digitalisation in Healthcare and the Quantification of the \"Unmeasurable\"",
+      "year": 2023,
+      "date": "2023 Dec",
+      "venue": "Journal of general internal medicine",
+      "volume": "38",
+      "issue": "16",
+      "pages": "3610-3615",
+      "publication_types": [
+        "Editorial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "matched_authors": [
+        "Marek Atter"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "48UF94FP",
+        "doi": "10.1007/s11606-023-08405-y",
+        "title": "Evaluation of Digitalisation in Healthcare and the Quantification of the “Unmeasurable”"
       },
       "title_score": 1.0
     },
@@ -2944,8 +2838,7 @@
         "Peter Hall",
         "Mark Stares",
         "Giovanni Tramonti",
-        "Maheva Vallet",
-        "Iain Phillips"
+        "Maheva Vallet"
       ],
       "status": "present",
       "filed": {
@@ -2997,8 +2890,7 @@
         "Editorial"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
+        "Mark Stares"
       ],
       "status": "present",
       "filed": {
@@ -3388,8 +3280,7 @@
         "Review"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
+        "Mark Stares"
       ],
       "status": "present",
       "filed": {
@@ -3439,8 +3330,7 @@
         "Journal Article"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
+        "Mark Stares"
       ],
       "status": "present",
       "filed": {
@@ -3502,6 +3392,34 @@
         "key": "CK7Q4JNI",
         "doi": "10.1016/j.jgo.2021.12.009",
         "title": "Frailty and treatment outcome in advanced gastro-oesophageal cancer: An exploratory analysis of the GO2 trial"
+      },
+      "title_score": 1.0
+    },
+    {
+      "pmid": "34902335",
+      "doi": "10.1016/s1470-2045(21)00589-1",
+      "title": "Residual cancer burden after neoadjuvant chemotherapy and long-term survival outcomes in breast cancer: a multicentre pooled analysis of 5161 patients",
+      "year": 2022,
+      "date": "2022 Jan",
+      "venue": "The Lancet. Oncology",
+      "volume": "23",
+      "issue": "1",
+      "pages": "149-160",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "matched_authors": [
+        "Peter Hall"
+      ],
+      "status": "present",
+      "filed": {
+        "collection": "Web-Publications",
+        "key": "F7NA954T",
+        "doi": "10.1016/s1470-2045(21)00589-1",
+        "title": "Residual cancer burden after neoadjuvant chemotherapy and long-term survival outcomes in breast cancer: a multicentre pooled analysis of 5161 patients"
       },
       "title_score": 1.0
     },
@@ -3649,8 +3567,7 @@
         "Journal Article"
       ],
       "matched_authors": [
-        "Mark Stares",
-        "Iain Phillips"
+        "Mark Stares"
       ],
       "status": "present",
       "filed": {
