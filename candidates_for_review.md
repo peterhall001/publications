@@ -2,11 +2,10 @@
 
 > **Warning: no works returned for Piyumanga Karunaratne, Sean Foley, Maxine de Araujo, Oliver Llewellyn, Laura Hewitt, Elliot Erskine, Nick Fethers.** Every configured identifier for these people returned nothing from OpenAlex. That usually means their OpenAlex author entity has no ORCID linked, not that they have not published. Check the authorships of a recent paper in OpenAlex and add an `openalex_id`.
 
-Generated 2026-11-01 13:40 UTC. 1 new this run, 0 possible version updates held back.
+Generated 2026-11-02 16:23 UTC. 0 new this run, 0 possible version updates held back.
 
 Windows scanned: Peter Hall from 2015, Mark Stares from 2020, Elizabeth Lemmon from 2015, Azadeh Abravan from 2026, Sam McInerney from 2025, Giovanni Tramonti from 2015, Piyumanga Karunaratne from 2020, Sean Foley from 2026, Colin McLean from 2021, Maxine de Araujo from 2023, Oliver Llewellyn from 2026, Laura Hewitt from 2026, Nicola Symmers from 2019, Lauren Ng from 2026, Maheva Vallet from 2019, Marek Atter from 2020, Elliot Erskine from 2025, Nick Fethers from 2025, Iain Phillips from 2025.
 
-- **2026** Building Bridges not Barriers: Helping to INTEGRATE the Biomedical Data Science Community — _Zenodo (CERN European Organization for Nuclear Research)_ · [10.5281/zenodo.23799842](https://doi.org/10.5281/zenodo.23799842) · Colin McLean
 
 ## Per-author discovery
 
@@ -22,7 +21,7 @@ Works returned by OpenAlex for each identifier in the scan window. A zero agains
 | Giovanni Tramonti | 2015 | orcid: 10 · openalex_id:A5019431269: 10 | 10 | 0 | 0 |
 | Piyumanga Karunaratne | 2020 | orcid: 0 | 0 | 0 | 0 |
 | Sean Foley | 2026 | orcid: 0 | 0 | 0 | 0 |
-| Colin McLean | 2021 | orcid: 13 | 12 | 1 | 0 |
+| Colin McLean | 2021 | orcid: 13 | 13 | 0 | 0 |
 | Maxine de Araujo | 2023 | orcid: 0 | 0 | 0 | 0 |
 | Oliver Llewellyn | 2026 | orcid: 0 | 0 | 0 | 0 |
 | Laura Hewitt | 2026 | orcid: 0 | 0 | 0 | 0 |

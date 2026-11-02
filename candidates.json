@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:40:17+00:00",
+  "generated_at": "2026-11-02T16:23:09+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,35 +22,8 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2025
   },
-  "count": 1,
-  "candidates": [
-    {
-      "doi": "10.5281/zenodo.23799842",
-      "title": "Building Bridges not Barriers: Helping to INTEGRATE the Biomedical Data Science Community",
-      "year": 2026,
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "cited_by_count": 0,
-      "authors": [
-        "INTEGRATE Project",
-        "Sarah Cadman",
-        "Tanita Casci",
-        "Paul Davies",
-        "Matthew Elliott",
-        "Rachel E. Etherington",
-        "David J. Gavaghan",
-        "Charlotte George",
-        "C. Mclean",
-        "David Sims"
-      ],
-      "metadata_source": "openalex",
-      "matched_authors": [
-        "Colin McLean"
-      ]
-    }
-  ],
+  "count": 0,
+  "candidates": [],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -142,8 +115,8 @@
       "works_by_identifier": {
         "orcid": 13
       },
-      "already_filed": 12,
-      "new_candidates": 1,
+      "already_filed": 13,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Maxine de Araujo": {

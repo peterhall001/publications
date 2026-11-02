@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T13:39:47+00:00",
+  "generated_at": "2026-11-02T16:22:41+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3660"
+    "zotero_library_version": "3661"
   },
   "count": 205,
   "doi_backfilled": 0,
@@ -8501,7 +8501,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 215,
+      "cited_by_count": 216,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -15679,7 +15679,7 @@
       "doi": "10.1093/jnci/djw050",
       "url": "https://doi.org/10.1093/jnci/djw050",
       "doi_source": "zotero",
-      "cited_by_count": 215,
+      "cited_by_count": 216,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/jnci/article-pdf/108/9/djw050/24366498/djw050.pdf",
       "enriched": true
