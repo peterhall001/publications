@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:30:23+00:00",
+  "generated_at": "2026-11-04T14:45:14+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,8 +22,216 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2025
   },
-  "count": 0,
-  "candidates": [],
+  "count": 1,
+  "candidates": [
+    {
+      "doi": "10.1093/eurpub/ckag198",
+      "title": "Patterns and potential indications of WHO AWaRe Watch antibiotic use across UK community and hospital care: a national observational study",
+      "year": 2026,
+      "venue": "European Journal of Public Health",
+      "volume": "36",
+      "issue": "6",
+      "pages": "ckag198",
+      "cited_by_count": 0,
+      "authors": [
+        "Elin J Rowlands",
+        "Cecilia Campanile",
+        "Hiba Junaid",
+        "Jennifer C. E. Lane",
+        "Usama Rahman",
+        "Ben Eaton",
+        "Xavier Luke Griffin",
+        "Andy South",
+        "Ana Cavalcante",
+        "Duncan Cartner",
+        "Steve K. Harris",
+        "Ofran Almossawi",
+        "Lydia Briggs",
+        "Daniel A. Key",
+        "Prasiddha Khadka",
+        "Timothy Howcroft",
+        "Vishnu Chandrabalan",
+        "Peter S Hall",
+        "Mahéva Vallet",
+        "Marta Pasikowska",
+        "Nicola Symmers",
+        "C. Mclean",
+        "Spyro Nita",
+        "Daniel Dedman",
+        "Zara Cuccu",
+        "Stelios Theophanous",
+        "Geoff D. Hall",
+        "Martí Català",
+        "Daniel Prieto‐Alhambra",
+        "Danielle Newby",
+        "Edward Burn"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Peter Hall",
+        "Colin McLean",
+        "Nicola Symmers",
+        "Maheva Vallet"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Elin J",
+          "lastName": "Rowlands"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cecilia",
+          "lastName": "Campanile"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hiba",
+          "lastName": "Junaid"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jennifer C E",
+          "lastName": "Lane"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Usama",
+          "lastName": "Rahman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ben",
+          "lastName": "Eaton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xavier L",
+          "lastName": "Griffin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andy",
+          "lastName": "South"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ana",
+          "lastName": "Cavalcante"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Duncan",
+          "lastName": "Cartner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Harris"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ofran",
+          "lastName": "Almossawi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lydia",
+          "lastName": "Briggs"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Key"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Prasiddha",
+          "lastName": "Khadka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Timothy",
+          "lastName": "Howcroft"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vishnu Vardhan",
+          "lastName": "Chandrabalan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter S",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mahéva",
+          "lastName": "Vallet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marta",
+          "lastName": "Pasikowska"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicola",
+          "lastName": "Symmers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Colin",
+          "lastName": "McLean"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Spyro",
+          "lastName": "Nita"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Dedman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zara",
+          "lastName": "Cuccu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stelios",
+          "lastName": "Theophanous"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Geoff",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Martí",
+          "lastName": "Català"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Prieto Alhambra"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Edward",
+          "lastName": "Burn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Danielle",
+          "lastName": "Newby"
+        }
+      ]
+    }
+  ],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -39,10 +247,10 @@
     "Peter Hall": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 189
+        "orcid": 190
       },
       "already_filed": 189,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Mark Stares": {
@@ -85,10 +293,10 @@
     "Giovanni Tramonti": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 9,
-        "openalex_id:A5019431269": 9
+        "orcid": 10,
+        "openalex_id:A5019431269": 10
       },
-      "already_filed": 9,
+      "already_filed": 10,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -113,10 +321,10 @@
     "Colin McLean": {
       "since_year": 2021,
       "works_by_identifier": {
-        "orcid": 13
+        "orcid": 14
       },
       "already_filed": 13,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Maxine de Araujo": {
@@ -149,10 +357,10 @@
     "Nicola Symmers": {
       "since_year": 2019,
       "works_by_identifier": {
-        "orcid": 1
+        "orcid": 2
       },
       "already_filed": 1,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Lauren Ng": {
@@ -167,10 +375,10 @@
     "Maheva Vallet": {
       "since_year": 2019,
       "works_by_identifier": {
-        "orcid": 17
+        "orcid": 19
       },
-      "already_filed": 17,
-      "new_candidates": 0,
+      "already_filed": 18,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Marek Atter": {
