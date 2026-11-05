@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T14:44:51+00:00",
+  "generated_at": "2026-11-05T14:50:05+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3661"
+    "zotero_library_version": "3666"
   },
-  "count": 205,
+  "count": 206,
   "doi_backfilled": 0,
   "publications": [
     {
@@ -1510,7 +1510,7 @@
       "doi": "10.1007/s10198-025-01800-8",
       "url": "https://doi.org/10.1007/s10198-025-01800-8",
       "doi_source": "zotero",
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s10198-025-01800-8.pdf",
       "enriched": true
@@ -1937,6 +1937,149 @@
       "cited_by_count": 0,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.esmorw.2026.100696",
+      "enriched": true
+    },
+    {
+      "zotero_key": "MIHCQ8PD",
+      "item_type": "journalArticle",
+      "title": "Patterns and potential indications of WHO AWaRe Watch antibiotic use across UK community and hospital care: a national observational study",
+      "authors": [
+        {
+          "family": "Rowlands",
+          "given": "Elin J"
+        },
+        {
+          "family": "Campanile",
+          "given": "Cecilia"
+        },
+        {
+          "family": "Junaid",
+          "given": "Hiba"
+        },
+        {
+          "family": "Lane",
+          "given": "Jennifer C E"
+        },
+        {
+          "family": "Rahman",
+          "given": "Usama"
+        },
+        {
+          "family": "Eaton",
+          "given": "Ben"
+        },
+        {
+          "family": "Griffin",
+          "given": "Xavier L"
+        },
+        {
+          "family": "South",
+          "given": "Andy"
+        },
+        {
+          "family": "Cavalcante",
+          "given": "Ana"
+        },
+        {
+          "family": "Cartner",
+          "given": "Duncan"
+        },
+        {
+          "family": "Harris",
+          "given": "Steve"
+        },
+        {
+          "family": "Almossawi",
+          "given": "Ofran"
+        },
+        {
+          "family": "Briggs",
+          "given": "Lydia"
+        },
+        {
+          "family": "Key",
+          "given": "Daniel"
+        },
+        {
+          "family": "Khadka",
+          "given": "Prasiddha"
+        },
+        {
+          "family": "Howcroft",
+          "given": "Timothy"
+        },
+        {
+          "family": "Chandrabalan",
+          "given": "Vishnu Vardhan"
+        },
+        {
+          "family": "Hall",
+          "given": "Peter S"
+        },
+        {
+          "family": "Vallet",
+          "given": "Mahéva"
+        },
+        {
+          "family": "Pasikowska",
+          "given": "Marta"
+        },
+        {
+          "family": "Symmers",
+          "given": "Nicola"
+        },
+        {
+          "family": "McLean",
+          "given": "Colin"
+        },
+        {
+          "family": "Nita",
+          "given": "Spyro"
+        },
+        {
+          "family": "Dedman",
+          "given": "Daniel"
+        },
+        {
+          "family": "Cuccu",
+          "given": "Zara"
+        },
+        {
+          "family": "Theophanous",
+          "given": "Stelios"
+        },
+        {
+          "family": "Hall",
+          "given": "Geoff"
+        },
+        {
+          "family": "Català",
+          "given": "Martí"
+        },
+        {
+          "family": "Prieto Alhambra",
+          "given": "Daniel"
+        },
+        {
+          "family": "Burn",
+          "given": "Edward"
+        },
+        {
+          "family": "Newby",
+          "given": "Danielle"
+        }
+      ],
+      "year": "2026",
+      "venue": "European Journal of Public Health",
+      "volume": "36",
+      "issue": "6",
+      "pages": "ckag198",
+      "doi": "10.1093/eurpub/ckag198",
+      "url": "https://doi.org/10.1093/eurpub/ckag198",
+      "doi_source": "zotero",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1093/eurpub/ckag198",
       "enriched": true
     },
     {
@@ -2877,7 +3020,7 @@
       "doi_source": "zotero",
       "cited_by_count": 0,
       "is_oa": true,
-      "oa_url": "https://www.research.ed.ac.uk/en/publications/0d3528f0-f668-4d2f-80a7-cfb1b4e6ebba",
+      "oa_url": "https://www.research.ed.ac.uk/files/699765860/OncotypeDx_DiagnosticProfile_final_v1_CMP.pdf",
       "enriched": true
     },
     {
@@ -4280,7 +4423,7 @@
       "doi": "10.1001/jama.2024.23898",
       "url": "https://doi.org/10.1001/jama.2024.23898",
       "doi_source": "zotero",
-      "cited_by_count": 40,
+      "cited_by_count": 41,
       "is_oa": true,
       "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/11603374/bin/jama-e2423898-s001.pdf",
       "enriched": true
@@ -5860,7 +6003,7 @@
       "doi": "10.1016/j.esmoop.2024.103450",
       "url": "https://doi.org/10.1016/j.esmoop.2024.103450",
       "doi_source": "zotero",
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "is_oa": true,
       "oa_url": "http://www.esmoopen.com/article/S2059702924012183/pdf",
       "enriched": true
@@ -7310,7 +7453,7 @@
       "doi": "10.1016/j.annonc.2023.10.001",
       "url": "https://doi.org/10.1016/j.annonc.2023.10.001",
       "doi_source": "zotero",
-      "cited_by_count": 252,
+      "cited_by_count": 253,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753423040188/pdf",
       "enriched": true
@@ -8164,7 +8307,7 @@
       "doi": "10.1001/jamanetworkopen.2023.0490",
       "url": "https://doi.org/10.1001/jamanetworkopen.2023.0490",
       "doi_source": "zotero",
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "is_oa": true,
       "oa_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2801741/goldstein_2023_oi_230033_1676399877.96803.pdf",
       "enriched": true
@@ -8832,7 +8975,7 @@
       "doi": "10.1016/j.annonc.2022.08.083",
       "url": "https://doi.org/10.1016/j.annonc.2022.08.083",
       "doi_source": "zotero",
-      "cited_by_count": 50,
+      "cited_by_count": 55,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422039643/pdf",
       "enriched": true
@@ -15679,7 +15822,7 @@
       "doi": "10.1093/jnci/djw050",
       "url": "https://doi.org/10.1093/jnci/djw050",
       "doi_source": "zotero",
-      "cited_by_count": 212,
+      "cited_by_count": 213,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/jnci/article-pdf/108/9/djw050/24366498/djw050.pdf",
       "enriched": true
@@ -15974,7 +16117,7 @@
       "doi": "10.1056/nejmoa1514493",
       "url": "https://doi.org/10.1056/nejmoa1514493",
       "doi_source": "zotero",
-      "cited_by_count": 635,
+      "cited_by_count": 633,
       "is_oa": true,
       "oa_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1514493?articleTools=true",
       "enriched": true
