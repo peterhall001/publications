@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:50:30+00:00",
+  "generated_at": "2026-11-06T14:28:44+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -85,10 +85,10 @@
     "Giovanni Tramonti": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 10,
-        "openalex_id:A5019431269": 10
+        "orcid": 9,
+        "openalex_id:A5019431269": 9
       },
-      "already_filed": 10,
+      "already_filed": 9,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -167,18 +167,18 @@
     "Maheva Vallet": {
       "since_year": 2019,
       "works_by_identifier": {
-        "orcid": 19
+        "orcid": 18
       },
-      "already_filed": 19,
+      "already_filed": 18,
       "new_candidates": 0,
       "version_updates": 0
     },
     "Marek Atter": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 10
+        "orcid": 8
       },
-      "already_filed": 10,
+      "already_filed": 8,
       "new_candidates": 0,
       "version_updates": 0
     },
