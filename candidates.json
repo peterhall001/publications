@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:43:11+00:00",
+  "generated_at": "2026-11-09T16:42:30+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,8 +22,585 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2025
   },
-  "count": 0,
-  "candidates": [],
+  "count": 8,
+  "candidates": [
+    {
+      "doi": "10.1016/s0167-8140(26)02100-6",
+      "title": "936 A 22-gene idiopathic pulmonary fibrosis–associated signature predicts overall survival in non-small cell lung cancer",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S767-S768",
+      "cited_by_count": 0,
+      "authors": [
+        "Badie Abuzaid",
+        "Ahmed Salem",
+        "Fatima Farhan",
+        "Abdelrahman Masheh",
+        "Mohammad Akash",
+        "Lina Al-Zerikat",
+        "Azadeh Abravan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Badie",
+          "lastName": "Abuzaid"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ahmed",
+          "lastName": "Salem"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fatima",
+          "lastName": "Farhan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abdelrahman Mohammad",
+          "lastName": "Masheh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mohammad",
+          "lastName": "Akash"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lina",
+          "lastName": "Al-Zerikat"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(26)01766-4",
+      "title": "2196 Quantification of vertebral dose-response and bone preservation in pelvic radiotherapy: prospective evidence from RadBone randomised controlled trial",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S446-S447",
+      "cited_by_count": 0,
+      "authors": [
+        "Artemis Bouzaki",
+        "Viktoria Chatzimavridou-Grigoriadou",
+        "Alan McWilliam",
+        "Claire Higham",
+        "Azadeh Abravan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Artemis",
+          "lastName": "Bouzaki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Viktoria",
+          "lastName": "Chatzimavridou-Grigoriadou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "McWilliam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Higham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(26)02169-9",
+      "title": "4167 Is the Internal Target Volume important to control subclinical disease during Stereotactic Ablative Radiotherapy for lung cancer?",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S833-S834",
+      "cited_by_count": 0,
+      "authors": [
+        "Marcel van Herk",
+        "Thomas Hahn",
+        "Jamie S. Partridge",
+        "Alan McWilliam",
+        "Angela Davey",
+        "Azadeh Abravan",
+        "Ursula Nestle",
+        "Corinne Faivre-Finn"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Marcel",
+          "lastName": "van Herk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Hahn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jamie",
+          "lastName": "Partridge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "McWilliam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Angela",
+          "lastName": "Davey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ursula",
+          "lastName": "Nestle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Corinne",
+          "lastName": "Faivre-Finn"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(26)02819-7",
+      "title": "2295 More than half of Radiation Oncology professionals consider leaving their department, but what keeps them from walking away?",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S1444-S1445",
+      "cited_by_count": 0,
+      "authors": [
+        "Dylan Callens",
+        "Jolien Heukelom",
+        "Hanna Alajõe",
+        "Antonio Angrisani",
+        "Nathalie Cnops",
+        "Danielle Fairweather",
+        "Pierfrancesco Franco",
+        "Morten Horsholt Kristensen",
+        "Tiuri Ewout Kroese",
+        "Federico Mastroleo",
+        "Steven Petit",
+        "Daniel Portik",
+        "Bartłomiej Tomasik",
+        "Amanda Webster",
+        "Azadeh Abravan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dylan",
+          "lastName": "Callens"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jolien",
+          "lastName": "Heukelom"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hanna",
+          "lastName": "Alajõe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Antonio",
+          "lastName": "Angrisani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nathalie",
+          "lastName": "Cnops"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Danielle",
+          "lastName": "Fairweather"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pierfrancesco",
+          "lastName": "Franco"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Morten Horsholt",
+          "lastName": "Kristensen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tiuri",
+          "lastName": "Kroese"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Federico",
+          "lastName": "Mastroleo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steven",
+          "lastName": "Petit"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Portik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bartłomiej",
+          "lastName": "Tomasik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amanda",
+          "lastName": "Webster"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(26)02150-x",
+      "title": "3493 Unravelling the interplay of diabetes, medication, and cardiac dose for predicting cardiovascular events after lung cancer radiotherapy",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S816-S817",
+      "cited_by_count": 0,
+      "authors": [
+        "Angela Davey",
+        "Ashley Horne",
+        "Tom Marchant",
+        "Alan McWilliam",
+        "Marcel van Herk",
+        "Corinne Faivre-Finn",
+        "Gareth J. Price",
+        "Azadeh Abravan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Angela",
+          "lastName": "Davey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ashley",
+          "lastName": "Horne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tom",
+          "lastName": "Marchant"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "McWilliam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marcel",
+          "lastName": "van Herk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Corinne",
+          "lastName": "Faivre-Finn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gareth",
+          "lastName": "Price"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(26)03987-3",
+      "title": "1445 Cardiovascular genetic risk predicts survival in thoracic but not non-thoracic cancers",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S2615-S2616",
+      "cited_by_count": 0,
+      "authors": [
+        "Mohammad Akash",
+        "Ahmed Salem",
+        "Fatima Farhan",
+        "Abdelrahman Masheh",
+        "Badie Abuzaid",
+        "Lina Al-Zerikat",
+        "Azadeh Abravan"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mohammad",
+          "lastName": "Akash"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ahmed",
+          "lastName": "Salem"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fatima",
+          "lastName": "Farhan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Abdelrahman Mohammad",
+          "lastName": "Masheh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Badie",
+          "lastName": "Abuzaid"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lina",
+          "lastName": "Al-Zerikat"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(26)02125-0",
+      "title": "2500 Target Trial Emulation of Dose to a Novel Cardiac Avoidance and Cardiac Related Mortality in Lung Radiotherapy",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S791-S792",
+      "cited_by_count": 0,
+      "authors": [
+        "Azadeh Abravan",
+        "Kathryn Banfill",
+        "Alan McWilliam",
+        "Tom Marchant",
+        "Bob Wheller",
+        "Fei Sun",
+        "J. Lilley",
+        "K. Franks",
+        "Corinne Faivre-Finn",
+        "Marcel van Herk"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Azadeh Abravan"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Azadeh",
+          "lastName": "Abravan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathryn",
+          "lastName": "Banfill"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "McWilliam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Marchant"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bob",
+          "lastName": "Wheller"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fei",
+          "lastName": "Sun"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Lilley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Franks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Corinne",
+          "lastName": "Faivre-Finn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marcel",
+          "lastName": "van Herk"
+        }
+      ]
+    },
+    {
+      "doi": "10.1016/s0167-8140(26)02775-1",
+      "title": "2128 Are Clinical Trial Participants Representative of the Head and Neck Cancer Population?",
+      "year": 2026,
+      "venue": "Radiotherapy and Oncology",
+      "volume": "218",
+      "issue": "",
+      "pages": "S1398-S1399",
+      "cited_by_count": 0,
+      "authors": [
+        "Katherine Fair",
+        "Stephanie Anderson",
+        "Craig Smith",
+        "Samuel McInerney",
+        "Adam Peters",
+        "David I Conway",
+        "Derek B. Grose",
+        "Carolynn Lamb",
+        "Stefano Schipani",
+        "Saurabh Vohra",
+        "Christina Wilson",
+        "Claire Paterson"
+      ],
+      "metadata_source": "crossref+openalex",
+      "matched_authors": [
+        "Sam McInerney"
+      ],
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Katherine",
+          "lastName": "Fair"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephanie",
+          "lastName": "Anderson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Craig",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samuel",
+          "lastName": "McInerney"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Peters"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David I",
+          "lastName": "Conway"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Derek",
+          "lastName": "Grose"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carolynn",
+          "lastName": "Lamb"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefano",
+          "lastName": "Schipani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Saurabh",
+          "lastName": "Vohra"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christina",
+          "lastName": "Wilson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claire",
+          "lastName": "Paterson"
+        }
+      ]
+    }
+  ],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -66,20 +643,20 @@
     "Azadeh Abravan": {
       "since_year": 2026,
       "works_by_identifier": {
-        "orcid": 4
+        "orcid": 11
       },
       "already_filed": 4,
-      "new_candidates": 0,
+      "new_candidates": 7,
       "version_updates": 0
     },
     "Sam McInerney": {
       "since_year": 2025,
       "works_by_identifier": {
-        "orcid": 2,
-        "openalex_id:A5011143294": 2
+        "orcid": 3,
+        "openalex_id:A5011143294": 3
       },
       "already_filed": 2,
-      "new_candidates": 0,
+      "new_candidates": 1,
       "version_updates": 0
     },
     "Giovanni Tramonti": {

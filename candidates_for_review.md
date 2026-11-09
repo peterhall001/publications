@@ -2,10 +2,18 @@
 
 > **Warning: no works returned for Piyumanga Karunaratne, Sean Foley, Maxine de Araujo, Oliver Llewellyn, Laura Hewitt, Elliot Erskine, Nick Fethers.** Every configured identifier for these people returned nothing from OpenAlex. That usually means their OpenAlex author entity has no ORCID linked, not that they have not published. Check the authorships of a recent paper in OpenAlex and add an `openalex_id`.
 
-Generated 2026-11-08 13:43 UTC. 0 new this run, 0 possible version updates held back.
+Generated 2026-11-09 16:42 UTC. 8 new this run, 0 possible version updates held back.
 
 Windows scanned: Peter Hall from 2015, Mark Stares from 2020, Elizabeth Lemmon from 2015, Azadeh Abravan from 2026, Sam McInerney from 2025, Giovanni Tramonti from 2015, Piyumanga Karunaratne from 2020, Sean Foley from 2026, Colin McLean from 2021, Maxine de Araujo from 2023, Oliver Llewellyn from 2026, Laura Hewitt from 2026, Nicola Symmers from 2019, Lauren Ng from 2026, Maheva Vallet from 2019, Marek Atter from 2020, Elliot Erskine from 2025, Nick Fethers from 2025, Iain Phillips from 2025.
 
+- **2026** 936 A 22-gene idiopathic pulmonary fibrosis–associated signature predicts overall survival in non-small cell lung cancer — _Radiotherapy and Oncology_ · 218, S767-S768 · [10.1016/s0167-8140(26)02100-6](https://doi.org/10.1016/s0167-8140(26)02100-6) · Azadeh Abravan
+- **2026** 2196 Quantification of vertebral dose-response and bone preservation in pelvic radiotherapy: prospective evidence from RadBone randomised controlled trial — _Radiotherapy and Oncology_ · 218, S446-S447 · [10.1016/s0167-8140(26)01766-4](https://doi.org/10.1016/s0167-8140(26)01766-4) · Azadeh Abravan
+- **2026** 4167 Is the Internal Target Volume important to control subclinical disease during Stereotactic Ablative Radiotherapy for lung cancer? — _Radiotherapy and Oncology_ · 218, S833-S834 · [10.1016/s0167-8140(26)02169-9](https://doi.org/10.1016/s0167-8140(26)02169-9) · Azadeh Abravan
+- **2026** 2295 More than half of Radiation Oncology professionals consider leaving their department, but what keeps them from walking away? — _Radiotherapy and Oncology_ · 218, S1444-S1445 · [10.1016/s0167-8140(26)02819-7](https://doi.org/10.1016/s0167-8140(26)02819-7) · Azadeh Abravan
+- **2026** 3493 Unravelling the interplay of diabetes, medication, and cardiac dose for predicting cardiovascular events after lung cancer radiotherapy — _Radiotherapy and Oncology_ · 218, S816-S817 · [10.1016/s0167-8140(26)02150-x](https://doi.org/10.1016/s0167-8140(26)02150-x) · Azadeh Abravan
+- **2026** 1445 Cardiovascular genetic risk predicts survival in thoracic but not non-thoracic cancers — _Radiotherapy and Oncology_ · 218, S2615-S2616 · [10.1016/s0167-8140(26)03987-3](https://doi.org/10.1016/s0167-8140(26)03987-3) · Azadeh Abravan
+- **2026** 2500 Target Trial Emulation of Dose to a Novel Cardiac Avoidance and Cardiac Related Mortality in Lung Radiotherapy — _Radiotherapy and Oncology_ · 218, S791-S792 · [10.1016/s0167-8140(26)02125-0](https://doi.org/10.1016/s0167-8140(26)02125-0) · Azadeh Abravan
+- **2026** 2128 Are Clinical Trial Participants Representative of the Head and Neck Cancer Population? — _Radiotherapy and Oncology_ · 218, S1398-S1399 · [10.1016/s0167-8140(26)02775-1](https://doi.org/10.1016/s0167-8140(26)02775-1) · Sam McInerney
 
 ## Per-author discovery
 
@@ -16,8 +24,8 @@ Works returned by OpenAlex for each identifier in the scan window. A zero agains
 | Peter Hall | 2015 | orcid: 190 | 190 | 0 | 0 |
 | Mark Stares | 2020 | orcid: 50 | 50 | 0 | 0 |
 | Elizabeth Lemmon | 2015 | orcid: 16 | 16 | 0 | 0 |
-| Azadeh Abravan | 2026 | orcid: 4 | 4 | 0 | 0 |
-| Sam McInerney | 2025 | orcid: 2 · openalex_id:A5011143294: 2 | 2 | 0 | 0 |
+| Azadeh Abravan | 2026 | orcid: 11 | 4 | 7 | 0 |
+| Sam McInerney | 2025 | orcid: 3 · openalex_id:A5011143294: 3 | 2 | 1 | 0 |
 | Giovanni Tramonti | 2015 | orcid: 9 · openalex_id:A5019431269: 9 | 9 | 0 | 0 |
 | Piyumanga Karunaratne | 2020 | orcid: 0 | 0 | 0 | 0 |
 | Sean Foley | 2026 | orcid: 0 | 0 | 0 | 0 |
