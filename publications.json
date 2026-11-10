@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T16:42:11+00:00",
+  "generated_at": "2026-11-10T15:05:35+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3666"
+    "zotero_library_version": "3674"
   },
   "count": 206,
   "doi_backfilled": 0,
@@ -3914,7 +3914,7 @@
       "doi": "10.1038/s41598-025-08785-7",
       "url": "https://doi.org/10.1038/s41598-025-08785-7",
       "doi_source": "zotero",
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "is_oa": true,
       "oa_url": "https://www.nature.com/articles/s41598-025-08785-7.pdf",
       "enriched": true
@@ -6161,7 +6161,7 @@
       "doi": "10.1158/1078-0432.ccr-23-2326",
       "url": "https://doi.org/10.1158/1078-0432.ccr-23-2326",
       "doi_source": "zotero",
-      "cited_by_count": 56,
+      "cited_by_count": 58,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-23-2326/3390741/ccr-23-2326.pdf",
       "enriched": true
@@ -6911,7 +6911,7 @@
       "doi": "10.1136/bmjopen-2023-076798",
       "url": "https://doi.org/10.1136/bmjopen-2023-076798",
       "doi_source": "zotero",
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "is_oa": true,
       "oa_url": "https://bmjopen.bmj.com/content/bmjopen/14/4/e076798.full.pdf",
       "enriched": true
@@ -7967,7 +7967,7 @@
       "doi": "10.3390/cancers15235502",
       "url": "https://doi.org/10.3390/cancers15235502",
       "doi_source": "zotero",
-      "cited_by_count": 17,
+      "cited_by_count": 18,
       "is_oa": true,
       "oa_url": "https://www.mdpi.com/2072-6694/15/23/5502/pdf?version=1700564980",
       "enriched": true
@@ -8240,7 +8240,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 95,
+      "cited_by_count": 96,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -10989,7 +10989,7 @@
       "doi": "10.1016/s1474-4422(21)00264-7",
       "url": "https://doi.org/10.1016/s1474-4422(21)00264-7",
       "doi_source": "zotero",
-      "cited_by_count": 121,
+      "cited_by_count": 122,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1474442221002647/pdf",
       "enriched": true
