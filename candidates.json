@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:10:12+00:00",
+  "generated_at": "2026-11-16T16:12:34+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,241 +22,8 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2025
   },
-  "count": 1,
-  "candidates": [
-    {
-      "doi": "10.1002/pds.70526",
-      "title": "<scp>HEalth</scp>\n                    Data Research\n                    <scp>OMOP</scp>\n                    Network (\n                    <scp>HERON</scp>\n                    ‐\n                    <scp>UK</scp>\n                    ), A Real‐World Evidence Federated Network of Hospital and Primary Care Electronic Health Records Including 57 Million Individuals and 7 Data Partners in the United Kingdom",
-      "year": 2026,
-      "venue": "Pharmacoepidemiology and Drug Safety",
-      "volume": "35",
-      "issue": "11",
-      "pages": "e70526",
-      "cited_by_count": 0,
-      "authors": [
-        "Cecilia Campanile",
-        "Alex E. Knight",
-        "Hiba Junaid",
-        "Jennifer C. E. Lane",
-        "Usama Rahman",
-        "Ben Eaton",
-        "Xavier Luke Griffin",
-        "Andy South",
-        "Ana Cavalcante",
-        "Stefan Piatek",
-        "Baptiste Briot Ribeyre",
-        "Steve Harris",
-        "Timothy Howcroft",
-        "Vishnu Chandrabalan",
-        "Peter S. Hall",
-        "Mahéva Vallet",
-        "Marta Pasikowska",
-        "Nicola Symmers",
-        "C. Mclean",
-        "Spyro Nita",
-        "Daniel Dedman",
-        "Zara Cuccu",
-        "Stelios Theophanous",
-        "Geoff Hall",
-        "Edward Bolton",
-        "Shiren Patel",
-        "Daniel A. Key",
-        "Lydia Briggs",
-        "Prasiddha Khadka",
-        "David Seymour",
-        "Elin Rowlands",
-        "Danielle Newby",
-        "Daniel Prieto‐Alhambra",
-        "Edward Burn",
-        "Martí Català",
-        "Daniel Prieto Alhambra"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Peter Hall",
-        "Colin McLean",
-        "Nicola Symmers",
-        "Maheva Vallet"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Cecilia",
-          "lastName": "Campanile"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Alex E.",
-          "lastName": "Knight"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Hiba",
-          "lastName": "Junaid"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jennifer C. E.",
-          "lastName": "Lane"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Usama",
-          "lastName": "Rahman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ben",
-          "lastName": "Eaton"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Xavier L.",
-          "lastName": "Griffin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andy",
-          "lastName": "South"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ana",
-          "lastName": "Cavalcante"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Stefan",
-          "lastName": "Piatek"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Baptiste",
-          "lastName": "Briot Ribeyre"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Steve",
-          "lastName": "Harris"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Timothy",
-          "lastName": "Howcroft"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Vishnu",
-          "lastName": "Chandrabalan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Peter S.",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mahéva",
-          "lastName": "Vallet"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Marta",
-          "lastName": "Pasikowska"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Nicola",
-          "lastName": "Symmers"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Colin",
-          "lastName": "McLean"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Spyro",
-          "lastName": "Nita"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel",
-          "lastName": "Dedman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Zara",
-          "lastName": "Cuccu"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Stelios",
-          "lastName": "Theophanous"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Geoff",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Edward",
-          "lastName": "Bolton"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Shiren",
-          "lastName": "Patel"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel",
-          "lastName": "Key"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lydia",
-          "lastName": "Briggs"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Prasiddha",
-          "lastName": "Khadka"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "David",
-          "lastName": "Seymour"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Elin",
-          "lastName": "Rowlands"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Danielle",
-          "lastName": "Newby"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel",
-          "lastName": "Prieto‐Alhambra"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Edward",
-          "lastName": "Burn"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Martí",
-          "lastName": "Català"
-        }
-      ]
-    }
-  ],
+  "count": 0,
+  "candidates": [],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -274,16 +41,16 @@
       "works_by_identifier": {
         "orcid": 191
       },
-      "already_filed": 190,
-      "new_candidates": 1,
+      "already_filed": 191,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Mark Stares": {
       "since_year": 2020,
       "works_by_identifier": {
-        "orcid": 50
+        "orcid": 49
       },
-      "already_filed": 50,
+      "already_filed": 49,
       "new_candidates": 0,
       "version_updates": 0
     },
@@ -348,8 +115,8 @@
       "works_by_identifier": {
         "orcid": 15
       },
-      "already_filed": 14,
-      "new_candidates": 1,
+      "already_filed": 15,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Maxine de Araujo": {
@@ -384,8 +151,8 @@
       "works_by_identifier": {
         "orcid": 3
       },
-      "already_filed": 2,
-      "new_candidates": 1,
+      "already_filed": 3,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Lauren Ng": {
@@ -402,8 +169,8 @@
       "works_by_identifier": {
         "orcid": 19
       },
-      "already_filed": 18,
-      "new_candidates": 1,
+      "already_filed": 19,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Marek Atter": {
