@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T16:18:56+00:00",
+  "generated_at": "2026-11-18T15:52:17+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
@@ -9446,7 +9446,7 @@
       "doi_source": "zotero",
       "cited_by_count": 2,
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/s2214-109x(22)00142-5",
+      "oa_url": "http://www.thelancet.com/article/S2214109X22001425/pdf",
       "enriched": true
     },
     {
@@ -10307,7 +10307,7 @@
       "doi": "10.1016/s1470-2045(21)00589-1",
       "url": "https://doi.org/10.1016/s1470-2045(21)00589-1",
       "doi_source": "zotero",
-      "cited_by_count": 575,
+      "cited_by_count": 577,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1470204521005891/pdf",
       "enriched": true
@@ -13576,7 +13576,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 315,
+      "cited_by_count": 316,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
@@ -15153,7 +15153,7 @@
       "doi_source": "zotero",
       "cited_by_count": 34,
       "is_oa": true,
-      "oa_url": "https://nbn-resolving.org/urn:nbn:de:hbz:464-20191209-180056-4",
+      "oa_url": "https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00070931/CINCH_Series_2018_02.pdf",
       "enriched": true
     },
     {
@@ -15796,7 +15796,7 @@
       "doi": "10.1016/j.jval.2017.04.021",
       "url": "https://doi.org/10.1016/j.jval.2017.04.021",
       "doi_source": "zotero",
-      "cited_by_count": 55,
+      "cited_by_count": 56,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.jval.2017.04.021",
       "enriched": true
@@ -15981,7 +15981,7 @@
       "doi": "10.1093/jnci/djw050",
       "url": "https://doi.org/10.1093/jnci/djw050",
       "doi_source": "zotero",
-      "cited_by_count": 231,
+      "cited_by_count": 232,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/jnci/article-pdf/108/9/djw050/24366498/djw050.pdf",
       "enriched": true
