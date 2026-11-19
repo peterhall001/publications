@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:52:46+00:00",
+  "generated_at": "2026-11-19T15:56:38+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -113,9 +113,9 @@
     "Colin McLean": {
       "since_year": 2021,
       "works_by_identifier": {
-        "orcid": 15
+        "orcid": 13
       },
-      "already_filed": 15,
+      "already_filed": 13,
       "new_candidates": 0,
       "version_updates": 0
     },
