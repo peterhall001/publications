@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:01:28+00:00",
+  "generated_at": "2026-11-25T17:28:44+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -39,9 +39,9 @@
     "Peter Hall": {
       "since_year": 2015,
       "works_by_identifier": {
-        "orcid": 192
+        "orcid": 190
       },
-      "already_filed": 192,
+      "already_filed": 190,
       "new_candidates": 0,
       "version_updates": 0
     },
