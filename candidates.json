@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:09:53+00:00",
+  "generated_at": "2026-11-27T16:52:52+00:00",
   "default_since_year": 2015,
   "author_windows": {
     "Peter Hall": 2015,
@@ -22,285 +22,8 @@
     "Nick Fethers": 2025,
     "Iain Phillips": 2025
   },
-  "count": 4,
-  "candidates": [
-    {
-      "doi": "10.1016/j.annonc.2026.08.3940",
-      "title": "3688eP Real-world evidence of first-line cabozantinib and nivolumab in advanced renal cell carcinoma: A multicentre experience from the United Kingdom",
-      "year": 2026,
-      "venue": "Annals of Oncology",
-      "volume": "37",
-      "issue": "",
-      "pages": "S1940",
-      "cited_by_count": 0,
-      "authors": [
-        "I. Ewart",
-        "Jack Leach",
-        "J.M. Malik",
-        "J.L.E. Allison",
-        "Mark Stares",
-        "C. Forde",
-        "S Buchanan",
-        "Ruba Ahmed Hamed",
-        "A.J. Clayton",
-        "Rhona Margaret McMenemin",
-        "M. Randhawa",
-        "Bhuvarahamurthy Venugopal"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Mark Stares"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "I.",
-          "lastName": "Ewart"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.",
-          "lastName": "Leach"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.M.",
-          "lastName": "Malik"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.L.E.",
-          "lastName": "Allison"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M.",
-          "lastName": "Stares"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Forde"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S.",
-          "lastName": "Buchanan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "R.",
-          "lastName": "Hamed"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A.J.",
-          "lastName": "Clayton"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "R.",
-          "lastName": "McMenemin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M.",
-          "lastName": "Randhawa"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "B.",
-          "lastName": "Venugopal"
-        }
-      ]
-    },
-    {
-      "doi": "10.1016/j.annonc.2026.08.1475",
-      "title": "4945eP Ethnic and socioeconomic inequalities in survival after breast cancer: Intersectional analysis of linked Scottish census and registry data",
-      "year": 2026,
-      "venue": "Annals of Oncology",
-      "volume": "37",
-      "issue": "",
-      "pages": "S2433",
-      "cited_by_count": 0,
-      "authors": [
-        "T.R. Nash",
-        "C. Mclean",
-        "Elizabeth Lemmon",
-        "V. Katikireddi",
-        "P.S. Hall"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Elizabeth Lemmon"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "T.R.",
-          "lastName": "Nash"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Mclean"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "E.",
-          "lastName": "Lemmon"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "V.",
-          "lastName": "Katikireddi"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P.S.",
-          "lastName": "Hall"
-        }
-      ]
-    },
-    {
-      "doi": "10.1016/j.ijrobp.2026.06.1831",
-      "title": "Imaging Biomarkers for Early Detection, Monitoring and Prediction of Radiotherapy-Related Side Effects – A Scoping Review",
-      "year": 2026,
-      "venue": "International Journal of Radiation Oncology*Biology*Physics",
-      "volume": "126",
-      "issue": "1",
-      "pages": "e536-e537",
-      "cited_by_count": 0,
-      "authors": [
-        "Natalie A. West",
-        "Eliana Gioscio",
-        "Azadeh Abravan",
-        "Jane Shortall",
-        "Giulia Rambaldi Guidasci",
-        "Vanessa Panettieri",
-        "David P. Farris",
-        "Peter van Luijk",
-        "C.D. Fuller",
-        "C. Fiorino",
-        "Robert Jeraj",
-        "T. Rancati",
-        "Laia Humbert‐Vidan"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Azadeh Abravan"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "N.A.",
-          "lastName": "West"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "E.",
-          "lastName": "Gioscio"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "A.",
-          "lastName": "Abravan"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "J.",
-          "lastName": "Shortall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "G.",
-          "lastName": "Rambaldi Guidasci"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "V.",
-          "lastName": "Panettieri"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "D.",
-          "lastName": "Farris"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "P.",
-          "lastName": "van Luijk"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.D.",
-          "lastName": "Fuller"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "C.",
-          "lastName": "Fiorino"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "R.",
-          "lastName": "Jeraj"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "T.",
-          "lastName": "Rancati"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "L.",
-          "lastName": "Humbert-Vidan"
-        }
-      ]
-    },
-    {
-      "doi": "10.1016/j.annonc.2026.08.3604",
-      "title": "3351P Can routine electronic health records support outcomes-based pricing for cancer medicines? A validation study in non-Hodgkin lymphoma",
-      "year": 2026,
-      "venue": "Annals of Oncology",
-      "volume": "37",
-      "issue": "",
-      "pages": "S1807",
-      "cited_by_count": 0,
-      "authors": [
-        "P.S. Hall",
-        "Giovanni Tramonti",
-        "M. Vallet",
-        "V. Campbell"
-      ],
-      "metadata_source": "crossref+openalex",
-      "matched_authors": [
-        "Giovanni Tramonti"
-      ],
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "P.S.",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "G.",
-          "lastName": "Tramonti"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M.",
-          "lastName": "Vallet"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "V.",
-          "lastName": "Campbell"
-        }
-      ]
-    }
-  ],
+  "count": 0,
+  "candidates": [],
   "version_update_count": 0,
   "version_updates": [],
   "authors_with_no_works": [
@@ -327,8 +50,8 @@
       "works_by_identifier": {
         "orcid": 50
       },
-      "already_filed": 49,
-      "new_candidates": 1,
+      "already_filed": 50,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Elizabeth Lemmon": {
@@ -336,8 +59,8 @@
       "works_by_identifier": {
         "orcid": 17
       },
-      "already_filed": 16,
-      "new_candidates": 1,
+      "already_filed": 17,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Azadeh Abravan": {
@@ -345,8 +68,8 @@
       "works_by_identifier": {
         "orcid": 12
       },
-      "already_filed": 11,
-      "new_candidates": 1,
+      "already_filed": 12,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Sam McInerney": {
@@ -365,8 +88,8 @@
         "orcid": 10,
         "openalex_id:A5019431269": 10
       },
-      "already_filed": 9,
-      "new_candidates": 1,
+      "already_filed": 10,
+      "new_candidates": 0,
       "version_updates": 0
     },
     "Piyumanga Karunaratne": {

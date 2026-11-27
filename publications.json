@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T17:09:31+00:00",
+  "generated_at": "2026-11-27T16:52:27+00:00",
   "source": {
     "zotero_group": "4536042",
     "zotero_collection": "X3G67CXM",
-    "zotero_library_version": "3693"
+    "zotero_library_version": "3697"
   },
   "count": 207,
   "doi_backfilled": 0,
@@ -4124,7 +4124,7 @@
       "doi": "10.1186/s13058-025-02012-x",
       "url": "https://doi.org/10.1186/s13058-025-02012-x",
       "doi_source": "zotero",
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "is_oa": true,
       "oa_url": "https://breast-cancer-research.biomedcentral.com/counter/pdf/10.1186/s13058-025-02012-x",
       "enriched": true
@@ -4582,7 +4582,7 @@
       "doi": "10.1001/jama.2024.23898",
       "url": "https://doi.org/10.1001/jama.2024.23898",
       "doi_source": "zotero",
-      "cited_by_count": 52,
+      "cited_by_count": 53,
       "is_oa": true,
       "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/11603374/bin/jama-e2423898-s001.pdf",
       "enriched": true
@@ -5407,7 +5407,7 @@
       "doi": "10.1016/s2213-2600(25)00205-x",
       "url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
       "doi_source": "zotero",
-      "cited_by_count": 15,
+      "cited_by_count": 16,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/s2213-2600(25)00205-x",
       "enriched": true
@@ -6320,7 +6320,7 @@
       "doi": "10.1158/1078-0432.ccr-23-2326",
       "url": "https://doi.org/10.1158/1078-0432.ccr-23-2326",
       "doi_source": "zotero",
-      "cited_by_count": 63,
+      "cited_by_count": 64,
       "is_oa": true,
       "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-23-2326/3390741/ccr-23-2326.pdf",
       "enriched": true
@@ -8399,7 +8399,7 @@
       "doi": "10.1161/circulationaha.123.064274",
       "url": "https://doi.org/10.1161/circulationaha.123.064274",
       "doi_source": "zotero",
-      "cited_by_count": 112,
+      "cited_by_count": 114,
       "is_oa": true,
       "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.123.064274",
       "enriched": true
@@ -8803,7 +8803,7 @@
       "doi": "10.1016/j.annonc.2022.11.005",
       "url": "https://doi.org/10.1016/j.annonc.2022.11.005",
       "doi_source": "zotero",
-      "cited_by_count": 247,
+      "cited_by_count": 249,
       "is_oa": true,
       "oa_url": "http://www.annalsofoncology.org/article/S0923753422047354/pdf",
       "enriched": true
@@ -8898,7 +8898,7 @@
       "doi": "10.1093/oncolo/oyac257",
       "url": "https://doi.org/10.1093/oncolo/oyac257",
       "doi_source": "zotero",
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "is_oa": true,
       "oa_url": "https://academic.oup.com/oncolo/article-pdf/28/3/e145/49547338/oyac257.pdf",
       "enriched": true
@@ -9393,7 +9393,7 @@
       "doi": "10.1016/j.clon.2021.11.009",
       "url": "https://doi.org/10.1016/j.clon.2021.11.009",
       "doi_source": "zotero",
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "is_oa": true,
       "oa_url": "https://hdl.handle.net/20.500.11820/189786ce-bc14-4502-9252-c1dc743cdb08",
       "enriched": true
@@ -9942,7 +9942,7 @@
       "doi": "10.31083/j.fbl2704129",
       "url": "https://doi.org/10.31083/j.fbl2704129",
       "doi_source": "zotero",
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "is_oa": true,
       "oa_url": "https://www.imrpress.com/journal/FBL/27/4/10.31083/j.fbl2704129/pdf",
       "enriched": true
@@ -10307,7 +10307,7 @@
       "doi": "10.1016/s1470-2045(21)00589-1",
       "url": "https://doi.org/10.1016/s1470-2045(21)00589-1",
       "doi_source": "zotero",
-      "cited_by_count": 594,
+      "cited_by_count": 596,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S1470204521005891/pdf",
       "enriched": true
@@ -13576,7 +13576,7 @@
       "doi": "10.1016/s0140-6736(19)30650-6",
       "url": "https://doi.org/10.1016/s0140-6736(19)30650-6",
       "doi_source": "zotero",
-      "cited_by_count": 319,
+      "cited_by_count": 320,
       "is_oa": true,
       "oa_url": "http://www.thelancet.com/article/S0140673619306506/pdf",
       "enriched": true
